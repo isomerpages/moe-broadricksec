@@ -2,8 +2,8 @@ collections:
   school:
     output: true
     order:
-      - Corporate Video.md
       - Principal’s Message.md
       - Vision Mission Values.md
       - About Us.md
       - Staff Information.md
+      - Corporate Video.md
