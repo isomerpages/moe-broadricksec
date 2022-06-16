@@ -2,7 +2,6 @@ collections:
   school:
     output: true
     order:
-      - Contact Us.md
       - Principal’s Message.md
       - Vision Mission Values.md
       - About Us.md
@@ -10,3 +9,4 @@ collections:
       - Corporate Video.md
       - Our Heritage.md
       - Broadrician Outcomes.md
+      - Contact Us.md
