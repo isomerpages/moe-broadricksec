@@ -2,7 +2,7 @@ logo: /images/school flag1.jpg
 links:
   - title: School
     collection: school
-  - title: Resources
-    resource_room: true
   - title: Departments
     collection: departments
+  - title: Resources
+    resource_room: true
