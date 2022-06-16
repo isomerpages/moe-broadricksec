@@ -13,12 +13,12 @@ The Talent Management Programme is the department’s signature programme where 
 
 <figure>
 <img src="images/eng1.jpg"
-		 style="width:90%">
+		 style="width:80%">
 <figcaption> <strong> Students from EL Talent Management Programme performing their interpretation of Shakespeare's Macbeth </strong> </figcaption>
 </figure>
 
 <figure>
 <img src="/images/eng2.jpg"
-		 style="width:90%">
+		 style="width:80%">
 <figcaption> <strong> Using ICT to engage students </strong> </figcaption>
 </figure>
