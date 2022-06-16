@@ -60,5 +60,7 @@ The D&T Unit also supports the Broadrick Digital Intelligence (DI) Programme in 
 * **Learning Journey to East Zone Center of Excellence** <br>
 The D&T Unit organises an annual learning journey to the East Zone Center of Excellence to enrich students’ learning experience in D&T.
 
+<p> </p>
+
 * **Coaching Students from Partner School in the Application of Design Thinking** <br>
 Students from the Upper Secondary level have the opportunity to coach and mentor a group of Primary Five students from Haig Girls Primary School on how to make use of the Design Thinking process to identify and solve authentic problems.
