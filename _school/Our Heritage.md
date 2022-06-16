@@ -104,3 +104,13 @@ Opened for public use in 1973, Old Airport Road Food Centre is one of the oldest
 </figure>
 
 The former Kallang Airport was Singapore's first purpose-built civil airport and was opened by Sir Shenton Thomas on 12 June 1937. Touted as one of the most modern airports of its time, it was described as “the finest airport in the British Empire”. The airport ceased operations when the new Paya Lebar Airport opened in 1955. However, the airport building continued to be used by various groups such as the Singapore Youth Sports Council, People’s Association and Public Works Department. In 2008, the building was gazetted for conservation by the Urban Redevelopment Authority. It was later used as one of the main venues for the 2011 Singapore Biennale.
+
+**Old National Stadium**  
+  
+<figure>
+<img src="/images/Heritage%2011%20Old%20Kallang%20Stadium.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Ministry of Information and the Arts Collection, <br> Courtesy of National Archives of Singapore </strong> </figcaption>
+</figure>
+
+The old National Stadium was opened by then Prime Minister Lee Kuan Yew on 21 July 1973. With a seating capacity of 50,000 and equipped with a 400-metre eight-lane synthetic track and many other facilities, the stadium was one of the best in Southeast Asia then. It was the hosting venue for the nation’s National Day Parades (NDP) and had hosted 18 NDPs from the time of its opening to its official closure on 30 June 2007. It was also a venue for many sports, cultural and entertainment events such as the 1983 and 1993 Southeast Asian (SEA) Games, Malaysia Cup football matches, Singapore Youth Festival’s opening ceremonies and concerts of popular artistes. Prime Minister, Lee Hsien Loong, opened the Sports Hub during the MOE and MCCY-led Youth Day event called Youth Celebrate! on Sunday, 26 July 2015.
