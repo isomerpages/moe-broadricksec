@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Crest
 <img src="/images/school%20flag1.jpg" 
-     style="width:60%">
+     style="width:45%">
 
 The School Crest reflects the school colours. The cogwheel in the centre symbolises the school’s continuous strive for progress and development as it undertakes its mission to educate; the basic aim is represented by the open book. The torch represents our students’ commitment to life-long learning. The four rings reflect the multi-racial composition of the school community as it grows, learns and develop together as one united community. The concept of the school as a family is reinforced by the four inter-twinning rings.
 
