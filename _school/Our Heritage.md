@@ -30,7 +30,7 @@ At the time of writing, Tian Kee at Block 12 Dakota Crescent served as a cosy ca
 		 		 style="width:80%">
 <figcaption> <strong> Singapore-bound R.A.A.F. <br>
 Dakota transport planes receive a final check at the R.A.A.F's
-most westerly Pacific base, Labuan Island, Image note H99.200/624 <br> Courtesy of Argus Newspaper Collection of Photographs, State Library of Victoria </strong> </figcaption>
+most westerly Pacific base, <br> Labuan Island, Image note H99.200/624 <br> Courtesy of Argus Newspaper Collection of Photographs, State Library of Victoria </strong> </figcaption>
 </figure>
 
 The roads, Dakota Close and Dakota Crescent, located in the former Singapore Improvement Trust estate at the Old Kallang Airport, were given their names in 1957. These were named after the famous all-metal passenger aircraft of the 1930s, the Douglas DC-3, or Dakota. Dakota Crescent, off Old Airport Road, was part of the Kallang Airport.
