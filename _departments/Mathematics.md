@@ -30,11 +30,13 @@ The Mathematics Department designs level enrichment programmes, catering to the 
 | | |
 
 <figure>  
-<img src="/images/maths1.jpg">  
+<img src="/images/maths1.jpg"
+		 style="width:90%">
 <figcaption> <strong> Assesment for Learning (AFL) in the classroom </strong> </figcaption>  
 </figure>
 
 <figure>  
-<img src="/images/maths2.jpg">  
+<img src="/images/maths2.jpg"
+		 style="width:90%">
 <figcaption> <strong> Students holding the models they made on Math Discovery Day </strong> </figcaption>  
 </figure>
