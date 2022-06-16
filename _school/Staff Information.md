@@ -11,7 +11,7 @@ description: ""
 
 | HODs, SHs, STs and LTs |  |
 |---|---|
-| **School Staff Developer** <br> <br> <br> Mrs. Rema Raj <br> [rema\_devi@moe.edu.sg](mailto:rema_devi@moe.edu.sg) | **HOD Student Management** <br> <br> <br> Mr. Mok Chan Thong  <br> [mok\_chan\_thong@moe.edu.sg](mailto:mok_chan_thong@moe.edu.sg) |
+| **School Staff Developer** <br> <br> Mrs. Rema Raj <br> [rema\_devi@moe.edu.sg](mailto:rema_devi@moe.edu.sg) | **HOD Student Management** <br> <br> Mr. Mok Chan Thong  <br> [mok\_chan\_thong@moe.edu.sg](mailto:mok_chan_thong@moe.edu.sg) |
 | **HOD Character and Citizenship Education** <br> <br> Mr. Ong Ken Yong  <br>[ong\_ken\_yong@moe.edu.sg](mailto:ong_ken_yong@moe.edu.sg) | **HOD Craft & Technology** <br> <br> Mr Lee Choon Kiat Jonathan  <br> [lee\_choon\_kiat\_jonathan@moe.edu.sg](mailto:lee_choon_kiat_jonathan@moe.edu.sg) <br> |
 | **HOD English** <br> <br> Mdm Wong Yuet Ching Caroline <br> [wong\_yuet\_ching\_caroline@moe.edu.sg](mailto:wong_yuet_ching_caroline@moe.edu.sg) | **HOD Humanities** <br> <br> Mrs. Susan Poh <br> [tan\_susan@moe.edu.sg](mailto:tan_susan@moe.edu.sg) |
 | **HOD Information Communication Technology** <br> <br> Mr Lim Shi Hao <br> [lim\_shi\_hao@moe.edu.sg](mailto:lim_shi_hao@moe.edu.sg) | **HOD Mother Tongue Language** <br> <br> Ms Ester Khaw Heng Sean <br> [khaw\_heng\_sean@moe.edu.sg](mailto:khaw_heng_sean@moe.edu.sg) |
