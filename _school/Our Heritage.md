@@ -94,3 +94,13 @@ The People’s Association (PA) was established on 1 July 1960 and one of its ob
 </figure>
 
 Opened for public use in 1973, Old Airport Road Food Centre is one of the oldest, largest, and most popular hawker centres in Singapore. The renowned food centre is famous for its delicious yet reasonably-priced local fare. For more than thirty years, it has helped to satisfy the gastronomical cravings of our country’s food-crazy populace.
+
+**Old Kallang Airport**  
+  
+<figure>
+<img src="/images/Heritage%2010%20Old%20Kallang%20Airport.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+The former Kallang Airport was Singapore's first purpose-built civil airport and was opened by Sir Shenton Thomas on 12 June 1937. Touted as one of the most modern airports of its time, it was described as “the finest airport in the British Empire”. The airport ceased operations when the new Paya Lebar Airport opened in 1955. However, the airport building continued to be used by various groups such as the Singapore Youth Sports Council, People’s Association and Public Works Department. In 2008, the building was gazetted for conservation by the Urban Redevelopment Authority. It was later used as one of the main venues for the 2011 Singapore Biennale.
