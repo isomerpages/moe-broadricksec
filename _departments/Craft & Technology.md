@@ -98,7 +98,8 @@ The NFS unit collaborated with Chef-in-Box (JR Vending) to promote a greater awa
 * **Upper Secondary – Food Science and Sensory Evaluation workshop** <br>
 Secondary Three Express students attend a 3-hour workshop in Temasek Polytechnic (School of Applied Sciences) to discover more about common food starches. They experimente with different food starches and observe its thickening and freezing properties under different conditions. They also conduct a sensory evaluation of the various starch formulations in the sensory evaluation room.
 
-![](/images/fce4.jpg)
+<img src="/images/fce4.jpg" 
+     style="width:70%">
 
 <p> </p>
 
