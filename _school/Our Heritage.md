@@ -34,3 +34,13 @@ most westerly Pacific base, Labuan Island, Image note H99.200/624 <br> Courtesy 
 </figure>
 
 The roads, Dakota Close and Dakota Crescent, located in the former Singapore Improvement Trust estate at the Old Kallang Airport, were given their names in 1957. These were named after the famous all-metal passenger aircraft of the 1930s, the Douglas DC-3, or Dakota. Dakota Crescent, off Old Airport Road, was part of the Kallang Airport.
+
+**Geylang River**  
+  
+<figure>
+<img src="/images/Heritage%2004%20Geylang%20River.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Courtesy of National Archives of Singapore </strong> </figcaption>
+</figure>
+  
+One of Singapore’s oldest rivers, the Geylang River cuts through Mountbatten into the Tanjong Katong area. The mouth of the river was once a bustling area of firewood trading. Neighbourhood children used to climb down the low concrete walls to catch fish and crabs during low tides in the muddy river. However, floods would descend upon Mountbatten area and Tanjong Katong during high tides. Thus, in 1994, the river was redeveloped into a U-shaped, reinforced concrete canal. The Geylang River was later revitalised in a two-year project and reopened in January 2014. The Geylang Park Connector which runs along the river is popular with strollers and joggers.
