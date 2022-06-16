@@ -45,3 +45,15 @@ description: ""
 | 4R5 <br> <br>Mr Mong Yu Siang <br> [mong\_yu\_siang@moe.edu.sg](mailto:mong_yu_siang@moe.edu.sg) <br><br> Ms Nadira Bte Abdul Majeed <br> [nadira\_abdul\_majeed@moe.edu.sg](mailto:nadira_abdul_majeed@moe.edu.sg) | 4R6  <br><br> Ms Amanda De Souza <br> [amanda\_rachael\_de\_souza@moe.edu.sg](mailto:amanda_rachael_de_souza@moe.edu.sg) <br> <br> Ms Fadhilah Ramli  <br> [fadhilah\_ramli@moe.edu.sg](mailto:fadhilah_ramli@moe.edu.sg) |
 |  5E1  <br><br> Mr Shahul Hameed  <br>[shahul\_hameed@moe.edu.sg](mailto:shahul_hameed@moe.edu.sg)  
  |   |
+
+| Teachers | |
+|---|---| 
+| Mr Ng Aik Hong <br> [ng\_aik\_hong@moe.edu.sg](mailto:ng_aik_hong@moe.edu.sg) | Ms Poon Choon Gek <br> [poon\_choon\_gek@moe.edu.sg](mailto:poon_choon_gek@moe.edu.sg) |
+| Mdm Tok Yoo Kang <br> [tok\_yoo\_kang@moe.edu.sg](mailto:tok_yoo_kang@moe.edu.sg) | Ms Chen Zhizhi Ember <br> [chen\_zhizhi@moe.edu.sg](mailto:chen_zhizhi@moe.edu.sg) | 
+| Ms Leong Wai Zin <br> [leong\_wai\_zin@moe.edu.sg](mailto:leong_wai_zin@moe.edu.sg) | Mdm Vasughi d/o Kothandapani  <br> [vasughi\_kothandapani@moe.edu.sg](mailto:vasughi_kothandapani@moe.edu.sg) |
+| Mdm Susana Tan <br> [tan\_wei\_sun\_susana@moe.edu.sg](mailto:tan_wei_sun_susana@moe.edu.sg) | Dr Usha Subbusamy <br> [subbusamy\_usha@moe.edu.sg](mailto:subbusamy_usha@moe.edu.sg)  |
+| Ms Amanda Ng Wanyi <br> [ng\_wanyi\_amanda@moe.edu.sg](mailto:ng_wanyi_amanda@moe.edu.sg) | Ms Wang Huali <br> [wang\_huali@moe.edu.sg](mailto:wang_huali@moe.edu.sg) | 
+| Mdm Zainah Lajam <br> [zainah\_lajam@moe.edu.sg](mailto:zainah_lajam@moe.edu.sg) | Mdm Tham Shao Yen <br> [tham\_shao\_yen@moe.edu.sg](mailto:tham_shao_yen@moe.edu.sg) |
+| Mr Rahmat Ghamaruddin <br> [rahmat\_ghamaruddin@moe.edu.sg](mailto:rahmat_ghamaruddin@moe.edu.sg) | Ms Tan Chian Huay <br> [tan\_chian\_huay@moe.edu.sg](mailto:tan_chian_huay@moe.edu.sg) |
+| Mrs Fawzie Rahayu Ngawan <br> [rahayu\_ngawan@moe.edu.sg](mailto:rahayu_ngawan@moe.edu.sg) | Ms Yusnita <br> [yusnita\_mohamed\_yusoff@moe.edu.sg](mailto:yusnita_mohamed_yusoff@moe.edu.sg) |
+| | |
