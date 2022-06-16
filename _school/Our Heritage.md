@@ -44,3 +44,13 @@ The roads, Dakota Close and Dakota Crescent, located in the former Singapore Imp
 </figure>
   
 One of Singapore’s oldest rivers, the Geylang River cuts through Mountbatten into the Tanjong Katong area. The mouth of the river was once a bustling area of firewood trading. Neighbourhood children used to climb down the low concrete walls to catch fish and crabs during low tides in the muddy river. However, floods would descend upon Mountbatten area and Tanjong Katong during high tides. Thus, in 1994, the river was redeveloped into a U-shaped, reinforced concrete canal. The Geylang River was later revitalised in a two-year project and reopened in January 2014. The Geylang Park Connector which runs along the river is popular with strollers and joggers.
+
+**Broadrick Secondary School**  
+  
+<figure>
+<img src="/images/Heritage%2005%20Broadrick.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Courtesy of National Archives of Singapore </strong> </figcaption>
+</figure>
+
+Broadrick Secondary School was first established in 1968 at Dunman Road as an integrated school with both English and Chinese streams. The school was officially opened by Mr Joseph Francis Conceicao, the then Member of Parliament for Katong, on 14 March 1969. In January 1996, Broadrick Secondary School merged with Maju Secondary School to become a single session school. The school later moved to its current location at 61 Dakota Crescent in 2005 and was officially opened by Dr Yaacob Ibrahim on 20 July 2007.  On 2 January 2011, Broadrick Secondary School merged with Telok Kurau Secondary School. Broadrick Secondary School celebrated her 45th Anniversary on 24 April 2015 which was graced by Minister for Communications and Information and Minister–in-charge of Muslim Affairs, Dr Yaacob Ibrahim, an alumnus.
