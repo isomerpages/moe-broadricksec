@@ -28,7 +28,7 @@ It focuses on investigating natural phenomena and then applying patterns, models
 The department has adopted a Curriculum-Pedagogy-Assessment model towards realising the vision.
 
 <img src="/images/science_dept_framework.jpg" 
-     style="width:80%">
+     style="width:60%">
 
 By the end of the 4-5 years journey, a student should be able to:
 * think critically in science-related research and technology and writings   
