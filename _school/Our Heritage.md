@@ -84,3 +84,13 @@ Guillemard Camp (1969-2003) was home to the First Singapore Infantry Regiment, m
 </figure>
 
 The People’s Association (PA) was established on 1 July 1960 and one of its objectives was to create a common national identity through organising and promoting community involvement in social, cultural, educational and sporting activities. The first task of the PA was to take over community centres originally built by the colonial government and to develop them into a common space for people from all ethnic, linguistic and religious backgrounds to meet and interact through sporting activities like basketball and sepak takraw, and educational activities such as dressmaking and cooking. Community centres also served as a contact point between the people, grassroots and government leaders. First established as a community centre, Mountbatten Community Club, housed in a distinctive red brick building and sitting amidst its quaint surroundings, has served the aforementioned purposes and has now come to embody the spirit of community in the area.
+
+**Old Airport Road Food Centre**  
+  
+<figure>
+<img src="/images/Heritage%2009%20Old%20Airport%20Road%20Hawker%20Centre.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Ministry of Information and the Arts Collection, <br> Courtesy of National Archives of Singapore </strong> </figcaption>
+</figure>
+
+Opened for public use in 1973, Old Airport Road Food Centre is one of the oldest, largest, and most popular hawker centres in Singapore. The renowned food centre is famous for its delicious yet reasonably-priced local fare. For more than thirty years, it has helped to satisfy the gastronomical cravings of our country’s food-crazy populace.
