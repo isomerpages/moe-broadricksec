@@ -2,6 +2,7 @@ collections:
   school:
     output: true
     order:
+      - Staff Information.md
       - Principal’s Message.md
       - Vision Mission Values.md
       - About Us.md
