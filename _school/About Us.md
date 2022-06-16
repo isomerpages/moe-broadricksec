@@ -13,4 +13,5 @@ The School Crest reflects the school colours. The cogwheel in the centre symboli
 
 The school flag comprises two main colours – white and dark blue. The dark blue panels in the background represent our teachers and staff who are always ready to nurture and support our students in their pursuit to achieve academic and non-academic excellence. The white colour in the centre signifies the youth and receptivity of our students. The richness of the colour white points to the numerous possibilities opened to our students as they take their positions as adult citizens and contributing members of the community and beyond.
 
-![](/images/school%20flag.jpg)
+<img src="/images/school%20flag.jpg" 
+     style="width:80%">
