@@ -3,6 +3,8 @@ title: Principal’s Message
 permalink: /school/principal-s-message
 description: ""
 ---
+##### Principal's Message
+
 2022 will be an exciting year for all Broadricians and staff as we build on the foundations laid in 2021.  With the introduction of learning devices in Term 3 last year to all Secondary 1 to 3 students, we have adopted a school-wide approach to cultivate greater sense of purpose and responsibility in our charges. Students take special care of their learning device such as having their device fully charged for lessons and staying on task for various self-directed and collaborative online learning activities. To further support self-directed learning, we have trialled Blended Learning (BL) and actively encouraged students to explore their interests and to take charge of their learning of identified projects, under the provision of Student-Initiated-Learning (SIL). On scheduled Tuesdays, we are proud that students are easing into completing online assigned tasks and projects collaboratively and independently from home.   I am confident that this year will be a year of richer and more diverse experiences with further adaptation and refinements.  
 
 In 2022, Broadrick will focus on three key areas – Blending Learning for all students; Full Subject Based Banding (FSBB) in Sec 1 classes and enhancing staff capacities and the spirit of innovation.  
