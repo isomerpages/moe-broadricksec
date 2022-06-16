@@ -16,7 +16,8 @@ As Singapore’s central area became increasingly crowded in the 1950s, the colo
 **Tian Kee Provision Shop**  
 
 <figure>
-<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
+<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg"
+		 		 style="width:80%">
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 </figure>
   
