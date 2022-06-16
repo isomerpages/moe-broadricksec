@@ -71,3 +71,32 @@ Students from the Upper Secondary level have the opportunity to coach and mentor
 **Learning Journey to East Zone Center of Excellence** <br> The D&T Unit organises annual learning journey to the East Zone Center of Excellence to enrich students’ learning experience in learning D&T.
 
 ![](/images/CNT3.png)
+
+**Coaching Students from Partner School in the Application of Design Thinking** <br>
+The students from the upper secondary level have a chance to coach and mentor a group of P5 students from Haig Girls Primary School on how to make use of the Design Thinking process to identify and solve authentic problems.
+
+![](/images/CNT4.png)
+
+##### Nutrition and Food Science Unit (NFS)
+To empower students to make informed decisions as discerning consumers
+
+**Signature Programmes:**
+* **Lower Secondary – Supermarket Tour** <br>
+Secondary Ones take a guided tour through the supermarket aisles with FCE teachers to discover various tips in making economical and healthy food choices.
+* **Lower Secondary – In-Vend My Meal!** <br>
+The NFS unit collaborated with Chef-in-Box (JR Vending) to promote a greater awareness in Food Innovation and Technology.  The objective of this programme is to nurture our students to be future-ready learners. Hence, as part of their alternative assessment, FCE students are tasked to design and create a healthy fusion dish that is suited for dispensing from vending machines.
+
+**Ensure this caption is together with the pic:** Chef Kim Dong Suk, an international award-winning from Seoul, Korea was invited to share the process in making a signature Korean dish, Bibimbap. The students had a light-hearted dialogue session with the chef to learn more about what it takes to be a successful chef.
+
+* **Lower Secondary – Ice-cream making workshop** <br> Secondary One NT students are engaged in an ice-cream making workshop as part of their enrichment programme. Through this hands-on activity, the students have fun while learning the process of ice cream-making as well as the effects of impurities during the freezing process.
+
+![](/images/fce3.jpg)
+
+<p> </p>
+
+* **Upper Secondary – Food Science and Sensory Evaluation workshop** <br>
+Secondary Three Express students attend a 3-hour workshop in Temasek Polytechnic (School of Applied Sciences) to discover more about common food starches. They experimente with different food starches and observe its thickening and freezing properties under different conditions. They also conduct a sensory evaluation of the various starch formulations in the sensory evaluation room.
+
+![](/images/fce4.jpg)
+
+* **Upper Secondary – Molecular Gastronomy workshop** <br> Secondary Three Normal Academic students attend this workshop to acquire the basic molecular-gastronomic techniques, such as spherification, emulsification and powderisation, using new technologies and natural texturing agents to deconstruct desserts and cocktails. With this knowledge, students are able to combine their newly acquired skills in the areas of food science and culinary arts.
