@@ -64,3 +64,13 @@ Broadrick Secondary School was first established in 1968 at Dunman Road as an in
 </figure>
   
 Maju Secondary School was established on 4 January 1968 at Dunman Road and its premises was declared open by Mr Joseph Francis Conceicao, the then Member of Parliament for Katong, on 6 June 1969. It was a mixed, integrated and technical school. Secondary Three and Secondary Four students from Broadrick Secondary School, which was located just beside Maju Secondary School in the early days, used to attend Technical classes at the school.
+
+**Guillemard Camp**  
+  
+<figure>
+<img src="/images/Heritage%2007%20Guillemard%20Camp.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Ministry of Information and the Arts Collection, <br> Courtesy of National Archives of Singapore  </strong> </figcaption>
+</figure>
+
+Guillemard Camp (1969-2003) was home to the First Singapore Infantry Regiment, more commonly known as 1SIR, Singapore’s first military unit. It was established in 1969 for the relocation of 1SIR from Taman Jurong. Generations of young recruits had gone through intensive infantry training at the camp for more than thirty years. Due to limitations in space and to its aging training facilities, operations at the camp were finally ceased in 2003 and 1SIR shifted to Mandai Hill Camp.
