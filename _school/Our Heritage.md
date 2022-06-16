@@ -74,3 +74,13 @@ Maju Secondary School was established on 4 January 1968 at Dunman Road and its p
 </figure>
 
 Guillemard Camp (1969-2003) was home to the First Singapore Infantry Regiment, more commonly known as 1SIR, Singapore’s first military unit. It was established in 1969 for the relocation of 1SIR from Taman Jurong. Generations of young recruits had gone through intensive infantry training at the camp for more than thirty years. Due to limitations in space and to its aging training facilities, operations at the camp were finally ceased in 2003 and 1SIR shifted to Mandai Hill Camp.
+
+**Mountbatten Community Centre**  
+  
+<figure>
+<img src="/images/Heritage%2008%20Mountbatten%20CC.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Souvenir Magazine 1981 <br> Source: Mountbatten Community Centre Opening </strong> </figcaption>
+</figure>
+
+The People’s Association (PA) was established on 1 July 1960 and one of its objectives was to create a common national identity through organising and promoting community involvement in social, cultural, educational and sporting activities. The first task of the PA was to take over community centres originally built by the colonial government and to develop them into a common space for people from all ethnic, linguistic and religious backgrounds to meet and interact through sporting activities like basketball and sepak takraw, and educational activities such as dressmaking and cooking. Community centres also served as a contact point between the people, grassroots and government leaders. First established as a community centre, Mountbatten Community Club, housed in a distinctive red brick building and sitting amidst its quaint surroundings, has served the aforementioned purposes and has now come to embody the spirit of community in the area.
