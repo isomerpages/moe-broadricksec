@@ -7,5 +7,5 @@ description: ""
 
 <figure>
 <img src="/images/Heritage%2001%20SIT%20Flats.jpg"/>
-	<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-    </figure>
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
