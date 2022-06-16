@@ -3,7 +3,7 @@ url: ""
 favicon: /images/school_flag1-removebg-preview.png
 colors:
   primary-color: "#010060"
-  secondary-color: "#e5dd19"
+  secondary-color: "#f6c300"
   media-colors:
     - title: media-color-one
       color: "#92c4dd"
