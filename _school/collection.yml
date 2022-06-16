@@ -2,9 +2,9 @@ collections:
   school:
     output: true
     order:
-      - Our Heritage.md
       - Principal’s Message.md
       - Vision Mission Values.md
       - About Us.md
       - Staff Information.md
       - Corporate Video.md
+      - Our Heritage.md
