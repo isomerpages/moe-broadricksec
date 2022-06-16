@@ -1,6 +1,6 @@
 logo: /images/school flag1.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: School
+    collection: school
   - title: Resources
     resource_room: true
