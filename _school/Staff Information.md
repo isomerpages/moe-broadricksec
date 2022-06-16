@@ -57,3 +57,11 @@ description: ""
 | Mr Rahmat Ghamaruddin <br> [rahmat\_ghamaruddin@moe.edu.sg](mailto:rahmat_ghamaruddin@moe.edu.sg) | Ms Tan Chian Huay <br> [tan\_chian\_huay@moe.edu.sg](mailto:tan_chian_huay@moe.edu.sg) |
 | Mrs Fawzie Rahayu Ngawan <br> [rahayu\_ngawan@moe.edu.sg](mailto:rahayu_ngawan@moe.edu.sg) | Ms Yusnita <br> [yusnita\_mohamed\_yusoff@moe.edu.sg](mailto:yusnita_mohamed_yusoff@moe.edu.sg) |
 | | |
+
+| Multi-Skilled Team | |
+|---|---|
+| Student Welfare Officer | Mdm Chen Wei Ping Sharon <br> [chen\_wei\_ping\_sharon@moe.edu.sg](mailto:chen_wei_ping_sharon@moe.edu.sg) |
+| School Counsellors | Mr Koh Swee Leong <br> [koh\_swee\_leong@moe.edu.sg](mailto:koh_swee_leong@moe.edu.sg) <br><br> Ms Stella Kae <br> [stella\_kae@moe.edu.sg](mailto:stella_kae@moe.edu.sg) |
+| AED Teaching & Learning | Mdm Siti Naqiah Abdullah <br> [siti\_naqiah\_abdullah@moe.edu.sg](mailto:siti_naqiah_abdullah@moe.edu.sg) <br><br> Mr Muhammad Fadli Abdul Lateef <br> [muhamad\_fadli\_abdul\_lathee@moe.edu.sg](mailto:muhamad_fadli_abdul_lathee@moe.edu.sg)  <br><br> Mdm Lee Lan Yang <br> [lee\_lan\_yang@moe.edu.sg](mailto:lee_lan_yang@moe.edu.sg) |
+| Senior SEN Officer | Mr Mohamed Faisal B Osman <br> [mohamed\_faisal\_osman@moe.edu.sg](https://broadricksec.moe.edu.sg/) |
+| | | 
