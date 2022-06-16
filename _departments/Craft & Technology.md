@@ -114,7 +114,7 @@ Secondary Three Express students attend a 3-hour workshop in Temasek Polytechnic
 Secondary Three Normal Academic and Normal Technical students enrol in this programme which is designed to provide them with basic pastry and baking skills and knowledge.  They also have the opportunity to use Food & Beverage industrial equipment as well as have interactive sessions with the trainers, who are former chefs from renowned establishments.
 
 <img src="/images/fce6.jpg" 
-     style="width:70%">
+     style="width:60%">
 
 <img src="/images/fce7.jpg" 
-     style="width:70%">
+     style="width:60%">
