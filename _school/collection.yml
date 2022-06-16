@@ -2,10 +2,10 @@ collections:
   school:
     output: true
     order:
-      - Broadrician Outcomes.md
       - Principal’s Message.md
       - Vision Mission Values.md
       - About Us.md
       - Staff Information.md
       - Corporate Video.md
       - Our Heritage.md
+      - Broadrician Outcomes.md
