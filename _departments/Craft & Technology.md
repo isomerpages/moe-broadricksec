@@ -30,3 +30,16 @@ NUS Museum is a comprehensive Museum for teaching and research. With a distinct 
 <img src="/images/art3.jpg">  
 <figcaption> Learning Journey to SYF Exhibition </figcaption>  
 </figure>
+
+**Singapore Youth Festival 2018 Art Exhibition** <br>
+_What We Are Now, And What We Will Become_, created by Adam Bin Jumaat (4R6, 2017), was selected for the on-site exhibition at National Gallery Singapore.
+
+![](/images/art4.jpg)
+
+![](/images/art5.jpg)
+
+<figure>  
+<img src="/images/art6.jpg">  
+<figcaption> Our students participating in the Fringe activities </figcaption>  
+</figure>
+
