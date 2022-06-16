@@ -54,3 +54,13 @@ One of Singapore’s oldest rivers, the Geylang River cuts through Mountbatten i
 </figure>
 
 Broadrick Secondary School was first established in 1968 at Dunman Road as an integrated school with both English and Chinese streams. The school was officially opened by Mr Joseph Francis Conceicao, the then Member of Parliament for Katong, on 14 March 1969. In January 1996, Broadrick Secondary School merged with Maju Secondary School to become a single session school. The school later moved to its current location at 61 Dakota Crescent in 2005 and was officially opened by Dr Yaacob Ibrahim on 20 July 2007.  On 2 January 2011, Broadrick Secondary School merged with Telok Kurau Secondary School. Broadrick Secondary School celebrated her 45th Anniversary on 24 April 2015 which was graced by Minister for Communications and Information and Minister–in-charge of Muslim Affairs, Dr Yaacob Ibrahim, an alumnus.
+
+**Maju Secondary School**  
+  
+<figure>
+<img src="/images/Heritage%2006%20Maju.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Ministry of Information and the Arts Collection, <br> Courtesy of National Archives of Singapore  </strong> </figcaption>
+</figure>
+  
+Maju Secondary School was established on 4 January 1968 at Dunman Road and its premises was declared open by Mr Joseph Francis Conceicao, the then Member of Parliament for Katong, on 6 June 1969. It was a mixed, integrated and technical school. Secondary Three and Secondary Four students from Broadrick Secondary School, which was located just beside Maju Secondary School in the early days, used to attend Technical classes at the school.
