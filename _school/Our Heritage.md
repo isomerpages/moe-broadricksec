@@ -22,3 +22,15 @@ As Singapore’s central area became increasingly crowded in the 1950s, the colo
 </figure>
   
 At the time of writing, Tian Kee at Block 12 Dakota Crescent served as a cosy café but prior to its conversion, it housed a provision shop which served the neighbourhood for 54 years. When the Tian Kee provision shop shut its doors and made way for the current café, it stood as one of the oldest of its kind in Singapore. In the past, children bought titbits, avid joggers stopped to hydrate themselves with cold drinks and residents purchased essentials such as cooking oil and bread. However, business at the provision shop was adversely affected after a supermarket opened across the street. Rising rents and decrease in number of residents in Dakota also made it hard to cope.
+
+**Dakota Aircraft**  
+
+<figure>
+<img src="/images/Heritage%2003%20DC-3.jpg"
+		 		 style="width:80%">
+<figcaption> <strong> Singapore-bound R.A.A.F. <br>
+Dakota transport planes receive a final check at the R.A.A.F's
+most westerly Pacific base, Labuan Island, Image note H99.200/624 <br> Courtesy of Argus Newspaper Collection of Photographs, State Library of Victoria </strong> </figcaption>
+</figure>
+
+The roads, Dakota Close and Dakota Crescent, located in the former Singapore Improvement Trust estate at the Old Kallang Airport, were given their names in 1957. These were named after the famous all-metal passenger aircraft of the 1930s, the Douglas DC-3, or Dakota. Dakota Crescent, off Old Airport Road, was part of the Kallang Airport.
