@@ -3,10 +3,10 @@ title: Craft & Technology
 permalink: /departments/craft-n-technology
 description: ""
 ---
-### Department Vision
+##### Department Vision
 A dynamic department providing engaging programmes to prepare future ready learners
 
-### Department Mission
+##### Department Mission
 To equip and develop self-directed Broadricians with essential skills that are relevant to their passion and rooted in values.
 
 ### Art Unit
@@ -42,4 +42,3 @@ _What We Are Now, And What We Will Become_, created by Adam Bin Jumaat (4R6, 201
 <img src="/images/art6.jpg">  
 <figcaption> Our students participating in the Fringe activities </figcaption>  
 </figure>
-
