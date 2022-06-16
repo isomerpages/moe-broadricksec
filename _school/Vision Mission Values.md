@@ -8,3 +8,8 @@ description: ""
 
 ### School Mission
 ![](/images/2%20(1).png)
+
+### School Values - S.H.A.R.E
+![](/images/3(1).png)
+
+![](/images/2021%20Vision%20Mission.png)
