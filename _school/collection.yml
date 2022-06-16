@@ -2,5 +2,5 @@ collections:
   school:
     output: true
     order:
-      - Vision Mission Values.md
       - Principal’s Message.md
+      - Vision Mission Values.md
