@@ -64,4 +64,152 @@ description: ""
 | School Counsellors | Mr Koh Swee Leong <br> [koh\_swee\_leong@moe.edu.sg](mailto:koh_swee_leong@moe.edu.sg) <br><br> Ms Stella Kae <br> [stella\_kae@moe.edu.sg](mailto:stella_kae@moe.edu.sg) |
 | AED Teaching & Learning | Mdm Siti Naqiah Abdullah <br> [siti\_naqiah\_abdullah@moe.edu.sg](mailto:siti_naqiah_abdullah@moe.edu.sg) <br><br> Mr Muhammad Fadli Abdul Lateef <br> [muhamad\_fadli\_abdul\_lathee@moe.edu.sg](mailto:muhamad_fadli_abdul_lathee@moe.edu.sg)  <br><br> Mdm Lee Lan Yang <br> [lee\_lan\_yang@moe.edu.sg](mailto:lee_lan_yang@moe.edu.sg) |
 | Senior SEN Officer | Mr Mohamed Faisal B Osman <br> [mohamed\_faisal\_osman@moe.edu.sg](https://broadricksec.moe.edu.sg/) |
-| | | 
+| | |
+
+| Executive and Administrative Staff | |
+|---|---|
+| Admin Manager <br> <br> Mdm Thun Siew Lin <br> [thun\_Siew\_Lin@schools.gov.sg](mailto:THUN_Siew_Lin@moe.gov.sg) |  |
+| Operations Manager 1 <br><br> Mr. Alan Tan <br>[tan\_choon\_chuan@moe.edu.sg](mailto:tan_choon_chuan@moe.edu.sg) | Operations Manager 2 <br><br> Mr Arrivalaganu Suppiah <br> [arrivalaganu\_suppiah@moe.edu.sg](mailto:arrivalaganu_suppiah@moe.edu.sg) |
+| TSO <br><br> Mr Mogandas Kanapathy <br> [mogandass\_kanapathy@moe.edu.sg](mailto:mogandass_kanapathy@moe.edu.sg) | TSO <br><br> 
+Ms Ngiam Chay Koon <br> [ngiam\_chay\_koon@moe.edu.sg](mailto:ngiam_chay_koon@moe.edu.sg) |
+| 
+
+Admin Executive
+
+  
+
+[](mailto:ngiam_chay_koon@moe.edu.sg)
+
+Sri Amirah Binte Suhairi 
+
+[sri\_amirah\_suhairi@moe.edu.sg](mailto:sri_amirah_suhairi@moe.edu.sg)
+
+
+
+ | 
+
+CSO  
+
+  
+
+Mdm Tan Kah Seok Jeslin
+
+[tan\_kah\_seok@moe.edu.sg](mailto:tan_kah_seok@moe.edu.sg)
+
+
+
+ |
+| 
+
+CSO  
+
+  
+
+Mrs Tay Suan Eng
+
+[](mailto:keng_suan_eng@moe.edu.sg)[keng\_suan\_eng@moe.edu.sg](mailto:keng_suan_eng@moe.edu.sg)  
+
+
+ | 
+
+CSO  
+
+Ms Tay Mei Wah
+
+[tay\_mei\_wah@moe.edu.sg](mailto:tay_mei_wah@moe.edu.sg)
+
+
+
+ |
+| 
+
+OSO 
+
+  
+
+Mdm Habsah Md Hussain 
+
+[](mailto:habsah_md_hussain@moe.edu.sg)[habsah\_md\_hussain@moe.edu.sg](mailto:habsah_md_hussain@moe.edu.sg)  
+
+
+ | 
+
+OSO 
+
+  
+
+Mdm Hamidah Haniffa 
+
+[hamidah\_haniffa@moe.edu.sg](mailto:hamidah_haniffa@moe.edu.sg)  
+
+
+ |
+| 
+
+OSO 
+
+  
+
+Mdm Palayee Narayanasamy 
+
+[palayee\_narayanasamy@moe.edu.sg](mailto:palayee_narayanasamy@moe.edu.sg)
+
+
+
+ | 
+
+OSO 
+
+  
+
+Mdm Kannamah d/o Karuppan 
+
+[kannamah\_karuppan@moe.edu.sg](mailto:kannamah_karuppan@moe.edu.sg)  
+
+
+ |
+|   
+ | 
+
+OSO 
+
+  
+
+Mdm Teo Jong Moy 
+
+[teo\_jong\_moy@moe.edu.sg](mailto:teo_jong_moy@moe.edu.sg)
+
+ |
+| SHA  
+  
+Ms. Pricilla Jampathong  
+[priscilla\_jampathong@certisgroup.com](mailto:priscilla_jampathong@certisgroup.com)  
+ |  ECG Counsellor  
+  
+Ms. Kate Choo  
+[kate\_choo\_huey\_xuan@schools.gov.sg](mailto:kate_choo_huey_xuan@schools.gov.sg) |
+| 
+
+Desktop Engineer 
+
+  
+
+Mr. Theban Perumal
+
+[g-ncs3202sde@ncs.com.sg](mailto:g-ncs3202sde@ncs.com.sg)  
+
+
+
+
+ | 
+
+ICT Associate Manager  
+
+  
+
+Mr Omar Mikail Himbal
+
+[omar\_mikail\_himbal@moe.edu.sg](mailto:omar_mikail_himbal@moe.edu.sg)  
+
+
+ |
