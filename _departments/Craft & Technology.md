@@ -106,7 +106,7 @@ Secondary Three Express students attend a 3-hour workshop in Temasek Polytechnic
 * **Upper Secondary – Molecular Gastronomy workshop** <br> Secondary Three Normal Academic students attend this workshop to acquire the basic molecular-gastronomic techniques, such as spherification, emulsification and powderisation, using new technologies and natural texturing agents to deconstruct desserts and cocktails. With this knowledge, students are able to combine their newly acquired skills in the areas of food science and culinary arts.
 
 <img src="/images/fce5.jpg" 
-     style="width:70%">
+     style="width:60%">
 
 <p> </p> 
 
