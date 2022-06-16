@@ -7,13 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "Welcome to "
+      title: Broadrick Secondary School!
       background: /images/gif-maker.gif
       key_highlights:
         - title: Latest News
           description: ""
           url: /latestnews
-      subtitle: Broadrick Secondary School!
+      subtitle: Nurturing Broadricians to be Future-Ready learners with Strength of
+        Character
+      button: Frequently Asked Questions
+      url: /faq
   - resources:
       title: Announcements
       subtitle: check out the latest
