@@ -99,4 +99,17 @@ Secondary Three Express students attend a 3-hour workshop in Temasek Polytechnic
 
 ![](/images/fce4.jpg)
 
+<p> </p>
+
 * **Upper Secondary – Molecular Gastronomy workshop** <br> Secondary Three Normal Academic students attend this workshop to acquire the basic molecular-gastronomic techniques, such as spherification, emulsification and powderisation, using new technologies and natural texturing agents to deconstruct desserts and cocktails. With this knowledge, students are able to combine their newly acquired skills in the areas of food science and culinary arts.
+
+![](/images/fce5.jpg)
+
+<p> </p> 
+
+* **Upper Secondary – Elective Module: Culinary and Pastry & Baking by SHATEC** <br>
+Secondary Three Normal Academic and Normal Technical students enrol in this programme which is designed to provide them with basic pastry and baking skills and knowledge.  They also have the opportunity to use Food & Beverage industrial equipment as well as have interactive sessions with the trainers, who are former chefs from renowned establishments.
+
+![](/images/fce6.jpg)
+
+![](/images/fce7.jpg)
