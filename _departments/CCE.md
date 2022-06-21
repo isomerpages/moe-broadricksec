@@ -32,6 +32,6 @@ A dynamic department providing engaging programmes to prepare future ready learn
 
 <figure>  
 <img src="/images/cce3.png"
-		  style="width:80%">
+		  style="width:70%">
 <figcaption> Students presenting their ideas during the ECG Learning Journey to MBS. </figcaption>  
 </figure>
