@@ -19,3 +19,7 @@ At the core of our ICT framework is realising our vision of nurturing future-rea
 <img src="/images/pic2.png">  
 <figcaption> <strong> ICT Framework </strong> </figcaption>  
 </figure>
+
+ICT in Teaching and Learning is most effective in a closed-loop ecosystem where technology is leveraged at every level to enable continuous improvement in both instruction and student outcomes. We believe that the use of ICT will help bring about greater collaboration and self-directed learning. Hence, there is one-to-one computing at the Secondary One where every student is equipped with a chrome book.
+
+The department will continue to explore and shares with staff and students the various Open Source software as well as educational apps based on their suitability to engage our students in their learning.
