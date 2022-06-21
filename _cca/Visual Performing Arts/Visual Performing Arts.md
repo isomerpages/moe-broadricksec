@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual Performing Arts
 ---
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/basketball"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/modern-dance"> 
 <img src="/images/1%20(2).png" 
      style="width:30%">
 </a>
