@@ -8,6 +8,8 @@ links:
     collection: achievements
   - title: CCA
     url: /cca/uniformed-groups
-    sublinks: []
+    sublinks:
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups
   - title: Resources
     resource_room: true
