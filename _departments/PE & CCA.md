@@ -25,12 +25,11 @@ Broadrick believes that participation in Co-Curriculum Activities (CCA) is an ex
 
 <center> Physical Sports nurtures <strong> Sportsmanship </strong> and <strong>Integrity </strong>
 
-<center> Uniformed Groups aims to grow <strong> Disciplined </strong> and <strong> Dedicated </strong> Citizens
+Uniformed Groups aims to grow <strong> Disciplined </strong> and <strong> Dedicated </strong> Citizens
 
-<center> Clubs and Societies, encourage <strong> Enterprise </strong> and <strong> Versatility </strong>
+Clubs and Societies, encourage <strong> Enterprise </strong> and <strong> Versatility </strong> 
+	
+</center>
 
 ### Our CCA Framework
-
-  
-
 The core of the framework represents the School’s Vision, Mission and SHARE Values. The spokes are linked to the Guiding Principles of the CCA Framework provided by MOE. We have customised the principles. We want to ensure that these guiding principles are articulated in the various platforms namely the CCA groups (Uniformed Groups, Performing Arts, Sports/Games and Clubs)
