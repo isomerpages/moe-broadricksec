@@ -45,7 +45,7 @@ Ms Christabel Loh
 Friday: 3.00pm - 6.00 pm
 
 <img src="/images/NPCC%20logo.png" 
-     style="width:50%" align = "left">
+     style="width:30%" align = "left">
 		 
 Mr Jude Chua <br>
 Mr Mong Yu Siang <br>
