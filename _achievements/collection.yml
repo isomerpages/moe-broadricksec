@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - School.md
       - CCA/.keep
       - CCA/2019 CCA Achievements.md
       - CCA/2018 CCA Achievements.md
@@ -23,3 +22,4 @@ collections:
       - IP Achievements/2013 IP Achievements.md
       - IP Achievements/2012 IP Achievements.md
       - IP Achievements/2011 IP Achievements.md
+      - School.md
