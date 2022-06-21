@@ -24,9 +24,9 @@ To develop every Broadrician into an active individual who is able to demonstrat
 Broadrick believes that participation in Co-Curriculum Activities (CCA) is an excellent medium for our students to learn and demonstrate desirable social qualities. Taking part in CCA can nurture students’ passion for their interests and develop their appreciation in the arts.
 
 <center> Physical Sports nurtures <strong> Sportsmanship </strong> and <strong>Integrity </strong>
-
+<br>
 Uniformed Groups aims to grow <strong> Disciplined </strong> and <strong> Dedicated </strong> Citizens
-
+<br>
 Clubs and Societies, encourage <strong> Enterprise </strong> and <strong> Versatility </strong> 
 	
 </center>
