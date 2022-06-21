@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - IP Achievements/.keep
-      - 2019 IP Achievements.md
       - CCA/.keep
       - CCA/2019 CCA Achievements.md
       - CCA/2018 CCA Achievements.md
