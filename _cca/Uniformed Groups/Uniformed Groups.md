@@ -15,6 +15,8 @@ Those who aspire glory in the uniformed groups have the NCC Land, NPCC, Red Cros
 Mr Mong Yu Siang <br>
 Ms Leng Yi Ling
 
+<p> </p>
+	
 Wednesday: 2.30pm - 5.30 pm </figcaption>  
 </figure>
 
@@ -29,6 +31,8 @@ Ms Susana Lim <br>
 Ms Lim Shu Feng <br>
 Ms Christabel Loh
 
+<p> </p>
+	
 Friday: 3.00pm - 6.00 pm </figcaption>  
 </figure>
 
@@ -43,6 +47,8 @@ Ms Chen Ember <br>
 Ms Amanda De Souza <br>
 Mr Stephen Lim
 
+<p> </p>
+	
 Wednesday 2.30pm - 5.30 pm </figcaption>  
 </figure>
 
@@ -55,5 +61,7 @@ Wednesday 2.30pm - 5.30 pm </figcaption>
 Ms Wardah <br>
 Ms Leong Wai Zin
 
+<p> </p>
+	
 Wednesday 2.30pm - 5.30 pm </figcaption>  
 </figure>
