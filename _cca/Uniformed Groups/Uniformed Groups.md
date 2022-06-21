@@ -19,7 +19,7 @@ Wednesday: 2.30pm - 5.30 pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/red-cross"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/national-police-cadet-corps"> 
 <img src="/images/NPCC%20logo.png" 
      style="width:30%">
 </a>
@@ -31,4 +31,3 @@ Ms Christabel Loh
 
 Friday: 3.00pm - 6.00 pm </figcaption>  
 </figure>
- 
