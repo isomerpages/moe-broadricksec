@@ -4,7 +4,10 @@ links:
     collection: school
   - title: Departments
     collection: departments
-  - title: ACHIEVEMENTS
+  - title: Achievements
     collection: achievements
   - title: Resources
     resource_room: true
+  - title: CCA
+    url: /cca/uniformed-groups
+    sublinks: []
