@@ -12,6 +12,8 @@ third_nav_title: Physical Sports
 <figcaption> Mr Tay Min Thong <br>
 Mr Michael Foong
 
+<p> </p>
+	
 Wednesday: 2.30pm -5.30pm <br>
 Friday: 2.30pm - 5.30pm </figcaption>  
 </figure>
@@ -25,6 +27,8 @@ Friday: 2.30pm - 5.30pm </figcaption>
 Mrs Tan Meow Choon <br>
 Ms Ho Scion
 
+<p> </p>
+	
 Monday: 2.15pm - 5.30pm (Sec 1) <br>
 Wednesday: 2.15pm - 5.30pm (Sec 2) <br>
 Friday: 2.15pm - 5.30pm (Sec 3 & 4) <br>
@@ -41,6 +45,8 @@ Mr Yong Jui Jin <br>
 Mdm Ding Ni <br>
 Ms Chrystal Ngerng
 
+<p> </p>
+	
 Wednesday: 2.30pm -5.30pm <br>
 Friday: 2.30pm - 5.30pm </figcaption>  
 </figure>
@@ -52,6 +58,8 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </a>
 <figcaption> Mr Fadli
 
+<p> </p>
+	
 Wednesday: 2.30pm -5.30pm <br>
 Friday: 2.30pm - 5.30pm </figcaption>  
 </figure>
