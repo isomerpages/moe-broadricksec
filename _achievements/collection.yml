@@ -2,8 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - IP Achievements/2019 IP Achievements.md
-      - IP Achievements/.keep
       - CCA/.keep
       - CCA/2019 CCA Achievements.md
       - CCA/2018 CCA Achievements.md
@@ -14,3 +12,5 @@ collections:
       - CCA/2013 CCA Achievements.md
       - CCA/2012 CCA Achievements.md
       - CCA/2011 CCA Achievements.md
+      - IP Achievements/.keep
+      - IP Achievements/2019 IP Achievements.md
