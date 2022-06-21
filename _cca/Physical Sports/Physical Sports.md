@@ -46,7 +46,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/taekwondo"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/tchoukball"> 
 <img src="/images/tchouckball.png" 
      style="width:30%">
 </a>
