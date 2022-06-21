@@ -45,3 +45,15 @@ Mr Stephen Lim
 
 Wednesday 2.30pm - 5.30 pm </figcaption>  
 </figure>
+
+<figure>  
+<a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/national-cadet-corps"> 
+<img src="/images/girl%20guides%20logo.png" 
+     style="width:30%">
+</a>
+<figcaption> Mrs Candy Low <br>
+Ms Wardah <br>
+Ms Leong Wai Zin
+
+Wednesday 2.30pm - 5.30 pm </figcaption>  
+</figure>
