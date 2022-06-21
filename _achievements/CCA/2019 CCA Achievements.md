@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 ---
 | Visual Performing Arts | Events | Awards |
-|:---:|:---:|:---:|
+|---|---|---|
 | Modern Dance | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | Concert Band | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | Drama Club | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
