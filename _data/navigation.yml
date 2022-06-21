@@ -4,5 +4,7 @@ links:
     collection: school
   - title: Departments
     collection: departments
+  - title: ACHIEVEMENTS
+    collection: achievements
   - title: Resources
     resource_room: true
