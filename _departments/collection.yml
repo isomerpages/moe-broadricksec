@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Staff PD.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -12,3 +11,4 @@ collections:
       - CCE.md
       - ICT.md
       - PE & CCA.md
+      - Staff PD.md
