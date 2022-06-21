@@ -18,4 +18,13 @@ A dynamic department providing engaging programmes to prepare future ready learn
 	* To promote career exploration through Learning Journeys, industrial visits and talks by relevant speakers
 	* To empower students to make well-informed and optimal post-secondary decisions independently
 
-![](/images/cce1.png)
+<figure>  
+<img src="/images/cce1.png">  
+<figcaption> Courtesy of Mr Koh Kim Chay </figcaption>  
+</figure>
+
+<figure>  
+<img src="/images/cce2.png">  
+<figcaption> Students guiding their primary school counterparts from Kong Hwa School during their Sec 2 VIA project </figcaption>  
+</figure>
+
