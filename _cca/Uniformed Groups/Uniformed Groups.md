@@ -9,7 +9,7 @@ Those who aspire glory in the uniformed groups have the NCC Land, NPCC, Red Cros
 <div>
 <div style="float: left">
 <img src="/images/red%20cross%20logo.png" 
-     style="width:25%">
+     style="width:50%">
 </div>
 <div>
 
