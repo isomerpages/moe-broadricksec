@@ -24,7 +24,7 @@ Ms Leng Yi Ling
 
 Wednesday: 2.30pm - 5.30 pm
  
- <div>
+<div>
 <div style="float: left">
 <a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/red-cross"> 
 <img src="/images/NPCC%20logo.png" 
@@ -43,4 +43,3 @@ Ms Lim Shu Feng <br>
 Ms Christabel Loh
 
 Friday: 3.00pm - 6.00 pm
- 
