@@ -15,4 +15,7 @@ We believe that ICT provides opportunities for active learning in the various su
 
 At the core of our ICT framework is realising our vision of nurturing future-ready and responsible digital learners.  This vision is incorporated in our four areas: leadership and support, design & delivery, development & exploration and assessment & analysis.
 
-![](/images/pic2.png)
+<figure>  
+<img src="/images/pic2.png">  
+<figcaption> <strong> ICT Framework </strong> </figcaption>  
+</figure>
