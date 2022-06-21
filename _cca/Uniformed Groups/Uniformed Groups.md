@@ -33,7 +33,7 @@ Friday: 3.00pm - 6.00 pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/national-police-cadet-corps"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/national-cadet-corps"> 
 <img src="/images/NCC%20Logo.png" 
      style="width:30%">
 </a>
