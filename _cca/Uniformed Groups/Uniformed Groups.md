@@ -43,3 +43,6 @@ Ms Lim Shu Feng <br>
 Ms Christabel Loh
 
 Friday: 3.00pm - 6.00 pm
+
+<img src="/images/NPCC%20logo.png" 
+     style="width:50%" align = "right">
