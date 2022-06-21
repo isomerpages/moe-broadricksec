@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - ICT.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -10,3 +9,4 @@ collections:
       - Mother Tongue.md
       - Craft & Technology.md
       - CCE.md
+      - ICT.md
