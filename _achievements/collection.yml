@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - CCA/2013 CCA Achievements.md
       - CCA/.keep
       - CCA/2019 CCA Achievements.md
       - CCA/2018 CCA Achievements.md
@@ -10,3 +9,4 @@ collections:
       - CCA/2016 CCA Achievements.md
       - CCA/2015 CCA Achievements.md
       - CCA/2014 CCA Achievements.md
+      - CCA/2013 CCA Achievements.md
