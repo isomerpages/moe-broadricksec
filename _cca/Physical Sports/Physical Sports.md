@@ -44,3 +44,14 @@ Ms Chrystal Ngerng
 Wednesday: 2.30pm -5.30pm <br>
 Friday: 2.30pm - 5.30pm </figcaption>  
 </figure>
+
+<figure>  
+<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/taekwondo"> 
+<img src="/images/tchouckball.png" 
+     style="width:30%">
+</a>
+<figcaption> Mr Fadli
+
+Wednesday: 2.30pm -5.30pm <br>
+Friday: 2.30pm - 5.30pm </figcaption>  
+</figure>
