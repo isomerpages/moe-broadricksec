@@ -29,3 +29,9 @@ A dynamic department providing engaging programmes to prepare future ready learn
 		  style="width:80%">
 <figcaption> Students guiding their primary school counterparts from <br> Kong Hwa School during their Sec 2 VIA project </figcaption>  
 </figure>
+
+<figure>  
+<img src="/images/cce3.png"
+		  style="width:80%">
+<figcaption> Students presenting their ideas during the ECG Learning Journey to MBS. </figcaption>  
+</figure>
