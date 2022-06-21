@@ -32,7 +32,7 @@ Schedule pending Covid SMM Guidelines </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/shooting-air-rifle"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/taekwondo"> 
 <img src="/images/Taekwondo.png" 
      style="width:30%">
 </a>
