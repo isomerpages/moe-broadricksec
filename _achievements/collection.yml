@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - IP Achievements/2019 IP Achievements.md
       - IP Achievements/.keep
       - CCA/.keep
       - CCA/2019 CCA Achievements.md
