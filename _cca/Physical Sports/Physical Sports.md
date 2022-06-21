@@ -17,7 +17,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/basketball"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/shooting-air-rifle"> 
 <img src="/images/shooting.png" 
      style="width:30%">
 </a>
