@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 ---
 | Visual Performing Arts | Events | Awards |
-|:---:|:---:|:---:|
+|---|---|---|
 | Modern Dance | Singapore Youth Festival 2017 | Certificate of Distinction |
 | Modern Dance | Super24 Competition @ Tampines Hub | Certificate of Participation |
 | Concert Band | Singapore Youth Festival 2017 | Certificate of Distinction |
