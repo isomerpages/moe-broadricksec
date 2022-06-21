@@ -27,6 +27,5 @@ A dynamic department providing engaging programmes to prepare future ready learn
 <figure>  
 <img src="/images/cce2.png"
 		  style="width:80%">
-<figcaption> Students guiding their primary school counterparts from Kong Hwa School during their Sec 2 VIA project </figcaption>  
+<figcaption> Students guiding their primary school counterparts from <br> Kong Hwa School during their Sec 2 VIA project </figcaption>  
 </figure>
-
