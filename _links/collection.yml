@@ -2,8 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Parents/Letters to Parents.md
-      - Parents/.keep
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
@@ -16,3 +14,5 @@ collections:
       - Teachers/.keep
       - Teachers/Classroom Allocation Plan.md
       - Teachers/Others.md
+      - Parents/.keep
+      - Parents/Letters to Parents.md
