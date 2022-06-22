@@ -21,7 +21,7 @@ Friday: 2.30pm - 5:30pm  </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/club-and-societies/media-club"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/club-and-societies/robotics"> 
 <img src="/images/robotic.png" 
      style="width:30%">
 </a>
