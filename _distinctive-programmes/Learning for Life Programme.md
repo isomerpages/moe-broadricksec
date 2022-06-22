@@ -36,7 +36,7 @@ Below are some examples of projects our students were involved in.
 
 <figure>  
 <img src="/images/llp2.jpg"
-		 style="width:80%">
+		 style="width:60%">
 <figcaption> Gardening at an organic farm. </figcaption>  
 </figure>
 
@@ -44,7 +44,7 @@ A pre-loved items collection drive to raise funds for the financially needy fami
 
 <figure>  
 <img src="/images/llp4.jpg"
-		 style="width:80%">
+		 style="width:60%">
 <figcaption> It takes a Village.....to raise funds! </figcaption> 
 </figure>
 
