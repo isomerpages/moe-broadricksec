@@ -50,3 +50,24 @@ A pre-loved items collection drive to raise funds for the financially needy fami
 
 <img src="/images/llp5.jpg"
 		 style="width:80%">
+		 
+Our signature Tier 2 platform for our students to serve the community is our Hearty Breakfast Project.
+
+![](/images/llp6.jpg)
+
+The Hearty Breakfast Project is a collaborative work with Tung Ling Eldercare Centre. A group of student volunteers serve breakfast and interact with the elderly residents of Dakota Crescent. First started in 2015, the project aimed to provide an authentic platform for Broadricians to nurture care and compassion for others in the community and help them gain confidence to be good communicators.
+
+Students and teachers would organise a breakfast gathering at Blk 95A Old Airport Road once every few weeks and engage the elderly residents by listening to their perspectives about the challenges and issues that they face in their daily lives in Dakota Crescent.
+
+With news to redevelop Dakota Crescent, the elderly were relocated to nearby HDB Blocks in 2017. That same year, Broadrick Secondary merged with MacPherson Secondary, and the Hearty Breakfast Project took on new dimensions. In order to better engage the elderly, students started to showcase their aesthetic talents during Hearty Breakfast sessions. They also introduced Sudoku to the elderly residents to help them stay mentally active. The project continues to evolve as our students and teachers regularly discuss ways to deepen the interaction between the school and the community.
+
+![](/images/llp7.jpg)
+
+![](/images/llp10.png)
+
+![](/images/llp9.jpg)
+
+![](/images/llp8.jpg)
+
+![](/images/llp12.png)
+All smiles at Hearty Breakfast!
