@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Students/Financial Assistance.md
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
@@ -12,3 +11,4 @@ collections:
       - Students/NEU PC plus Programme.md
       - Students/Book Lists.md
       - Students/My Skills Future (Secondary).md
+      - Students/Financial Assistance.md
