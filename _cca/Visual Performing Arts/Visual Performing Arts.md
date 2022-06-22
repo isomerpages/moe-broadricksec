@@ -21,13 +21,28 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/modern-dance"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/drama-club"> 
 <img src="/images/2%20(2).png" 
      style="width:30%">
 </a>
 <figcaption> Mdm Seerin <br>
 Ms Chervonne Ang <br>
 Ms Joanne Ler
+	
+<p> </p>
+	
+Wednesday: 2.30pm - 5.30pm <br>
+Friday: 2.30pm - 5.30pm </figcaption>  
+</figure>
+
+<figure>  
+<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/modern-dance"> 
+<img src="/images/choir.png" 
+     style="width:30%">
+</a>
+<figcaption> Ms Liu Siew Lee <br>
+Ms Chantel Tan <br>
+Mdm He Fei
 	
 <p> </p>
 	
