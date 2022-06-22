@@ -25,7 +25,8 @@ We have vacancies for up to 20% of our Secondary 1 cohort in 2023 to apply to jo
 * Entrepreneurship
 * STEM
 
-**DSA-Sec Criteria for each talent** <br>
+**DSA-Sec Criteria for each talent** 
+
 | Entrepreneurship | STEM |
 |---|---|
 | <br>• Applicants must be involved in Innovation and/or Entrepreneurship related projects or programmes in or outside their primary school.<br>• Demonstrates care for the needs of the community and interest in making a difference<br>• Exhibit aptitude in creativity and enterprise.<br>• Demonstrates initiative, leadership qualities and/ or sense of responsibility.<br>• Must be in Primary 6 at the point of application or equivalent (international students). | <br>• Applicants must be involved in STEM related projects or programmes in or outside their primary school.<br>• Must show keen interest and commitment for areas related to science, technology and mathematics.<br>• Exhibit aptitude in creativity and STEM.<br>• Demonstrates initiative, leadership qualities and/ or sense of responsibility.<br>• Must be in Primary 6 at the point of application or equivalent (international students). |
