@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - GEAR UP @ Broadrick.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
