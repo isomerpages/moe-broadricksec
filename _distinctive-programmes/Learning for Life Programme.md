@@ -61,13 +61,20 @@ Students and teachers would organise a breakfast gathering at Blk 95A Old Airpo
 
 With news to redevelop Dakota Crescent, the elderly were relocated to nearby HDB Blocks in 2017. That same year, Broadrick Secondary merged with MacPherson Secondary, and the Hearty Breakfast Project took on new dimensions. In order to better engage the elderly, students started to showcase their aesthetic talents during Hearty Breakfast sessions. They also introduced Sudoku to the elderly residents to help them stay mentally active. The project continues to evolve as our students and teachers regularly discuss ways to deepen the interaction between the school and the community.
 
-![](/images/llp7.jpg)
+<img src="/images/llp7.jpg"
+		 style="width:80%">
 
-![](/images/llp10.png)
+<img src="/images/llp10.png"
+		 style="width:80%">
 
-![](/images/llp9.jpg)
+<img src="/images/llp9.jpg"
+		 style="width:80%">
 
-![](/images/llp8.jpg)
+<img src="/images/llp8.jpg"
+		 style="width:80%">
 
-![](/images/llp12.png)
-All smiles at Hearty Breakfast!
+<figure>  
+<img src="/images/llp12.png"
+		 style="width:90%">
+<figcaption> All smiles at Hearty Breakfast! </figcaption> 
+</figure>
