@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Vaccination for Students/.keep
-      - Vaccination Exercise for Students.md
       - Why Vaccinate your child?.md
