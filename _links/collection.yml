@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Students/Online Travel Declaration.md
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
@@ -15,3 +14,4 @@ collections:
       - Students/Financial Assistance.md
       - Students/Classroom Allocation.md
       - Students/2022 SEC 1 CCA Selection.md
+      - Students/Online Travel Declaration.md
