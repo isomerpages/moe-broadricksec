@@ -15,6 +15,7 @@ Our ALP is closely aligned to the school’s vision of nurturing future-ready le
 Our students have benefited greatly from the programme. Amongst their achievements in other challenges and competitions, some of our students have gone on to claim the Best Go-to-Market Award as well as the Best Innovation (Technology) Award at the Youth Innovation Challenge 2018. One of our teams also clinched the spot of National Champions at the SHELL Bright Ideas Challenge 2018.Our teams also clinched the spot of National Champions at the SHELL Bright Ideas Challenge in 2018 and 2019.
 
 ![](/images/ALP.png)
+
 DSA students will be placed under our Talent Management Programme (TMP) where they will take part in external workshops and competitions to showcase their creativity and entrepreneurial dare. There are also opportunities for students to serve a short attachment to local and overseas companies in STEM related fields. The ALP programme would hone students’ hard and soft-skills, preparing them to be future-ready learners.
 
 ![](/images/alp2%20(1).png)
@@ -24,7 +25,7 @@ We have vacancies for up to 20% of our Secondary 1 cohort in 2023 to apply to jo
 * Entrepreneurship
 * STEM
 
-**DSA-Sec Criteria for each talent**
+**DSA-Sec Criteria for each talent** <br>
 | Entrepreneurship | STEM |
 |---|---|
 | <br>• Applicants must be involved in Innovation and/or Entrepreneurship related projects or programmes in or outside their primary school.<br>• Demonstrates care for the needs of the community and interest in making a difference<br>• Exhibit aptitude in creativity and enterprise.<br>• Demonstrates initiative, leadership qualities and/ or sense of responsibility.<br>• Must be in Primary 6 at the point of application or equivalent (international students). | <br>• Applicants must be involved in STEM related projects or programmes in or outside their primary school.<br>• Must show keen interest and commitment for areas related to science, technology and mathematics.<br>• Exhibit aptitude in creativity and STEM.<br>• Demonstrates initiative, leadership qualities and/ or sense of responsibility.<br>• Must be in Primary 6 at the point of application or equivalent (international students). |
