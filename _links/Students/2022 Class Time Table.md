@@ -19,15 +19,12 @@ third_nav_title: Students
 
 ### 2022 Sec 1-3 Weighted Assessment 2 
 [2022 WA2 Parents letter - Sec 1.pdf](/files/2022%20WA2%20Parents%20letter%20-%20Sec%201%20(1).pdf) <br>
-[2022 WA2 Parents letter - Sec 3.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20WA2%20Parents%20letter%20-%20Sec%203.pdf)  
-  
+[2022 WA2 Parents letter - Sec 3.pdf](/files/2022%20WA2%20Parents%20letter%20-%20Sec%203.pdf) 
 
-2022 Mid-Year Examination
--------------------------
-
-[2022 MYE parents letter - Sec 2NT.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20MYE%20parents%20letter%20-%20Sec%202NT.pdf)  
-[2022 MYE parents letter - Sec 2NA.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20MYE%20parents%20letter%20-%20Sec%202NA.pdf)  
-[2022 MYE parents letter - Sec 2Exp.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20MYE%20parents%20letter%20-%20Sec%202Exp.pdf)  
+### 2022 Mid-Year Examination
+[2022 MYE parents letter - Sec 2NT.pdf](/files/2022%20MYE%20parents%20letter%20-%20Sec%202NT.pdf) <br>
+[2022 MYE parents letter - Sec 2NA.pdf](/files/2022%20MYE%20parents%20letter%20-%20Sec%202NA.pdf) <br>
+[2022 MYE parents letter - Sec 2Exp.pdf](/files/2022%20MYE%20parents%20letter%20-%20Sec%202Exp.pdf)
   
 [2022 MYE parents letter - Sec 4NT.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20MYE%20parents%20letter%20-%20Sec%204NT.pdf)  
 [2022 MYE parents letter - Sec 4NA.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20MYE%20parents%20letter%20-%20Sec%204NA.pdf)  
