@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Students/Book Lists.md
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
@@ -10,3 +9,4 @@ collections:
       - Students/Student Learning Space.md
       - Students/Fault Reporting.md
       - Students/NEU PC plus Programme.md
+      - Students/Book Lists.md
