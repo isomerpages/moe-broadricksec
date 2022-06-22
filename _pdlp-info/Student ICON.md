@@ -31,6 +31,5 @@ d) Website keeps refreshing itself without loading the page
   
 What should I do? <br>
 a) Check that the browser is supported by Student iCON by referring to the Operating System /Browser table above. <br>
-b) Close the web browser, check that you have a strong and stable Wi-Fi signal or home internet connections to your device before reopening the browser. <br>  
-c) Navigate to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging-in procedures. <br>  
+b) Close the web browser, check that you have a strong and stable Wi-Fi signal or home internet connections to your device before reopening the browser. <br> c) Navigate to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging-in procedures. <br> 
 d) If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging-in procedures.
