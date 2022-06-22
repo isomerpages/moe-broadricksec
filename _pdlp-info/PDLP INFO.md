@@ -28,3 +28,11 @@ In rolling out Personal Learning Devices (PLDs) for students, MOE is acutely awa
 [DMA Parent Guide for Default Option Chrome Devices](/files/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf) <br>
 [DMA Parent Guide for Option A Chrome Devices](/files/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf) <br>
 [DMA Parent Guide for Option B Chrome Devices](/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
+
+For parents who would like to amend your after-school DMA option, you can do so using this [form.sg](https://form.gov.sg/#!/6099fa158a5d310012f9f027). Please note that changes will only take effect at the end of the month.
+
+##### Parent Handbook I
+Quick guides with information on National Digital Literacy Programme, and parenting tips on how to help your child learn with PLD <br> [1-to-1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
+
+##### Parent Handbook II
+Overview of DMA, and more parenting tips on how to help your child learn with PLD. [Learning with a Personal Learning Device](https://www.broadricksec.moe.edu.sg/qql/slot/u518/PDLP/Parent-Handbook-II-on-Learning-with-a-Personal-Learning-Device.pdf)
