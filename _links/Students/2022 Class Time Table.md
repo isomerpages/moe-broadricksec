@@ -26,41 +26,25 @@ third_nav_title: Students
 [2022 MYE parents letter - Sec 2NA.pdf](/files/2022%20MYE%20parents%20letter%20-%20Sec%202NA.pdf) <br>
 [2022 MYE parents letter - Sec 2Exp.pdf](/files/2022%20MYE%20parents%20letter%20-%20Sec%202Exp.pdf)
   
-[2022 MYE parents letter - Sec 4NT.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20MYE%20parents%20letter%20-%20Sec%204NT.pdf)  
-[2022 MYE parents letter - Sec 4NA.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20MYE%20parents%20letter%20-%20Sec%204NA.pdf)  
-[2022 MYE parents letter - Sec 4E5N.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20MYE%20parents%20letter%20-%20Sec%204E5N.pdf)  
+[2022 MYE parents letter - Sec 4NT.pdf](/files/2022%20MYE%20parents%20letter%20-%20Sec%204NT.pdf) <br>
+[2022 MYE parents letter - Sec 4NA.pdf](/files/2022%20MYE%20parents%20letter%20-%20Sec%204NA.pdf) <br>
+[2022 MYE parents letter - Sec 4E5N.pdf](/files/2022%20MYE%20parents%20letter%20-%20Sec%204E5N.pdf)
   
+### 2022 Sec 4 June HAP
+[June HAP Timetable\_4R1.pdf](/files/June%20HAP%20Timetable_4R1.pdf) <br>
+[June HAP Timetable\_4R2.pdf](/files/June%20HAP%20Timetable_4R2.pdf) <br>
+[June HAP Timetable\_4R3.pdf](/files/June%20HAP%20Timetable_4R3.pdf) <br>
+[June HAP Timetable\_4R4.pdf](/files/June%20HAP%20Timetable_4R4.pdf) <br>
+[June HAP Timetable\_4R5.pdf](/files/June%20HAP%20Timetable_4R5.pdf) <br>
+[June HAP Timetable\_4R6.pdf](/files/June%20HAP%20Timetable_4R6.pdf) <br>
+[June HAP Timetable\_5E1.pdf](/files/June%20HAP%20Timetable_4R7.pdf)
 
-2022 Sec 4 June HAP
--------------------
+### 2022 Semester 2 Time Table
 
-[June HAP Timetable\_4R1.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Timetable/2022/June%20HAP%20Timetable_4R1.pdf)  
-[June HAP Timetable\_4R2.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Timetable/2022/June%20HAP%20Timetable_4R2.pdf)  
-[June HAP Timetable\_4R3.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Timetable/2022/June%20HAP%20Timetable_4R3.pdf)  
-[June HAP Timetable\_4R4.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Timetable/2022/June%20HAP%20Timetable_4R4.pdf)  
-[June HAP Timetable\_4R5.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Timetable/2022/June%20HAP%20Timetable_4R5.pdf)  
-[June HAP Timetable\_4R6.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Timetable/2022/June%20HAP%20Timetable_4R6.pdf)  
-[June HAP Timetable\_5E1.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Timetable/2022/June%20HAP%20Timetable_4R7.pdf)  
+### 2022 End of Year Post Exam Time Table
 
-2022 Semester 2 Time Table
---------------------------
+### 2022 September HAP Time Table
 
-  
+### 2022 June HAP Time Table
 
-2022 End of Year Post Exam Time Table
--------------------------------------
-
-  
-
-2022 September HAP Time Table
------------------------------
-
-  
-
-2022 June HAP Time Table
-------------------------
-
-  
-
-2022 March HAP Time Table
--------------------------
+### 2022 March HAP Time Table
