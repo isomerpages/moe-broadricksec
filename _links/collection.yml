@@ -2,9 +2,9 @@ collections:
   links:
     output: true
     order:
-      - Students/Fault Reporting.md
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
       - Students/Subject Combination Exercise.md
       - Students/Student Learning Space.md
+      - Students/Fault Reporting.md
