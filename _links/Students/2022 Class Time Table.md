@@ -7,27 +7,18 @@ third_nav_title: Students
 [2022 WA2 Parents letter - Sec 1.pdf](/files/2022%20WA2%20Parents%20letter%20-%20Sec%201.pdf)
 
 ### 2022 Semester 1 Time Table
-[Sec 1 Sem 1 Time Table](/files/Sec%201%202022_Sem%201%20TT_FINAL_General%20TimeTable.pdf)
+[Sec 1 Sem 1 Time Table](/files/Sec%201%202022_Sem%201%20TT_FINAL_General%20TimeTable.pdf) <br>
+[Sec 2 Sem 1 Term 2 Time Table](/files/2022_Term%202_Sem1_Sec%202_TimeTable.pdf) <br>
+[Sec 3 Sem 1 Term 2 Time Table](/files/2022_Term%202_Sem1_Sec%203_TimeTable.pdf) <br>
+[Sec 4 and 5 Sem 1 Term 2 Time Table](/files/2022_Term%202_Sem1_Sec4-5_TimeTable.pdf)
 
-[Sec 2 Sem 1 Term 2 Time Table](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u1262/2022/2022_Term%202_Sem1_Sec%202_TimeTable.pdf)
+[T2W9 Sec 2 to Sec 5 Revised Timetable.pdf](/files/2022_T2W9%20Sec%202%20to%20Sec%205_Revised%20Timetable.pdf)
 
-[Sec 3 Sem 1 Term 2 Time Table](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u1262/2022/2022_Term%202_Sem1_Sec%203_TimeTable.pdf)
+### 2022 March HAP Time Table
+[MAR HAP Timetable](/files/MAR%20HAP%20Timetable.pdf)
 
-[Sec 4 and 5 Sem 1 Term 2 Time Table](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u1262/2022/2022_Term%202_Sem1_Sec4-5_TimeTable.pdf)
-
-  
-[T2W9 Sec 2 to Sec 5 Revised Timetable.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Timetable/2022/2022_T2W9%20Sec%202%20to%20Sec%205_Revised%20Timetable.pdf)  
-  
-
-2022 March HAP Time Table
--------------------------
-
-[MAR HAP Timetable](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Timetable/2022/MAR%20HAP%20Timetable.pdf)
-
-2022 Sec 1-3 Weighted Assessment 2 
------------------------------------
-
-[2022 WA2 Parents letter - Sec 1.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20WA2%20Parents%20letter%20-%20Sec%201.pdf)  
+### 2022 Sec 1-3 Weighted Assessment 2 
+[2022 WA2 Parents letter - Sec 1.pdf](/files/2022%20WA2%20Parents%20letter%20-%20Sec%201%20(1).pdf) <br>
 [2022 WA2 Parents letter - Sec 3.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Examination%20Timetable/2022/wa2/2022%20WA2%20Parents%20letter%20-%20Sec%203.pdf)  
   
 
