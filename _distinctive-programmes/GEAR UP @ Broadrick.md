@@ -11,10 +11,14 @@ The GEAR-UP (**G**uiding & **E**mpowering **S**tudents for **A**ffiliation &�
 2. Academic Coaching programmes for selected students who need the extra help in their school work.   
 3. Youth Developmental Mentoring programmes for selected students to enhance their SEL competencies and leadership skills through sports and experiential activities.
 
-![](/images/ase2.png)
+<img src="/images/ase2.png" 
+     style="width:80%">
 
-![](/images/Picture%202.jpg)
+<img src="/images/Picture%202.jpg" 
+     style="width:80%">
 
-![](/images/Screenshot%20(723).png)
+<img src="/images/Screenshot%20(723).png" 
+     style="width:80%">
 
-![](/images/Picture%203.jpg)
+<img src="/images/Picture%203.jpg" 
+     style="width:80%">
