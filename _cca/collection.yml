@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Leaps 2.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/National Cadet Corps.md
@@ -25,4 +24,5 @@ collections:
       - Club and Societies/Club and Societies.md
       - Club and Societies/Media Club.md
       - Club and Societies/Robotics.md
+      - Leaps 2.md
       - CCA Infokit 2022.md
