@@ -36,7 +36,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/modern-dance"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/show-choir"> 
 <img src="/images/choir.png" 
      style="width:30%">
 </a>
@@ -48,4 +48,20 @@ Mdm He Fei
 	
 Wednesday: 2.30pm - 5.30pm <br>
 Friday: 2.30pm - 5.30pm </figcaption>  
+</figure>
+
+<figure>  
+<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/modern-dance"> 
+<img src="/images/concert.png" 
+     style="width:30%">
+</a>
+<figcaption> Mrs Vasughi Santhos <br>
+Mr Ricky Ruben <br>
+Ms Fadilah
+	
+<p> </p>
+	
+Monday: Self-Practice (1hr) <br>
+Wednesday: 2.30pm-5.30pm (Sectional) <br>
+Friday: 2.30pm-5.30pm (Combined) </figcaption>  
 </figure>
