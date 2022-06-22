@@ -25,5 +25,7 @@ links:
     collection: distinctive-programmes
   - title: Partners
     collection: partners
+  - title: COVID 18 INFO
+    collection: covid-19-info
   - title: Resources
     resource_room: true
