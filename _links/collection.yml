@@ -2,8 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Teachers/Others.md
-      - Teachers/.keep
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
@@ -13,3 +11,5 @@ collections:
       - Students/Financial Assistance.md
       - Students/Classroom Allocation.md
       - Students/Others.md
+      - Teachers/.keep
+      - Teachers/Others.md
