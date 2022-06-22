@@ -35,4 +35,5 @@ For parents who would like to amend your after-school DMA option, you can do so 
 Quick guides with information on National Digital Literacy Programme, and parenting tips on how to help your child learn with PLD <br> [1-to-1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
 
 ##### Parent Handbook II
-Overview of DMA, and more parenting tips on how to help your child learn with PLD. [Learning with a Personal Learning Device](https://www.broadricksec.moe.edu.sg/qql/slot/u518/PDLP/Parent-Handbook-II-on-Learning-with-a-Personal-Learning-Device.pdf)
+Overview of DMA, and more parenting tips on how to help your child learn with PLD. <br> 
+</insert Learning with a Personal Learning Device file>
