@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Students/2022 SEC 1 CCA Selection.md
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
