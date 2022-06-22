@@ -27,5 +27,7 @@ links:
     collection: partners
   - title: COVID 19 INFO
     collection: covid-19-info
+  - title: PDLP INFO
+    collection: pdlp-info
   - title: Resources
     resource_room: true
