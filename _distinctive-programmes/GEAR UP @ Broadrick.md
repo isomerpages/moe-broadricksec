@@ -15,6 +15,6 @@ The GEAR-UP (**G**uiding & **E**mpowering **S**tudents for **A**ffiliation &�
 
 ![](/images/Picture%202.jpg)
 
-![](/images/Picture%201.jpg)
+![](/images/Screenshot%20(723).png)
 
 ![](/images/Picture%203.jpg)
