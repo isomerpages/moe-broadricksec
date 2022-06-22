@@ -2,8 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Club and Societies/Club and Societies.md
-      - Club and Societies/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/National Cadet Corps.md
@@ -22,3 +20,5 @@ collections:
       - Visual Performing Arts/Concert Band.md
       - Visual Performing Arts/Modern Dance.md
       - Visual Performing Arts/Show Choir.md
+      - Club and Societies/.keep
+      - Club and Societies/Club and Societies.md
