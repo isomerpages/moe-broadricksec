@@ -24,9 +24,7 @@ third_nav_title: Students
 [Broadrick Secondary School 2022 (3NA).pdf](/files/Broadrick%20Secondary%20School%202022%20(3NA).pdf) <br>
 [Broadrick Secondary School 2022 (3NT) revised.pdf](/files/Broadrick%20Secondary%20School%202022%20(3NT)%20revised.pdf)
 
-
-  
-[Broadrick Secondary School 2022 (4E).pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Book%20Lists/2022/Broadrick%20Secondary%20School%202022%20(4E).pdf)  
-[Broadrick Secondary School 2022 (4NA).pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Book%20Lists/2022/Broadrick%20Secondary%20School%202022%20(4NA).pdf)  
-[Broadrick Secondary School 2022 (4NT).pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Book%20Lists/2022/Broadrick%20Secondary%20School%202022%20(4NT).pdf)  
-[Broadrick Secondary School 2022 (5NA).pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Book%20Lists/2022/Broadrick%20Secondary%20School%202022%20(5NA).pdf)
+[Broadrick Secondary School 2022 (4E).pdf](/files/Broadrick%20Secondary%20School%202022%20(4E).pdf) <br>
+[Broadrick Secondary School 2022 (4NA).pdf](/files/Broadrick%20Secondary%20School%202022%20(4NA).pdf) <br>
+[Broadrick Secondary School 2022 (4NT).pdf](/files/Broadrick%20Secondary%20School%202022%20(4NT).pdf) <br>
+[Broadrick Secondary School 2022 (5NA).pdf](/files/Broadrick%20Secondary%20School%202022%20(5NA).pdf)
