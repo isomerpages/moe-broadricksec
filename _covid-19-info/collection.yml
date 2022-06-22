@@ -2,4 +2,5 @@ collections:
   covid-19-info:
     output: true
     order:
+      - Why Vaccinate your child?.md
       - Vaccination Exercise for Students.md
