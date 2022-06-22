@@ -12,3 +12,4 @@ third_nav_title: Teachers
 
 [SC Mobile](https://scmobile.moe.edu.sg/login)
 
+[Student Learning Space](https://vle.learning.moe.edu.sg/login)
