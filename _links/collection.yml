@@ -2,6 +2,5 @@ collections:
   links:
     output: true
     order:
-      - Students/Students.md
       - Students/2022 Class Time Table.md
       - Students/.keep
