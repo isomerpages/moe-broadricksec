@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Students/Classroom Allocation.md
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
@@ -13,3 +12,4 @@ collections:
       - Students/Book Lists.md
       - Students/My Skills Future (Secondary).md
       - Students/Financial Assistance.md
+      - Students/Classroom Allocation.md
