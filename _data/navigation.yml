@@ -21,5 +21,7 @@ links:
         url: /files/LEAPS.pdf
       - title: CCA Infokit 2022
         url: /cca/cca-infokit-2022
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
   - title: Resources
     resource_room: true
