@@ -51,7 +51,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/modern-dance"> 
+<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/concert-band"> 
 <img src="/images/concert.png" 
      style="width:30%">
 </a>
