@@ -1,4 +1,5 @@
 collections:
   covid-19-info:
     output: true
-    order: []
+    order:
+      - Vaccination Exercise for Students.md
