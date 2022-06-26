@@ -11,3 +11,19 @@ third_nav_title: Parents
 [Sec 1 Camp Briefing Slides 2021](/files/Sec%201%20OALC%20Briefing%20Slides%2021%20April_Website.pdf) <br>
 [DMA Parent Engagement Info.pdf](/files/DMA%20Parent%20Engagement%20Slides_20%20Apr_For%20Website.pdf) <br>
 [2021 MOE-OBS Parent Brief Slides](/files/2021%20MOE-OBS%20Parent%20Brief%20Slides_for%20upload.pdf)
+
+##### Letter to Parents
+[SEC 4 5 PTM.pdf](/files/SEC%204%205%20PTM.pdf) <br>
+[Letter to Parents WA1 Sec 1](/files/Letter_to_Parents_2021_WA1_Sec1.pdf) <br>
+[Letter to Parents WA1 Sec 2](/files/Letter_to_Parents_2021_WA1_Sec2.pdf) <br>
+[Letter to Parents WA1 Sec 3](/files/Letter_to_Parents_2021_WA1_Sec3.pdf) <br>
+[Letter to Parents WA1 Sec 4/5](/files/Letter_to_Parents_2021_WA1_Sec4_Sec5.pdf) <br>
+[Term 2 Letter to Parents](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/2021%20BRD%20Term%202%20Letter%20to%20Parents_cleared.pdf)  
+[2021 WA2 Letter to Parent Sec 1.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20WA2%20Letter%20to%20Parent%20Sec%201.pdf)  
+[2021 MYE Letter to Parent Sec 2Exp.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%202Exp.pdf)  
+[2021 MYE Letter to Parent Sec 2NA.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%202NA.pdf)  
+[2021 MYE Letter to Parent Sec 2NT.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%202NT.pdf)  
+[2021 WA2 Letter to Parent Sec 3.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20WA2%20Letter%20to%20Parent%20Sec%203.pdf)  
+[2021 MYE Letter to Parent Sec 4E5N.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%204E5N.pdf)  
+[2021 MYE Letter to Parent Sec 4NA.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%204NA.pdf)  
+[2021 MYE Letter to Parent Sec 4NT.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%204NT.pdf)
