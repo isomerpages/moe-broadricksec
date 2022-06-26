@@ -99,9 +99,9 @@ At Broadrick Secondary School, the _eTeens_ programme will be implemented as f
 **Information for Parents** <br>
 10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.      Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year via PG and is also downloadable [here](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Sexuality%20Education/2022/Sexuality%20Education_Opt%20Out%20form%202022_Annex%20A.pdf) . The completed form is to be submitted by 18/02/2022.
+11.      Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year via PG and is also downloadable [here](/files/Sexuality%20Education_Opt%20Out%20form%202022_Annex%20A.pdf). The completed form is to be submitted by 18/02/2022.
 
-12.      Parents who wish to opt their children out of the _eTeens_ programme need to complete an opt-out form. This form will be distributed to parents at the start of the year via PG and is also downloadable [here](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Links/Sexuality%20Education/2022/eTeens%20Parents%20Opt-out%20Form%20Sec%202022_Annex%20B.pdf) .  The completed form is to be submitted by 18/02/2022.
+12.      Parents who wish to opt their children out of the _eTeens_ programme need to complete an opt-out form. This form will be distributed to parents at the start of the year via PG and is also downloadable [here](/files/eTeens%20Parents%20Opt-out%20Form%20Sec%202022_Annex%20B.pdf).  The completed form is to be submitted by 18/02/2022.
 
 13.      Parents can contact the school at 63445025 or email us at [broadrick\_ss@moe.edu.sg](mailto:broadrick_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
