@@ -27,3 +27,13 @@ third_nav_title: Parents
 [2021 MYE Letter to Parent Sec 4E5N.pdf](/files/2021%20MYE%20Letter%20to%20Parent%20Sec%204E5N.pdf) <br>
 [2021 MYE Letter to Parent Sec 4NA.pdf](/files/2021%20MYE%20Letter%20to%20Parent%20Sec%204NA.pdf) <br>
 [2021 MYE Letter to Parent Sec 4NT.pdf](/files/2021%20MYE%20Letter%20to%20Parent%20Sec%204NT.pdf)
+
+[2021 BRD End of Term 2 Letter to Parents.pdf](/files/2021%20BRD%20End%20of%20Term%202%20Letter%20to%20Parents.pdf) <br>
+[2021 BRD Term 3 Letter to Parents.pdf](/files/2021%20BRD%20Term%203%20Letter%20to%20Parents.pdf) <br>
+[Letter to Parents on Further Updates to LOA AA Policy.pdf](/files/Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy.pdf)
+
+##### Guide to working with your children
+[Supporting Your Child through the Teenage Years](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Info%20For%20Parents/Supporting%20Your%20Child%20through%20the%20Teenage%20Years%20(BRD%20Resource).pdf) [Supporting Your Child in the Digital Age](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Info%20For%20Parents/Supporting%20Your%20Child%20in%20the%20Digital%20Age%20(BRD%20Resource).pdf)  
+[Effective Communication with your Child](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Info%20For%20Parents/Effective%20Communication%20with%20your%20Child%20(BRD%20Resource).pdf)  
+[Parent Handbook I on 1to1 Learning.pdf](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Letters%20to%20Parents/2021/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)  
+[Cyber Wellness for your Child.pdf](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Letters%20to%20Parents/2021/cyber-wellness-for-your-child.pdf)
