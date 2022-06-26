@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - General/Examination Information.md
       - General/.keep
       - General/Book Lists.md
       - General/Sexuality Education 2022.md
@@ -18,6 +17,7 @@ collections:
       - General/Parents Gateway.md
       - General/Weighted Assesment.md
       - General/Sexuality Education.md
+      - General/Examination Information.md
       - General/Parent Teacher Meeting.md
       - Students/.keep
       - Students/2022 Class Time Table.md
