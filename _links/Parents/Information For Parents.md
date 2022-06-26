@@ -24,7 +24,6 @@ third_nav_title: Parents
 [2021 MYE Letter to Parent Sec 2NA.pdf](/files/2021%20MYE%20Letter%20to%20Parent%20Sec%202NA.pdf) <br>
 [2021 MYE Letter to Parent Sec 2NT.pdf](/files/2021%20MYE%20Letter%20to%20Parent%20Sec%202NT.pdf) <br>
 [2021 WA2 Letter to Parent Sec 3.pdf](/files/2021%20WA2%20Letter%20to%20Parent%20Sec%203.pdf) <br>
-
-[2021 MYE Letter to Parent Sec 4E5N.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%204E5N.pdf)  
-[2021 MYE Letter to Parent Sec 4NA.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%204NA.pdf)  
-[2021 MYE Letter to Parent Sec 4NT.pdf](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/qql/slot/u518/Latest%20News/2021/MYE/2021%20MYE%20Letter%20to%20Parent%20Sec%204NT.pdf)
+[2021 MYE Letter to Parent Sec 4E5N.pdf](/files/2021%20MYE%20Letter%20to%20Parent%20Sec%204E5N.pdf) <br>
+[2021 MYE Letter to Parent Sec 4NA.pdf](/files/2021%20MYE%20Letter%20to%20Parent%20Sec%204NA.pdf) <br>
+[2021 MYE Letter to Parent Sec 4NT.pdf](/files/2021%20MYE%20Letter%20to%20Parent%20Sec%204NT.pdf)
