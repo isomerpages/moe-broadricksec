@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - General/Sec 3 Adventure Camp Updates.md
       - General/Forms Download.md
       - General/.keep
       - Students/.keep
