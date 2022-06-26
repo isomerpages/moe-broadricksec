@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 ---
 <img src="/images/PG.jpg" 
-     style="width:40%">
+     style="width:30%">
 		 
 Dear Parents,
 
