@@ -31,6 +31,6 @@ BSS may collect Personal Data for the following:
 4. Verification and update;
 5. Security purpose
 
-Please contact Broadrick Secondary School by telephone on 63445025 or by email at broadrick_ss@moe.edu.sg if you <br>
+Please contact Broadrick Secondary School by telephone on 63445025 or by email at <a href="mailto:broadrick_ss@moe.edu.sg">broadrick_ss@moe.edu.sg </a> if you <br>
 (a) have any enquiries or feedback on our data protection policies and procedures, <br>
 (b) need more information on or access to the data which you have provided to us in the past.
