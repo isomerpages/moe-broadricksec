@@ -63,5 +63,23 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 | Respectful Relationships & Safety | 1A<br>(60 mins) | <br>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br> | <br>Term 2 Week 4 |
 |  | 1B<br>(60 mins) | <br>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>Know that a decision to end a relationship will have consequences on oneself and others.<br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br> | Term 2 Week 5 |
 |  | 2<br>(60 mins) | Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 6 |
+| | | |
+
+##### Secondary 4
+| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+|---|---|---|---|
+| Respectful Relationships & Safety | 1<br>(60 mins) | <br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br> | Term 2 Week 4 |
+|  | 2<br>(60 mins) | <br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship. | Term 2 Week 5 |
+|  | 3<br>(60 mins) | <br>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage. | Term 2 Week 6 |
+|   | 4<br>(60 mins) | <br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 7 |
 | | | | 
+
+*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”.
+
+###### Secondary 5
+| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+|---|---|---|---|
+| Respectful Relationships & Safety | 1<br>(60 mins) | <br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 4 |
+| | | | | 
+
 
