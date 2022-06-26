@@ -33,7 +33,8 @@ third_nav_title: Parents
 [Letter to Parents on Further Updates to LOA AA Policy.pdf](/files/Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy.pdf)
 
 ##### Guide to working with your children
-[Supporting Your Child through the Teenage Years](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Info%20For%20Parents/Supporting%20Your%20Child%20through%20the%20Teenage%20Years%20(BRD%20Resource).pdf) [Supporting Your Child in the Digital Age](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Info%20For%20Parents/Supporting%20Your%20Child%20in%20the%20Digital%20Age%20(BRD%20Resource).pdf)  
-[Effective Communication with your Child](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Info%20For%20Parents/Effective%20Communication%20with%20your%20Child%20(BRD%20Resource).pdf)  
-[Parent Handbook I on 1to1 Learning.pdf](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Letters%20to%20Parents/2021/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)  
-[Cyber Wellness for your Child.pdf](https://www.broadricksec.moe.edu.sg/qql/slot/u518/Links/Letters%20to%20Parents/2021/cyber-wellness-for-your-child.pdf)
+[Supporting Your Child through the Teenage Years](/files/Supporting%20Your%20Child%20through%20the%20Teenage%20Years%20(BRD%20Resource).pdf) <br>
+[Supporting Your Child in the Digital Age](/files/Supporting%20Your%20Child%20in%20the%20Digital%20Age%20(BRD%20Resource).pdf) <br>
+[Effective Communication with your Child](/files/Effective%20Communication%20with%20your%20Child%20(BRD%20Resource).pdf) <br>
+[Parent Handbook I on 1to1 Learning.pdf](/files/Parent%20Handbook%20I%20on%2011%20Learning.pdf) <br>
+[Cyber Wellness for your Child.pdf](/files/cyber-wellness-for-yourchild.pdf)
