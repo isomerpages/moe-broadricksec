@@ -55,4 +55,13 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 | Respectful Relationships & Safety | 1<br>(60 mins) | <br>Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>Understand what sexual orientation entails | Term 3 Week 5 |
 |  | 2A<br>(60 mins) | <br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 8 |
 |  | 2B<br>(60 mins) | <br>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 4 Week 1 |
+| | | |
+
+##### Secondary 3
+| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+|---|---|---|---|
+| Respectful Relationships & Safety | 1A<br>(60 mins) | <br>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br> | <br>Term 2 Week 4 |
+|  | 1B<br>(60 mins) | <br>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>Know that a decision to end a relationship will have consequences on oneself and others.<br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br> | Term 2 Week 5 |
+|  | 2<br>(60 mins) | Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 6 |
 | | | | 
+
