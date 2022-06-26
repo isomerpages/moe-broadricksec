@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - General/Parents Gateway.md
       - General/.keep
       - General/Book Lists.md
       - General/Sexuality Education 2022.md
@@ -15,6 +14,7 @@ collections:
       - General/Sec 3 Adventure Camp Updates.md
       - General/Registration links for Parents' Forum on Early Admission
         Exercise.md
+      - General/Parents Gateway.md
       - General/Weighted Assesment.md
       - General/Sexuality Education.md
       - General/Parent Teacher Meeting.md
