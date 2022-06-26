@@ -42,6 +42,7 @@ b.    Character and Citizenship Education (CCE)
 At Broadrick Secondary School, the following Sexuality Education lessons will be taught in 2022:
 
 ##### Secondary 1
+
 | UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Respectful Relationships & Safety<br> <br>  | 1<br>(60 mins) | <br>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br> | Term 3 Week 5 |
@@ -50,6 +51,7 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 | | | | |
 
 ##### Secondary 2
+
 | UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Respectful Relationships & Safety | 1<br>(60 mins) | <br>Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>Understand what sexual orientation entails | Term 3 Week 5 |
@@ -58,6 +60,7 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 | | | |
 
 ##### Secondary 3
+
 | UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Respectful Relationships & Safety | 1A<br>(60 mins) | <br>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br> | <br>Term 2 Week 4 |
@@ -66,6 +69,7 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 | | | |
 
 ##### Secondary 4
+
 | UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Respectful Relationships & Safety | 1<br>(60 mins) | <br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br> | Term 2 Week 4 |
@@ -77,6 +81,7 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 *CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”.
 
 ###### Secondary 5
+
 | UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Respectful Relationships & Safety | 1<br>(60 mins) | <br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 4 |
