@@ -2,12 +2,12 @@ collections:
   links:
     output: true
     order:
-      - General/Parent Teacher Meeting.md
       - General/.keep
       - General/Forms Download.md
       - General/Sec 3 Adventure Camp Updates.md
       - General/Weighted Assesment.md
       - General/Sexuality Education.md
+      - General/Parent Teacher Meeting.md
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
