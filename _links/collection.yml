@@ -2,9 +2,9 @@ collections:
   links:
     output: true
     order:
-      - General/Sec 3 Adventure Camp Updates.md
-      - General/Forms Download.md
       - General/.keep
+      - General/Forms Download.md
+      - General/Sec 3 Adventure Camp Updates.md
       - Students/.keep
       - Students/2022 Class Time Table.md
       - Students/Examination Information.md
