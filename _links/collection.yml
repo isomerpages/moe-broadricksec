@@ -2,13 +2,13 @@ collections:
   links:
     output: true
     order:
-      - General/Financial Assistance.md
       - General/.keep
       - General/Book Lists.md
       - General/Sexuality Education 2022.md
       - General/Letters to Parents.md
       - General/Forms Download.md
       - General/Information For Parents.md
+      - General/Financial Assistance.md
       - General/Sec 3 Adventure Camp Updates.md
       - General/Weighted Assesment.md
       - General/Sexuality Education.md
