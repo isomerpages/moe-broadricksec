@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - General/Sexuality Education.md
       - General/.keep
       - General/Forms Download.md
       - General/Sec 3 Adventure Camp Updates.md
