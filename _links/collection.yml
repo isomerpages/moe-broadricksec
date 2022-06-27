@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - General/Common Test Time Table.md
       - General/Examination Timetable.md
       - General/.keep
       - General/Book Lists.md
