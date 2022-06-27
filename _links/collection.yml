@@ -2,9 +2,9 @@ collections:
   links:
     output: true
     order:
-      - General/Common Test Time Table.md
-      - General/Examination Timetable.md
       - General/.keep
+      - General/Examination Timetable.md
+      - General/Common Test Time Table.md
       - General/Book Lists.md
       - General/Sexuality Education 2022.md
       - General/Letters to Parents.md
