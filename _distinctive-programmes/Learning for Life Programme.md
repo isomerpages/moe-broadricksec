@@ -21,7 +21,7 @@ They are given platforms to develop team-building skills and get to serve the sc
 
 <figure>  
 <img src="/images/llp1.jpg">  
-<figcaption> Sec 1 students participating in "Save that Pen" project. </figcaption>  
+	<figcaption> <strong> Sec 1 students participating in "Save that Pen" project. </strong> </figcaption>  
 </figure>
 
 **Sec 2 LLP Experience** <br>
@@ -37,7 +37,7 @@ Below are some examples of projects our students were involved in.
 <figure>  
 <img src="/images/llp2.jpg"
 		 style="width:60%">
-<figcaption> Gardening at an organic farm. </figcaption>  
+	<figcaption> <strong> Gardening at an organic farm. </strong> </figcaption>  
 </figure>
 
 A pre-loved items collection drive to raise funds for the financially needy families.
@@ -45,7 +45,7 @@ A pre-loved items collection drive to raise funds for the financially needy fami
 <figure>  
 <img src="/images/llp4.jpg"
 		 style="width:60%">
-<figcaption> It takes a Village.....to raise funds! </figcaption> 
+<figcaption> <strong> It takes a Village.....to raise funds! </strong> </figcaption> 
 </figure>
 
 <img src="/images/llp5.jpg"
@@ -76,5 +76,5 @@ With news to redevelop Dakota Crescent, the elderly were relocated to nearby HDB
 <figure>  
 <img src="/images/llp12.png"
 		 style="width:90%">
-<figcaption> All smiles at Hearty Breakfast! </figcaption> 
+	<figcaption> <strong> All smiles at Hearty Breakfast! </strong> </figcaption> 
 </figure>
