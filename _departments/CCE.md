@@ -21,17 +21,17 @@ A dynamic department providing engaging programmes to prepare future ready learn
 <figure>  
 <img src="/images/cce1.png"
 		 		  style="width:80%">
-<figcaption> Courtesy of Mr Koh Kim Chay </figcaption>  
+	<figcaption> <strong> Students accompanying the elderly to visit Jewel Changi </strong> </figcaption>  
 </figure>
 
 <figure>  
 <img src="/images/cce2.png"
 		  style="width:80%">
-<figcaption> Students guiding their primary school counterparts from <br> Kong Hwa School during their Sec 2 VIA project </figcaption>  
+<figcaption> <strong> Students guiding their primary school counterparts from <br> Kong Hwa School during their Sec 2 VIA project </strong> </figcaption>  
 </figure>
 
 <figure>  
 <img src="/images/cce3.png"
 		  style="width:70%">
-<figcaption> Students presenting their ideas during the ECG Learning Journey to MBS. </figcaption>  
+<figcaption> <strong> Students presenting their ideas during the ECG Learning Journey to MBS. </strong> </figcaption>  
 </figure>
