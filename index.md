@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Latest News
           description: ""
-          url: /links/students/book-lists
+          url: /links/general/examination-timetable
       subtitle: Nurturing Broadricians to be Future-Ready learners with Strength of
         Character
       button: Frequently Asked Questions
