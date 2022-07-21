@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-broadricksec-staging.netlify.app
 prod: https://moe-broadricksec-prod.netlify.app
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
