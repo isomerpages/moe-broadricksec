@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "Broadrick Secondary School "
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -30,3 +30,4 @@ sections:
       image: /images/maths123.jpg
       alt: Mandatory security measures
 ---
+
