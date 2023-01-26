@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Broadrick Secondary School
-      background: /images/gif-maker.gif
+      background: /images/Banner1v2.jpg
       key_highlights:
         - title: Latest News
           description: ""
