@@ -1,12 +1,12 @@
 ---
 title: Staff Information
-permalink: /school/staff-information
+permalink: /school/staff-information/
 description: ""
 ---
 | School Leaders |  |
 |---|---|
-| **Principal** <br> <br> Mrs Tan Lay Hong <br> [broadrick\_ss@moe.edu.sg](mailto:broadrick_ss@moe.edu.sg) |  |
-| **Vice-Principal** <br> <br> Mr Kenneth Quek <br> [broadrick\_ss@moe.edu.sg](mailto:broadrick_ss@moe.edu.sg) | **Vice-Principal** <br> <br> Mdm Sutinah Bte Taib <br> [broadrick\_ss@moe.edu.sg](mailto:broadrick_ss@moe.edu.sg) |
+| **Principal** <br> <br> Mr Ng Tiong Nam<br> [broadrick\_ss@moe.edu.sg](mailto:broadrick_ss@moe.edu.sg) |  |
+| **Vice-Principal** <br> <br> Mr Kenneth Quek <br> [broadrick\_ss@moe.edu.sg](mailto:broadrick_ss@moe.edu.sg) | **Vice-Principal** <br> <br> Mr Bambang Purnama Putra Shakni <br> [broadrick\_ss@moe.edu.sg](mailto:broadrick_ss@moe.edu.sg) |
 | | |
 
 | HODs, SHs, STs and LTs |  |
