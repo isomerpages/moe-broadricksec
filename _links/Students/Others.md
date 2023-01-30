@@ -1,6 +1,6 @@
 ---
 title: Others
-permalink: /links/students/others
+permalink: /links/students/others/
 description: ""
 third_nav_title: Students
 ---
@@ -10,6 +10,5 @@ third_nav_title: Students
 
 [My Skillsfuture - Secondary](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
-[2022 SEC 1 CCA Selection](https://docs.google.com/forms/d/e/1FAIpQLSeuDctt-5VPXoqmNpzglvcUN5rm3rCkM0M0GS4k2mRCIJNv7g/closedform)
 
 [Online Travel Declaration](https://docs.google.com/forms/d/e/1FAIpQLSc-4B3ZNAJlk0E2T_D420-NDWXJlJEZHTPUbG9sN-ZjVJRxqw/viewform)
