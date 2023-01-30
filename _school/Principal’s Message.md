@@ -5,7 +5,7 @@ description: ""
 ---
 ##### Principal's Message
 
-![Mr Ng Tiong Nam]()
+![](/images/IMG_9923.jpeg)
 I am Mr Ng, the new Principal and I am honoured and excited to take over the helm of Broadrick Secondary School. I would first like to thank my predecessor – Mrs Tan Lay Hong for all the good work and strong foundation laid in her years with Broadrick since its merger in 2017. My focus for 2023 is to develop and grow students who enter our school gate and journey their secondary school years with us. Through firm values and morals, the indomitable human spirit, to strive for continuous progress and excellence, will be imbued. To engender Broadricians to be the best version of themselves, all aspects will then fall in place – doing well academically, being caring individuals, being responsible citizens and individuals of integrity. 
 
 To achieve this end, I would like to introduce Key Success Factors (KSF). Under KSF, there are several factors to leverage but for 2023, I would like to focus on a couple first and build on the rest in the next few years.
@@ -39,7 +39,7 @@ Thank you and wishing one and all a meaningful 2023.  
 Mr Ng Tiong Nam
 Principal
 
-![SLs]()
+![](/images/SLs%20in%20garden.jpeg)
 I look forward to work closely with my SL Team (Mr. Kenneth Quek and Mr. Bambang Purnama) to bring about A Dynamic School providing Holistic Education as we Nurture Broadricians to be Future-Ready Learners with Strength of Character
 
 
