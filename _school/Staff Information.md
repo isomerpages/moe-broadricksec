@@ -67,7 +67,7 @@ description: ""
 
 | Executive and Administrative Staff | |
 |---|---|
-| Admin Manager <br> <br> Mdm Thun Siew Lin <br> [thun\_Siew\_Lin@schools.gov.sg](mailto:THUN_Siew_Lin@moe.gov.sg) |  |
+| Admin Manager <br> <br> Mdm Thun Siew Lin <br> [thun\_Siew\_Lin@schools.gov.sg](mailto:THUN_Siew_Lin@moe.gov.sg) | Admin Executive <br><br> Sri Amirah Binte Suhairi <br> [sri\_amirah\_suhairi@moe.edu.sg](mailto:sri_amirah_suhairi@moe.edu.sg)  |
 | Operations Manager 1 <br><br> Mr. Alan Tan <br>[tan\_choon\_chuan@moe.edu.sg](mailto:tan_choon_chuan@moe.edu.sg) | Operations Manager 2 <br><br> Mr Arrivalaganu Suppiah <br> [arrivalaganu\_suppiah@moe.edu.sg](mailto:arrivalaganu_suppiah@moe.edu.sg) |
 | TSO <br><br> Mr Mogandas Kanapathy <br> [mogandass\_kanapathy@moe.edu.sg](mailto:mogandass_kanapathy@moe.edu.sg) | TSO <br><br> Ms Ngiam Chay Koon <br> [ngiam\_chay\_koon@moe.edu.sg](mailto:ngiam_chay_koon@moe.edu.sg) |
 | Admin Executive <br><br> Sri Amirah Binte Suhairi <br> [sri\_amirah\_suhairi@moe.edu.sg](mailto:sri_amirah_suhairi@moe.edu.sg) | CSO <br><br> Mdm Tan Kah Seok Jeslin <br> [tan\_kah\_seok@moe.edu.sg](mailto:tan_kah_seok@moe.edu.sg) |
