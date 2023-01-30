@@ -4,16 +4,17 @@ permalink: /links/students/2022-class-time-table/
 description: ""
 third_nav_title: Students
 ---
-
 ### 2023 Semester 1 Time Table
-[Sec 1 Sem 1 Timetable]()
+[Sec 1 Sem 1 Timetable](/files/2023_SEM1_TT-Classes%20(Sec1)_v2.pdf)<br>
+[Sec 2 Sem 1 Timetable](/files/2023_SEM1_TT-Classes%20(Sec2).pdf)
+<br>
+[Sec 3 Sem 1 Timetable](/files/2023_SEM1_TT-Classes%20(Sec3)_v2.pdf)
+<br>
+[Sec 4-5 Sem 1 Timetable](/files/2023_SEM1_TT-Classes%20(Sec4&5)_v2.pdf)
 
 ### 2023 March HAP Time Table
-[MAR HAP Timetable](/files/MAR%20HAP%20Timetable.pdf)
+
 
 
 
 ### 2023 Semester 2 Time Table
-
-
-
