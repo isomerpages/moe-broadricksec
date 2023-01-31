@@ -1,6 +1,6 @@
 ---
 title: SAC
-permalink: /partners/sac
+permalink: /partners/sac/
 description: ""
 ---
 **School Advisory Committee**

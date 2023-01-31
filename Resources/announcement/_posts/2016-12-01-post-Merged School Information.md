@@ -1,6 +1,6 @@
 ---
 title: Merged School Information
-permalink: /Resources/annoucement/merged-school-information
+permalink: /Resources/annoucement/merged-school-information/
 date: 2016-12-01
 layout: post
 description: ""

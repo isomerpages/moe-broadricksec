@@ -1,6 +1,6 @@
 ---
 title: Vision Mission Values
-permalink: /school/vision-mission-values
+permalink: /school/vision-mission-values/
 description: ""
 ---
 ### School Vision

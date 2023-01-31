@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme
-permalink: /distinctive-programmes/applied-learning-programme
+permalink: /distinctive-programmes/applied-learning-programme/
 description: ""
 ---
 “Broadrick Entrepreneurship in STEM” seeks to nurture entrepreneurship, critical and inventive thinking in students. Our “Entrepreneurship in STEM” programme aims to help our students to become inquisitive leaders, critical and creative thinkers who embrace the spirit of creativity and enterprise.  This is achieved through a two-tiered Applied Learning Programme

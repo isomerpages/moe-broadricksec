@@ -1,6 +1,6 @@
 ---
 title: PDLP INFO
-permalink: /pdlp-info
+permalink: /pdlp-info/
 description: ""
 ---
 **Personal Digital Learning Device Information**

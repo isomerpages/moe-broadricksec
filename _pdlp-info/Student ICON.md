@@ -1,6 +1,6 @@
 ---
 title: Student ICON
-permalink: /pdlp-info/student-icon
+permalink: /pdlp-info/student-icon/
 description: ""
 ---
 ##### Frequently Asked Questions 

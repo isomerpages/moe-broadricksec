@@ -1,6 +1,6 @@
 ---
 title: Our Heritage
-permalink: /school/our-heritage
+permalink: /school/our-heritage/
 description: ""
 ---
 **Dakota Crescent SIT Flats** 

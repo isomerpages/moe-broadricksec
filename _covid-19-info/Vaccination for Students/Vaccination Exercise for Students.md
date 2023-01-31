@@ -1,6 +1,6 @@
 ---
 title: Vaccination Exercise for Students
-permalink: /covid-19-info/vaccination-exercise-for-students
+permalink: /covid-19-info/vaccination-exercise-for-students/
 description: ""
 third_nav_title: Vaccination for Students
 ---

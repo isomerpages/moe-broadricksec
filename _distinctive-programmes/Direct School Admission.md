@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /distinctive-programmes/direct-school-admission
+permalink: /distinctive-programmes/direct-school-admission/
 description: ""
 ---
 ##### 2022 DIRECT SCHOOL ADMISSION INTO SECONDARY SCHOOLS (DSA-SEC) for Admission to Secondary 1 in 2023

@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /distinctive-programmes/learning-for-life-programme
+permalink: /distinctive-programmes/learning-for-life-programme/
 description: ""
 ---
 In Broadrick Secondary School, we are strongly committed to delivering holistic education to our students. The Learning for Life Programme at Broadrick Secondary School seeks to nurture Confidence And REsilience (CARE) through Aesthetic, Community and Youth Leadership.

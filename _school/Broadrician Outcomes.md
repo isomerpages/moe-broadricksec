@@ -1,6 +1,6 @@
 ---
 title: Broadrician Outcomes
-permalink: /school/broadrician-outcomes
+permalink: /school/broadrician-outcomes/
 description: ""
 ---
 The Broadrician Outcomes are attributes that the school aspires for every Broadrician to have by the end of his education here in Broadrick. These outcomes are aligned to the school’s Vision and Mission and there are two key areas 

@@ -1,6 +1,6 @@
 ---
 title: PE & CCA
-permalink: /departments/pe-cca
+permalink: /departments/pe-cca/
 description: ""
 ---
 ### Department Mission

@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /school/about-us
+permalink: /school/about-us/
 description: ""
 ---
 ### School Crest
