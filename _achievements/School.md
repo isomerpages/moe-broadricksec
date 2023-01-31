@@ -1,6 +1,6 @@
 ---
 title: School
-permalink: /achievements/school
+permalink: /achievements/school/
 description: ""
 ---
 | Year<br> | Awards<br> |  |

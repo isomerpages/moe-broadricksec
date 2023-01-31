@@ -1,6 +1,6 @@
 ---
 title: GEAR UP @ Broadrick
-permalink: /distinctive-programmes/gear-up-at-broadrick
+permalink: /distinctive-programmes/gear-up-at-broadrick/
 description: ""
 ---
 The GEAR-UP (**G**uiding & **E**mpowering **S**tudents for **A**ffiliation & **R**esilience to **U**nlock their **P**otential) Programme @ Broadrick is a school-based integrated support programme to enhance students’ learning motivation, strengthen their school connectedness and build their resilience.

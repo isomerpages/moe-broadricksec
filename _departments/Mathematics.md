@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /departments/mathematics
+permalink: /departments/mathematics/
 description: ""
 ---
 ### Vision & Mission

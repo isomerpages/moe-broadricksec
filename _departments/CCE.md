@@ -1,6 +1,6 @@
 ---
 title: CCE
-permalink: /departments/cce
+permalink: /departments/cce/
 description: ""
 ---
 ### Department Vision

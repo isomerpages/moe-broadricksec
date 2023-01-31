@@ -1,6 +1,6 @@
 ---
 title: ICT
-permalink: /departments/ict
+permalink: /departments/ict/
 description: ""
 ---
 ### Department Vision

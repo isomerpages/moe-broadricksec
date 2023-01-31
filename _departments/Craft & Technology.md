@@ -1,6 +1,6 @@
 ---
 title: Craft & Technology
-permalink: /departments/craft-n-technology
+permalink: /departments/craft-n-technology/
 description: ""
 ---
 ### Department Vision

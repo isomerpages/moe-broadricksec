@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /partners/alumni
+permalink: /partners/alumni/
 description: ""
 ---
 ![](/images/ba.jpg)

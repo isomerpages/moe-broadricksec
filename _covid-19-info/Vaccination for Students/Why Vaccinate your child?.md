@@ -1,6 +1,6 @@
 ---
 title: Why Vaccinate your child?
-permalink: /covid-19-info/vaccination-exercise-for-students/why-vaccinate-your-child
+permalink: /covid-19-info/vaccination-exercise-for-students/why-vaccinate-your-child/
 description: ""
 third_nav_title: Vaccination for Students
 ---
