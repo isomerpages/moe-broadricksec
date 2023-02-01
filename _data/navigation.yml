@@ -1,13 +1,33 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/school flag1.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: School
+    collection: school
+  - title: Departments
+    collection: departments
+  - title: Achievements
+    collection: achievements
+  - title: CCA
+    url: /cca/uniformed-groups
+    sublinks:
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups
+      - title: Physical Sports
+        url: /cca/physical-sports
+      - title: Visual Performing Arts
+        url: /cca/visual-performing-arts
+      - title: Club and Societies
+        url: /cca/club-and-societies
+      - title: Leaps 2.0
+        url: /files/LEAPS.pdf
+      - title: CCA Infokit 2022
+        url: /cca/cca-infokit-2022
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Partners
+    collection: partners
+  - title: COVID 19 INFO
+    collection: covid-19-info
+  - title: PDLP INFO
+    collection: pdlp-info
+  - title: Links
+    collection: links
