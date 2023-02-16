@@ -10,7 +10,9 @@ third_nav_title: Physical Sports
      style="width:30%">
 </a>
 <figcaption> Mr Tay Min Thong <br>
-Mr Michael Foong
+Mr Nicholas Teo<br>
+	MS Chen Huiyi
+	
 
 <p> </p>
 	
@@ -25,7 +27,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </a>
 <figcaption> Ms Yeo Lishan <br>
 Mrs Tan Meow Choon <br>
-Ms Ho Scion
+Ms ELizabeth Chan
 
 <p> </p>
 	
@@ -43,7 +45,7 @@ Schedule pending Covid SMM Guidelines </figcaption>
 <figcaption> Mdm Rohani <br>
 Mr Yong Jui Jin <br>
 Mdm Ding Ni <br>
-Ms Chrystal Ngerng
+Ms Nadirah
 
 <p> </p>
 	
@@ -56,7 +58,8 @@ Friday: 2.30pm - 5.30pm </figcaption>
 <img src="/images/tchouckball.png" 
      style="width:30%">
 </a>
-<figcaption> Mr Fadli
+<figcaption> Mr Fadli<br>
+	Ms Amanda de Souza
 
 <p> </p>
 	
