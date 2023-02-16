@@ -15,8 +15,8 @@ sections:
           url: /links/students/assessment-schedule/
       subtitle: Nurturing Broadricians to be Future-Ready learners with Strength of
         Character
-      button: Frequently Asked Questions
-      url: /faq
+      button: Contact Us
+      url: /contact-us/
   - infopic:
       title: Blended Learning (HBL) 21/02/23
       subtitle: "Announcement:"
