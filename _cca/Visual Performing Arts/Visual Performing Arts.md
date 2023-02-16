@@ -11,8 +11,8 @@ third_nav_title: Visual Performing Arts
 </a>
 <figcaption> Ms Loo Puay Ling <br>
 Miss Seri Hannah <br>
-Ms Yusnita <br>
-Mdm Usha
+Mrs Zheng Xiaojuan <br>
+Ms Charmaine Low
 	
 <p> </p>
 	
@@ -42,7 +42,8 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </a>
 <figcaption> Ms Liu Siew Lee <br>
 Ms Chantel Tan <br>
-Mdm He Fei
+Ms Wang Huali<br>
+Mdm Kavita
 	
 <p> </p>
 	
@@ -56,8 +57,9 @@ Friday: 2.30pm - 5.30pm </figcaption>
      style="width:30%">
 </a>
 <figcaption> Mrs Vasughi Santhos <br>
-Mr Ricky Ruben <br>
-Ms Fadilah
+Ms Phyllis Loe <br>
+Ms Fadilah<br>
+	Mr Seow Yongzhi
 	
 <p> </p>
 	

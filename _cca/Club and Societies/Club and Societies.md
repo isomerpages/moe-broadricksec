@@ -11,8 +11,8 @@ third_nav_title: Club and Societies
 </a>
 <figcaption> Ms Suhaila <br>
 Mdm Meng Xin <br>
-Mr Benjamin Seethor <br>
-Ms Siti Naqiah
+<br>
+Ms Chrystl Ngerng
 
 <p> </p>
 	
@@ -26,10 +26,15 @@ Friday: 2.30pm - 5:30pm  </figcaption>
      style="width:30%">
 </a>
 <figcaption> Ms Tan Nurhafizah <br>
-Ms Nana Lee
+Mr Micheal Foong
 
 <p> </p>
 	
 Wednesday: 2.30pm - 4.30 pm <br>
 Friday: 2.30pm - 5:30pm   </figcaption>  
 </figure>
+
+ 
+
+ 
+  

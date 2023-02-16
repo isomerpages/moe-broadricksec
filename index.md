@@ -12,19 +12,19 @@ sections:
       key_highlights:
         - title: Latest News
           description: ""
-          url: /links/general/examination-timetable
+          url: /links/students/assessment-schedule/
       subtitle: Nurturing Broadricians to be Future-Ready learners with Strength of
         Character
-      button: Frequently Asked Questions
-      url: /faq
+      button: Contact Us
+      url: /contact-us/
   - infopic:
-      title: "Mandatory Security Measures "
+      title: Blended Learning (HBL) 21/02/23
       subtitle: "Announcement:"
-      description: for video conferencing platforms
+      description: Info in Term 1 Letter to Parents
       button: Read more
-      url: https://moe-broadricksec-staging.netlify.app/resources/annoucement/mandatory-security-measures-for-video-conferencing-platforms
+      url: https://moe-broadricksec-staging.netlify.app/files/2023%20BRD%20Term%201%20Letter%20to%20Parents%20(1).pdf
       image: /images/maths123.jpg
-      alt: Mandatory security measures
+      alt: BL-HBL 210223
   - resources:
       title: Announcements
       subtitle: check out the latest

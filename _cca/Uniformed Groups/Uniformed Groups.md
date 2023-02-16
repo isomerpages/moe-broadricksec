@@ -28,8 +28,7 @@ Wednesday: 2.30pm - 5.30 pm </figcaption>
 <figcaption> Mr See Woon Loon <br>
 Mr Mustafa <br>
 Ms Susana Lim <br>
-Ms Lim Shu Feng <br>
-Ms Christabel Loh
+Mr Ricky Rueban
 
 <p> </p>
 	
@@ -42,10 +41,9 @@ Friday: 3.00pm - 6.00 pm </figcaption>
      style="width:30%">
 </a>
 <figcaption> Mr Simon Yap <br>
-Mr Shahul <br>
-Ms Chen Ember <br>
-Ms Amanda De Souza <br>
-Mr Stephen Lim
+Mr Shahul Hameed<br>
+Mr Stephen Lim<br>
+	Mr Denzel Ong
 
 <p> </p>
 	
