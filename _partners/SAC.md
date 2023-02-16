@@ -5,4 +5,4 @@ description: ""
 ---
 **School Advisory Committee**
 
-![](/images/SAC%202021v2.jpg)
+![](/images/SlideSAC.jpeg)
