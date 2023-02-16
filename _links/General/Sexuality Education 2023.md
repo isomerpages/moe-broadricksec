@@ -4,8 +4,6 @@ permalink: /links/general/sexuality-education-2023/
 description: ""
 third_nav_title: General
 ---
-
-
 ### MOE Sexuality Education in Schools
 1.         Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
@@ -42,6 +40,14 @@ b.    Character and Citizenship Education (CCE)
 7.         Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 At Broadrick Secondary School, the following Sexuality Education lessons will be taught in 2022:
+<b>
+	
+	
+
+| Column 1 | Column 2 | Column 3 |cloumn4|column 5|
+| -------- | -------- | -------- |---|---|
+| Respectful Relationships & Safety    |Steady or Not<br>Lesson 1<br>(60 mins)    | This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.    |-recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>-   recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>-recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>-   understand what dating is, and recognise that the readiness and interest in dating vary among individuals|Term 3 Week 8| |Being Aware
+
 
 ##### Secondary 1
 
