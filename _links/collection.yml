@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General/.keep
-      - General/Examination Timetable.md
       - General/Book Lists.md
       - General/Sexuality Education 2023.md
       - General/Letters to Parents.md
