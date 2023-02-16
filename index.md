@@ -18,13 +18,13 @@ sections:
       button: Frequently Asked Questions
       url: /faq
   - infopic:
-      title: "Mandatory Security Measures "
+      title: Blended Learning (HBL) 21/02/23
       subtitle: "Announcement:"
-      description: for video conferencing platforms
+      description: Info in Term 1 Letter to Parents
       button: Read more
-      url: https://moe-broadricksec-staging.netlify.app/resources/annoucement/mandatory-security-measures-for-video-conferencing-platforms
+      url: https://moe-broadricksec-staging.netlify.app/files/2023%20BRD%20Term%201%20Letter%20to%20Parents%20(1).pdf
       image: /images/maths123.jpg
-      alt: Mandatory security measures
+      alt: BL-HBL 210223
   - resources:
       title: Announcements
       subtitle: check out the latest
