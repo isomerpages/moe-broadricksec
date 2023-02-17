@@ -43,71 +43,16 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 
 ##### Secondary 1
 
-| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|---|---|---|---|
-| Respectful Relationships & Safety<br> <br>  | 1<br>(60 mins) | <br>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br> | Term 3 Week 5 |
-|  | 2<br>(60 mins) | <br>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 Week 8 |
-|  | 3<br>(60 mins) | <br>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 4 Week 1 |
-| | | | |
 
-##### Secondary 2
 
-| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|---|---|---|---|
-| Respectful Relationships & Safety | 1<br>(60 mins) | <br>Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>Understand what sexual orientation entails | Term 3 Week 5 |
-|  | 2A<br>(60 mins) | <br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 8 |
-|  | 2B<br>(60 mins) | <br>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 4 Week 1 |
-| | | |
+| Unit | Lesson Title / Duration | Lesson Overview |Lesson Objective <br> At the end of the lesson, student will be able to: |Time Period<br>(e.g. Term 1 Week 2)|
+| -------- | -------- | -------- |--|---|
+| Respectful Relationships & Safety     | Steady or Not<br>Lesson 1<br>(60 mins)     | This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.    |*   recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>*   recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>*   recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>*   understand what dating is, and recognise that the readiness and interest in dating vary among individuals|Term 3 Week 8|
+  ||Being Aware, Being Safe<br>Lesson 2<br>(60 mins)|This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept|Term 3 Week 9<br>(Gender Segregated Lesson)|
+text|text|text|text|text|
 
-##### Secondary 3
 
-| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|---|---|---|---|
-| Respectful Relationships & Safety | 1A<br>(60 mins) | <br>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br> | <br>Term 2 Week 4 |
-|  | 1B<br>(60 mins) | <br>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>Know that a decision to end a relationship will have consequences on oneself and others.<br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br> | Term 2 Week 5 |
-|  | 2<br>(60 mins) | Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 6 |
-| | | |
 
-##### Secondary 4
 
-| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|---|---|---|---|
-| Respectful Relationships & Safety | 1<br>(60 mins) | <br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br> | Term 2 Week 4 |
-|  | 2<br>(60 mins) | <br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship. | Term 2 Week 5 |
-|  | 3<br>(60 mins) | <br>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage. | Term 2 Week 6 |
-|   | 4<br>(60 mins) | <br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 7 |
-| | | | 
+        
 
-*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”.
-
-##### Secondary 5
-
-| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|---|---|---|---|
-| Respectful Relationships & Safety | 1<br>(60 mins) | <br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 4 |
-| | | | |
-
-### eTeens Programme:
-
-8.         _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
-
-9.         Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
-
-At Broadrick Secondary School, the _eTeens_ programme will be implemented as follows in 2022:
-
-| Topics/Lessons | Programme Learning Objectives | Time Period<br>(e.g. Term 3 Week 9) |
-|---|---|---|
-| Mass Talk by HPB appointed vendor | ·       Awareness of the different STIs and HIV/AIDS<br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV<br>  | Term 2 Week 7 |
-| Classroom-based Lesson | ·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br>  | Term 2 Week 8 |
-| | | | 
-
-**Information for Parents** <br>
-10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
-
-11.      Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year via PG and is also downloadable [here](/files/Sexuality%20Education_Opt%20Out%20form%202022_Annex%20A.pdf). The completed form is to be submitted by 18/02/2022.
-
-12.      Parents who wish to opt their children out of the _eTeens_ programme need to complete an opt-out form. This form will be distributed to parents at the start of the year via PG and is also downloadable [here](/files/eTeens%20Parents%20Opt-out%20Form%20Sec%202022_Annex%20B.pdf).  The completed form is to be submitted by 18/02/2022.
-
-13.      Parents can contact the school at 63445025 or email us at [broadrick\_ss@moe.edu.sg](mailto:broadrick_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-
-14.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
