@@ -21,9 +21,6 @@ collections:
       - Students/Financial Assistance.md
       - Students/Classroom Allocation.md
       - Students/Others.md
-      - Teachers/.keep
-      - Teachers/Classroom Allocation Plan.md
-      - Teachers/Others.md
       - Parents/.keep
       - Parents/Letters to Parents.md
       - Parents/Letter to Parents on nCov.md
@@ -37,3 +34,6 @@ collections:
       - Parents/LEAPS 2.md
       - Parents/Registration links for Parents' Forum on Early Admission
         Exercise.md
+      - Teachers/.keep
+      - Teachers/Classroom Allocation Plan.md
+      - Teachers/Others.md
