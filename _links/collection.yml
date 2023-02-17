@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - General/.keep
+      - General/Letters to Parents.md
       - General/Book Lists.md
       - General/Sexuality Education 2023.md
-      - General/Letters to Parents.md
       - General/Forms Download.md
       - General/Financial Assistance.md
       - General/Sec 3 Adventure Camp Updates.md
