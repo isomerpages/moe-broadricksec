@@ -77,18 +77,21 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 
 | Unit | Lesson Title / Duration | Lesson Overview |Lesson Objective <br> At the end of the lesson, student will be able to: |Time Period<br>(e.g. Term 1 Week 2)|
 | -------- | -------- | -------- |--|---|
+|Respectful Relationships & Safety|Levelling the Ground<br> Lesson 1<br>(60 mins)|This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.|*   understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br><br>*   understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations<br><br>*   know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided|Term 2 Week 5|	
+||When Love Hurts<br>Lesson 2<br>(60 mins)|This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.|*   know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support<br><br>*   recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims<br><br>*   understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being<br><br>*   understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship|Term 2 Week 6
+||For Better or For Worse<br>Lesson 3<br>(60 mins)|This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.|*   know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions<br><br>*   know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort<br><br>*   understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage|Term 2 Week 7
+||There’s Always More to a Story<br>Lesson 4<br>(60 mins)|In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.|*   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs|Term 2 Week 8
+
+##### Secondary 5
+
+
+
+| Unit | Lesson Title / Duration | Lesson Overview |Lesson Objective <br> At the end of the lesson, student will be able to: |Time Period<br>(e.g. Term 1 Week 2)|
+| -------- | -------- | -------- |--|---|
+|Respectful Relationships & Safety|This is Where I Draw the Line<br>(60 mins)|In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.|*   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs|Term 2 Week 5
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+##### Secondary 5
 	
 	
 	
