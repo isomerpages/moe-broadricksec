@@ -27,7 +27,7 @@ third_nav_title: General
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education)
 
-### Overview of Broadrick Secondary School's Sexuality Education Programme for 2022
+### Overview of Broadrick Secondary School's Sexuality Education Programme for 2023
 4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)  for more information on the scope of Sexuality Education in the school curriculum.
 
 5.         The subjects that incorporate topics on sexuality include: <br>
@@ -39,14 +39,12 @@ b.    Character and Citizenship Education (CCE)
 
 7.         Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-At Broadrick Secondary School, the following Sexuality Education lessons will be taught in 2022:
+At Broadrick Secondary School, the following Sexuality Education lessons will be taught in 2023:
 <b>
 	
 	
 
-| Column 1 | Column 2 | Column 3 |cloumn4|column 5|
-| -------- | -------- | -------- |---|---|
-| Respectful Relationships & Safety    |Steady or Not<br>Lesson 1<br>(60 mins)    | This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.    |-recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>-   recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>-recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>-   understand what dating is, and recognise that the readiness and interest in dating vary among individuals|Term 3 Week 8| |Being Aware
+
 
 
 ##### Secondary 1
