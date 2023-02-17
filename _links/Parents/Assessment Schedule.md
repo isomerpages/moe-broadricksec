@@ -1,9 +1,10 @@
 ---
-title: Examination Information
-permalink: /links/general/examination-information/
+title: Assessment Schedule
+permalink: /links/students/assessment-schedule/
 description: ""
-third_nav_title: General
+third_nav_title: Parents
 ---
+
 [NA Exam schedule](/files/NA%20Exam%20schedule_EDITED%2029%20Aug.pdf) <br>
 [National Exam overall schedule](/files/National%20Exam%20overall%20schedule_EDITED%2029%20Aug%20(FInal)%20(1).pdf) <br>
 [NT Exam schedule](/files/NT%20Exam%20schedule_EDITED%2029%20Aug%20(1).pdf) <br>
