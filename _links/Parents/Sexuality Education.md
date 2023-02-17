@@ -60,3 +60,35 @@ At Broadrick Secondary School, the following Sexuality Education lessons will be
 |Respectful Relationships & Safety|A Role for Everyone<br>Lesson 1<br>(60  mins)|This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br><br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.|*   know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>*   develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>*   understand what sexual orientation entails|Term 3 Week 8<br>|
 ||Online Safety Challenge<br>Lesson 2A<br>(60 mins)|This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|*   recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline|Term 3 Week 9<br>(Gender Segregated Lesson)|
 ||Do I or Don’t I<br>Lesson 2B<br>(60 mins)|This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.|*   recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>*   recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online|Term 4 Week 1|
+	
+##### Secondary 3
+
+
+
+| Unit | Lesson Title / Duration | Lesson Overview |Lesson Objective <br> At the end of the lesson, student will be able to: |Time Period<br>(e.g. Term 1 Week 2)|
+| ---| -------- | -------- |--|---|
+|Respectful Relationships & Safety | Love Yourself, Love Others<br>Lesson 1A<br>(60 mins) | This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship. |*   know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline<br><br>*   understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours<br><br>*   recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship|Term 2 Week 4|
+|  | Mending a Broken Heart Lesson 1B<br>(60 mins) | Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. |*   know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges<br><br>*   know that a decision to end a relationship will have consequences on oneself and others<br><br>*   know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience<br><br>*   know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support|Term 2 Week 5|
+|  | When Respect Takes Centre Stage<br>Lesson 2<br>(60 mins) | This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need. |*   recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them<br><br>*   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs|Term 2 Week 6|
+	
+##### Secondary 4
+
+
+
+| Unit | Lesson Title / Duration | Lesson Overview |Lesson Objective <br> At the end of the lesson, student will be able to: |Time Period<br>(e.g. Term 1 Week 2)|
+| -------- | -------- | -------- |--|---|
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
