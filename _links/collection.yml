@@ -2,12 +2,6 @@ collections:
   links:
     output: true
     order:
-      - General/.keep
-      - General/Book Lists.md
-      - General/Sexuality Education 2023.md
-      - General/Forms Download.md
-      - General/Financial Assistance.md
-      - General/Sec 3 Adventure Camp Updates.md
       - Students/.keep
       - Students/2023 Class Time Table.md
       - Students/Assessment Schedule.md
