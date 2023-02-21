@@ -36,4 +36,4 @@ Quick guides with information on National Digital Literacy Programme, and parent
 
 ##### Parent Handbook II
 Overview of DMA, and more parenting tips on how to help your child learn with PLD. <br> 
-</insert Learning with a Personal Learning Device file>
+[Parent Handbook II](/files/LETTER%20TO%20PARENTS/Parent-Handbook-II-on-Learning-with-a-Personal-Learning-Devicecompress.pdf)
