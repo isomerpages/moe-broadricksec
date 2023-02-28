@@ -49,20 +49,18 @@ description: ""
 | Teachers | |
 |---|---| 
 | Mr Ng Aik Hong <br> [ng\_aik\_hong@moe.edu.sg](mailto:ng_aik_hong@moe.edu.sg) | Ms Poon Choon Gek <br> [poon\_choon\_gek@moe.edu.sg](mailto:poon_choon_gek@moe.edu.sg) |
-| Mdm Tok Yoo Kang <br> [tok\_yoo\_kang@moe.edu.sg](mailto:tok_yoo_kang@moe.edu.sg) | Ms Chen Zhizhi Ember <br> [chen\_zhizhi@moe.edu.sg](mailto:chen_zhizhi@moe.edu.sg) | 
-| Ms Leong Wai Zin <br> [leong\_wai\_zin@moe.edu.sg](mailto:leong_wai_zin@moe.edu.sg) | Mdm Vasughi d/o Kothandapani  <br> [vasughi\_kothandapani@moe.edu.sg](mailto:vasughi_kothandapani@moe.edu.sg) |
+| Mdm Tok Yoo Kang <br> [tok\_yoo\_kang@moe.edu.sg](mailto:tok_yoo_kang@moe.edu.sg) | Mr Rahmat Ghamaruddin <br> [rahmat\_ghamaruddin@moe.edu.sg](mailto:rahmat_ghamaruddin@moe.edu.sg) | 
+|Mrs Fawzie Rahayu Ngawan <br> [rahayu\_ngawan@moe.edu.sg](mailto:rahayu_ngawan@moe.edu.sg)   | Mdm Vasughi d/o Kothandapani  <br> [vasughi\_kothandapani@moe.edu.sg](mailto:vasughi_kothandapani@moe.edu.sg) |
 | Mdm Susana Tan <br> [tan\_wei\_sun\_susana@moe.edu.sg](mailto:tan_wei_sun_susana@moe.edu.sg) | Dr Usha Subbusamy <br> [subbusamy\_usha@moe.edu.sg](mailto:subbusamy_usha@moe.edu.sg)  |
-| Ms Yusnita <br> [yusnita\_mohamed\_yusoff@moe.edu.sg](mailto:yusnita_mohamed_yusoff@moe.edu.sg) | Ms Wang Huali <br> [wang\_huali@moe.edu.sg](mailto:wang_huali@moe.edu.sg) | 
-| Mdm Zainah Lajam <br> [zainah\_lajam@moe.edu.sg](mailto:zainah_lajam@moe.edu.sg) | Mdm Tham Shao Yen <br> [tham\_shao\_yen@moe.edu.sg](mailto:tham_shao_yen@moe.edu.sg) |
-| Mr Rahmat Ghamaruddin <br> [rahmat\_ghamaruddin@moe.edu.sg](mailto:rahmat_ghamaruddin@moe.edu.sg) | Ms Tan Chian Huay <br> [tan\_chian\_huay@moe.edu.sg](mailto:tan_chian_huay@moe.edu.sg) |
-| Mrs Fawzie Rahayu Ngawan <br> [rahayu\_ngawan@moe.edu.sg](mailto:rahayu_ngawan@moe.edu.sg) |   |
+| Ms Tan Chian Huay <br> [tan\_chian\_huay@moe.edu.sg](mailto:tan_chian_huay@moe.edu.sg) | Ms Wang Huali <br> [wang\_huali@moe.edu.sg](mailto:wang_huali@moe.edu.sg) | 
+| Mdm Zainah Lajam <br> [zainah\_lajam@moe.edu.sg](mailto:zainah_lajam@moe.edu.sg) | Mdm Tham Shao Yen <br> [tham\_shao\_yen@moe.edu.sg](mailto:tham_shao_yen@moe.edu.sg) 
 | | |
 
 | Multi-Skilled Team | |
 |---|---|
 | Student Welfare Officer | Mdm Chen Wei Ping Sharon <br> [chen\_wei\_ping\_sharon@moe.edu.sg](mailto:chen_wei_ping_sharon@moe.edu.sg) |
 | School Counsellors | Mr Koh Swee Leong <br> [koh\_swee\_leong@moe.edu.sg](mailto:koh_swee_leong@moe.edu.sg) <br><br> Ms Stella Kae <br> [stella\_kae@moe.edu.sg](mailto:stella_kae@moe.edu.sg) |
-| AED Teaching & Learning | Mdm Siti Naqiah Abdullah <br> [siti\_naqiah\_abdullah@moe.edu.sg](mailto:siti_naqiah_abdullah@moe.edu.sg) <br><br> Mr Muhammad Fadli Abdul Lateef <br> [muhamad\_fadli\_abdul\_lathee@moe.edu.sg](mailto:muhamad_fadli_abdul_lathee@moe.edu.sg)  <br><br> Mdm Lee Lan Yang <br> [lee\_lan\_yang@moe.edu.sg](mailto:lee_lan_yang@moe.edu.sg) |
+| AED Teaching & Learning |  Mr Muhammad Fadli Abdul Lateef <br> [muhamad\_fadli\_abdul\_lathee@moe.edu.sg](mailto:muhamad_fadli_abdul_lathee@moe.edu.sg)  <br><br> Mdm Lee Lan Yang <br> [lee\_lan\_yang@moe.edu.sg](mailto:lee_lan_yang@moe.edu.sg) |
 | Senior SEN Officer | Mr Mohamed Faisal B Osman <br> [mohamed\_faisal\_osman@moe.edu.sg](https://broadricksec.moe.edu.sg/) |
 | | |
 
