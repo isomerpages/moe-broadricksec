@@ -15,13 +15,14 @@ description: ""
 | **HOD Character and Citizenship Education** <br> <br> Mr. Ong Ken Yong  <br>[ong\_ken\_yong@moe.edu.sg](mailto:ong_ken_yong@moe.edu.sg) | **HOD Craft & Technology** <br> <br> Mr Lee Choon Kiat Jonathan  <br> [lee\_choon\_kiat\_jonathan@moe.edu.sg](mailto:lee_choon_kiat_jonathan@moe.edu.sg) <br> |
 | **HOD English** <br> <br> Mdm Wong Yuet Ching Caroline <br> [wong\_yuet\_ching\_caroline@moe.edu.sg](mailto:wong_yuet_ching_caroline@moe.edu.sg) | **HOD Humanities** <br> <br> Ms Nurul Ain Ramli <br> [nurul\_ain\_ramli@moe.edu.sg](mailto:tan_susan@moe.edu.sg) |
 | **HOD Information Communication Technology** <br> <br> Mr Lim Shi Hao <br> [lim\_shi\_hao@moe.edu.sg](mailto:lim_shi_hao@moe.edu.sg) | **HOD Mother Tongue Language** <br> <br><br> Ms Ester Khaw Heng Sean <br> [khaw\_heng\_sean@moe.edu.sg](mailto:khaw_heng_sean@moe.edu.sg) |
-| **HOD Normal Technical** <br> <br> Mr Sheikh Farid B Abdul Karim <br> [sheikh\_farid\_abdul\_karim@moe.edu.sg](mailto:sheikh_farid_abdul_karim@moe.edu.sg) | **HOD Science** <br> <br> Mr Foo Siang Keng  <br> [foo\_siang\_keng@moe.edu.sg](mailto:foo_siang_keng@moe.edu.sg) |
+| **HOD  Educational Support** <br> <br> Mr Sheikh Farid B Abdul Karim <br> [sheikh\_farid\_abdul\_karim@moe.edu.sg](mailto:sheikh_farid_abdul_karim@moe.edu.sg) | **HOD Science** <br> <br> Mr Foo Siang Keng  <br> [foo\_siang\_keng@moe.edu.sg](mailto:foo_siang_keng@moe.edu.sg) |
 | **HOD PE/CCA** <br> <br> Mr Aathi Neelan Ganesan <br> [aathi\_neelan\_ganesan@moe.edu.sg](mailto:aathi_neelan_ganesan@moe.edu.sg) |  |
 | **Year Head (Lower Sec)** <br> <br> Miss Mastura Ahmad <br> [mastura\_ahmad@moe.edu.sg](mailto:mastura_ahmad@moe.edu.sg) | **Year Head (Upper Sec)** <br> <br> Mdm Kim Kai Ling Karen <br> [Kim\_kai\_ling\_karen@moe.edu.sg](mailto:Kim_kai_ling_karen@moe.edu.sg) |
 | **SH Mother Tongue Language** <br> <br><br> Mdm Nooraini Binte Samat <br> [nooraini\_samat@moe.edu.sg](mailto:nooraini_samat@moe.edu.sg) | **SH Information Communication Technology** <br> <br> Mr Goh Keng Teck <br> [goh\_keng\_teck@moe.edu.sg](mailto:goh_keng_teck@moe.edu.sg)  |
 | **SH Student Well-Being** <br> <br> Mr Liang Zhiwen Ivan <br> [liang\_zhiwen@moe.edu.sg](mailto:liang_zhiwen@moe.edu.sg) | **SH Biology** <br> <br> Ms Lee Peck Wen Amanda <br> [lee\_peck\_wen\_amanda@moe.edu.sg](mailto:lee_peck_wen_amanda@moe.edu.sg) |
 | **SH CCE** <br> <br> Ms Wah Rou Jing Charmaine <br> [wah\_rou\_jing\_charmaine@moe.edu.sg](mailto:wah_rou_jing_charmaine@moe.edu.sg) | **SH PE/CCA** <br> <br> Mr Loh Shunheng Gideon <br> [loh\_shunheng\_gideon@moe.edu.sg](mailto:luo_shunheng_gideon@moe.edu.sg) |
-| **SH Mathematics** <br> <br> Ms. Tan Li Qin Jermaine <br> [tan\_li\_qin@moe.edu.sg](mailto:tan_li_qin@moe.edu.sg) | **ST Chinese Language** <br> <br> Ms Wang Wei <br> [wang\_wei@moe.edu.sg](mailto:wang_wei@moe.edu.sg) |
+| **SH Mathematics** <br> <br> Ms. Tan Li Qin Jermaine <br> [tan\_li\_qin@moe.edu.sg](mailto:tan_li_qin@moe.edu.sg) | **SH Student Maanagement** <br> <br> Ms Chen Zhizhi Ember <br> [chen\_zhizhi@moe.edu.sg](mailto:chen_zhizhi@moe.edu.sg)  |
+**ST Chinese Language** <br> <br> Ms Wang Wei <br> [wang\_wei@moe.edu.sg](mailto:wang_wei@moe.edu.sg) |
 | **ST Mathematics** <br> <br> Mdm Ang Sock Kiang <br> [ang\_sock\_kiang@moe.edu.sg](mailto:ang_sock_kiang@moe.edu.sg) <br> <br> <br> Mr Mohd Akram B Hj Abdul Latiff <br> [akram\_latiff@moe.edu.sg](mailto:akram_latiff@moe.edu.sg) | **ST Biology** <br> Mdm Lalitha [lalitha\_jothinathan@moe.edu.sg](mailto:lalitha_jothinathan@moe.edu.sg) |
 | **LH  English** <br> <br> Mr Andy Ng <br> [ng\_cheng\_keong\_andy@moe.edu.sg](mailto:ng_cheng_keong_andy@moe.edu.sg) | **LT History** <br> <br> Ms Ong Daphne Rachel <br> [ong\_daphne\_rachel@moe.edu.sg](mailto:ong_daphne_rachel@moe.edu.sg) |
 | | |
@@ -48,20 +49,18 @@ description: ""
 | Teachers | |
 |---|---| 
 | Mr Ng Aik Hong <br> [ng\_aik\_hong@moe.edu.sg](mailto:ng_aik_hong@moe.edu.sg) | Ms Poon Choon Gek <br> [poon\_choon\_gek@moe.edu.sg](mailto:poon_choon_gek@moe.edu.sg) |
-| Mdm Tok Yoo Kang <br> [tok\_yoo\_kang@moe.edu.sg](mailto:tok_yoo_kang@moe.edu.sg) | Ms Chen Zhizhi Ember <br> [chen\_zhizhi@moe.edu.sg](mailto:chen_zhizhi@moe.edu.sg) | 
-| Ms Leong Wai Zin <br> [leong\_wai\_zin@moe.edu.sg](mailto:leong_wai_zin@moe.edu.sg) | Mdm Vasughi d/o Kothandapani  <br> [vasughi\_kothandapani@moe.edu.sg](mailto:vasughi_kothandapani@moe.edu.sg) |
+| Mdm Tok Yoo Kang <br> [tok\_yoo\_kang@moe.edu.sg](mailto:tok_yoo_kang@moe.edu.sg) | Mr Rahmat Ghamaruddin <br> [rahmat\_ghamaruddin@moe.edu.sg](mailto:rahmat_ghamaruddin@moe.edu.sg) | 
+|Mrs Fawzie Rahayu Ngawan <br> [rahayu\_ngawan@moe.edu.sg](mailto:rahayu_ngawan@moe.edu.sg)   | Mdm Vasughi d/o Kothandapani  <br> [vasughi\_kothandapani@moe.edu.sg](mailto:vasughi_kothandapani@moe.edu.sg) |
 | Mdm Susana Tan <br> [tan\_wei\_sun\_susana@moe.edu.sg](mailto:tan_wei_sun_susana@moe.edu.sg) | Dr Usha Subbusamy <br> [subbusamy\_usha@moe.edu.sg](mailto:subbusamy_usha@moe.edu.sg)  |
-| Ms Yusnita <br> [yusnita\_mohamed\_yusoff@moe.edu.sg](mailto:yusnita_mohamed_yusoff@moe.edu.sg) | Ms Wang Huali <br> [wang\_huali@moe.edu.sg](mailto:wang_huali@moe.edu.sg) | 
-| Mdm Zainah Lajam <br> [zainah\_lajam@moe.edu.sg](mailto:zainah_lajam@moe.edu.sg) | Mdm Tham Shao Yen <br> [tham\_shao\_yen@moe.edu.sg](mailto:tham_shao_yen@moe.edu.sg) |
-| Mr Rahmat Ghamaruddin <br> [rahmat\_ghamaruddin@moe.edu.sg](mailto:rahmat_ghamaruddin@moe.edu.sg) | Ms Tan Chian Huay <br> [tan\_chian\_huay@moe.edu.sg](mailto:tan_chian_huay@moe.edu.sg) |
-| Mrs Fawzie Rahayu Ngawan <br> [rahayu\_ngawan@moe.edu.sg](mailto:rahayu_ngawan@moe.edu.sg) |   |
+| Ms Tan Chian Huay <br> [tan\_chian\_huay@moe.edu.sg](mailto:tan_chian_huay@moe.edu.sg) | Ms Wang Huali <br> [wang\_huali@moe.edu.sg](mailto:wang_huali@moe.edu.sg) | 
+| Mdm Zainah Lajam <br> [zainah\_lajam@moe.edu.sg](mailto:zainah_lajam@moe.edu.sg) | Mdm Tham Shao Yen <br> [tham\_shao\_yen@moe.edu.sg](mailto:tham_shao_yen@moe.edu.sg) 
 | | |
 
 | Multi-Skilled Team | |
 |---|---|
 | Student Welfare Officer | Mdm Chen Wei Ping Sharon <br> [chen\_wei\_ping\_sharon@moe.edu.sg](mailto:chen_wei_ping_sharon@moe.edu.sg) |
 | School Counsellors | Mr Koh Swee Leong <br> [koh\_swee\_leong@moe.edu.sg](mailto:koh_swee_leong@moe.edu.sg) <br><br> Ms Stella Kae <br> [stella\_kae@moe.edu.sg](mailto:stella_kae@moe.edu.sg) |
-| AED Teaching & Learning | Mdm Siti Naqiah Abdullah <br> [siti\_naqiah\_abdullah@moe.edu.sg](mailto:siti_naqiah_abdullah@moe.edu.sg) <br><br> Mr Muhammad Fadli Abdul Lateef <br> [muhamad\_fadli\_abdul\_lathee@moe.edu.sg](mailto:muhamad_fadli_abdul_lathee@moe.edu.sg)  <br><br> Mdm Lee Lan Yang <br> [lee\_lan\_yang@moe.edu.sg](mailto:lee_lan_yang@moe.edu.sg) |
+| AED Teaching & Learning |  Mr Muhammad Fadli Abdul Lateef <br> [muhamad\_fadli\_abdul\_lathee@moe.edu.sg](mailto:muhamad_fadli_abdul_lathee@moe.edu.sg)  <br><br> Mdm Lee Lan Yang <br> [lee\_lan\_yang@moe.edu.sg](mailto:lee_lan_yang@moe.edu.sg) |
 | Senior SEN Officer | Mr Mohamed Faisal B Osman <br> [mohamed\_faisal\_osman@moe.edu.sg](https://broadricksec.moe.edu.sg/) |
 | | |
 
