@@ -4,39 +4,26 @@ permalink: /links/Students/permalink/
 description: ""
 third_nav_title: Students
 ---
-2023 Secondary 3 Subject Combination Selection Exercise
+### 2023 Secondary 3 Subject Combination Selection Exercise
 
-We would like to inform you that your child/ward will be participating in the Secondary 3 Subject Combination Selection Exercise from Friday 21 October 2022, 5 pm to Tuesday 25 October 2022, 5 pm.
+We would like to inform you that your child/ward will be participating in the Secondary 3 Subject Combination Selection Exercise from Monday, 6 March 2023 to Sunday, 12 March 2023.
 
-This is an online exercise where all Secondary 2 students are to register their choices of subject combinations. More information can be found in the parents’ letter issued on 30 September.
+This is an online exercise where all Secondary 2 students are to register their choices of subject combinations. More information can be found in the parents’ letter issued on 3 March 2023
 
  
 
 Below are some important dates for you to take note of:
 
-21 October 2022 (Fri) 5pm to 25 October 2022 (Tue) 5pm (registration is closed)
-Online registration of subject combinations
-
-URL: Sec 2 Express – https://forms.moe.edu.sg/forms/vr7bGJ
-
-URL: Sec 2 Normal Academic – https://forms.moe.edu.sg/forms/JbwyKo
-
-URL: Sec 2 Normal Technical – https://forms.moe.edu.sg/forms/J5a0pJ
-
-4 November 2022 (Fri), 10 am
-Release of subject combination offer. Results will be released via students' ICON email.
 
 
+| Date(s) | Activity | 
+| -------- | -------- | 
+| Term 1 Week 10 <br>6 Mar - 12 Mar    |  Subject Combination Registration I    | 
+| Term 2 Week 1 <br>20 Mar - 24 Mar    |  Release of Subject Combination Results   | 
+| Term 4 Week 6/7 <br>10 Oct - 23 Oct    |  Subject Combination Registration II <br>(for students who want to switch subject combination)   | 
+| Term 4 Week 8 <br>3 Nov    |  Confirmation of Subject Combination Results   | 
 
-4 November 2022 (Fri), 10 am to 8 November 2022 (Tue), 4 pm
-Submission of appeals
 
-Click here to download the Appeal form.
-
-Note that appeal forms would be available at the school’s General Office.
-
-16 November 2022 (Wed), 12 pm
-Release of final appeal results
 
  
 
