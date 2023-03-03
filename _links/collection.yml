@@ -2,11 +2,11 @@ collections:
   links:
     output: true
     order:
-      - Students/Sec 3 Subject Combination Excercise.md
       - Students/.keep
       - Students/2023 Class Time Table.md
       - Students/Assessment Schedule.md
       - Students/NEU PC plus Programme.md
+      - Students/Sec 3 Subject Combination Excercise.md
       - Students/Book Lists.md
       - Students/Financial Assistance.md
       - Students/Classroom Allocation.md
