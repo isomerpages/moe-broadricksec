@@ -11,6 +11,10 @@ third_nav_title: Parents
 [Sec 2 WA1 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20Sec%202%20WA1%20Schedule%20and%20Parent%20Letter.pdf)<br>
 [Sec 3 WA1 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20Sec%203%20WA1%20Schedule%20and%20Parent%20Letter.pdf)<br>
 [Sec 4-5 WA1 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20Sec%204_5%20WA1%20Schedule%20and%20Parent%20Letter.pdf)
+
+[2023 Sec 3E Subject Combination Options](/files/LETTER%20TO%20PARENTS/2023/Parents%20Letter%202023%20Sec%203E%20Subject%20Combination%20Options.pdf)<br>
+[2023 Sec 3NA Subject Combination Options](/files/LETTER%20TO%20PARENTS/2023/Parents%20Letter%202023%20Sec%203NA%20Subject%20Combination%20Options.pdf)<br>
+[2023 Sec 3NT Subject Combination Options](/files/LETTER%20TO%20PARENTS/2023/Parents%20Letter%202023%20Sec%203NT%20Subject%20Combination%20Options.pdf)
   
 [Cyberwellness for your child.pdf](/files/cyber-wellness-for-your-child.pdf) <br>
 [Parent Handbook on 1on1 Learning.pdf](/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)
