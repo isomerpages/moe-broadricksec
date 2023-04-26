@@ -8,8 +8,7 @@ Those who aspire glory in the uniformed groups have the NCC Land, NPCC, Red Cros
  
 <figure>  
 <a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/red-cross"> 
-<img src="/images/red%20cross%20logo.png" 
-     style="width:30%">
+<img src="/images/red%20cross%20logo.png" style="width:30%">
 </a>
 <figcaption> Mr Jude Chua <br>
 Mr Mong Yu Siang <br>
@@ -22,8 +21,7 @@ Wednesday: 2.30pm - 5.30 pm </figcaption>
 
 <figure>  
 <a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/national-police-cadet-corps"> 
-<img src="/images/NPCC%20logo.png" 
-     style="width:30%">
+<img src="/images/NPCC%20logo.png" style="width:30%">
 </a>
 <figcaption> Mr See Woon Loon <br>
 Mr Mustafa <br>
@@ -37,13 +35,12 @@ Friday: 3.00pm - 6.00 pm </figcaption>
 
 <figure>  
 <a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/national-cadet-corps"> 
-<img src="/images/NCC%20Logo.png" 
-     style="width:30%">
+<img src="/images/NCC%20Logo.png" style="width:30%">
 </a>
 <figcaption> Mr Simon Yap <br>
 Mr Shahul Hameed<br>
 Mr Stephen Lim<br>
-	Mr Denzel Ong
+	Mr Denzel Low
 
 <p> </p>
 	
@@ -52,8 +49,7 @@ Wednesday 2.30pm - 5.30 pm </figcaption>
 
 <figure>  
 <a href="https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups/girl-guides"> 
-<img src="/images/girl%20guides%20logo.png" 
-     style="width:30%">
+<img src="/images/girl%20guides%20logo.png" style="width:30%">
 </a>
 <figcaption> Mrs Candy Low <br>
 Ms Wardah <br>
