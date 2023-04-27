@@ -37,7 +37,7 @@ Please note that meeting all the criteria does not guarantee the student will be
 **Selection Process** <br>
 Factors considered by school:
 * Participation in areas of talent
-* Performance in interview (Shortlisted candidates will be interviewed in July 2022)
+* Performance in interview (Shortlisted candidates will be interviewed in July 2023)
 
 **Key Dates** <br>
 * Short-listed candidates will be informed by 7 July 2023.
@@ -45,7 +45,7 @@ Factors considered by school:
 * All applicants will be informed of the results of their application (Confirmed / Waiting List / Rejected) by 11 September 2023.
 
 **Centralised DSA-Sec Application Process** <br>
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2022, 11 am to 31 May 2023, 3 pm. For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May to 31 May 2023, 3 pm. For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
