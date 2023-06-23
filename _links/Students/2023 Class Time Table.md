@@ -20,3 +20,10 @@ third_nav_title: Students
 [2023 June Sec 4-5 Timetable](/files/Time%20Table/2023/june%20hap%202023.pdf)
 
 ### 2023 Semester 2 Time Table
+[Sec 1 G1 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s1g1.pdf)<br>
+[Sec 1 G2 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s1g2.pdf)<br>
+[Sec 1 G3 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s1g3.pdf)<br>
+[Sec 2 G1 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s2%20g1.pdf)<br>[Sec 2 G2 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sems2g2.pdf)<br>
+[Sec 2 G3 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s3.pdf)<br>
+[Sec 3 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s3.pdf)<br>
+[Sec 4-5 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s4s5.pdf)
