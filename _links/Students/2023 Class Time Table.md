@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Students
 ---
 ### 2023 Semester 1 Time Table
-[Sec 1 Sem 1 Timetable](/files/2023_SEM1_TT-Classes%20(Sec1)_v2.pdf)<br>
-[Sec 2 Sem 1 Timetable](/files/2023_SEM1_TT-Classes%20(Sec2).pdf)
-<br>
-[Sec 3 Sem 1 Timetable](/files/2023_SEM1_TT-Classes%20(Sec3)_v2.pdf)
-<br>
-[Sec 4-5 Sem 1 Timetable](/files/2023_SEM1_TT-Classes%20(Sec4&amp;5)_v2.pdf)
+[Sem 1 Sec 1 Time-table](/files/Time%20Table/2023/2023_SEM1_TT-Classes%20(Sec1)_v2.pdf)<br>
+[Sem 1 Sec 2 Time-table](/files/Time%20Table/2023/2023_SEM1_TT-Classes%20(Sec2).pdf)<br>
+[Sem 1 Sec 3 Time-table](/files/Time%20Table/2023/2023_SEM1_TT-Classes%20(Sec3)_v2.pdf)<br>
+[Sem 1 Sec 4-5 Time-table](/files/Time%20Table/2023/2023_SEM1_TT-Classes%20(Sec4&amp;5)_v2.pdf)
+
+
 
 ### 2023 March HAP Time Table
 
