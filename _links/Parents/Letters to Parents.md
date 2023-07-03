@@ -19,7 +19,10 @@ third_nav_title: Parents
 
 [June HAP for Sec 4-5 Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023_june%20hap%20for%20sec%204_5%20letter%20for%20parents.pdf)
 
-[Term 3 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20brd%20term%203%20letter%20to%20parents%20(final).pdf)
+[Term 3 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20brd%20term%203%20letter%20to%20parents%20(final).pdf)<br>
+[2023 WA3 Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023%20wa3%20parent%20letter%20updated.pdf)<br>
+[2023 Prelim Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023%20prelim%20parent%20letter%20updated.pdf)
+
 
 [2023 Sec 3E Subject Combination Options](/files/LETTER%20TO%20PARENTS/2023/Parents%20Letter%202023%20Sec%203E%20Subject%20Combination%20Options.pdf)<br>
 [2023 Sec 3NA Subject Combination Options](/files/LETTER%20TO%20PARENTS/2023/Parents%20Letter%202023%20Sec%203NA%20Subject%20Combination%20Options.pdf)<br>
