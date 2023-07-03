@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "Broadrick Secondary School "
+title: Broadrick Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -18,13 +18,13 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: Blended Learning (HBL) 21/02/23
+      title: "WEIGHTED ASSESSMENT (WA) 3: Sec1 to Sec 3"
       subtitle: "Announcement:"
-      description: Info in Term 1 Letter to Parents
+      description: Info in Letter to Parents
       button: Read more
-      url: https://moe-broadricksec-staging.netlify.app/files/2023%20BRD%20Term%201%20Letter%20to%20Parents%20(1).pdf
+      url: https://www.broadricksec.moe.edu.sg/links/parents/letters-to-parents/
       image: /images/maths123.jpg
-      alt: BL-HBL 210223
+      alt: WA3 2023
   - resources:
       title: Announcements
       subtitle: check out the latest
