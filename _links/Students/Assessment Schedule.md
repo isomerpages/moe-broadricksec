@@ -13,3 +13,5 @@ third_nav_title: Students
 ### Weighted Assessment 2
 [WA2 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20WA2%20PARENT%20LETTER%20v0324.pdf)
 
+### Weighted Assessment 3
+[WA3 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20wa3%20parent%20letter%20updated.pdf)
