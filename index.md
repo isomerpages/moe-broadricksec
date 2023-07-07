@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner2023 v1.jpg
+      background: /images/banner2023v1a.jpg
       key_highlights:
         - title: Latest News
           description: ""
