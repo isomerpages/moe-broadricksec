@@ -2,10 +2,10 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - MOE OBS Challenge Programme.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - GEAR UP @ Broadrick.md
       - Direct School Admission.md
       - Full Subject Based Banding (FSBB).md
       - Sec 1 Outdoor Adventure Camp.md
+      - MOE OBS Challenge Programme.md
