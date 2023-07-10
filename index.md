@@ -7,14 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Broadrick Secondary School
-      background: /images/Banner1v2.jpg
+      background: /images/banner2023v1a.jpg
       key_highlights:
         - title: Latest News
           description: ""
           url: /links/students/assessment-schedule/
-      subtitle: Nurturing Broadricians to be Future-Ready learners with Strength of
-        Character
       button: Contact Us
       url: /contact-us/
   - infopic:
