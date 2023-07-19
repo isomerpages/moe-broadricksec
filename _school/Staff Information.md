@@ -22,7 +22,6 @@ description: ""
 | **SH Mother Tongue Language** <br> <br><br> Mdm Nooraini Binte Samat <br> [nooraini\_samat@moe.edu.sg](mailto:nooraini_samat@moe.edu.sg) | **SH Information Communication Technology** <br> <br> Mr Goh Keng Teck <br> [goh\_keng\_teck@moe.edu.sg](mailto:goh_keng_teck@moe.edu.sg)  |
 | **SH Student Well-Being** <br> <br> Mr Liang Zhiwen Ivan <br> [liang\_zhiwen@moe.edu.sg](mailto:liang_zhiwen@moe.edu.sg) | **SH Student Maanagement** <br> <br> Ms Chen Zhizhi Ember <br> [chen\_zhizhi@moe.edu.sg](mailto:chen_zhizhi@moe.edu.sg) |
 | **SH CCE** <br> <br> Ms Wah Rou Jing Charmaine <br> [wah\_rou\_jing\_charmaine@moe.edu.sg](mailto:wah_rou_jing_charmaine@moe.edu.sg) | **SH PE/CCA** <br> <br> Mr Loh Shunheng Gideon <br> [loh\_shunheng\_gideon@moe.edu.sg](mailto:luo_shunheng_gideon@moe.edu.sg) |
-**ST Chinese Language** <br> <br> Ms Wang Wei <br> [wang\_wei@moe.edu.sg](mailto:wang_wei@moe.edu.sg) |
 | **ST Mathematics** <br> <br> Mdm Ang Sock Kiang <br> [ang\_sock\_kiang@moe.edu.sg](mailto:ang_sock_kiang@moe.edu.sg) <br> <br> <br> Mr Mohd Akram B Hj Abdul Latiff <br> [akram\_latiff@moe.edu.sg](mailto:akram_latiff@moe.edu.sg) | **ST Biology** <br> Mdm Lalitha [lalitha\_jothinathan@moe.edu.sg](mailto:lalitha_jothinathan@moe.edu.sg) |
 | **LH  English** <br> <br> Mr Andy Ng <br> [ng\_cheng\_keong\_andy@moe.edu.sg](mailto:ng_cheng_keong_andy@moe.edu.sg) | **LT History** <br> <br> Ms Ong Daphne Rachel <br> [ong\_daphne\_rachel@moe.edu.sg](mailto:ong_daphne_rachel@moe.edu.sg) |
 | | |
