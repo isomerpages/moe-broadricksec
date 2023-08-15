@@ -57,7 +57,7 @@ description: ""
 
 | Multi-Skilled Team | |
 |---|---|
-| Student&nbsp;Welfare Officer | Mr Zulkifli Bin Mohd Saat <br> [zulkifli\_mohamed\_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg) |
+| Student&nbsp;Welfare Officer | Mdm Sharon Chen<br>[chen\_wei\_ping\_sharon@moe.edu.sg](mailto:zchen_wei_ping_sharon@moe.edu.sg)<br>Mr Zulkifli Bin Mohd Saat <br> [zulkifli\_mohamed\_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg) |
 | School Counsellors | Mr&nbsp;Koh Swee Leong <br> [koh\_swee\_leong@moe.edu.sg](mailto:koh_swee_leong@moe.edu.sg)&nbsp;<br><br> Ms Stella Kae <br> [stella\_kae@moe.edu.sg](mailto:stella_kae@moe.edu.sg) |
 | AED Teaching &amp; Learning |  Mr Muhammad Fadli Abdul Lateef <br> [muhamad\_fadli\_abdul\_lathee@moe.edu.sg](mailto:muhamad_fadli_abdul_lathee@moe.edu.sg)  <br><br> Mdm Lee Lan Yang <br> [lee\_lan\_yang@moe.edu.sg](mailto:lee_lan_yang@moe.edu.sg) |
 | Senior SEN Officer | Mr Mohamed Faisal B Osman&nbsp;<br> [mohamed\_faisal\_osman@moe.edu.sg](https://broadricksec.moe.edu.sg/) |
