@@ -15,9 +15,11 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: "WEIGHTED ASSESSMENT (WA) 3: Sec1 to Sec 3"
+      title: Changes to 4E5N Prelim in Term 4 Week 1
       subtitle: "Announcement:"
-      description: Info in Letter to Parents
+      description: In view of the Writ of Election for Presidential Election 2023,
+        there will be changes to the 4E5N Prelims Exams. Please refer to the new
+        prelim timetable below.
       button: Read more
       url: https://www.broadricksec.moe.edu.sg/links/parents/letters-to-parents/
       image: /images/maths123.jpg
