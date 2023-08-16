@@ -22,7 +22,7 @@ third_nav_title: Parents
 [Term 3 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20brd%20term%203%20letter%20to%20parents%20(final).pdf)<br>
 [WA3 Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023%20wa3%20parent%20letter%20updated.pdf)<br>
 [Prelim Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023%20prelim%20parent%20letter%20updated.pdf)<br>
-[*UPDATED PRELIMS TIMETABLE (due to Presidential Elections)](/files/LETTER%20TO%20PARENTS/2023/2023%204e5n%20prelim-tt%20updated.pdf)
+[UPDATED PRELIMS TIMETABLE (due to Presidential Election)](/files/LETTER%20TO%20PARENTS/2023/2023%204e5n%20prelim-tt%20v0815.pdf)
 
 [2023 Sec 3E Subject Combination Options](/files/LETTER%20TO%20PARENTS/2023/Parents%20Letter%202023%20Sec%203E%20Subject%20Combination%20Options.pdf)<br>
 [2023 Sec 3NA Subject Combination Options](/files/LETTER%20TO%20PARENTS/2023/Parents%20Letter%202023%20Sec%203NA%20Subject%20Combination%20Options.pdf)<br>
