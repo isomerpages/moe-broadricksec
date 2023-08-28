@@ -19,6 +19,9 @@ third_nav_title: Students
 ### 2023 June HAP Time Table
 [2023 June Sec 4-5 Timetable](/files/Time%20Table/2023/june%20hap%202023.pdf)
 
+### 2023 September HAP Time Table
+[2023 September Sec 4-5 Timetable](/files/Time%20Table/2023/2023_SEPT%20HAP%20TT_CLASSES_v5.pdf)
+
 ### 2023 Semester 2 Time Table
 [Sec 1 G1 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s1g1.pdf)<br>
 [Sec 1 G2 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s1g2.pdf)<br>
