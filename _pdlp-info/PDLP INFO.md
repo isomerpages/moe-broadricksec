@@ -30,12 +30,13 @@ In rolling out Personal Learning Devices (PLDs) for students, MOE is acutely awa
 [DMA Parent Guide for Option A Chrome Devices](/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20option%20a%20v2.pdf)
 <br>
 [DMA Parent Guide for Option B Chrome Devices](/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20option%20b%20v2.pdf)
-
+<br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/shMgsPCQLCE?si=OiU0m9dIDwKhYEgC&amp;controls=0" height="315" width="560"></iframe>
 <br>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FCK2rVSnns0?si=7v9LR5iYc4PJMxxy&amp;controls=0" height="315" width="560"></iframe>
 <br>
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1KSCn69U3Uc?si=kgQTJ2iERkBHooJz&amp;controls=0" height="315" width="560"></iframe>
 <br>
 
