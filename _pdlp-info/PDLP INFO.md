@@ -25,9 +25,15 @@ In rolling out Personal Learning Devices (PLDs) for students, MOE is acutely awa
 | School Hours: 7.30 - 16.00<br>After School Hours: 16.00 - 22.30  | School Hours: 7.30 - 16.00<br>After School Hours: <br>Parents Determine   | School Hours: 7.30 - 16.00<br>After School Hours: No DMA |
 | | | |
 
-[DMA Parent Guide for Default Option Chrome Devices](/files/PORC4%20-%20DMA%20Parent%20Guide%20for%20Default%20Option%20Chrome%20Devices_2%20Sep%2021.pdf) <br>
-[DMA Parent Guide for Option A Chrome Devices](/files/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf) <br>
-[DMA Parent Guide for Option B Chrome Devices](/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf)
+[DMA Parent Guide for Default Option Chrome Devices](/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20default%20option.pdf)
+<br>
+[DMA Parent Guide for Option A Chrome Devices](/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20option%20a%20v2.pdf)
+<br>
+[DMA Parent Guide for Option B Chrome Devices](/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20option%20b%20v2.pdf)
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/shMgsPCQLCE?si=OiU0m9dIDwKhYEgC&amp;controls=0" height="315" width="560"></iframe>
+<br>
+
 
 For parents who would like to amend your after-school DMA option, you can do so using this [form.sg](https://form.gov.sg/#!/6099fa158a5d310012f9f027). Please note that changes will only take effect at the end of the month.
 
