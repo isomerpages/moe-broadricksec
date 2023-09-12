@@ -24,6 +24,7 @@ third_nav_title: Parents
 [Prelim Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023%20prelim%20parent%20letter%20updated.pdf)<br>
 [UPDATED PRELIMS TIMETABLE (due to Presidential Election)](/files/LETTER%20TO%20PARENTS/2023/2023%204e5n%20prelim-tt%20v0815.pdf)
 
+[Term 4 Letter to Parent](/files/LETTER%20TO%20PARENTS/2023/2023%20term%204%20letter%20to%20parents%20(final).pdf)<br>
 [WA4 Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023%20eoy%20parents%20letter%20-%20v0830.pdf)
 
 [2023 Sec 3E Subject Combination Options](/files/LETTER%20TO%20PARENTS/2023/Parents%20Letter%202023%20Sec%203E%20Subject%20Combination%20Options.pdf)<br>
