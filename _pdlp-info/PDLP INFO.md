@@ -22,7 +22,7 @@ In rolling out Personal Learning Devices (PLDs) for students, MOE is acutely awa
 |---|---|---|
 | MOE/school DMA setting will continue after school hours | Parents can determine DMA settings after school hours | Parents can choose to disable DMA after school hours |
 | For parents who want their child to be restricted only to teaching and learning, and prefer to leave it to the school / MOE to decide on the DMA settings both during school and after school hours | For parents who want more leeway over the use of the device, and want to take charge of the level of restrictions for their child's use of the device after school hours. | For parents who do not want their child's use of the device to be regulated by DMA after school. |
-| School Hours: 7.30 - 16.00<br>After School Hours: 16.00 - 22.30  | School Hours: 7.30 - 16.00<br>After School Hours: <br>Parents Determine   | School Hours: 7.30 - 16.00<br>After School Hours: No DMA |
+| School Hours: 7.00 - 16.00<br>After School Hours: 16.00 - 22.30  | School Hours: 7.00 - 16.00<br>After School Hours: <br>Parents Determine   | School Hours: 7.00 - 16.00<br>After School Hours: No DMA |
 | | | |
 
 [DMA Parent Guide for Default Option Chrome Devices](/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20default%20option.pdf)
