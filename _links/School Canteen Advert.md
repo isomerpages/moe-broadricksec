@@ -3,15 +3,13 @@ title: School Canteen Advert
 permalink: /links/permalink/
 description: ""
 ---
-
-
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Malay Food Stall    | 10 Nov 2023    | Rice or Noodles Stall    |
 
 #### Application Procedure
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-2. Attached the following documents together with the application form:
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>[Canteen Stall Application Form](/files/Links/formbf7_application_for_canteen_stall.pdf)<br>
+3. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
@@ -42,6 +40,3 @@ description: ""
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
-
-
