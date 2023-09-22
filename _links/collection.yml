@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - School Canteen Advert.md
       - Students/.keep
       - Students/2023 Class Time Table.md
       - Students/Assessment Schedule.md
@@ -24,3 +23,4 @@ collections:
       - Teachers/.keep
       - Teachers/Classroom Allocation Plan.md
       - Teachers/Others.md
+      - School Canteen Advert.md
