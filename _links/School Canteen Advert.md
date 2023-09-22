@@ -9,6 +9,8 @@ description: ""
 
 #### Application Procedure
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>[Canteen Stall Application Form](/files/Links/formbf7_application_for_canteen_stall.pdf)<br>
+
+
 3. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
