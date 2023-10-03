@@ -1,14 +1,19 @@
 ---
-title: School Canteen Advert
+title: School Canteen Advertisement
 permalink: /links/permalink/
 description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall    | 10 Nov 2023    | Rice or Noodles Stall    |
+| Halal Cuisine (Noodle/Rice)    | 10 Nov 2023    | Nasi Padang, Noodles, etc    |
+| Halal Cuisine (Noodle/Rice)    | 24 Nov 2023    | Nasi Padang, Noodles, etc    |
+| Vegetarian Food (Halal/Non-Halal    | 24 Nov 2023    | Vegetarian Food    |
+| Others (Halal, Open to Proposal    | 24 Nov 2023    | Indian Cuisine, including Vegetarian Food    |
+| Others (Non-Halal, Open to Proposal    | 24 Nov 2023    | Japanese / Western (Halal / Non-Halal    |
+| Others (Non-Halal, Open to Proposal    | 24 Nov 2023    | Korean / Thai (Halal / Non-Halal    |
 
 #### Application Procedure
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>[Canteen Stall Application Form](/files/Links/formbf7_application_for_canteen_stall.pdf)<br>
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>[Application Form](/files/formbf7_application_for_canteen_stall.pdf)
 
 
 3. Attached the following documents together with the application form:
