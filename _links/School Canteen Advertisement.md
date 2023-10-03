@@ -13,7 +13,7 @@ description: ""
 | Others (Non-Halal, Open to Proposal    | 24 Nov 2023    | Korean / Thai (Halal / Non-Halal    |
 
 #### Application Procedure
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>[Application Form](/files/formbf7_application_for_canteen_stall.pdf)
 
 
 3. Attached the following documents together with the application form:
