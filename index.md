@@ -15,11 +15,9 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: Telephony Service Temporarily Unavailable
+      title: Telephony Service is Back
       subtitle: "Announcement:"
-      description: As a temporary measure, please contact us at 97210697 for any
-        urgent matters. We will update again when the phone services have
-        resumed.
+      description: Our telephone service is back now. Thank you for your patience.
       button: Read more
       url: https://www.broadricksec.moe.edu.sg
       image: /images/telephone.jpeg
