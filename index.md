@@ -15,12 +15,11 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: Telephony Service Temporarily Unavailable
+      title: Telephony Service is Back
       subtitle: "Announcement:"
-      description: We are currently facing issues with the telephone system. We are
-        rectifying the situation at the moment. Thank you for your patience.
+      description: Our telephone service is back now. Thank you for your patience.
       button: Read more
-      url: https://www.broadricksec.moe.edu.sg/links/parents/letters-to-parents/
+      url: https://www.broadricksec.moe.edu.sg
       image: /images/telephone.jpeg
       alt: WA3 2023
   - resources:
