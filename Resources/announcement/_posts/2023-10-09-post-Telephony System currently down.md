@@ -8,3 +8,4 @@ description: The school's telephone service is temporarily unavailable due to
   your patience..
 image: ""
 ---
+We are facing technical issues with the telephony services. We are doing our best to rectify the situation. Thank you for your patience.
