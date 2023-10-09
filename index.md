@@ -15,14 +15,13 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: Changes to 4E5N Prelim in Term 4 Week 1
+      title: Telephony Service Temporarily Unavailable
       subtitle: "Announcement:"
-      description: In view of the Writ of Election for Presidential Election 2023,
-        there will be changes to the 4E5N Prelims Exams. Please refer to the new
-        prelim timetable below.
+      description: We are currently facing issues with the telephone system. We are
+        rectifying the situation at the moment. Thank you for your patience.
       button: Read more
       url: https://www.broadricksec.moe.edu.sg/links/parents/letters-to-parents/
-      image: /images/maths123.jpg
+      image: /images/telephone.jpeg
       alt: WA3 2023
   - resources:
       title: Announcements
