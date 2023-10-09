@@ -17,10 +17,11 @@ sections:
   - infopic:
       title: Telephony Service Temporarily Unavailable
       subtitle: "Announcement:"
-      description: We are currently facing issues with the telephone system. We are
-        rectifying the situation at the moment. Thank you for your patience.
+      description: As a temporary measure, please contact us at 97210697 for any
+        urgent matters. We will update again when the phone services have
+        resumed.
       button: Read more
-      url: https://www.broadricksec.moe.edu.sg/links/parents/letters-to-parents/
+      url: https://www.broadricksec.moe.edu.sg
       image: /images/telephone.jpeg
       alt: WA3 2023
   - resources:
