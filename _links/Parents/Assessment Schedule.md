@@ -18,3 +18,5 @@ third_nav_title: Parents
 
 ### Weighted Assessment 4
 [WA4 Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023%20eoy%20parents%20letter%20-%20v0830.pdf)
+
+#### [2023 EOY Script-Check](/files/Time%20Table/2023/2023_eoyscriptcheck_final-classes.pdf)
