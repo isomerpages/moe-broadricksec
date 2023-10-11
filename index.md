@@ -15,9 +15,8 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: Telephony Service is Back
+      title: 2023 EOy Script Check
       subtitle: "Announcement:"
-      description: Our telephone service is back now. Thank you for your patience.
       button: Read more
       url: https://www.broadricksec.moe.edu.sg
       image: /images/telephone.jpeg
