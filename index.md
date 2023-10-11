@@ -15,10 +15,10 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: 2023 EOy Script Check
+      title: 2023 EOY Script Check
       subtitle: "Announcement:"
       button: Read more
-      url: https://www.broadricksec.moe.edu.sg
+      url: https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/
       image: /images/telephone.jpeg
       alt: WA3 2023
   - resources:
