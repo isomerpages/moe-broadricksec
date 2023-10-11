@@ -19,7 +19,7 @@ sections:
       subtitle: "Announcement:"
       button: Read more
       url: https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/
-      image: /images/telephone.jpeg
+      image: /images/DEPT/MTL/image3.jpeg
       alt: WA3 2023
   - resources:
       title: Announcements
