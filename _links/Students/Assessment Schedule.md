@@ -20,3 +20,5 @@ third_nav_title: Students
 [WA 4 Letter to Parents](/files/LETTER%20TO%20PARENTS/2023/2023%20eoy%20parents%20letter%20-%20v0830.pdf)
 
 [2023 EOY Script check](/files/Time%20Table/2023/2023_eoyscriptcheck_final-classes.pdf)
+
+#### [ELE Week Timetable](/files/Time%20Table/2023_sem2_ele%20week%20master-classes_final_17%20oct2.pdf)
