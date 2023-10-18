@@ -30,3 +30,4 @@ third_nav_title: Students
 [Sem 2 Sec2 G3 Time-table](/files/Time%20Table/2023/SEM%202/sem2s2g3.pdf)<br>
 [Sec 3 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s3.pdf)<br>
 [Sec 4-5 Sem 2 Time-table](/files/Time%20Table/2023/SEM%202/sem2s4s5.pdf)
+#### [ELE Week Timetable](/files/Time%20Table/2023_sem2_ele%20week%20master-classes_final_17%20oct2.pdf)
