@@ -22,7 +22,7 @@ sections:
       image: /images/DEPT/MTL/image3.jpeg
       alt: WA3 2023
   - resources:
-      title: Announcements
-      subtitle: check out the latest
+      title: Latest News
+      subtitle: "check out the "
       button: View More
 ---
