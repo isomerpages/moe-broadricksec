@@ -15,7 +15,7 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: 2023 EOY Script Check
+      title: S1 SBB / S3 Bridging Programme
       subtitle: "Announcement:"
       button: Read more
       url: https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/
@@ -23,6 +23,6 @@ sections:
       alt: WA3 2023
   - resources:
       title: Latest News
-      subtitle: "check out the "
+      subtitle: check out the
       button: View More
 ---
