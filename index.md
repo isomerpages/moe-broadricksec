@@ -18,7 +18,7 @@ sections:
       title: S1 SBB / S3 Bridging Programme
       subtitle: "Announcement:"
       button: Read more
-      url: https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/
+      url: https://www.broadricksec.moe.edu.sg/links/students/permalink/
       image: /images/DEPT/MTL/image3.jpeg
       alt: WA3 2023
   - resources:
