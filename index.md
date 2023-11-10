@@ -15,12 +15,14 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: S1 SBB / S3 Bridging Programme
+      title: Open House 2023
       subtitle: "Announcement:"
-      button: Read more
-      url: https://www.broadricksec.moe.edu.sg/links/students/permalink/
+      button: Click here to register
+      url: "Link to the registration form:
+        https://go.gov.sg/broadrick-secondary-school-open-house"
       image: /images/DEPT/MTL/image3.jpeg
       alt: WA3 2023
+      description: Saturday, 25 November 2023
   - resources:
       title: Latest News
       subtitle: check out the
