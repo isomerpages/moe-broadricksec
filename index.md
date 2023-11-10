@@ -20,7 +20,7 @@ sections:
       button: Click here to register
       url: "Link to the registration form:
         https://go.gov.sg/broadrick-secondary-school-open-house"
-      image: /images/DEPT/MTL/image3.jpeg
+      image: /images/2023/roadshow_banner_2023_final.jpg
       alt: WA3 2023
       description: Saturday, 25 November 2023
   - resources:
