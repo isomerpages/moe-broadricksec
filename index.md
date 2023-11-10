@@ -21,7 +21,6 @@ sections:
       url: "Link to the registration form:
         https://go.gov.sg/broadrick-secondary-school-open-house"
       image: /images/2023/roadshow_banner_2023_final.jpg
-      alt: WA3 2023
       description: "Join us for our Open House! You can register your interest by
         scanning the QR code or clicking the link. "
   - resources:
