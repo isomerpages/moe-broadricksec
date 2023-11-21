@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - CCA/Older.md
       - CCA/2023 CCA Achievements.md
       - CCA/2022 CCA Achievements.md
       - CCA/2021 CCA Achievements.md
