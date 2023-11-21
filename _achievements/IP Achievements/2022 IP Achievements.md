@@ -1,6 +1,6 @@
 ---
 title: 2022 IP Achievements
-permalink: /achievements/ip-achievements/permalink/
+permalink: /achievements/ip-achievements/2022ip/
 variant: markdown
 description: ""
 third_nav_title: IP Achievements
