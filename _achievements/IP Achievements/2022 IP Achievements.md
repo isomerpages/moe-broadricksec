@@ -5,8 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: IP Achievements
 ---
-       
-
+### 2022 IP Achievement
 <table style="margin-left:91.8pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:168.95pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="225"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
