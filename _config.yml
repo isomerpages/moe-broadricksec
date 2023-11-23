@@ -1,5 +1,5 @@
-title: "Broadrick Secondary School "
-url: ""
+title: Broadrick Secondary School
+url: https://www.broadricksec.moe.edu.sg
 favicon: /images/school_flag1-removebg-preview.png
 colors:
   primary-color: "#010060"
@@ -57,3 +57,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
