@@ -2,12 +2,9 @@
 title: Vision Mission Values
 permalink: /school/vision-mission-values/
 description: ""
+variant: markdown
 ---
 ### School Mission & Vision
-![](/images/2023/brd%202023%20mission%20vission%20v2.jpg)
+![](/images/2024/2024_mission_vission_v1.png)
 
 
-### School Values - S.H.A.R.E
-![](/images/3(1).png)
-
-![](/images/2021%20Vision%20Mission.png)
