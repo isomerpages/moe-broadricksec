@@ -17,12 +17,12 @@ sections:
   - infopic:
       title: Broadrick Secondary School Open House 2023
       subtitle: "Announcement:"
-      button: Click here to register
-      url: https://go.gov.sg/broadrick-secondary-school-open-house
+      button: Click here for more info
+      url: https://www.broadricksec.moe.edu.sg/links/openhouse/
       image: /images/2023/roadshow_banner_2023_final.jpg
       alt: Open House 2023
-      description: "Join us for our Open House! You can register your interest by
-        scanning the QR code or clicking the link. "
+      description: "Thank you to all the P6 parents and students who visited us last
+        Saturday. "
   - resources:
       title: Latest News
       subtitle: check out the
