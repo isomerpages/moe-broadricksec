@@ -14,9 +14,6 @@ sections:
   - hero:
       background: /images/2024/BRD_background.jpg
       variant: center
-      dropdown:
-        title: ""
-        options: []
       title: Broadrick Secondary School
       subtitle: A Choice School Providing Holistic Education
   - infopic:
