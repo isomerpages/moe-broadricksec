@@ -16,6 +16,26 @@ sections:
       variant: center
       title: Broadrick Secondary School
       subtitle: A Choice School Providing Holistic Education
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: N-level examination results to be released on Dec 18
+          date: 17 December 2023
+          announcement: >-
+            Students who took the Singapore-Cambridge GCE N-level examinations
+            in 2023 will receive their results on Dec 18.
+
+
+            Arrangements have been made for school candidates to get their results at their schools from 2pm
+          link_text: ""
+          link_url: ""
+        - title: Keep up with our school activities on Instagram
+          date: 17 December 2023
+          announcement: The account is used to showcase our school's culture and values,
+            and to promote school programs and activities
+          link_text: Click Here to Follow us
+          link_url: https://www.instagram.com/broadricksec_official/
   - infopic:
       title: Keep up with our school activities on Instagram
       id: infopic
