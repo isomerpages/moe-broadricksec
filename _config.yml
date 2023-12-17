@@ -16,7 +16,11 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resources
-description: An Isomer site of the Singapore Government
+description: >-
+  A Choice School Providing Holistic Education || Nurturing Broadricians To Be
+  Future-Ready Learners
+
+  Gratitude. Respect. Compassion (GRC) Education
 permalink: none
 baseurl: ""
 exclude:
@@ -52,8 +56,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3s7dng0vx9djs.amplifyapp.com/
 prod: https://master.d3s7dng0vx9djs.amplifyapp.com/
-shareicon: /images/isomer-logo.svg
-is_government: false
+shareicon: /images/2024/2024_mission_vision.png
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
