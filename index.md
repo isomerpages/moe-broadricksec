@@ -12,14 +12,21 @@ notification: Our School Website is currently being updated. We apologize for
   any inconvenience.
 sections:
   - hero:
-      background: /images/banner2023v1a.jpg
-      key_highlights:
-        - title: Latest News
-          description: ""
-          url: /links/students/assessment-schedule/
-      button: Contact Us
-      url: /contact-us/
-      variant: image
+      background: /images/2024/BRD_background.jpg
+      variant: center
+      dropdown:
+        title: ""
+        options: []
+      title: Broadrick Secondary School
+      subtitle: A Choice School Providing Holistic Education
+  - infopic:
+      title: "Keep up with our school activities on Instagram "
+      id: infopic
+      description: The account is used to showcase our school's culture and values,
+        and to promote school programs and activities.
+      url: https://www.instagram.com/broadricksec_official/
+      image: /images/2024/insta.jpg
+      alt: Image alt text
   - infopic:
       title: Broadrick Secondary School Open House 2023
       subtitle: "Announcement:"
