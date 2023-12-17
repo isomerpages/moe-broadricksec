@@ -20,13 +20,14 @@ sections:
       title: Broadrick Secondary School
       subtitle: A Choice School Providing Holistic Education
   - infopic:
-      title: "Keep up with our school activities on Instagram "
+      title: Keep up with our school activities on Instagram
       id: infopic
       description: The account is used to showcase our school's culture and values,
         and to promote school programs and activities.
       url: https://www.instagram.com/broadricksec_official/
       image: /images/2024/insta.jpg
       alt: Image alt text
+      button: Click Here to Follow us
   - infopic:
       title: Broadrick Secondary School Open House 2023
       subtitle: "Announcement:"
