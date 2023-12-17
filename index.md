@@ -12,10 +12,8 @@ notification: Our School Website is currently being updated. We apologize for
   any inconvenience.
 sections:
   - hero:
-      background: /images/2024/BRD_background.jpg
-      variant: center
-      title: Broadrick Secondary School
-      subtitle: A Choice School Providing Holistic Education
+      background: /images/2024/2024_mission_vision.png
+      variant: image
   - announcements:
       title: Announcements
       id: announcements
