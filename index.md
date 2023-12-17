@@ -1,8 +1,12 @@
 ---
 layout: homepage
 title: Broadrick Secondary School
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+description: >-
+  A Choice School Providing Holistic Education || Nurturing Broadricians To Be
+  Future-Ready Learners
+
+  Gratitude. Respect. Compassion (GRC) Education
+image: /images/2024/2024_mission_vision.png
 permalink: /
 notification: Our School Website is currently being updated. We apologize for
   any inconvenience.
