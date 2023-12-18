@@ -4,6 +4,4 @@ permalink: /cca/cca-infokit-2022/
 description: ""
 variant: tiptap
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vd0CB7RvY4U?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-[CCA Infokit 2022](/files/CCA%20Infokit%202022.pdf)
+<div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vd0CB7RvY4U?start=1"></iframe></div><p><a href="/files/CCA%20Infokit%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Infokit 2022</a></p>
