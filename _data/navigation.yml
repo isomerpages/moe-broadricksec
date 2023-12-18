@@ -2,6 +2,8 @@ logo: /images/school flag1.jpg
 links:
   - title: School
     collection: school
+  - title: School Calendar
+    collection: school-calendar
   - title: Departments
     collection: departments
   - title: Achievements
