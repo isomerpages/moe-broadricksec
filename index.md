@@ -8,16 +8,24 @@ description: >-
   Gratitude. Respect. Compassion (GRC) Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: Our School Website is currently being updated. We apologize for
-  any inconvenience.
+notification: ""
 sections:
   - hero:
       background: /images/2024/2024_mission_vision.png
-      variant: image
+      variant: floating
+      backgroundColor: gray
+      title: Welcome to Broadrick Secondary School!
+      size: md
+      alignment: left
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2024 School Calendar
+          date: 18 December 2023
+          announcement: The 2024 Calendar of Events will keep you updated
+          link_text: Click Here
+          link_url: /school-calendar/
         - title: N-level examination results to be released on Dec 18
           date: 17 December 2023
           announcement: >-
