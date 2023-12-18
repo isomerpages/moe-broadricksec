@@ -2,5 +2,4 @@ collections:
   school-calendar:
     output: true
     order:
-      - 2024 BRD School Calendar.md
       - 2024 School Calendar.md
