@@ -42,7 +42,7 @@ sections:
             and to promote school programs and activities
           link_text: Click Here to Follow us
           link_url: https://www.instagram.com/broadricksec_official/
-        - title: Sec 1 Registration
+        - title: 2024 Sec 1 Registration
           date: 20 December 2023
           announcement: |-
             Welcome to Broadrick Secondary School.
