@@ -2,6 +2,8 @@ logo: /images/school flag1.jpg
 links:
   - title: School
     collection: school
+  - title: School Calendar
+    collection: school-calendar
   - title: Departments
     collection: departments
   - title: Achievements
@@ -25,9 +27,7 @@ links:
     collection: distinctive-programmes
   - title: Partners
     collection: partners
-  - title: COVID 19 INFO
-    collection: covid-19-info
-  - title: PDLP INFO
+  - title: PDLP MATTERS
     collection: pdlp-info
   - title: Links
     collection: links
