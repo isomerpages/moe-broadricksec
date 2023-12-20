@@ -48,8 +48,8 @@ sections:
             Welcome to Broadrick Secondary School.
 
             Please visit the Secondary 1 Registration Page for more information.
-          link_text: ""
-          link_url: ""
+          link_text: "Click here: Sec 1 Registration"
+          link_url: https://www.broadricksec.moe.edu.sg/links/students/sec-1-registration-2024/
   - infopic:
       title: Keep up with our school activities on Instagram
       id: infopic
