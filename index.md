@@ -8,11 +8,12 @@ description: >-
   Gratitude. Respect. Compassion (GRC) Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: ""
+notification: Our School Website is currently being updated. We apologize for
+  any inconvenience caused.
 sections:
   - hero:
       background: /images/2024/2024_mission_vision.png
-      variant: floating
+      variant: image
       backgroundColor: gray
       title: Welcome to Broadrick Secondary School!
       size: md
@@ -27,19 +28,20 @@ sections:
             Welcome to Broadrick Secondary School.
 
             Please visit the Secondary 1 Registration Page for more information.
-          link_text: "Click here: Sec 1 Registration"
+          link_text: CLICK HERE
           link_url: https://www.broadricksec.moe.edu.sg/links/students/sec-1-registration-2024/
         - title: 2024 School Calendar
           date: 18 December 2023
           announcement: The 2024 Calendar of Events will keep you updated
-          link_text: Click Here
+          link_text: CLICK HERE
           link_url: /school-calendar/
         - title: Keep up with our school activities on Instagram
           date: 17 December 2023
           announcement: The account is used to showcase our school's culture and values,
             and to promote school programs and activities
-          link_text: Click Here to Follow us
+          link_text: CLICK HERE
           link_url: https://www.instagram.com/broadricksec_official/
+      subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our school activities on Instagram
       id: infopic
