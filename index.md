@@ -12,7 +12,7 @@ notification: Our School Website is currently being updated. We apologize for
   any inconvenience caused.
 sections:
   - hero:
-      background: /images/2024/2024_web_bammer.jpg
+      background: /images/2024/2024_web_bammerv2.jpg
       variant: image
       backgroundColor: gray
       title: Welcome to Broadrick Secondary School!
