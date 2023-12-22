@@ -22,7 +22,7 @@ sections:
         - title: 2024 SCHOOL Calendar
           description: Click here
           url: https://www.broadricksec.moe.edu.sg/school-calendar/
-        - title: "2024 S1 Registration "
+        - title: 2024 S1 Registration
           description: "Dateline: 22/12/23"
           url: https://www.broadricksec.moe.edu.sg/links/students/sec-1-registration-2024/
   - announcements:
