@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Aliv App Info.md
       - Students/Sec 1 Registration 2024.md
       - Students/.keep
       - Students/2023 Class Time Table.md
