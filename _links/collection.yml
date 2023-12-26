@@ -2,8 +2,8 @@ collections:
   links:
     output: true
     order:
-      - Students/Sec 1 Registration 2024.md
       - Students/.keep
+      - Students/Sec 1 Registration 2024.md
       - Students/2023 Class Time Table.md
       - Students/Assessment Schedule.md
       - Students/NEU PC plus Programme.md
@@ -27,3 +27,4 @@ collections:
       - Teachers/Others.md
       - Open House.md
       - School Canteen Advertisement.md
+      - Aliv App Info.md
