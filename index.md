@@ -20,10 +20,10 @@ sections:
       alignment: left
       key_highlights:
         - title: 2024 SCHOOL Calendar
-          description: Click here
+          description: VIEW HERE
           url: https://www.broadricksec.moe.edu.sg/school-calendar/
-        - title: "2024 E-Student Handbook "
-          description: Click Here
+        - title: 2024 E-Student Handbook
+          description: VIEW HERE
           url: https://online.flippingbook.com/view/453984043/
   - announcements:
       title: Announcements
@@ -34,7 +34,7 @@ sections:
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
             the school has created its first e-student handbook. Students can
             download a copy by clicking here.
-          link_text: CLICK HERE
+          link_text: DOWNLOAD HERE
           link_url: https://drive.google.com/file/d/1wKS3v12FMnEfx7DqOOwkf_HTws55ekLW/view?usp=drive_link
         - title: 2024 Sec 1 Registration
           date: 20 December 2023
