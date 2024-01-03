@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p><a href="https://online.flippingbook.com/view/453984043/" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2024</a></p>
+<p><a href="https://online.flippingbook.com/view/755173189/" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2024</a></p>
