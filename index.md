@@ -35,7 +35,7 @@ sections:
             the school has created its first e-student handbook. Students can
             download a copy by clicking here.
           link_text: DOWNLOAD HERE
-          link_url: https://drive.google.com/file/d/1wKS3v12FMnEfx7DqOOwkf_HTws55ekLW/view?usp=drive_link
+          link_url: https://drive.google.com/file/d/1IuiFzQSEvSUGxZwEMjE3VHatO1FSBAxt/view?usp=sharing
         - title: 2024 Sec 1 Registration
           date: 20 December 2023
           announcement: >-
