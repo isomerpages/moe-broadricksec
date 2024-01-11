@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Students/Yearbook.md
       - Students/Student Handbook.md
       - Students/.keep
       - Students/Sec 1 Registration 2024.md
