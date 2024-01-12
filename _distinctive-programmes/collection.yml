@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Tripple P Level 2 Webinars.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - GEAR UP @ Broadrick.md
