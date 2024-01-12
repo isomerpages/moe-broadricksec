@@ -67,7 +67,7 @@ sections:
           announcement: We are pleased to inform you that the first run of Triple P Level
             2 Webinars in January 2024 and is now opened for registration.
           link_text: Click Here
-          link_url: erer
+          link_url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/tripple-p/
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our school activities on Instagram
