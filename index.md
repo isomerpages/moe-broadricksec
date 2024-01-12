@@ -62,6 +62,12 @@ sections:
             and to promote school programs and activities
           link_text: CLICK HERE
           link_url: https://www.instagram.com/broadricksec_official/
+        - title: Triple P Level 2 Webinars
+          date: 12 January 2024
+          announcement: We are pleased to inform you that the first run of Triple P Level
+            2 Webinars in January 2024 and is now opened for registration.
+          link_text: Click Here
+          link_url: erer
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our school activities on Instagram
