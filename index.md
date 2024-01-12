@@ -23,19 +23,22 @@ sections:
           description: VIEW HERE
           url: https://www.broadricksec.moe.edu.sg/school-calendar/
         - title: 2024 E-Student Handbook
-          description: VIEW HERE
-          url: https://online.flippingbook.com/view/453984043/
+          description: w.e.f. 12/1/24 VIEW HERE
+          url: https://online.flippingbook.com/view/271908200/
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 E-Student Handbook
-          date: 02 January 2024
-          announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
-            the school has created its first e-student handbook. Students can
-            download a copy by clicking here.
+        - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
+          date: 12 January 2024
+          announcement: >-
+            As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
+            the school has created its first e-student handbook. 
+
+
+            Students can download a copy by clicking here.
           link_text: DOWNLOAD HERE
-          link_url: https://drive.google.com/file/d/1IuiFzQSEvSUGxZwEMjE3VHatO1FSBAxt/view?usp=sharing
+          link_url: https://drive.google.com/file/d/17HBgAoMnc6KtixK3LFkBL4eWN4B5lK3T/view?usp=sharing
         - title: 2024 Sec 1 Registration
           date: 20 December 2023
           announcement: >-
@@ -59,6 +62,12 @@ sections:
             and to promote school programs and activities
           link_text: CLICK HERE
           link_url: https://www.instagram.com/broadricksec_official/
+        - title: Triple P Level 2 Webinars
+          date: 12 January 2024
+          announcement: We are pleased to inform you that the first run of Triple P Level
+            2 Webinars in January 2024 and is now opened for registration.
+          link_text: Click Here
+          link_url: erer
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our school activities on Instagram
