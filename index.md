@@ -29,13 +29,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 E-Student Handbook
-          date: 02 January 2024
-          announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
-            the school has created its first e-student handbook. Students can
-            download a copy by clicking here.
+        - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
+          date: 12 January 2024
+          announcement: >-
+            As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
+            the school has created its first e-student handbook. 
+
+
+            Students can download a copy by clicking here.
           link_text: DOWNLOAD HERE
-          link_url: https://drive.google.com/file/d/1IuiFzQSEvSUGxZwEMjE3VHatO1FSBAxt/view?usp=sharing
+          link_url: https://drive.google.com/file/d/17HBgAoMnc6KtixK3LFkBL4eWN4B5lK3T/view?usp=sharing
         - title: 2024 Sec 1 Registration
           date: 20 December 2023
           announcement: >-
