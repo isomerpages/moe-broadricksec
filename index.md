@@ -24,7 +24,7 @@ sections:
           url: https://www.broadricksec.moe.edu.sg/school-calendar/
         - title: 2024 E-Student Handbook
           description: w.e.f. 12/1/24 VIEW HERE
-          url: https://online.flippingbook.com/view/453984043/
+          url: https://online.flippingbook.com/view/271908200/
   - announcements:
       title: Announcements
       id: announcements
