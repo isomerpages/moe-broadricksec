@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Tripple P/Parent Support Group.md
       - Tripple P/.keep
       - SAC.md
       - Alumni.md
