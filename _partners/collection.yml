@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Parent Support Group.md
-      - Tripple P/.keep
       - SAC.md
       - Alumni.md
