@@ -25,3 +25,11 @@ variant: markdown
 ![](/images/PSG/2024/Slide10.JPG)
 
 ![](/images/PSG/2024/Slide11.JPG)
+
+![](/images/PSG/2024/Slide1a.JPG)
+
+![](/images/PSG/2024/Slide2a.JPG)
+
+![](/images/PSG/2024/Slide3a.JPG)
+
+![](/images/PSG/2024/Slide4a.JPG)
