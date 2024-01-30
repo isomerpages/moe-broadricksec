@@ -6,7 +6,7 @@ third_nav_title: Parents
 variant: markdown
 ---
 ### Weighted Assessment 1
-
+[Weighted Assessment 1 Student Timetable](/files/Time%20Table/2024/WA1_2024__For_student__29_Jan.pdf)
 
 ### Weighted Assessment 2
 
