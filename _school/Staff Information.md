@@ -232,8 +232,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>SH Physical Education / CCA</strong> 
 <br>
-<br>Mr Luo Shunheng Gideon
-<br><a href="mailto:luo_shunheng_gideon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luo_shunheng_gideon@moe.edu.sg</a>
+<br>Mr Loh Shunheng Gideon
+<br><a href="mailto:loh_shunheng_gideon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_shunheng_gideon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
