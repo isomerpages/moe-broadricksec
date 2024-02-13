@@ -1,6 +1,0 @@
-collections:
-  pdlp-info:
-    output: true
-    order:
-      - PDLP INFO.md
-      - Student ICON.md
