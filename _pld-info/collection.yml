@@ -2,5 +2,5 @@ collections:
   pld-info:
     output: true
     order:
-      - PDLP INFO.md
+      - PLD INFO.md
       - Student ICON.md
