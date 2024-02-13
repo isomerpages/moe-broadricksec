@@ -1,5 +1,5 @@
 collections:
-  pdlp-info:
+  pld-info:
     output: true
     order:
       - PDLP INFO.md
