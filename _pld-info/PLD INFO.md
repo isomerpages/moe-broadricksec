@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>MOE's Personal Learning Device (PLD) Initiative</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PLD/Slide2.PNG">
+</div>
 <h4><strong>(A) Resource for Parents</strong></h4>
 <blockquote>
 <p><strong>Parents' guide to PLDs for their child/ward</strong>
@@ -37,6 +41,10 @@ with PLD.
 <br><a href="/files/LETTER%20TO%20PARENTS/Parent-Handbook-II-on-Learning-with-a-Personal-Learning-Devicecompress.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
 </p>
 <h5><strong>(B) Device Management Application (DMA)</strong></h5>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PLD/Slide3.PNG">
+</div>
 <p>In rolling out Personal Learning Devices (PLDs) for students, MOE is acutely
 aware of concerns regarding students’ cyber wellness. The DMA allows the
 school and parents to manage this, by</p>
@@ -142,9 +150,8 @@ by DMA after school.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1KSCn69U3Uc?si=kgQTJ2iERkBHooJz&amp;controls=0"></iframe>
 </div>
 <p></p>
-<p>For parents who would like to amend your after-school DMA option, you
-can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg</a>. Please note that
-changes will only take effect at the end of the month.</p>
+<p><strong>For parents who would like to amend your after-school DMA option, you can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg</a>. Please note that changes will only take effect at the end of the month.</strong>
+</p>
 <p></p>
 <h5></h5>
 <p></p>
