@@ -796,7 +796,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jasmine Chua</p>
+<p><a href="mailto:yeow_boon_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_boon_gek@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -841,9 +843,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Fadli Abdul Lathee
 <br><a href="mailto:muhamad_fadli_abdul_lathee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_fadli_abdul_lathee@moe.edu.sg</a> 
-<br>
-<br>Mdm Lee Lan Yang
-<br><a href="mailto:lee_lan_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lan_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
