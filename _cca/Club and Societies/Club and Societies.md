@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Club and Societies
 ---
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/club-and-societies/media-club"> 
+<a href="/cca/club-and-societies/media-club"> 
 <img src="/images/media.png" 
      style="width:30%">
 </a>
@@ -21,7 +21,7 @@ Friday: 2.30pm - 5:30pm  </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/club-and-societies/robotics"> 
+<a href="/cca/club-and-societies/robotics"> 
 <img src="/images/robotic.png" 
      style="width:30%">
 </a>
