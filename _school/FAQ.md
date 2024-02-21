@@ -6,16 +6,16 @@ description: ""
 ##### Frequently asked questions
   
 How do I get to Broadrick Secondary School? <br>
-[https://moe-broadricksec-staging.netlify.app/contact-us/](https://moe-broadricksec-staging.netlify.app/contact-us/)
+[/contact-us/)
 
 How do I contact Broadrick Secondary School? <br>
-[https://moe-broadricksec-staging.netlify.app/contact-us/](https://moe-broadricksec-staging.netlify.app/contact-us/)
+[/contact-us/)
 
 How can I contact my child’s teacher? <br>
-[https://moe-broadricksec-staging.netlify.app/school/staff-information](https://moe-broadricksec-staging.netlify.app/school/staff-information)  
+[/school/staff-information)  
 
 How can I get info on my child’s examination schedule? <br> 
-[https://moe-broadricksec-staging.netlify.app/links/general/examination-timetable](https://moe-broadricksec-staging.netlify.app/links/general/examination-timetable)
+[/links/general/examination-timetable)
 
 
 When are the school terms/ school holidays? <br> 
@@ -36,11 +36,11 @@ Financial Assistance Scheme and Bursaries
 
 ##### DSA: 
 Where can I find out more about Direct School Admission (DSA) to Broadrick Secondary School? <br>
-[https://moe-broadricksec-staging.netlify.app/distinctive-programmes/direct-school-admission](https://moe-broadricksec-staging.netlify.app/distinctive-programmes/direct-school-admission)
+[/distinctive-programmes/direct-school-admission)
 
 ##### CCA:
 Where can I find out more about CCAs and related CCA matters in Broadrick Secondary School? <br> 
-[https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups](https://moe-broadricksec-staging.netlify.app/cca/uniformed-groups)
+[/cca/uniformed-groups)
 
 Can my child join more than one CCA? <br>
 Students may join more than one CCA provided there are no clashes in the schedules  
