@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual Performing Arts
 ---
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/modern-dance"> 
+<a href="/cca/visual-performing-arts/modern-dance"> 
 <img src="/images/1%20(2).png" 
      style="width:30%">
 </a>
@@ -21,7 +21,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/drama-club"> 
+<a href="/cca/visual-performing-arts/drama-club"> 
 <img src="/images/2%20(2).png" 
      style="width:30%">
 </a>
@@ -36,7 +36,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/show-choir"> 
+<a href="/cca/visual-performing-arts/show-choir"> 
 <img src="/images/choir.png" 
      style="width:30%">
 </a>
@@ -52,7 +52,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/visual-performing-arts/concert-band"> 
+<a href="/cca/visual-performing-arts/concert-band"> 
 <img src="/images/concert.png" 
      style="width:30%">
 </a>

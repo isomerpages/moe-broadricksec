@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 ---
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/basketball"> 
+<a href="/cca/physical-sports/basketball"> 
 <img src="/images/basketball.png" 
      style="width:30%">
 </a>
@@ -21,7 +21,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/shooting-air-rifle"> 
+<a href="/cca/physical-sports/shooting-air-rifle"> 
 <img src="/images/shooting.png" 
      style="width:30%">
 </a>
@@ -38,7 +38,7 @@ Schedule pending Covid SMM Guidelines </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/taekwondo"> 
+<a href="/cca/physical-sports/taekwondo"> 
 <img src="/images/Taekwondo.png" 
      style="width:30%">
 </a>
@@ -54,7 +54,7 @@ Friday: 2.30pm - 5.30pm </figcaption>
 </figure>
 
 <figure>  
-<a href="https://moe-broadricksec-staging.netlify.app/cca/physical-sports/tchoukball"> 
+<a href="/cca/physical-sports/tchoukball"> 
 <img src="/images/tchouckball.png" 
      style="width:30%">
 </a>
