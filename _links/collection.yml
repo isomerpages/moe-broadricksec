@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Students/2024 March Holiday Academic Programme (HAP) Timetable.md
       - Students/.keep
       - Students/Student Handbook.md
       - Students/Sec 1 Registration 2024.md
