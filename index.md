@@ -33,7 +33,7 @@ sections:
           date: 29 February 2024
           announcement: March HAP Timetable for Students
           link_text: CLICK HERE
-          link_url: 2024 March Holiday Academic Programme (HAP) Timetable.md
+          link_url: /students/
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: >-
