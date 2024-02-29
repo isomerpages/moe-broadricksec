@@ -29,6 +29,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2024 March Holiday Academic Programme (HAP) Timetable
+          date: 29 February 2024
+          announcement: March HAP Timetable for Students
+          link_text: CLICK HERE
+          link_url: 2024 March Holiday Academic Programme (HAP) Timetable.md
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: >-
@@ -62,12 +67,6 @@ sections:
             and to promote school programs and activities
           link_text: CLICK HERE
           link_url: https://www.instagram.com/broadricksec_official/
-        - title: Triple P Level 2 Webinars
-          date: 12 January 2024
-          announcement: We are pleased to inform you that the first run of Triple P Level
-            2 Webinars in January 2024 and is now opened for registration.
-          link_text: Click Here
-          link_url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/tripple-p/
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our school activities on Instagram
