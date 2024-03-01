@@ -1,0 +1,6 @@
+collections:
+  pld-info:
+    output: true
+    order:
+      - PLD INFO.md
+      - Student ICON INFO.md

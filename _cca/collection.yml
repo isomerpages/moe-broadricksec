@@ -1,0 +1,28 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/National Cadet Corps.md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/Girl Guides.md
+      - Physical Sports/.keep
+      - Physical Sports/Physical Sports.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Shooting (Air Rifle).md
+      - Physical Sports/Taekwondo.md
+      - Physical Sports/Tchoukball.md
+      - Visual Performing Arts/.keep
+      - Visual Performing Arts/Visual Performing Arts.md
+      - Visual Performing Arts/Drama Club.md
+      - Visual Performing Arts/Concert Band.md
+      - Visual Performing Arts/Modern Dance.md
+      - Visual Performing Arts/Show Choir.md
+      - Club and Societies/.keep
+      - Club and Societies/Club and Societies.md
+      - Club and Societies/Media Club.md
+      - Club and Societies/Robotics.md
+      - Leaps 2.md
+      - CCA Infokit.md

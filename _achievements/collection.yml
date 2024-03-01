@@ -1,0 +1,11 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - CCA/2023 CCA Achievements.md
+      - CCA/2022 CCA Achievements.md
+      - CCA/2021 CCA Achievements.md
+      - CCA/.keep
+      - IP Achievements/2023 IP Achievements.md
+      - IP Achievements/2022 IP Achievements.md
+      - IP Achievements/.keep

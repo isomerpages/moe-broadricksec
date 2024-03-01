@@ -1,0 +1,7 @@
+---
+title: Tripple P Level 2 Webinars
+permalink: /distinctive-programmes/tripple-p/
+variant: tiptap
+description: ""
+---
+<p>Dear Parents,</p><p>We are pleased to inform you that the first run of Triple P Level 2 Webinars in January 2024 and is&nbsp;now opened for registration, details as follows:</p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Secondary School: Triple P Level 2 Webinars</strong></p></td><td rowspan="1" colspan="1"><p><strong>Dates</strong></p></td><td rowspan="1" colspan="1"><p><strong>Time</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Webinar 1 : Raising Responsible Teenagers</p><p>Webinar 2 : Raising Competent&nbsp;Teenagers</p><p>Webinar 3 : Getting Teenagers Connected</p></td><td rowspan="1" colspan="1"><p><strong>13 Jan (Saturday)</strong></p><p><strong>20 Jan (Saturday)</strong></p><p><strong>27 Jan (Saturday)</strong></p></td><td rowspan="1" colspan="1"><p><strong>11.30am – 12.30pm</strong></p></td></tr></tbody></table><p>Please also find the attached e-brochure for more information, and the QR code and link for online&nbsp;registration.&nbsp;</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.jpg"></div><p></p>

@@ -1,0 +1,33 @@
+collections:
+  links:
+    output: true
+    order:
+      - Students/2024 March Holiday Academic Programme (HAP) Timetable.md
+      - Students/.keep
+      - Students/Student Handbook.md
+      - Students/Sec 1 Registration 2024.md
+      - Students/2024 Class Time Table.md
+      - Students/Assessment Schedule.md
+      - Students/NEU PC plus Programme.md
+      - Students/Sec 1 SBB and Sec 3 Bridging Programme.md
+      - Students/Sec 3 Subject Combination Excercise.md
+      - Students/Book Lists.md
+      - Students/Yearbook.md
+      - Students/Financial Assistance.md
+      - Students/Classroom Allocation.md
+      - Students/Others.md
+      - Parents/.keep
+      - Parents/Letters to Parents.md
+      - Parents/Assessment Schedule.md
+      - Parents/Sexuality Education.md
+      - Parents/Parents Gateway.md
+      - Parents/Book Lists.md
+      - Parents/LEAPS 2.md
+      - Parents/Registration links for Parents' Forum on Early Admission
+        Exercise.md
+      - Teachers/.keep
+      - Teachers/Classroom Allocation Plan.md
+      - Teachers/Others.md
+      - Open House.md
+      - School Canteen Advertisement.md
+      - Aliv App Info.md

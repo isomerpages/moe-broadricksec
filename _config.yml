@@ -1,0 +1,64 @@
+title: Broadrick Secondary School
+url: https://www.broadricksec.moe.edu.sg
+favicon: /images/2024/logo_removebg_preview.png
+colors:
+  primary-color: "#010060"
+  secondary-color: "#bb1837"
+  media-colors:
+    - title: media-color-one
+      color: "#92c4dd"
+    - title: media-color-two
+      color: "#e6db1c"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+resources_name: Resources
+description: >-
+  A Choice School Providing Holistic Education || Nurturing Broadricians To Be
+  Future-Ready Learners
+
+  Gratitude. Respect. Compassion (GRC) Education
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d3s7dng0vx9djs.amplifyapp.com/
+prod: https://master.d3s7dng0vx9djs.amplifyapp.com/
+shareicon: /images/2024/2024_mission_vision.png
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+google_analytics_ga4: ""
