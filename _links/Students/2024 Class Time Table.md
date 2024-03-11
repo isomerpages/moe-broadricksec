@@ -5,12 +5,21 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h3>2024 Semester 1 Time-Table</h3>
-<p><a href="/files/Time Table/2024/Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 1</a>
-<br><a href="/files/Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 2</a>
-<br><a href="/files/Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 3</a>
-<br><a href="/files/Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 4</a>
+<h3>2024 Semester 1 Time-Table - Term 1</h3>
+<p><a href="/files/Time Table/2024/Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 1</a> 
+<br><a href="/files/Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 2</a> 
+<br><a href="/files/Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 3</a> 
+<br><a href="/files/Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 4</a> 
 <br><a href="/files/Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 5</a>
+</p>
+<h3>2024 Semester 1 Time-Table - Term 2</h3>
+<p><a href="/files/2024_Sec_1_Term_2_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 - Sec 1</a>
+</p>
+<p><a href="/files/2024_Sec_2_Term_2_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 - Sec 2</a>
+</p>
+<p><a href="/files/2024_Sec_3_Term_2_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 - Sec 3</a>
+</p>
+<p><a href="/files/2024_Sec_4_5_Term_2_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 - Sec 4 and 5</a>
 </p>
 <p>The image below provides additional information to help students understand
 the timetable.</p>
