@@ -13,13 +13,10 @@ variant: tiptap
 <br><a href="/files/Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Sec 5</a>
 </p>
 <h3>2024 Semester 1 Time-Table - Term 2</h3>
-<p><a href="/files/2024_Sec_1_Term_2_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 - Sec 1</a>
-</p>
-<p><a href="/files/2024_Sec_2_Term_2_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 - Sec 2</a>
-</p>
-<p><a href="/files/2024_Sec_3_Term_2_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 - Sec 3</a>
-</p>
-<p><a href="/files/2024_Sec_4_5_Term_2_Time_Table.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 - Sec 4 and 5</a>
+<p><a href="/files/2024_SEM1_Master_TT_T2_Sec_1__Term_2_updated_18_Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 Sec 1 Updated</a>
+<br><a href="/files/2024_SEM1_Master_TT_T2_Sec_2__Term_2_updated_18_Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 Sec 2 Updated</a>
+<br><a href="/files/2024_SEM1_Master_TT_T2_Sec_3__Term_2_updated_18_Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 Sec 3 Updated</a>
+<br><a href="/files/2024_SEM1_Master_TT_T2_Sec_4__Term_2_updated_18_Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 Sec 4 and 5 Updated</a>
 </p>
 <p>The image below provides additional information to help students understand
 the timetable.</p>
