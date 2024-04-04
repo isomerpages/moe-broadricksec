@@ -9,7 +9,7 @@ variant: tiptap
 <p><a href="/files/Time%20Table/2024/WA1_2024__For_student__29_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment 1 Student Timetable</a>
 </p>
 <h3>Weighted Assessment 2</h3>
-<p><a href="/files/Time Table/2024/WA2_TIMETABLE_APR_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment 2 Student Timetable</a>
+<p><a href="/files/Time Table/2024/2024 wa2 timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment 2 Student Timetable</a>
 </p>
 <h3>Weighted Assessment 3</h3>
 <h3>Weighted Assessment 4</h3>
