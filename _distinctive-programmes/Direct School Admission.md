@@ -2,8 +2,9 @@
 title: Direct School Admission
 permalink: /distinctive-programmes/direct-school-admission/
 description: ""
+variant: markdown
 ---
-##### 2023 DIRECT SCHOOL ADMISSION INTO SECONDARY SCHOOLS (DSA-SEC) for Admission to Secondary 1 in 2024
+##### 2024 DIRECT SCHOOL ADMISSION INTO SECONDARY SCHOOLS (DSA-SEC) for Admission to Secondary 1 in 2025
 
 **DSA-Sec Talent Offered** <br>
 In broadening and deepening student learning, our Applied Learning Programme (ALP) seeks to nurture entrepreneurship, as well as critical and inventive thinking in students. Our “Entrepreneurship in STEM” programme aims to help our students become inquisitive leaders&nbsp;and critical and creative thinkers who embrace a spirit of creativity and enterprise.
@@ -20,7 +21,7 @@ DSA students will be placed under our Talent Management Programme (TMP) where th
 
 ![](/images/alp2%20(1).png)
 
-We have vacancies for up to 20% of our Secondary 1 cohort in 2024 to apply to join our school through the Direct School Admission (DSA) process through these two talent areas:  
+We have vacancies for up to 20% of our Secondary 1 cohort in 2025 to apply to join our school through the Direct School Admission (DSA) process through these two talent areas:  
 
 * Entrepreneurship
 * STEM
@@ -37,12 +38,12 @@ Please note that meeting all the criteria does not guarantee the student will be
 **Selection Process** <br>
 Factors considered by school:
 * Participation in areas of talent
-* Performance in interview (Shortlisted candidates will be interviewed in July 2023)
+* Performance in interview (Shortlisted candidates will be interviewed in July 2024)
 
 **Key Dates** <br>
-* Short-listed candidates will be informed by 7 July 2023.
-* Short-listed candidates will be interviewed from 10 to 14 July 2023.
-* All applicants will be informed of the results of their application (Confirmed / Waiting List / Rejected) by 11 September 2023.
+* Short-listed candidates will be informed by 12 July 2024.
+* Short-listed candidates will be interviewed from July 2024.
+* All applicants will be informed of the results of their application (Confirmed / Waiting List / Rejected) by 9 September 2024.
 
 **Centralised DSA-Sec Application Process** <br>
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May to 31 May 2023, 3 pm. For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
@@ -54,5 +55,5 @@ Students who are successfully admitted to the school via DSA are expected to hon
 DSA FAQs -&nbsp;[Click here for more info.](/files/FAQs%20for%20DSA%20SEC%201.pdf)
 
 Contact Person <br>
-DSA Coordinator: Mr. Lim Shi Hao, HOD ICT <br>
+DSA Coordinator: Mr. Lim Shi Hao, SSD <br>
 Email: lim_shi_hao@schools.gov.sg
