@@ -52,7 +52,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
 
-DSA FAQs -&nbsp;[Click here for more info.](/files/FAQs%20for%20DSA%20SEC%201.pdf)
+DSA FAQs -&nbsp;[Click here for more information.](/files/FAQs_for_DSA_SEC_1__1_.pdf)
 
 Contact Person <br>
 DSA Coordinator: Mr. Lim Shi Hao, SSD <br>
