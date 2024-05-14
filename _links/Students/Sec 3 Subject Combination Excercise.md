@@ -21,8 +21,7 @@ Term 2 Week 9/10 17 May – 24 May: Subject Combination Registration Exercise <b
 (for students who want to switch subject combination)<br>Term 4 Week 9 4 Nov: Confirmation of Subject Combination Results
 <br>
 More information can be found in the following link: https://for.edu.sg/2025subjcombination 
-For enquiries, please contact: 
-
+<br><br>For enquiries, please contact: <br>
 HOD Science / Mr Foo Siang Keng (foo_siang_keng@moe.edu.sg) 
 HOD Math / Ms. Jermaine Tan (tan_li_qin@moe.edu.sg) 
 YH Lower Sec / Ms. Mastura Ahmad (mastura_ahmad@moe.edu.sg)
