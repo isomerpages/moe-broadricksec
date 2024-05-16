@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p><a href="/files/2024_MAR_HAP_Timetable_ANNEX_A.pdf" rel="noopener noreferrer nofollow" target="_blank">CLICK HERE</a>
+<p><a href="/files/Time Table/2024/2024_SEM1_June_HAP_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 June HAP Timetable</a>
 </p>
