@@ -14,3 +14,5 @@ variant: tiptap
 </p>
 <p><a href="/files/LETTER TO PARENTS/2024/2024_June_HAP_for_Sec_4_5_Letter_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">June HAP for Sec 4/5 Letter to Parents</a>
 </p>
+<p><a href="/files/LETTER TO PARENTS/2024/Term_3_2024_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Letter to Parents</a>
+</p>
