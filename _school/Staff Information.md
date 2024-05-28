@@ -4,7 +4,11 @@ permalink: /school/staff-information/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -54,7 +58,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -299,7 +307,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -720,7 +732,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -761,9 +777,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tham Shao Yen
-<br><a href="mailto:tham_shao_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_shao_yen@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -803,7 +817,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -842,7 +860,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Fadli Abdul Lathee
-<br><a href="mailto:muhamad_fadli_abdul_lathee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_fadli_abdul_lathee@moe.edu.sg</a> 
+<br><a href="mailto:muhamad_fadli_abdul_lathee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_fadli_abdul_lathee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -866,7 +884,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -992,8 +1014,7 @@ variant: tiptap
 <p>Desktop Engineer&nbsp;
 <br>
 <br>Mr Kenneth Lim
-<br><a href="mailto:g-ncs3202sde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">g-ncs3202sde@ncs.com.sg</a>
-</p>
+<br><a href="mailto:lim.hk@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">lim.hk@ncs.com.sg</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager
@@ -1005,7 +1026,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Desktop Engineer&nbsp;
+<br>
+<br>Ms Abdul Malik Abrin Nisha
+<br><a href="mailto:abrinnisha.abdulmalik@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">abrinnisha.abdulmalik@ncs.com.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
