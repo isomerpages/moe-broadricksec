@@ -20,15 +20,15 @@ variant: tiptap
 </p>
 <p></p>
 <h3>2024 Semester 2 Time-Table</h3>
-<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Sec 1</a>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 1</a>
 </p>
-<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Sec 2</a>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 2</a>
 </p>
-<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Sec 3</a>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 3</a>
 </p>
-<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Sec 4</a>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 4</a>
 </p>
-<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Sec 5</a>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 5</a>
 </p>
 <p></p>
 <p>The image below provides additional information to help students understand
