@@ -18,6 +18,19 @@ variant: tiptap
 <br><a href="/files/2024_SEM1_Master_TT_T2_Sec_3__Term_2_updated_18_Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 Sec 3 Updated</a> 
 <br><a href="/files/2024_SEM1_Master_TT_T2_Sec_4__Term_2_updated_18_Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Term 2 Sec 4 and 5 Updated</a>
 </p>
+<p></p>
+<h3>2024 Semester 2 Time-Table</h3>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 1</a>
+</p>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 2</a>
+</p>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 3</a>
+</p>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 4</a>
+</p>
+<p><a href="/files/Time Table/2024/2024_SEM_2_SEC_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 5</a>
+</p>
+<p></p>
 <p>The image below provides additional information to help students understand
 the timetable.</p>
 <p></p>
