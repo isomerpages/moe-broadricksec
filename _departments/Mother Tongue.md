@@ -211,7 +211,7 @@ Placing</p>
 <p>Certificate of Achievement - 1 recipient&nbsp;</p>
 </li>
 </ul>
-<p><strong>Tamil Saaral - E2 &amp; E5 Cluster - Tamil Language Competition </strong>
+<p><strong>Tamil Saaral - E2 &amp; E5 Cluster - Tamil Language Competition</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -230,7 +230,7 @@ Placing</p>
 <p>Typing Competition - Runner up - 1 recipient</p>
 </li>
 </ul>
-<p><strong>NPS International School's Imayam Tamil Language Festival </strong>
+<p><strong>NPS International School's Imayam Tamil Language Festival</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
