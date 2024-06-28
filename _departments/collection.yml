@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - English and English Literature.md
+      - Mother Tongue.md
       - Mathematics.md
       - Science.md
       - Humanities.md
-      - Mother Tongue.md
       - Craft & Technology.md
+      - PE & CCA.md
       - CCE.md
       - ICT.md
-      - PE & CCA.md
       - Staff PD.md
