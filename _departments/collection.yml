@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
-      - English.md
+      - English and English Literature.md
+      - Mother Tongue.md
       - Mathematics.md
       - Science.md
       - Humanities.md
-      - Mother Tongue.md
       - Craft & Technology.md
-      - CCE.md
-      - ICT.md
       - PE & CCA.md
-      - Staff PD.md
+      - CCE.md
+      - Music and Aesthetics.md
+      - ICT.md
