@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Music and Aesthetics.md
       - English and English Literature.md
       - Mother Tongue.md
       - Mathematics.md
@@ -11,4 +10,5 @@ collections:
       - Craft & Technology.md
       - PE & CCA.md
       - CCE.md
+      - Music and Aesthetics.md
       - ICT.md
