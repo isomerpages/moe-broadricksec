@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - English.md
+      - English and English Literature.md
       - Mathematics.md
       - Science.md
       - Humanities.md
