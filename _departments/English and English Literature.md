@@ -62,6 +62,5 @@ of the English Language, who are able to create, connect and contribute</p>
 </div>
 <p><em>Feed Your Imagination - interactive theatre session. Students showing earnest </em><strong><em>respect</em></strong><em> in the post production dialogue with producer</em>
 </p>
-<p></p>
-<h3><strong>Our Achievements</strong></h3>
+<h3></h3>
 <p></p>
