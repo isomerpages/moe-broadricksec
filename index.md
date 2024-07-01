@@ -26,11 +26,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 March Holiday Academic Programme (HAP) Timetable
-          date: 29 February 2024
-          announcement: March HAP Timetable for Students
+        - title: 2024 Term 3 Letter to Parents
+          date: 02 July 2024
+          announcement: The termly letter contains important information for parents
           link_text: CLICK HERE
-          link_url: links/students/2024marhap/
+          link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/Term_3_2024_Letter_to_Parents.pdf
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
