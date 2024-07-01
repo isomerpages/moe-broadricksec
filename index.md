@@ -38,15 +38,6 @@ sections:
             download a copy by clicking here.
           link_text: DOWNLOAD HERE
           link_url: https://drive.google.com/file/d/17HBgAoMnc6KtixK3LFkBL4eWN4B5lK3T/view?usp=sharing
-        - title: 2024 Sec 1 Registration
-          date: 20 December 2023
-          announcement: "Welcome to Broadrick Secondary School.  Please visit the
-            Secondary 1 Registration Page for more information.  Update: Sec 1
-            Textbook and Uniform only starts from 26 Dec to 29 Dec 2023. The
-            detailed schedule is updated in the Sec 1 Registration page -
-            Schedule for Purchase of Textbooks and Uniform"
-          link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/links/students/sec-1-registration-2024/
         - title: 2024 School Calendar
           date: 18 December 2023
           announcement: The 2024 Calendar of Events will keep you updated
