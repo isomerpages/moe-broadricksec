@@ -1,18 +1,15 @@
 ---
 layout: homepage
 title: Broadrick Secondary School
-description: >-
-  A Choice School Providing Holistic Education || Nurturing Broadricians To Be
-  Future-Ready Learners
-
-  Gratitude. Respect. Compassion (GRC) Education
+description: A Choice School Providing Holistic Education || Nurturing
+  Broadricians To Be Future-Ready Learners Gratitude. Respect. Compassion (GRC)
+  Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: Our School Website is currently being updated. We apologize for
-  any inconvenience caused.
+notification: ""
 sections:
   - hero:
-      background: /images/2024/2024_web_bammerv3.jpg
+      background: /images/2024/BRD_LOGO_ANIMATION__1___2_.gif
       variant: image
       backgroundColor: gray
       title: Welcome to Broadrick Secondary School!
@@ -36,24 +33,18 @@ sections:
           link_url: links/students/2024marhap/
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
-          announcement: >-
-            As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
-            the school has created its first e-student handbook. 
-
-
-            Students can download a copy by clicking here.
+          announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
+            the school has created its first e-student handbook.   Students can
+            download a copy by clicking here.
           link_text: DOWNLOAD HERE
           link_url: https://drive.google.com/file/d/17HBgAoMnc6KtixK3LFkBL4eWN4B5lK3T/view?usp=sharing
         - title: 2024 Sec 1 Registration
           date: 20 December 2023
-          announcement: >-
-            Welcome to Broadrick Secondary School.
-
-
-            Please visit the Secondary 1 Registration Page for more information.
-
-
-            Update: Sec 1 Textbook and Uniform only starts from 26 Dec to 29 Dec 2023. The detailed schedule is updated in the Sec 1 Registration page - Schedule for Purchase of Textbooks and Uniform
+          announcement: "Welcome to Broadrick Secondary School.  Please visit the
+            Secondary 1 Registration Page for more information.  Update: Sec 1
+            Textbook and Uniform only starts from 26 Dec to 29 Dec 2023. The
+            detailed schedule is updated in the Sec 1 Registration page -
+            Schedule for Purchase of Textbooks and Uniform"
           link_text: CLICK HERE
           link_url: https://www.broadricksec.moe.edu.sg/links/students/sec-1-registration-2024/
         - title: 2024 School Calendar
