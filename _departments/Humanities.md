@@ -105,7 +105,6 @@ their resolve to build a caring and inclusive Singapore.</p>
 </li>
 <li>
 <p>NLB HSI Challenge - Bronze Certificate</p>
-<p></p>
 </li>
 </ul>
 <p></p>
