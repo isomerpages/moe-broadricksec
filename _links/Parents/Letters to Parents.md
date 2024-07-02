@@ -16,3 +16,7 @@ variant: tiptap
 </p>
 <p><a href="/files/LETTER TO PARENTS/2024/Term_3_2024_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Letter to Parents</a>
 </p>
+<p><a href="/files/LETTER TO PARENTS/2024/2024_WA3_Letter_to_Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">WA3 Letter to Parents</a>
+</p>
+<p><a href="/files/LETTER TO PARENTS/2024/2024_Prelim_Letter_to_Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4-5 Prelims Letter to Parents</a>
+</p>
