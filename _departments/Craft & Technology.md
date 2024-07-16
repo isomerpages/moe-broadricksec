@@ -179,8 +179,14 @@ Old Airport Road.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/art2.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2024/art11.png">
+</div>
 <p>
-<br>================================================================</p>
+<br>
+</p>
+<p>================================================================</p>
 <h2><strong>Nutrition and Food Science Unit (NFS)</strong></h2>
 <p>To empower students to make informed decisions as discerning consumers</p>
 <p><strong>Signature Programmes:</strong>
