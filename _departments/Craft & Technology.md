@@ -38,7 +38,7 @@ designs.&nbsp;</p>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong> Collaborative Learning Event: Exploring D&amp;T at East Zone Excellence</strong>
+<p><strong>Collaborative Learning Event: Exploring D&amp;T at East Zone Excellence</strong>
 </p>
 </li>
 </ol>
@@ -50,7 +50,7 @@ Technology programme through exhibition showcases with various schools.&nbsp;</p
 </ul>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong> Empowering Primary School Partners through Design Thinking</strong>
+<p><strong>Empowering Primary School Partners through Design Thinking</strong>
 </p>
 </li>
 </ol>
