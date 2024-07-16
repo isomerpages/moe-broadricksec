@@ -26,6 +26,17 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2024 Preliminary Examinations
+          date: 17 July 2024
+          announcement: The Level Preliminary Examination letter contains important
+            information for S4-S5 parents
+          link_text: CLICK HERE
+          link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/2024_Prelim_Letter_to_Parent.pdf
+        - title: 2024 WA 3 Letter to Parents
+          date: 17 July 2024
+          announcement: The WA3 letter contains important information for S1-S3 parents
+          link_text: CLICK HERE
+          link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/2024_Prelim_Letter_to_Parent.pdf
         - title: 2024 Term 3 Letter to Parents
           date: 02 July 2024
           announcement: The termly letter contains important information for parents
@@ -43,12 +54,6 @@ sections:
           announcement: The 2024 Calendar of Events will keep you updated
           link_text: CLICK HERE
           link_url: /school-calendar/
-        - title: Keep up with our school activities on Instagram
-          date: 17 December 2023
-          announcement: The account is used to showcase our school's culture and values,
-            and to promote school programs and activities
-          link_text: CLICK HERE
-          link_url: https://www.instagram.com/broadricksec_official/
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our school activities on Instagram
