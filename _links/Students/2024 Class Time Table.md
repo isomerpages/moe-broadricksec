@@ -31,6 +31,15 @@ variant: tiptap
 <p><a href="/files/Time Table/2024/2024_SEM_2_SEC_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SEM 2 SEC 5</a>
 </p>
 <p></p>
+<h3>2024 Semester 2 6 Days Blending Learning Time-Table</h3>
+<p><a href="/files/Time Table/2024/2024_SEM2_SpecialTT_6days_Classes_Sec1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1: 6 Days Special timetable (23-26 July, 2 &amp; 23 Aug)</a>
+</p>
+<p><a href="/files/Time Table/2024/2024_SEM2_SpecialTT_6days_Classes_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2: 6 Days Special timetable (23-26 July, 2 &amp; 23 Aug)</a>
+</p>
+<p><a href="/files/Time Table/2024/2024_SEM2_SpecialTT_6days_Classes_sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3: 6 Days Special timetable (23-26 July, 2 &amp; 23 Aug)</a>
+</p>
+<p><a href="/files/Time Table/2024/2024_SEM2_SpecialTT_6days_Classes_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5: 6 Days Special timetable (23-26 July, 2 &amp; 23 Aug)</a>
+</p>
 <p>The image below provides additional information to help students understand
 the timetable.</p>
 <p></p>
