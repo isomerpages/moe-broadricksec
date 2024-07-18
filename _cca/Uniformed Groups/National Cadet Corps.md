@@ -5,9 +5,30 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W54sDeSEBKI"></iframe>
-</div>
+<h4><strong>Training sessions</strong></h4>
+<p>Wednesday 3.00pm - 4.30pm [PDS]
+<br>Friday 2.30pm - 5.30pm</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>[IC] Mr Simon Yap
+<br>[IC] Mr Shahul Hameed
+<br>Mr Denzel Low
+<br>Mr Stephen Lim</p>
+<h4><strong>Objectives</strong></h4>
+<ul>
+<li>
+<p>To develop resourceful, responsible, resilient and loyal leaders.&nbsp;</p>
+</li>
+<li>
+<p>To develop team players through fun and challenging military-related activities.</p>
+</li>
+</ul>
+<h4><strong>Activities</strong></h4>
+<p><strong>2024</strong>
+</p>
+<p>Sec 1: Camp FORGE</p>
+<p>Sec 2: Camp STEEL, Air Rifle Shooting</p>
+<p>Sec 3: Specialist Assessment, Live Range</p>
+<p>All Levels: NCC Day, 2D1N Unit Bonding Camp, NCC Sports Championship</p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid">
