@@ -89,8 +89,19 @@ variant: tiptap
 <div class="isomer-card-description">Cadets learning more about Singapore’s defence and being grateful for
 the safe country they live in</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_07_18_113455.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Respect</div><div class="isomer-card-description">Cadets learning from their seniors and showing them respect</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_07_18_113455.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Respect</div>
+<div class="isomer-card-description">Cadets learning from their seniors and showing them respect</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024 CCA Photos_update/NCC2.png">
@@ -100,8 +111,7 @@ the safe country they live in</div>
 <div class="isomer-card-title">Compassion</div>
 <div class="isomer-card-description">Cadets participating in the 2024 Singapore Association for the Deaf Flag
 Day to raise funds and demonstrate compassion to others</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</div>
 </div>
 <p></p>
