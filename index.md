@@ -36,7 +36,7 @@ sections:
           date: 17 July 2024
           announcement: The WA3 letter contains important information for S1-S3 parents
           link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/2024_Prelim_Letter_to_Parent.pdf
+          link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/2024_WA3_Letter_to_Parent.pdf
         - title: 2024 Term 3 Letter to Parents
           date: 02 July 2024
           announcement: The termly letter contains important information for parents
