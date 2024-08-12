@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <h3>Weighted Assessment 4</h3>
 <p></p>
-<p><a href="/files/Time Table/2024/Sec_4_5_Prelim_Timetabled__updated_17_July__v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4-5 Prelim Timetable</a>
+<p><a href="/files/Time Table/2024/Sec_4_5_Prelim_Timetabled_updated_18_July.pdf" rel="noopener noreferrer nofollow" target="_blank">UPDATED SEC 4-5 PRELIM TIMETABLE</a>
 </p>
 <h4>[2023 EOY Script-Check]</h4>
 <h4>[ELE Week Timetable]</h4>
