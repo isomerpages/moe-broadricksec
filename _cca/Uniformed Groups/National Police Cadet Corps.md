@@ -3,5 +3,22 @@ title: National Police Cadet Corps
 permalink: /cca/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e7OElhKEgN8?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Training sessions
+
+Wednesday 3.00pm - 4.30pm [Cadet Leaders Planning]
+Friday 2.30pm - 5.30pm  
+  
+
+Teachers-in-charge
+
+[IC] Mr Mustafa Kamal
+[IC] Ms Susana Tan
+Ms Gou Xiaojuan
+Ms Lee Yuan Ching 
+
+Objectives
+To develop our members to become active citizens and community leaders. 
+To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
+    
