@@ -37,12 +37,9 @@ Ms Lee Yuan Ching 
 **All Levels:**  NPCC Annual Parade, Road Safety Park Marshall Duty, .22 Shooting Competition, St. Patrick’s School Football 7s
 #### **Achievements**
 
-| Column 1 | Column 2 | Column 3 |
+| **Name of competition** | **Position** |  |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
+|**2023**    |    |   |
+Unit Overall Proficiency Award | Distinction
+**2022**|
+Unit Overall Proficiency Award | Distinction
