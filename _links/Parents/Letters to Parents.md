@@ -20,3 +20,5 @@ variant: tiptap
 </p>
 <p><a href="/files/LETTER TO PARENTS/2024/2024_Prelim_Letter_to_Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4-5 Prelims Letter to Parents</a>
 </p>
+<p><a href="/files/LETTER TO PARENTS/2024/2024_September_HAP_for_Sec_4_5_Letter_for_Parents_Annex_B.pdf" rel="noopener nofollow" target="_blank">September HAP for Sec 4/5 Letter to Parents</a>
+</p>
