@@ -22,3 +22,5 @@ variant: tiptap
 </p>
 <p><a href="/files/LETTER TO PARENTS/2024/2024_September_HAP_for_Sec_4_5_Letter_for_Parents_Annex_B.pdf" rel="noopener nofollow" target="_blank">September HAP for Sec 4/5 Letter to Parents</a>
 </p>
+<p><a href="/files/LETTER TO PARENTS/2024/2024_EOY_parents_letter_w_exam_timetable.pdf" rel="noopener nofollow" target="_blank">End of Year Exams Letter to Parents</a>
+</p>
