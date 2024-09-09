@@ -118,7 +118,7 @@ talents and develop their appreciation for music.&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/BAND_1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -130,7 +130,7 @@ and alumni</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/BAND_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -142,7 +142,7 @@ performance etiquette</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/band_3.png">
 </div>
 </div>
 <div class="isomer-card-body">
