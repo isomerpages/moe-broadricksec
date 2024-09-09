@@ -3,5 +3,104 @@ title: Drama Club
 permalink: /cca/visual-performing-arts/drama-club/
 description: ""
 third_nav_title: Visual Performing Arts
+variant: tiptap
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/owoYyJI0hIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3><strong>Training sessions</strong></h3>
+<p>Wednesday 3.15pm - 5.15pm
+<br>Friday 1.00pm - 5.00pm</p>
+<h3><strong>Teachers-in-charge</strong></h3>
+<p>[IC] Mdm Seerin Jaffer&nbsp;
+<br>[IC] Ms Joanne Ler&nbsp;
+<br>Ms Chervonne Ang</p>
+<h3><strong>Objectives</strong></h3>
+<ul>
+<li>
+<p>To develop students into confident individuals who can take the stage
+and express themselves in an articulate manner.&nbsp;</p>
+</li>
+<li>
+<p>To encourage students to adopt multiple perspectives of characters and
+develop empathy and critical thinking skills.&nbsp;</p>
+</li>
+<li>
+<p>To deepen students' appreciation of the arts.&nbsp;</p>
+</li>
+</ul>
+<h3><strong>Activities</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Camera Acting Workshop by Koh Chieng Mun
+<br>Values in Action - Library performance
+<br>National Day performance
+<br>Chinese New Year Celebrations
+<br>International Friendship Day Performance
+<br>Dance Enrichment&nbsp;
+<br>Movie screening [Wizard of Oz]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stage make up workshop
+<br>VIA - Chinese Wayang for Hearty Breakfast</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>&nbsp;<strong>Achievements</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction (Double)&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
