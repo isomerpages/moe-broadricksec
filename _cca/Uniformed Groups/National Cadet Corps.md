@@ -85,7 +85,7 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Grateful</div>
+<div class="isomer-card-title">Gratitude</div>
 <div class="isomer-card-description">Cadets learning more about Singapore’s defence and being grateful for
 the safe country they live in</div>
 </div>
