@@ -98,6 +98,45 @@ develop empathy and critical thinking skills.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DRAMA_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gratitude</div>
+<div class="isomer-card-description">Celebrating milestones and successes (Distinction in SYF)! Grateful for
+the unwavering support of our parents, teachers and school leaders</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/drama_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Respect</div>
+<div class="isomer-card-description">Respecting the craft &amp; the effort of our backstage crew / Behind the
+scenes of creating a Titanic ship for one of our productions</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DRAMA_3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Compassion</div>
+<div class="isomer-card-description">Giving back to the society and showing compassion to the elderly of Tung
+Ling Care</div>
+</div>
+</div>
+</div>
 <p>
 <br>
 </p>
