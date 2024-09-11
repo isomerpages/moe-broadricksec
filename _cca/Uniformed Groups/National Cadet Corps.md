@@ -11,7 +11,6 @@ variant: tiptap
 <h4><strong>Teachers-in-charge</strong></h4>
 <p>[IC] Mr Simon Yap
 <br>[IC] Mr Shahul Hameed
-<br>Mr Denzel Low
 <br>Mr Stephen Lim</p>
 <h4><strong>Objectives</strong></h4>
 <ul>
@@ -24,11 +23,11 @@ variant: tiptap
 </ul>
 <h4><strong>Activities</strong></h4>
 <p><strong>2024</strong>
-</p>
-<p>Sec 1: Camp FORGE</p>
-<p>Sec 2: Camp STEEL, Air Rifle Shooting</p>
-<p>Sec 3: Specialist Assessment, Live Range</p>
-<p>All Levels: NCC Day, 2D1N Unit Bonding Camp, NCC Sports Championship</p>
+<br><strong>Sec 1: </strong>Camp FORGE
+<br><strong>Sec 2: </strong>Camp STEEL, Air Rifle Shooting
+<br><strong>Sec 3:</strong> Specialist Assessment, Live Range
+<br><strong>All Levels:</strong> NCC Day, 2D1N Unit Bonding Camp, NCC Sports
+Championship</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
