@@ -6,21 +6,21 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Wednesday 3.15 pm - 6.15 pm</p>
-<p>Friday 2.00 pm - 5.00 pm
+<p>Wednesday 3.15 pm - 6.15 pm
+<br>Friday 2.00 pm - 5.00 pm
 <br>
 </p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Mr Yong Jui Jin</p>
-<p>[IC] Mdm Rohani Mohamed Ismail</p>
-<p>Mdm Ding Ni</p>
-<p>Ms Nadira
-<br>
-</p>
+<p>[IC] Mr Yong Jui Jin
+<br>[IC] Mdm Rohani Mohamed Ismail
+<br>Mdm Ding Ni
+<br>Ms Nadira</p>
 <h3><strong>Objectives</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>To develop physical fitness, mental discipline, and strong moral character
 in our members.</p>
-<ul>
+</li>
 <li>
 <p>To cultivate resilience in both training and everyday life.</p>
 </li>
@@ -74,7 +74,6 @@ in the sport.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Achievements</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -151,20 +150,22 @@ in the sport.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Gratitude</div>
+<div class="isomer-card-description">Our B Div Girls Team grateful to coach Amanda for her invaluable help</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Respect</div><div class="isomer-card-description">Though only one can win the gold, respect is give to all who dares to compete</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Compassion</div>
+<div class="isomer-card-description">Our B Girls Captain, Tania, volunteering to help with NTU’s TKD Open.
+Much compassion displayed by the NTU student organisers - they work many
+hours just to ensure a smooth running of the competition</div>
 </div>
-</a>
+</div>
 </div>
 <p>
 <br>
