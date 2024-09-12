@@ -145,18 +145,30 @@ in the sport.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TKD1.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Gratitude</div>
 <div class="isomer-card-description">Our B Div Girls Team grateful to coach Amanda for her invaluable help</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Respect</div><div class="isomer-card-description">Though only one can win the gold, respect is give to all who dares to compete</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TKD2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Respect</div>
+<div class="isomer-card-description">Though only one can win the gold, respect is give to all who dares to
+compete</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TKD3.png">
 </div>
 </div>
 <div class="isomer-card-body">
