@@ -86,6 +86,51 @@ heritage:</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>2024</u></strong>
 </p>
+<p><strong>2024 “3 Acts of Goodness” Painting Competition 2024年新加坡佛光山三好绘画比赛</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 Acts of Goodness Award&nbsp;&nbsp; 2 recipients</p>
+</li>
+</ul>
+<p></p>
+<p><strong>The 7th National Text Recital Competition 第七届全国课文朗诵比赛</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Silver Award: 3 recipients&nbsp;</p>
+</li>
+<li>
+<p>Bronze Award: 5 recipients&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Xin Lei Jiang – 22nd National Secondary School Chinese Creative Writing Competition 新蕾奖</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>First Prize (Photojournalism)</p>
+</li>
+<li>
+<p>Third&nbsp;Prize&nbsp;(Lower Sec)</p>
+</li>
+</ul>
+<p><strong>The Seventh National Secondary Schools Chinese Mini Fiction Creative Writing Competition 2024 第七届全国中学生微型小说创作比赛</strong>&nbsp;<strong><br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold Award: 1 recipients&nbsp;</p>
+</li>
+<li>
+<p>Silver Award: 1 recipients</p>
+</li>
+<li>
+<p>Bronze Award: 1 recipients</p>
+</li>
+<li>
+<p>Merit Award: 4 recipients</p>
+<p></p>
+</li>
+</ul>
 <p><strong>“Awe-Inspiring Virtue and Ocean of Wisdom” National Pen Calligraphy competition 威德智硬笔书法比赛<br></strong>Merit
 Award: 2 recipients</p>
 <p><strong>Ngee Ann National Students’ Calligraphy Competition 義安全国学生书法现场比赛<br></strong>Rising
