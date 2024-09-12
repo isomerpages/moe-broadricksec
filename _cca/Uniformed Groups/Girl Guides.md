@@ -127,6 +127,44 @@ skills, leadership and citizenship</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/guides_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gratitude</div>
+<div class="isomer-card-description">Guides picking up litter during plogging and learning to be grateful for
+a clean and green environment</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/guides_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Respect</div>
+<div class="isomer-card-description">Guides preparing breakfast together during the annual Guides camp where
+they get to build respect and relationship with each other</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/guides_3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Compassion</div>
+<div class="isomer-card-description">During their advocacy exhibition, Guides taught Brownies to show compassion
+to Mother Earth by not wasting food</div>
+</div>
+</div>
+</div>
 <p>
 <br>
 </p>
