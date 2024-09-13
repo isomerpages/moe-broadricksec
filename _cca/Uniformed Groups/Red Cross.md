@@ -52,19 +52,39 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>World Red Cross Day&nbsp;
-<br>Smoke Free Ambassador Programme&nbsp;
-<br>Combined UG Camp
-<br>Sustainable Kids Market&nbsp;
-<br>Basic First Aid Workshop
-<br>Drone Workshop</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>World Red Cross Day&nbsp;</p>
+</li>
+<li>
+<p>Smoke Free Ambassador Programme&nbsp;</p>
+</li>
+<li>
+<p>Combined UG Camp</p>
+</li>
+<li>
+<p>Sustainable Kids Market&nbsp;</p>
+</li>
+<li>
+<p>Basic First Aid Workshop</p>
+</li>
+<li>
+<p>Drone Workshop</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>World Red Cross Day&nbsp;
-<br>Smoke Free Ambassador Programme&nbsp;
-<br>First Aid Competition (Junior)
-<br>First Aid Competition (Senior)
-<br>Basic First Aid Workshop</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>World Red Cross Day&nbsp;</p>
+</li>
+<li>
+<p>Smoke Free Ambassador Programme&nbsp;</p>
+</li>
+<li>
+<p>Basic First Aid Workshop</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
