@@ -47,17 +47,39 @@ develop empathy and critical thinking skills.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Camera Acting Workshop by Koh Chieng Mun
-<br>Values in Action - Library performance
-<br>National Day performance
-<br>Chinese New Year Celebrations
-<br>International Friendship Day Performance
-<br>Dance Enrichment&nbsp;
-<br>Movie screening [Wizard of Oz]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Camera Acting Workshop by Koh Chieng Mun</p>
+</li>
+<li>
+<p>Values in Action - Library performance</p>
+</li>
+<li>
+<p>National Day performance</p>
+</li>
+<li>
+<p>Chinese New Year Celebrations</p>
+</li>
+<li>
+<p>International Friendship Day Performance</p>
+</li>
+<li>
+<p>Dance Enrichment&nbsp;</p>
+</li>
+<li>
+<p>Movie screening [Wizard of Oz]</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stage make up workshop
-<br>VIA - Chinese Wayang for Hearty Breakfast</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Stage make up workshop</p>
+</li>
+<li>
+<p>VIA - Chinese Wayang for Hearty Breakfast</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
