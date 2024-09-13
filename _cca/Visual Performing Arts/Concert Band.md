@@ -50,14 +50,30 @@ talents and develop their appreciation for music.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior Recital
-<br>Mountbatten Youth Got Talent!
-<br>Performances during School Events / Celebrations</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior Recital</p>
+</li>
+<li>
+<p>Mountbatten Youth Got Talent!</p>
+</li>
+<li>
+<p>Performances during School Events / Celebrations</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAF Band Master Class
-<br>June Cohesion Band Camp
-<br>Performances during School Events / Celebrations</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SAF Band Master Class</p>
+</li>
+<li>
+<p>June Cohesion Band Camp</p>
+</li>
+<li>
+<p>Performances during School Events / Celebrations</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
