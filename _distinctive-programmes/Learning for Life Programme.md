@@ -8,9 +8,8 @@ variant: tiptap
 <p>At Broadrick Secondary School, we aim to instill a sense of <strong>Gratitude, Respect, and Compassion (GRC)</strong> in
 our students, empowering them to make responsible decisions that contribute
 to the betterment of themselves, the school, the community, and the nation.</p>
-<h4><strong>Our Programmes</strong></h4>
-<p><strong>Learning for Life Programme (LLP)</strong>
-</p>
+<h4><strong>Learning for Life: Our Programmes</strong></h4>
+<p></p>
 <p>Our Learning for Life Programme focuses on developing GRC leaders through
 meaningful service in the community. The programme is structured across
 different levels to provide diverse opportunities for students to grow
