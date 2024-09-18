@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_Website_introduction.gif
+      background: /images/Copy_of_My_Project__8_.gif
       variant: image
       backgroundColor: gray
       title: Welcome to Broadrick Secondary School!
