@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/BRD_LOGO_ANIMATION__1___2_.gif
+      background: /images/2024_Website_introduction.gif
       variant: image
       backgroundColor: gray
       title: Welcome to Broadrick Secondary School!
@@ -26,6 +26,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2024 End-Of-Year (EOY) Examination
+          date: 18 September 2024
+          announcement: Contains EOY examination information for S1-S3 parents
+          link_text: CLICK HERE
+          link_url: https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/
         - title: 2024 Preliminary Examinations
           date: 17 July 2024
           announcement: The Level Preliminary Examination letter contains important
@@ -37,11 +42,6 @@ sections:
           announcement: The WA3 letter contains important information for S1-S3 parents
           link_text: CLICK HERE
           link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/2024_WA3_Letter_to_Parent.pdf
-        - title: 2024 Term 3 Letter to Parents
-          date: 02 July 2024
-          announcement: The termly letter contains important information for parents
-          link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/Term_3_2024_Letter_to_Parents.pdf
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
