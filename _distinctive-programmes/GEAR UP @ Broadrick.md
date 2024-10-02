@@ -30,7 +30,6 @@ in the education system.</p>
 <p><strong>Tier 3:</strong> High-risk students.</p>
 </li>
 </ul>
-<h3>Team Structure:</h3>
 <h4><strong>Operational Team includes:</strong></h4>
 <ul>
 <li>
@@ -206,5 +205,28 @@ and discipline.</p>
 offering a variety of programs, ranging from academic and emotional support
 to recreational, sports, and community service activities.</p>
 <h3><strong>GRC SMART Experiences</strong></h3>
+<h4>Sports Interest Groups</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Gear Up/gu2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Gear Up/gu1.jpg">
+</div>
+<h4>Holiday Activities</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Gear Up/gu7.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Gear Up/gu3.jpg">
+</div>
+<h4>Discover Me Program</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Gear Up/gu6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Gear Up/gu8.jpg">
+</div>
 <p></p>
