@@ -280,6 +280,7 @@ variant: tiptap
 <br>Ms Ong Daphne Rachel
 <br><a href="mailto:ong_daphne_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_daphne_rachel@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ST Mathematics</strong> 
@@ -302,7 +303,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>LT English</strong>
+</p>
 <p></p>
+<p>Mdm Jayletchimi d/o Ramasamy</p>
+<p><a href="mailto:jayletchimi_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">jayletchimi_ramasamy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
