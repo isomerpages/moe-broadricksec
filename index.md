@@ -31,7 +31,7 @@ sections:
           date: 09 October 2024
           announcement: EOY Script Check Timetable for S1-S3 parents
           link_text: CLICK HERE
-          link_url: /2024_SEM2_EOYScriptcheck_Classesv3.pdf/
+          link_url: https://drive.google.com/file/d/1HbH4-6Pgx5t5vEAi3RjdPqSXi5IFKfGM/view?usp=drive_link
         - title: 2024 End-Of-Year (EOY) Examination
           date: 18 September 2024
           announcement: Contains EOY examination information for S1-S3 parents
