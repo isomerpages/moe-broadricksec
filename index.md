@@ -26,6 +26,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2024 End-Of-Year (EOY) Script Check Timetable
+          date: 09 October 2024
+          announcement: EOY Script Check Timetable for S1-S3 parents
+          link_text: CLICK HERE
+          link_url: https://drive.google.com/file/d/1HbH4-6Pgx5t5vEAi3RjdPqSXi5IFKfGM/view?usp=sharing
         - title: 2024 End-Of-Year (EOY) Examination
           date: 18 September 2024
           announcement: Contains EOY examination information for S1-S3 parents
@@ -36,12 +41,7 @@ sections:
           announcement: The Level Preliminary Examination letter contains important
             information for S4-S5 parents
           link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/2024_Prelim_Letter_to_Parent.pdf
-        - title: 2024 WA 3 Letter to Parents
-          date: 17 July 2024
-          announcement: The WA3 letter contains important information for S1-S3 parents
-          link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/files/LETTER%20TO%20PARENTS/2024/2024_WA3_Letter_to_Parent.pdf
+          link_url: 2024_SEM2_EOYScriptcheck_Classesv3etter_to_Parent.pdf
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
