@@ -9,11 +9,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Copy_of_My_Project__8_.gif
-      variant: image
+      background: /images/Copy_of_My_Project__2_.gif
+      variant: floating
       backgroundColor: gray
-      title: Welcome to Broadrick Secondary School!
-      size: md
+      title: Broadrick Secondary School
+      size: sm
       alignment: left
       key_highlights:
         - title: 2024 SCHOOL Calendar
@@ -22,6 +22,7 @@ sections:
         - title: 2024 E-Student Handbook
           description: w.e.f. 12/1/24 VIEW HERE
           url: https://online.flippingbook.com/view/816403467/
+      subtitle: "School Vision: A Choice School Providing Holistic Education"
   - announcements:
       title: Announcements
       id: announcements
@@ -30,7 +31,7 @@ sections:
           date: 09 October 2024
           announcement: EOY Script Check Timetable for S1-S3 parents
           link_text: CLICK HERE
-          link_url: https://drive.google.com/file/d/1HbH4-6Pgx5t5vEAi3RjdPqSXi5IFKfGM/view?usp=sharing
+          link_url: /2024_SEM2_EOYScriptcheck_Classesv3.pdf/
         - title: 2024 End-Of-Year (EOY) Examination
           date: 18 September 2024
           announcement: Contains EOY examination information for S1-S3 parents
