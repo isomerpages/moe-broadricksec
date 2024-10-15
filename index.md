@@ -22,6 +22,9 @@ sections:
         - title: 2024 E-Student Handbook
           description: w.e.f. 12/1/24 VIEW HERE
           url: https://online.flippingbook.com/view/816403467/
+        - title: A Day in a life of a broadrician
+          description: FOLLOW US ON INSTAGRAM HERE!
+          url: https://www.instagram.com/broadricksec_official
       subtitle: "School Vision: A Choice School Providing Holistic Education"
   - announcements:
       title: Announcements
