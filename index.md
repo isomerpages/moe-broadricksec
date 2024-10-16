@@ -47,7 +47,7 @@ sections:
             learning opportunities for Broadricians. The Timetable is attached
             below:"
           link_text: CLICK HERE
-          link_url: https://cms.isomer.gov.sg/sites/moe-broadricksec/media/files/mediaDirectory/files/editMediaSettings/2024_SEM_2_ELE_WEEK_Classes.pdf
+          link_url: https://www.broadricksec.moe.edu.sg/files/2024_SEM_2_ELE_WEEK_Classes.pdf
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
