@@ -30,6 +30,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2024 GRC Celebration Week
+          date: 16 October 2024
+          announcement: "We will commence the GRC Celebration Week from 17 Oct (Thursday)
+            to 25 Oct (Friday). The programmes are intended to provide extended
+            learning opportunities for Broadricians. The Timetable is attached
+            below:"
+          link_text: CLICK HERE
+          link_url: https://www.broadricksec.moe.edu.sg/files/2024_SEM_2_ELE_WEEK_Classes.pdf
         - title: 2024 End-Of-Year (EOY) Script Check Timetable
           date: 09 October 2024
           announcement: EOY Script Check Timetable for S1-S3 parents
@@ -40,14 +48,6 @@ sections:
           announcement: Contains EOY examination information for S1-S3 parents
           link_text: CLICK HERE
           link_url: https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/
-        - title: 2024 GRC Celebration Week
-          date: 16 October 2024
-          announcement: "We will commence the GRC Celebration Week from 17 Oct (Thursday)
-            to 25 Oct (Friday). The programmes are intended to provide extended
-            learning opportunities for Broadricians. The Timetable is attached
-            below:"
-          link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/files/2024_SEM_2_ELE_WEEK_Classes.pdf
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
