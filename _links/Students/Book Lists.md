@@ -3,19 +3,82 @@ title: Book Lists
 permalink: /links/students/book-lists/
 description: ""
 third_nav_title: Students
-variant: markdown
+variant: tiptap
 ---
-| Company Name | Supplier Type | Address &amp; Contact No |
-|---|---|---|
-| Asencio Pte Ltd | Uniform Supplier | 120 Hillview Avenue #05-01 Kewalram Hillview S(669594)<br>www.asenciobookshop.sg<br>Tel: 6734 3102 (HQ)<br>        62140504 (School Bookshop)<br>Fax: 6764 1032<br>Email: bookshop@asencio.com.sg  |
-| Asencio Pte Ltd | Bookshop Supplier | 120 Hillview Avenue #05-01 Kewalram Hillview S(669594)<br>www.asenciobookshop.sg<br>Tel: 6734 3102 (HQ)<br>        62140504 (School Bookshop)<br><br>Fax: 6764 1032<br>Email: bookshop@asencio.com.sg |
-| | | |
-
-[2024 Sec 1 Booklist](/files/Booklist/2024/broadrick%20secondary%20school%20booklist%202024%20sec%201.pdf)<br>
-[2024 Sec 2 Booklist](/files/Booklist/2024/broadrick%20secondary%20school%20booklist%202024%20sec%202.pdf)<br>
-[2024 Sec 3 Booklist](/files/Booklist/2024/broadrick%20secondary%20school%20booklist%202024%20sec%203.pdf)<br>
-[2024 Sec 4 Booklist](/files/Booklist/2024/broadrick%20secondary%20school%20booklist%202024%20sec%204.pdf)<br>
-[2024 Sec 5 Booklist](/files/Booklist/2024/broadrick%20secondary%20school%20booklist%202024%20sec%205.pdf)
-
-***To download, right-click on the file and choose Save Target As or Save Link As (updated 20 November 2023)***
-
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Company Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Supplier Type</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Address &amp; Contact No</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asencio Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniform Supplier</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>120 Hillview Avenue #05-01 Kewalram Hillview S(669594)
+<br>www.asenciobookshop.sg
+<br>Tel: 6734 3102 (HQ)
+<br>62140504 (School Bookshop)
+<br>Fax: 6764 1032
+<br>Email: bookshop@asencio.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asencio Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bookshop Supplier</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>120 Hillview Avenue #05-01 Kewalram Hillview S(669594)
+<br>www.asenciobookshop.sg
+<br>Tel: 6734 3102 (HQ)
+<br>62140504 (School Bookshop)
+<br>
+<br>Fax: 6764 1032
+<br>Email: bookshop@asencio.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Booklist</a>
+</p>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Booklist</a>
+</p>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_3.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Booklist</a>
+</p>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_4.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 Booklist</a>
+</p>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Booklist</a>
+</p>
+<p></p>
+<p><strong><em>To download, right-click on the file and choose Save Target As or Save Link As (updated 20 November 2023)</em></strong>
+</p>
