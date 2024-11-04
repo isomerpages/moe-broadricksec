@@ -30,6 +30,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2024 Open House
+          date: 04 November 2024
+          announcement: Discover what makes Broadrick Secondary School a choice school for
+            holistic education! Explore our Student Development, Academic
+            Excellence, and meet our friendly student ambassadors who’ll guide
+            you through all that Broadrick has to offer.
+          link_text: CLICK HERE TO REGISTER
+          link_url: https://drive.google.com/file/d/1o56m8LlWYr-EWuUxoGN6hrRLmTIv52xv/view?usp=sharing
         - title: 2024 GRC Celebration Week
           date: 16 October 2024
           announcement: "We will commence the GRC Celebration Week from 17 Oct (Thursday)
@@ -43,11 +51,6 @@ sections:
           announcement: EOY Script Check Timetable for S1-S3 parents
           link_text: CLICK HERE
           link_url: https://drive.google.com/file/d/1HbH4-6Pgx5t5vEAi3RjdPqSXi5IFKfGM/view?usp=drive_link
-        - title: 2024 End-Of-Year (EOY) Examination
-          date: 18 September 2024
-          announcement: Contains EOY examination information for S1-S3 parents
-          link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
