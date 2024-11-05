@@ -69,15 +69,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Booklist</a>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 School Booklist 2025</a>
 </p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Booklist</a>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 School Booklist 2025</a>
 </p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_3.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Booklist</a>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 School Booklist 2025</a>
 </p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_4.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 Booklist</a>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_4.pdf" rel="noopener nofollow" target="_blank">Sec 4 School Booklist 2025</a>
 </p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Booklist</a>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_5.pdf" rel="noopener nofollow" target="_blank">Sec 5 School Booklist 2025</a>
 </p>
 <p></p>
 <p><strong><em>To download, right-click on the file and choose Save Target As or Save Link As (updated 20 November 2023)</em></strong>
