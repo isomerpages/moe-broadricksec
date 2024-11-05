@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 School Booklist 2025</a>
 </p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_4.pdf" rel="noopener nofollow" target="_blank">Sec 1 School Booklist 2025</a>
+<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_4.pdf" rel="noopener nofollow" target="_blank">Sec 4 School Booklist 2025</a>
 </p>
 <p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_5.pdf" rel="noopener nofollow" target="_blank">Sec 5 School Booklist 2025</a>
 </p>
