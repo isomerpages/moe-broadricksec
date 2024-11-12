@@ -36,7 +36,7 @@ variant: tiptap
 <br>Tel: 6734 3102 (HQ)
 <br>62140504 (School Bookshop)
 <br>Fax: 6764 1032
-<br>Email: bookshop@asencio.com.sg</p>
+<br>Email: broadrick@asencio.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <br>62140504 (School Bookshop)
 <br>
 <br>Fax: 6764 1032
-<br>Email: bookshop@asencio.com.sg</p>
+<br>Email: broadrick@asencio.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -79,3 +79,6 @@ variant: tiptap
 </p>
 <p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_5.pdf" rel="noopener nofollow" target="_blank">Sec 5 School Booklist 2025</a>
 </p>
+<p></p>
+<h4>FAS Collection : 2-6 December 2024</h4>
+<p></p>
