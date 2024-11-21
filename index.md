@@ -9,23 +9,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Copy_of_My_Project__2_.gif
+      background: /images/2024_OPEN_HOUSE__1_.gif
       variant: floating
       backgroundColor: gray
       title: Broadrick Secondary School
       size: sm
       alignment: left
       key_highlights:
-        - title: 2024 SCHOOL Calendar
-          description: VIEW HERE
-          url: https://www.broadricksec.moe.edu.sg/school-calendar/
-        - title: 2024 E-Student Handbook
-          description: w.e.f. 12/1/24 VIEW HERE
-          url: https://online.flippingbook.com/view/816403467/
+        - title: 2024 OPEN HOUSE
+          description: SIGN UP HERE!
+          url: https://docs.google.com/forms/d/e/1FAIpQLSdDU0697tJkhPoFxHaHYHI5KJYQyaySvmzVr3ADshv5PcjPWw/viewform
         - title: A Day in a life of a broadrician
           description: FOLLOW US ON INSTAGRAM HERE!
           url: https://www.instagram.com/broadricksec_official
-      subtitle: "School Vision: A Choice School Providing Holistic Education"
+        - title: 2024 E-Student Handbook
+          description: w.e.f. 12/1/24 VIEW HERE
+          url: https://online.flippingbook.com/view/816403467/
+      subtitle: "Our Vision: A Choice School Providing Holistic Education"
   - announcements:
       title: Announcements
       id: announcements
@@ -36,8 +36,8 @@ sections:
             holistic education! Explore our Student Development, Academic
             Excellence, and meet our friendly student ambassadors who’ll guide
             you through all that Broadrick has to offer.
-          link_text: CLICK HERE TO REGISTER
-          link_url: https://drive.google.com/file/d/1o56m8LlWYr-EWuUxoGN6hrRLmTIv52xv/view?usp=sharing
+          link_text: SIGN UP HERE
+          link_url: https://docs.google.com/forms/d/e/1FAIpQLSdDU0697tJkhPoFxHaHYHI5KJYQyaySvmzVr3ADshv5PcjPWw/viewform
         - title: 2024 GRC Celebration Week
           date: 16 October 2024
           announcement: "We will commence the GRC Celebration Week from 17 Oct (Thursday)
