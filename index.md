@@ -71,7 +71,7 @@ sections:
         and to promote school programs and activities.
       url: https://www.instagram.com/broadricksec_official/
       image: /images/Screenshot_2024_11_21_111102.png
-      alt: Image alt text
+      alt: Follow us on IG !
       button: Click Here to Follow us
       subtitle: "@broadricksec_official"
 ---
