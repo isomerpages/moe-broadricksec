@@ -72,6 +72,6 @@ sections:
       url: https://www.instagram.com/broadricksec_official/
       image: /images/Screenshot_2024_11_21_111102.png
       alt: Follow us on IG !
-      button: Click Here to Follow us
+      button: Click Here to Follow us on IG
       subtitle: "@broadricksec_official"
 ---
