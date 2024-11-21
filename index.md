@@ -65,12 +65,13 @@ sections:
           link_url: /school-calendar/
       subtitle: STAY UPDATED WITH
   - infopic:
-      title: Keep up with our school activities on Instagram
+      title: Keep up with our School Activities on Instagram!
       id: infopic
       description: The account is used to showcase our school's culture and values,
         and to promote school programs and activities.
       url: https://www.instagram.com/broadricksec_official/
-      image: /images/2024/insta.jpg
-      alt: Image alt text
-      button: Click Here to Follow us
+      image: /images/Screenshot_2024_11_21_111102.png
+      alt: Follow us on IG !
+      button: Click Here to Follow us on IG
+      subtitle: "@broadricksec_official"
 ---
