@@ -2,9 +2,9 @@ collections:
   links:
     output: true
     order:
-      - Students/Sec 1 Registration 2025.md
       - Students/.keep
       - Students/Student Handbook.md
+      - Students/Sec 1 Registration 2025.md
       - Students/2024 Class Time Table.md
       - Students/Assessment Schedule.md
       - Students/Holiday Academic Programme (HAP) Timetable.md
