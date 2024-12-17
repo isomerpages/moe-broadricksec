@@ -5,3 +5,8 @@ variant: tiptap
 description: Sec 1 registration
 third_nav_title: Students
 ---
+<p></p>
+<p></p>
+<p></p>
+<p><strong>Dear Sec 1 Students,</strong>
+</p>
