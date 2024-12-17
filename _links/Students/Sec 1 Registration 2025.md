@@ -40,10 +40,25 @@ Parents/Guardians are to submit the Secondary 1 online Registration form
 by <strong>20 Dec 2024, 12 noon</strong>. Click <a href="https://forms.moe.edu.sg/forms/v3OGBA" rel="noopener nofollow" target="_blank">here</a> to access and complete
 the Secondary 1 online form and other relevant information related to the
 2025 Sec 1 posting matters.</p>
-<p>The following documents will be sent via PG:</p>
-<p>1. Letter to parents (1 &amp; 2)
+<p>The following documents will be sent via PG:
+<br>1. Letter to parents (1 &amp; 2)
 <br>2. 2025 Sec 1 Booklist
 <br>3. 2025 FAS Application Form</p>
+<p></p>
+<p><strong><u>Appeals for Transfer into Broadrick Secondary School</u></strong>
+</p>
+<p>For those who wish to appeal for transfer into Broadrick Secondary School,
+please submit this form by 20 December 2024, 5 pm.</p>
+<p>Appealing for Transfer due to Serious Medical Conditions</p>
+<p>To request for transfer out of our school due to serious medical conditions
+or severe physical impairments, please do so in person at our General Office
+by 12:00 pm, on Thursday, 19 December 2024.</p>
+<p>All appeals must be accompanied by relevant supporting documents, such
+as medical reports and letters from doctors. For information on appealing
+for a transfer due to serious medical conditions, please go to this MOE
+website.</p>
+<p>Thank you.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
