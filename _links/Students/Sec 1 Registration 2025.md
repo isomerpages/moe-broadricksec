@@ -48,8 +48,11 @@ the Secondary 1 online form and other relevant information related to the
 <p><strong><u>Appeals for Transfer into Broadrick Secondary School</u></strong>
 </p>
 <p>For those who wish to appeal for transfer into Broadrick Secondary School,
-please submit this <a href="/files/LETTER TO PARENTS/2024/2025_Request_for_Admission_and_Transfer_In_forms__Internal_.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a> by
-20 December 2024, 5 pm.</p>
+please complete the online appeal form <a href="https://form.gov.sg/67623d59db5ee1634dd7770a" rel="noopener nofollow" target="_blank">here</a>. Those who
+require a hard copy, please download and submit this <a href="/files/LETTER TO PARENTS/2024/2025_Request_for_Admission_and_Transfer_In_forms__Internal_.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a> by
+27 December 2024, 5 pm. You can submit either the online form or physical
+form.</p>
+<p></p>
 <p>Appealing for Transfer due to Serious Medical Conditions</p>
 <p>To request for transfer out of our school due to serious medical conditions
 or severe physical impairments, please do so in person at our General Office
