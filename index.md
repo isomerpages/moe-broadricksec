@@ -46,11 +46,11 @@ sections:
             below:"
           link_text: CLICK HERE
           link_url: https://www.broadricksec.moe.edu.sg/files/2024_SEM_2_ELE_WEEK_Classes.pdf
-        - title: 2024 End-Of-Year (EOY) Script Check Timetable
-          date: 09 October 2024
-          announcement: EOY Script Check Timetable for S1-S3 parents
+        - title: Secondary 1 Registration Information.
+          date: 18 December 2024
+          announcement: Please find information for the Secondary 1 Registration here.
           link_text: CLICK HERE
-          link_url: https://drive.google.com/file/d/1HbH4-6Pgx5t5vEAi3RjdPqSXi5IFKfGM/view?usp=drive_link
+          link_url: https://staging-lite.d3bsr9px9mjztd.amplifyapp.com/sec-1-registration-2025/
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
