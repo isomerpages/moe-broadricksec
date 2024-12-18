@@ -30,6 +30,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary 1 Registration Information.
+          date: 18 December 2024
+          announcement: Please find information for the Secondary 1 Registration here.
+          link_text: CLICK HERE
+          link_url: https://staging-lite.d3bsr9px9mjztd.amplifyapp.com/sec-1-registration-2025/
         - title: 2024 Open House
           date: 04 November 2024
           announcement: Discover what makes Broadrick Secondary School a choice school for
@@ -46,11 +51,6 @@ sections:
             below:"
           link_text: CLICK HERE
           link_url: https://www.broadricksec.moe.edu.sg/files/2024_SEM_2_ELE_WEEK_Classes.pdf
-        - title: Secondary 1 Registration Information.
-          date: 18 December 2024
-          announcement: Please find information for the Secondary 1 Registration here.
-          link_text: CLICK HERE
-          link_url: https://staging-lite.d3bsr9px9mjztd.amplifyapp.com/sec-1-registration-2025/
         - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
           date: 12 January 2024
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
