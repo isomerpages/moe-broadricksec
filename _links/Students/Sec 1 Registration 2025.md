@@ -7,10 +7,10 @@ third_nav_title: Students
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Welcome to Broadrick" src="/images/2024/Welcome.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024/SchoolLogo.png">
+</div>
 <p><strong>Dear Sec 1 Students,</strong>
 </p>
 <p>Congratulations on your posting to Broadrick Secondary School to begin
