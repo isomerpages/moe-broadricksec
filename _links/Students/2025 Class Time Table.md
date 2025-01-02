@@ -6,7 +6,16 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>2025 Semester 1 Time-Table - Term 1</h3>
-<p></p>
+<p><a href="/files/Time Table/2025/S1_SEM_1_2025_TT.pdf" rel="noopener nofollow" target="_blank">Sec 1 Sem 1 2025</a>
+</p>
+<p><a href="/files/Time Table/2025/S2_SEM_1_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Sem 1 2025</a>
+</p>
+<p><a href="/files/Time Table/2025/S3_SEM_1_2025_TT.pdf" rel="noopener nofollow" target="_blank">Sec 3 Sem 1 2025</a>
+</p>
+<p><a href="/files/Time Table/2025/S4_SEM_1_2025_TT.pdf" rel="noopener nofollow" target="_blank">Sec 4 Sem 1 2025</a>
+</p>
+<p><a href="/files/Time Table/2025/S5_SEM_1_2025_TT.pdf" rel="noopener nofollow" target="_blank">Sec 5 Sem 1 2025</a>
+</p>
 <h3>2025 Semester 1 Time-Table - Term 2</h3>
 <h3>2025 Semester 2 Time-Table</h3>
 <h3>2025 Semester Blending Learning Time-Table</h3>
