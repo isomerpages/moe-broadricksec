@@ -788,7 +788,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Then Lee Mee</p>
-<p><a href="mailto:then_lee_mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">then_lee_mee@moe.edu.sg</a> 
+<p><a href="mailto:then_lee_mee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">then_lee_mee@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -866,7 +866,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Ms Chu Jin Ing</p>
-<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a> 
+<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -945,7 +945,7 @@ variant: tiptap
 <br><a href="mailto:tay_suan_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_suan_eng@moe.edu.sg</a> 
 <br>
 <br>Ms Joann Wong Yau Chene
-<br><a href="mailto:wong_yau_chene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yau_chene@moe.edu.sg</a> 
+<br><a href="mailto:wong_yau_chene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yau_chene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
