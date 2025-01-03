@@ -42,7 +42,8 @@ I am excited for the future we are building. As we continue to nurture
 Gratitude, Respect and Compassion in all that we do, I look forward to
 many more milestones in the years to come.</p>
 <p></p>
-<p>Let’s keep moving forward, united by the values that define us.</p>
+<p>Let’s keep moving forward, united by the values that define us. This year,
+2025 will be a Year of Growing Deeper.</p>
 <p></p>
 <p>Mr Ng Tiong Nam</p>
 <p>Principal</p>
