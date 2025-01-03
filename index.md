@@ -9,21 +9,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_OPEN_HOUSE__1_.gif
+      background: /images/Copy_of_My_Project__2_.gif
       variant: floating
       backgroundColor: gray
       title: Broadrick Secondary School
       size: sm
       alignment: left
       key_highlights:
-        - title: 2024 OPEN HOUSE
-          description: SIGN UP HERE!
-          url: https://docs.google.com/forms/d/e/1FAIpQLSdDU0697tJkhPoFxHaHYHI5KJYQyaySvmzVr3ADshv5PcjPWw/viewform
         - title: A Day in a life of a broadrician
           description: FOLLOW US ON INSTAGRAM HERE!
           url: https://www.instagram.com/broadricksec_official
-        - title: 2024 E-Student Handbook
-          description: w.e.f. 12/1/24 VIEW HERE
+        - title: 2025 E-Student Handbook
+          description: Coming soon
           url: https://online.flippingbook.com/view/816403467/
       subtitle: "Our Vision: A Choice School Providing Holistic Education"
   - announcements:
