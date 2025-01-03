@@ -65,7 +65,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Our SSD, HODs, SHs &amp; LH</strong></h4>
+<h4><strong>Our SSD, HODs, SHs &amp; LHs</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -81,7 +81,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Curriculum &amp; Innovation</strong> 
+<p>
 <br>
 <br>
 </p>
@@ -217,36 +217,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH Student Well-Being</strong> 
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SH Student Management</strong> 
-<br>
-<br>Ms Chen Zhizhi Ember
-<br><a href="mailto:chen_zhizhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhizhi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SH Character and Citizenship Education</strong> 
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SH Physical Education / CCA</strong> 
-<br>
-<br>Mr Darren Chin Wei Ming</p>
-<p><a href="mailto:darren_chin_jia_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">darren_chin_jia_wei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>LH English</strong>  <strong>Language</strong> 
 <br>
 <br>Mr Andy Ng
@@ -254,7 +224,43 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>SH Student Development</strong>
+<br>
+<br>Ms Quek Hui Mayne Abelyn
+<br><a href="mailto:quek_hui_mayne_abelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_hui_mayne_abelyn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH Student Management</strong> 
+<br>
+<br>Ms Chen Zhizhi Ember
+<br><a href="mailto:chen_zhizhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhizhi@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Mohammed Riffaii Maidin</p>
+<p><a href="mailto:mohammed_riffaii_maidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_riffaii_maidin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH Physical Education / CCA</strong> 
+<br>
+<br>Mr Darren Chin Wei Ming</p>
+<p><a href="mailto:darren_chin_jia_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">darren_chin_jia_wei@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH Professional Development</strong>
+<br>
+<br>Ms Jamie Chua</p>
+<p><a href="mailto:chua_jamie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jamie@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
