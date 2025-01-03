@@ -8,60 +8,43 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9923.jpeg">
 </div>
-<p>As we bid 2023 goodbye and welcome 2024, I am encouraged and thankful
-as well as filled with much anticipation and expectation.&nbsp; Taking
-over the baton and helming Broadrick has been most gratifying as I have
-received tremendous support from the various stakeholders. &nbsp;Last year,
-our focus was envisioning Broadrick’s new season. &nbsp;During the course
-of the year, I shared my dreams and vision for Broadrick through various
-platforms and I am heartened to update that we start 2024 with a shared
-vision and enhanced values. &nbsp;Valuing every stakeholder’s voice, we
-invited and collaborated with staff, students, parents, School Advisory
-Committee, Broadrick Alumni and community partners to share their views
-to carve a distinctive Broadrician identity. &nbsp;The work was tedious
-but the discussions were rich and the collective effort was worth the time
-and energy as we emerge with one united voice. Thus, I am truly grateful
-and appreciative for the commitment and strong support of all stakeholders.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>So, moving on to a new year – 2024, Broadrick will commence our new season
-and new journey.&nbsp; This year, we will embark on carrying out the plans
-to nurture future ready learners with strength of character and to be a
-choice school for both students and parents. &nbsp;To achieve this end,
-the revised and enhanced values - GRC (Gratitude, Respect &amp; Compassion)
-serve as a beacon for every Broadrician in his/her thoughts, words and
-actions. &nbsp;We have put in place structures and programmes that are
-aligned to the school’s Vision, Mission and Values. Therefore, be ready
-for some innovative changes.</p>
-<p>A major change will be the revamped timetable. &nbsp;The revised timetable
-aims to encourage and support students to take ownership of their own learning,
-to become self-directed and independent learners working towards meaningful
-goals. &nbsp;This will prepare them for the future, to be effective in
-a disruptive and <strong>VUCA </strong>(<strong>V</strong>olatile, <strong>U</strong>ncertain, <strong>C</strong>omplex, <strong>A</strong>mbiguous)
-world. &nbsp;The new timetable structure incorporates multiple whitespace
-slots (flexible time slots) to allow students to pace their own learning
-as well as to seize the opportunities to grow and develop beyond the confines
-of the curriculum and syllabus.&nbsp;&nbsp;&nbsp;</p>
+<p>As I look back on 2024, I am filled with gratitude for this year of new
+beginnings at Broadrick—a year marked by growth, purpose and a sense of
+community. It has been an honour to serve as your Principal and to work
+alongside a vibrant community of staff, students, parents, alumni and partners
+who are committed to shaping a distinctive identity for our school.</p>
 <p></p>
-<p>The other major change is for Broadricians to cultivate, embody and demonstrate <strong>GRC</strong>.
-&nbsp;<strong>GRC </strong>is the foundation of cultivating long-lasting
-values and a testament to students’ strength of character. &nbsp;We are
-confident that with the refined co-curricular plans, students will naturally
-exhibit gratitude to their parents, respect to their teachers and compassion
-to the community. &nbsp;</p>
-<p>So, 2024 will be an exciting new year as we work together, all the stakeholders,
-in close partnership to bring about A Choice School providing Holistic
-Education as we nurture Broadricians to be Future-Ready Learners with Strength
-of Character.</p>
-<p>Let’s make BRD fly together.</p>
+<p>At the heart of our shared journey in 2024 was the establishment of GRC
+education, an initiative founded on the pillars of Gratitude, Respect,
+and Compassion. These values are more than aspirations; they shape our
+daily experiences and interactions, reminding us to look beyond ourselves
+and embrace a spirit of empathy and mutual respect. Together, we have laid
+a strong foundation, setting the stage for Broadrick’s future as a choice
+school that nurtures character, resilience, and future-readiness in every
+student.</p>
+<p></p>
+<p>This journey began with an overwhelming support of our stakeholders, which
+has inspired and sustained us along the way. Your commitment and partnership
+have been invaluable in bringing our vision to life. We collaborated to
+ensure that every voice was heard, as a result, we started 2024 with not
+only a clear vision but also a united purpose that reflects the heart of
+Broadrick.</p>
+<p></p>
+<p>This year, we also introduced innovative structures, including a revised
+timetable designed to foster self-directed learning and cultivate independence.
+These changes underscore our commitment to prepare Broadricians for a dynamic,
+ever-evolving world, shaping them into leaders with integrity and strength
+of character.</p>
+<p></p>
+<p>My heartfelt appreciation goes out to everyone who has been a part of
+this journey. Together, we have set Broadrick on a path of promise, and
+I am excited for the future we are building. As we continue to nurture
+Gratitude, Respect and Compassion in all that we do, I look forward to
+many more milestones in the years to come.</p>
+<p></p>
+<p>Let’s keep moving forward, united by the values that define us.</p>
 <p></p>
 <p>Mr Ng Tiong Nam</p>
 <p>Principal</p>
-<p></p>
-<p><em>A&nbsp;Dynamic School providing Holistic Education as&nbsp;we Nurture Broadricians to be Future-Ready&nbsp;Learners with Strength of Character</em>
-</p>
-<h4>Bonus Content:</h4>
-<p><a href="https://youtu.be/9S5luHOBMiI" rel="noopener noreferrer nofollow" target="_blank">Principal's Challenge Video</a>
-</p>
-<hr>
 <hr>
 <p></p>
