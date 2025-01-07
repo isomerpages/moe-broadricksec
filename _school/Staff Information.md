@@ -252,7 +252,7 @@ variant: tiptap
 <p><strong>SH Physical Education / CCA</strong> 
 <br>
 <br>Mr Darren Chin Wei Ming</p>
-<p><a href="mailto:darren_chin_jia_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">darren_chin_jia_wei@moe.edu.sg</a>
+<p><a href="mailto:chin_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wei_ming@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
