@@ -1,5 +1,5 @@
 collections:
-  pld-info:
+  personal-learning-device:
     output: true
     order:
       - PLD INFO.md
