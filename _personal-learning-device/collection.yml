@@ -2,5 +2,5 @@ collections:
   personal-learning-device:
     output: true
     order:
-      - PLD INFO.md
+      - Personal Learning Device Information.md
       - Student ICON INFO.md
