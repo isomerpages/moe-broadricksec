@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>MOE's Personal Learning Device (PLD) Initiative</strong></h2>
-<p></p>
 <h4><strong>(A) Resource for Parents</strong></h4>
 <blockquote>
 <p><strong>Parents' guide to PLDs for their child/ward</strong>
