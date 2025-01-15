@@ -13,7 +13,7 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>2025 coming soon</p>
 </li>
 <li>
 <p><a href="/files/PDLP Info/2024/2024_PDLP_Student_Device_Information_Kit__Lenovo_.pdf" rel="noopener noreferrer nofollow" target="_blank">[LENOVO] PDLP - Student Device Information Kit (2024)</a>
@@ -41,23 +41,39 @@ with PLD.
 <br><a href="/files/PDLP Info/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook II</a>
 </p>
 <h5><strong>(B) Device Management Application (DMA)</strong></h5>
+<ol data-tight="true" class="tight">
+<li>
 <p>In rolling out Personal Learning Devices (PLDs) for students, MOE is acutely
-aware of concerns regarding students’ cyber wellness. The DMA allows the
-school and parents to manage this, by</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>collecting data on usage by the student, such as the amount of time spent
-on each application,</p>
+aware of concerns regarding students’ cyber wellness.</p>
 </li>
 <li>
-<p>monitoring, filtering, and limiting the type of websites accessible to
-the student, and</p>
+<p>A <strong>DMA</strong> will come pre-installed on all PLDs purchased through
+the school and will be installed on any student-owned devices parents/guardians
+opt for the student to use in lieu of the PLD, subject to parental/guardian
+consent.</p>
 </li>
 <li>
-<p>placing restrictions on students’ screen time in order to prevent cyber
-addiction.</p>
+<p>The Device Management Application (DMA) solution for Chromebook PLDs is
+LightSpeed Systems®.&nbsp;&nbsp;During school hours, the Default Setting
+will apply.&nbsp;&nbsp;</p>
 </li>
-</ul>
+<li>
+<p>The DMA has 3 main components which will support the use of the PLD in
+the classroom and safeguard students’ cyber wellness:</p>
+</li>
+</ol>
+<p>(a)&nbsp;&nbsp; <u>Classroom Management Service</u>. To help teachers manage
+students’ use of the PLD during lesson time to improve classroom management
+and support effective teaching and learning by collecting data on usage
+by the student, such as the websites accessed on the PLD.</p>
+<p>(b)&nbsp;&nbsp; <u>Mobile Device Management Service</u>. To help update
+and manage the PLD, protect the PLD from malicious software, and protects
+students from objectionable internet content by monitoring, filtering,
+and limiting the type of websites accessible to the student.</p>
+<p>(c)&nbsp;&nbsp; <u>Usage Management Service</u>. To enable school and/or
+parents/guardians to better supervise and set helpful limits for students’
+use of PLD after school by placing restrictions on students’ screen time
+to prevent cyber addiction.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -70,66 +86,64 @@ addiction.</p>
 <p>Default</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Option A</p>
+<p>Option A (Alternative Setting)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Option B</p>
+<p>Option B (Alternative Setting)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOE/school DMA setting will continue after school hours</p>
+<p>Note: This will apply if no Alternative Setting is chosen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents can determine DMA settings after school hours</p>
+<p>DMA settings can be modified</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents can choose to disable DMA after school hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For parents who want their child to be restricted only to teaching and
-learning, and prefer to leave it to the school / MOE to decide on the DMA
-settings both during school and after school hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For parents who want more leeway over the use of the device, and want
-to take charge of the level of restrictions for their child's use of the
-device after school hours.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For parents who do not want their child's use of the device to be regulated
-by DMA after school.</p>
+<p>DMA will be inactive <strong><u>only</u></strong> after school hours</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 6.30 - 16.00<br>After School Hours: 16.00 - 23.00</strong>
-</p>
+<p>For parents/guardians who want their child’s/ward’s use of the device
+to be restricted only to teaching and learning, and who prefer to follow
+the Default Setting as set by the school for both during and after school
+hours.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 6.30 - 16.00<br>After School Hours: <br>Parents Determine</strong>
-</p>
+<p>For parents/guardians who prefer to take charge of the level of restrictions
+for their child’s/ward’s use of the device after school hours regulated
+by the DMA.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 6.30 - 16.00<br>After School Hours: No DMA</strong>
-</p>
+<p>For parents/guardians who do not want their child’s/ward’s use of the
+device after school hours to be regulated by the DMA at all.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: 4:00 pm - 11:00 pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: <br>Decided by parents/guardians</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: No DMA</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h5><strong>(C) Change of After-School Device Management Application (DMA) Option (Default / Option A / Option B)</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>For parents who would like to amend your after-school DMA option, you
+can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg (CLICK HERE)</a>.</p>
+</li>
+<li>
+<p>Please note that changes will only take effect at the end of the month.</p>
+</li>
+</ul>
 <p></p>
-<p><strong>**For parents who would like to amend your after-school DMA option, you can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg</a>. Please note that changes will only take effect at the end of the month.</strong>
-</p>
