@@ -1,6 +1,6 @@
 title: Broadrick Secondary School
 url: https://www.broadricksec.moe.edu.sg
-favicon: /images/2024/logo_removebg_preview.png
+favicon: /images/2025/logo_2_0.png
 colors:
   primary-color: "#010060"
   secondary-color: "#bb1837"
@@ -16,11 +16,9 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resources
-description: >-
-  A Choice School Providing Holistic Education || Nurturing Broadricians To Be
-  Future-Ready Learners
-
-  Gratitude. Respect. Compassion (GRC) Education
+description: A Choice School Providing Holistic Education || Nurturing
+  Broadricians To Be Future-Ready Learners Gratitude. Respect. Compassion (GRC)
+  Education
 permalink: none
 baseurl: ""
 exclude:
