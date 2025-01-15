@@ -30,7 +30,7 @@ variant: tiptap
 </blockquote>
 <p>A quick guide to the National Digital Literacy Programme (NDLP), and parenting
 tips for helping your child learn with their personal learning device (PLD).
-<br><a href="/files/PDLP Info/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook I </a>
+<br><a href="/files/PDLP Info/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook I</a>
 </p>
 <blockquote>
 <p><strong>MOE Parent Handbook II (updated 2025)</strong>
