@@ -6,9 +6,6 @@ variant: tiptap
 ---
 <h2><strong>MOE's Personal Learning Device (PLD) Initiative</strong></h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PLD/Slide2.PNG">
-</div>
 <h4><strong>(A) Resource for Parents</strong></h4>
 <blockquote>
 <p><strong>Parents' guide to PLDs for their child/ward</strong>
@@ -16,7 +13,10 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PDLP Info/2024/2024_PDLP_Student_Device_Information_Kit__Lenovo_.pdf" rel="noopener noreferrer nofollow" target="_blank">[LENOVO] PDLP - Student Device Information Kit (2024 onwards)</a>
+<p></p>
+</li>
+<li>
+<p><a href="/files/PDLP Info/2024/2024_PDLP_Student_Device_Information_Kit__Lenovo_.pdf" rel="noopener noreferrer nofollow" target="_blank">[LENOVO] PDLP - Student Device Information Kit (2024)</a>
 </p>
 </li>
 <li>
@@ -62,7 +62,12 @@ the student, and</p>
 addiction.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
