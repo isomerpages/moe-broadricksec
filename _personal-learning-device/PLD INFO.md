@@ -25,26 +25,22 @@ variant: tiptap
 </li>
 </ul>
 <blockquote>
-<p><strong>MOE Parent Handbook I (updated 2024)</strong>
+<p><strong>MOE Parent Handbook I (updated 2025)</strong>
 </p>
 </blockquote>
 <p>A quick guide to the National Digital Literacy Programme (NDLP), and parenting
 tips for helping your child learn with their personal learning device (PLD).
-<br><a href="/files/PDLP Info/2024/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a>
+<br><a href="/files/PDLP Info/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook I </a>
 </p>
 <blockquote>
-<p><strong>MOE Parent Handbook II (updated 2024)</strong>
+<p><strong>MOE Parent Handbook II (updated 2025)</strong>
 </p>
 </blockquote>
 <p>Overview of DMA, and more parenting tips on how to help your child learn
 with PLD.
-<br><a href="/files/LETTER%20TO%20PARENTS/Parent-Handbook-II-on-Learning-with-a-Personal-Learning-Devicecompress.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
+<br><a href="/files/PDLP Info/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook II</a>
 </p>
 <h5><strong>(B) Device Management Application (DMA)</strong></h5>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PLD/Slide3.PNG">
-</div>
 <p>In rolling out Personal Learning Devices (PLDs) for students, MOE is acutely
 aware of concerns regarding students’ cyber wellness. The DMA allows the
 school and parents to manage this, by</p>
@@ -109,15 +105,15 @@ by DMA after school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 7.00 - 16.00<br>After School Hours: 16.00 - 22.30</strong>
+<p><strong>School Hours: 6.30 - 16.00<br>After School Hours: 16.00 - 23.00</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 7.00 - 16.00<br>After School Hours: <br>Parents Determine</strong>
+<p><strong>School Hours: 6.30 - 16.00<br>After School Hours: <br>Parents Determine</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 7.00 - 16.00<br>After School Hours: No DMA</strong>
+<p><strong>School Hours: 6.30 - 16.00<br>After School Hours: No DMA</strong>
 </p>
 </td>
 </tr>
@@ -134,29 +130,6 @@ by DMA after school.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20default%20option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide for Default Option Chrome Devices</a> 
-<br><a href="/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20option%20a%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide for Option A Chrome Devices</a> 
-<br><a href="/files/PLD%20DMA/2023/dma%20parent%20guide%20-%20option%20b%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide for Option B Chrome Devices</a> 
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/shMgsPCQLCE?si=OiU0m9dIDwKhYEgC&amp;controls=0"></iframe>
-</div>
-<p>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FCK2rVSnns0?si=7v9LR5iYc4PJMxxy&amp;controls=0"></iframe>
-</div>
-<p>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1KSCn69U3Uc?si=kgQTJ2iERkBHooJz&amp;controls=0"></iframe>
-</div>
 <p></p>
-<p><strong>For parents who would like to amend your after-school DMA option, you can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg</a>. Please note that changes will only take effect at the end of the month.</strong>
+<p><strong>**For parents who would like to amend your after-school DMA option, you can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg</a>. Please note that changes will only take effect at the end of the month.</strong>
 </p>
-<p></p>
-<h5></h5>
-<p></p>
