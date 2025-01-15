@@ -4,7 +4,6 @@ permalink: /pdlp-info/student-icon/
 description: ""
 variant: tiptap
 ---
-<h3></h3>
 <blockquote>
 <p>In the context of Singapore’s Ministry of Education (MOE), <strong>iCON</strong> stands
 for <strong>"Individualised CONnectivity"</strong>. It represents the government’s
