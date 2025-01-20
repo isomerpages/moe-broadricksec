@@ -870,6 +870,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Sherry Long Ai Sin
+<br><a href="mailto:long_ai_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -899,25 +912,33 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive
-<br>
-<br>Sri Amirah Binte Suhairi&nbsp;
-<br><a href="mailto:sri_amirah_suhairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_amirah_suhairi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operations Manager &nbsp;
 <br>
 <br>Mr Arrivalaganu Suppiah&nbsp;
 <br><a href="mailto:arrivalaganu_suppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arrivalaganu_suppiah@moe.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>
+<p>Admin Executive
 <br>
+<br>Sri Amirah Binte Suhairi&nbsp;
+<br><a href="mailto:sri_amirah_suhairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_amirah_suhairi@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO
 <br>
+<br>Mrs Tay Suan Eng
+<br><a href="mailto:tay_suan_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_suan_eng@moe.edu.sg</a> 
+<br>
+<br>Ms Joann Wong Yau Chene
+<br><a href="mailto:wong_yau_chene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yau_chene@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Tan Kah Seok Jeslin
+<br><a href="mailto:tan_kah_seok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kah_seok@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -928,35 +949,11 @@ variant: tiptap
 <br>Mr Mogandas Kanapathy
 <br><a href="mailto:mogandass_kanapathy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mogandass_kanapathy@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;
-<br>
-<br>Ms Ngiam Chay Koon
+<p></p>
+<p>Ms Ngiam Chay Koon
 <br><a href="mailto:ngiam_chay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_chay_koon@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CSO
-<br>
-<br>Mrs Tay Suan Eng
-<br><a href="mailto:tay_suan_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_suan_eng@moe.edu.sg</a> 
-<br>
-<br>Ms Joann Wong Yau Chene
-<br><a href="mailto:wong_yau_chene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yau_chene@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Mdm Tan Kah Seok Jeslin
-<br><a href="mailto:tan_kah_seok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kah_seok@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>OSO&nbsp;
 <br>
@@ -969,11 +966,8 @@ variant: tiptap
 <br>Mdm Teo Jong Moy&nbsp;
 <br><a href="mailto:teo_jong_moy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jong_moy@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Mdm Hamidah Haniffa&nbsp;
+<p></p>
+<p>Mdm Hamidah Haniffa&nbsp;
 <br><a href="mailto:hamidah_haniffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamidah_haniffa@moe.edu.sg</a> 
 <br>
 <br>Mdm Kannamah d/o Karuppan&nbsp;
@@ -985,18 +979,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ECG Counsellor
-<br>
-<br>Ms. Sherry Long Ai Sin
-<br><a href="mailto:long_ai_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Manager
 <br>
 <br>Mr&nbsp;Omar Mikail Himbal
@@ -1004,21 +986,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer&nbsp;
-<br>
-<br>Ms Abdul Malik Abrin Nisha
+<p>Ms Abdul Malik Abrin Nisha
 <br><a href="mailto:abrinnisha.abdulmalik@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">abrinnisha.abdulmalik@ncs.com.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer&nbsp;
-<br>
-<br>Mr Kenneth Lim
+<p></p>
+<p>Mr Kenneth Lim
 <br><a href="mailto:lim.hk@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">lim.hk@ncs.com.sg</a>&nbsp;</p>
 </td>
 </tr>
