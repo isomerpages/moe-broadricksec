@@ -5,21 +5,19 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h3>MOE Sexuality Education in Schools</h3>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
-(SEd) in schools aims to enable students to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships with others, including those with members of
-the opposite sex, and make wise, informed and responsible decisions on
-sexuality matters. SEd is premised on the importance of the family as the
-basic unit of society. This means encouraging healthy, heterosexual marriages
-and stable nuclear family units with extended family support. The teaching
+<h1><strong>MOE Sexuality Education (SEd) in Schools</strong></h1>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sexuality Education (SEd)</strong> in
+schools aims to enable students to understand the physiological, social
+and emotional changes they experience as they mature, develop healthy and
+rewarding relationships with others, including those with members of the
+opposite sex, and make wise, informed and responsible decisions on sexuality
+matters. SEd is premised on the importance of the family as the basic unit
+of society. This means encouraging healthy, heterosexual marriages and
+stable nuclear family units with extended family support. The teaching
 and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are to:</p>
-<p>&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
 in managing their physiological, social and emotional changes as they grow
 up and develop safe and healthy relationships.</p>
@@ -29,12 +27,10 @@ to make wise, informed and responsible decisions on sexuality matters.</p>
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
-yourself as you love and respect others;</p>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
 relationships based on love and respect (which are the foundation for strong
 families);</p>
@@ -43,33 +39,11 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
-<p><strong>&nbsp;</strong>
+<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
+on MOE Sexuality Education.<strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Overview of BROADRICK Secondary School’s Sexuality Education Programme for 2025</strong>
-</p>
+<hr>
+<h3><strong>Overview of BROADRICK Secondary School’s Sexuality Education Programme for 2025</strong></h3>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
@@ -80,7 +54,7 @@ information on the scope of Sexuality Education in the school curriculum.</p>
 topics on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
-<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<h3><strong>Sexuality Education Lessons</strong>:</h3>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes
 of our youth towards sexuality are increasingly shaped by their peers,
 exposure to the media, popular culture and the internet. Adolescence is
@@ -102,6 +76,7 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
+<hr>
 <h3><strong>Secondary 1</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -234,7 +209,9 @@ of online falsehoods, flouting copyright laws, etc.)</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>&nbsp;Secondary 2</strong></h3>
+<h3><strong>&nbsp;</strong></h3>
+<hr>
+<h3><strong>Secondary 2</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -363,7 +340,7 @@ and avoid negative consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3><strong>Secondary 3</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -503,8 +480,8 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h3><strong>Seconday 4</strong></h3>
+<hr>
+<h3><strong>Secondary 4</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -661,7 +638,7 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3><strong>Secondary 5</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -728,8 +705,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<h3><strong><em>eTeens</em> Programme</strong>:</h3>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
 programme developed by Health Promotion Board, in collaboration with the
 Ministry of Education, to provide Secondary 3 students with accurate information
@@ -743,9 +719,7 @@ to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At Broadrick Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>At Broadrick Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -765,8 +739,6 @@ family values are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -805,16 +777,7 @@ decision-making</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>Information for Parents</strong>
-</p>
+<h3><strong>Information for Parents</strong></h3>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
 sexuality education programmes by MOE-approved external providers.</p>
