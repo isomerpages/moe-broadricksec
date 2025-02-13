@@ -45,13 +45,13 @@ sections:
           announcement: Please find information for the Secondary 1 Registration here.
           link_text: CLICK HERE
           link_url: https://staging-lite.d3bsr9px9mjztd.amplifyapp.com/sec-1-registration-2025/
-        - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
-          date: 12 January 2024
+        - title: 2025 E-Student Handbook
+          date: 13 February 2025
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
             the school has created its first e-student handbook.   Students can
-            download a copy by clicking here.
-          link_text: DOWNLOAD HERE
-          link_url: https://drive.google.com/file/d/17HBgAoMnc6KtixK3LFkBL4eWN4B5lK3T/view?usp=sharing
+            download a copy by clicking the link below.
+          link_text: CLICK HERE
+          link_url: https://online.flippingbook.com/view/1063509589/
         - title: 2024 School Calendar
           date: 18 December 2023
           announcement: The 2024 Calendar of Events will keep you updated
