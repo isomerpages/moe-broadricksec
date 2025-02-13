@@ -1,5 +1,5 @@
 ---
-title: 2024 School Calendar
+title: School Calendar
 permalink: /school-calendar/
 variant: tiptap
 description: ""

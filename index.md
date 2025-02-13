@@ -27,34 +27,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 Sec 1 Registration
-          date: 18 December 2024
-          announcement: For more information on Sec 1 Registration, click on the link.
-          link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/sec-1-registration-2025/
-        - title: 2024 GRC Celebration Week
-          date: 16 October 2024
-          announcement: "We will commence the GRC Celebration Week from 17 Oct (Thursday)
-            to 25 Oct (Friday). The programmes are intended to provide extended
-            learning opportunities for Broadricians. The Timetable is attached
-            below:"
-          link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/files/2024_SEM_2_ELE_WEEK_Classes.pdf
-        - title: Secondary 1 Registration Information.
-          date: 18 December 2024
-          announcement: Please find information for the Secondary 1 Registration here.
-          link_text: CLICK HERE
-          link_url: https://staging-lite.d3bsr9px9mjztd.amplifyapp.com/sec-1-registration-2025/
-        - title: 2024 E-Student Handbook (updated w.e.f. 12/1/24)
-          date: 12 January 2024
+        - title: 2025 E-Student Handbook
+          date: 13 February 2025
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
             the school has created its first e-student handbook.   Students can
-            download a copy by clicking here.
-          link_text: DOWNLOAD HERE
-          link_url: https://drive.google.com/file/d/17HBgAoMnc6KtixK3LFkBL4eWN4B5lK3T/view?usp=sharing
-        - title: 2024 School Calendar
-          date: 18 December 2023
-          announcement: The 2024 Calendar of Events will keep you updated
+            download a copy by clicking the link below.
+          link_text: CLICK HERE
+          link_url: https://online.flippingbook.com/view/1063509589/
+        - title: School Calendar
+          date: 13 February 2025
+          announcement: The SchoolCalendar of Events will keep you updated
           link_text: CLICK HERE
           link_url: /school-calendar/
       subtitle: STAY UPDATED WITH
