@@ -20,8 +20,8 @@ sections:
           description: FOLLOW US ON INSTAGRAM HERE!
           url: https://www.instagram.com/broadricksec_official
         - title: 2025 E-Student Handbook
-          description: Coming soon
-          url: https://online.flippingbook.com/view/816403467/
+          description: Click Here!
+          url: https://online.flippingbook.com/view/1063509589/
       subtitle: "Our Vision: A Choice School Providing Holistic Education"
   - announcements:
       title: Announcements
