@@ -20,21 +20,21 @@ sections:
           description: FOLLOW US ON INSTAGRAM HERE!
           url: https://www.instagram.com/broadricksec_official
         - title: 2025 E-Student Handbook
-          description: Click Here!
+          description: CLICK HERE
           url: https://online.flippingbook.com/view/1063509589/
       subtitle: "Our Vision: A Choice School Providing Holistic Education"
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 E-Student Handbook
+        - title: 2025 e-Student Handbook
           date: 13 February 2025
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
-            the school has created its first e-student handbook.   Students can
-            download a copy by clicking the link below.
+            the school has created its second e-student handbook.     Students
+            can download a copy by clicking the link below.
           link_text: CLICK HERE
           link_url: https://online.flippingbook.com/view/1063509589/
-        - title: School Calendar
+        - title: 2025 School Calendar
           date: 13 February 2025
           announcement: The School Calendar of Events will keep you updated
           link_text: CLICK HERE
