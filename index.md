@@ -36,7 +36,7 @@ sections:
           link_url: https://online.flippingbook.com/view/1063509589/
         - title: School Calendar
           date: 13 February 2025
-          announcement: The SchoolCalendar of Events will keep you updated
+          announcement: The School Calendar of Events will keep you updated
           link_text: CLICK HERE
           link_url: /school-calendar/
       subtitle: STAY UPDATED WITH
@@ -46,7 +46,7 @@ sections:
       description: The account is used to showcase our school's culture and values,
         and to promote school programs and activities.
       url: https://www.instagram.com/broadricksec_official/
-      image: /images/Screenshot_2024_11_21_111102.png
+      image: /images/2025/insta.jpg
       alt: Follow us on IG !
       button: Click Here to Follow us on IG
       subtitle: "@broadricksec_official"
