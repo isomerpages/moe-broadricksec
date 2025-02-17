@@ -4,8 +4,9 @@ collections:
     order:
       - Students/.keep
       - Students/Student Handbook.md
+      - Students/2025 Classroom Allocation.md
+      - Students/2025 Class Timetable.md
       - Students/Sec 1 Registration 2025.md
-      - Students/2025 Class Time Table.md
       - Students/Assessment Schedule.md
       - Students/Holiday Academic Programme (HAP) Timetable.md
       - Students/Sec 1 SBB and Sec 3 Bridging Programme.md
@@ -13,7 +14,6 @@ collections:
       - Students/Book Lists.md
       - Students/Yearbook.md
       - Students/Financial Assistance.md
-      - Students/Classroom Allocation.md
       - Students/NEU PC plus Programme.md
       - Students/Others.md
       - Parents/.keep

@@ -1,6 +1,6 @@
 ---
-title: 2025 Class Time Table
-permalink: /links/students/2023-class-time-table/
+title: 2025 Class Timetable
+permalink: /links/students/2025-class-time-table/
 description: ""
 third_nav_title: Students
 variant: tiptap
