@@ -21,6 +21,13 @@ variant: tiptap
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/3SLs.jpg">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Principal</strong> 
 <br>
@@ -28,13 +35,8 @@ variant: tiptap
 <br><a href="mailto:broadrick_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">broadrick_ss@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal</strong>
+<p><strong>Vice-Principals</strong>
 </p>
 <p></p>
 <p>Mr Bambang Purnama Putra Shakni
@@ -44,15 +46,6 @@ variant: tiptap
 <p>Ms Ng Foong Meng</p>
 <p><a href="mailto:broadrick_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">broadrick_ss@moe.edu.sg</a>
 </p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -379,7 +372,7 @@ variant: tiptap
 <br>
 </p>
 <p>Ms Loo Puay Ling
-<br><a href="mailto:wang_huali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_huali@moe.edu.sg</a>
+<br><a href="mailto:wang_huali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_puay_ling@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Mdm Chern Lee Boon
