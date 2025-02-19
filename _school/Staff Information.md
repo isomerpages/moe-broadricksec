@@ -349,7 +349,7 @@ variant: tiptap
 <br><a href="mailto:wardah_umar_siraj_sharbeeni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wardah_umar_siraj_sharbeeni@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Szeto Yan Ting, Caithlyn</p>
+<p>Ms Szeto Yan Ting, Caitlyn</p>
 <p><a href="mailto:szeto_yan_ting_caitlyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">szeto_yan_ting_caitlyn@moe.edu.sg</a>
 </p>
 </td>
@@ -846,6 +846,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Faisal B Osman&nbsp;
 <br><a href="https://broadricksec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">mohamed_faisal_osman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flexi SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Izyana Iskandar</p>
+<p><a href="mailto:izyana_iskandar@moe.edu.sg" rel="noopener nofollow" target="_blank">izyana_iskandar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
