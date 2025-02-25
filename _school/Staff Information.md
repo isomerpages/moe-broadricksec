@@ -375,8 +375,8 @@ variant: tiptap
 <br><a href="mailto:wang_huali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_puay_ling@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Chern Lee Boon
-<br><a href="mailto:chern_lee_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chern_lee_boon@moe.edu.sg</a>
+<p>Ms Ember Chen
+<br><a href="mailto:chen_zhizhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhizhi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -415,8 +415,9 @@ variant: tiptap
 <p><a href="mailto:%5Bang_sock_kiang@moe.edu.sg%5D(mailto:ang_sock_kiang@moe.edu.sg)" rel="noopener noreferrer nofollow" target="_blank">ang_sock_kiang@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Ember Chen
-<br><a href="mailto:chen_zhizhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhizhi@moe.edu.sg</a>
+<p>Mr Tan Teong Kai</p>
+<p><a href="mailto:Tan_Teong_Kai_A@schools.gov" rel="noopener noreferrer nofollow" target="_blank">Tan_Teong_Kai_A@schools.gov</a>
+<a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 <p></p>
 </td>
