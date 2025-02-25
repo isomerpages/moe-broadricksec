@@ -33,7 +33,7 @@ in January 2024 and is&nbsp;now opened for registration, details as follows:</p>
 <p>Webinar 1 : Raising Responsible Teenagers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>11 Jan </strong>
+<p><strong>15 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,7 +46,7 @@ in January 2024 and is&nbsp;now opened for registration, details as follows:</p>
 <p>Webinar 2 : Raising Competent&nbsp;Teenagers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>18 Jan </strong>
+<p><strong>22 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ in January 2024 and is&nbsp;now opened for registration, details as follows:</p>
 <p>Webinar 3 : Getting Teenagers Connected</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>25 Jan </strong>
+<p><strong>29 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,9 +71,10 @@ in January 2024 and is&nbsp;now opened for registration, details as follows:</p>
 </table>
 <p>Please also find the attached e-brochure for more information, and the
 QR code and link for online&nbsp;registration.&nbsp;</p>
-<p><a href="https://tinyurl.com/5f5dyhtu" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/5f5dyhtu</a>
+<p><a href="https://www.booking.gov.sg/public/services/ZrlGk7l4/events/d6R0k1eQ" rel="noopener nofollow" target="_blank">Registration Link</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/tripple_p_webinar_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3pMar25.png">
 </div>
 <p></p>
