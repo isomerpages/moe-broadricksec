@@ -1,5 +1,4 @@
 collections:
   personal-learning-device:
     output: true
-    order:
-      - Student iCON Information.md
+    order: []
