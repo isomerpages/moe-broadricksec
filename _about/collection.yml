@@ -1,7 +1,9 @@
 collections:
-  school:
+  about:
     output: true
     order:
+      - Student iCON Information.md
+      - Personal Learning Device Information.md
       - Principal’s Message.md
       - Vision Mission Values.md
       - About Us.md
