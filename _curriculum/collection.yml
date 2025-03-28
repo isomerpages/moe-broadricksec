@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - GEAR UP @ Broadrick.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Departments/ICT.md
