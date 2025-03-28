@@ -2,5 +2,4 @@ collections:
   departments:
     output: true
     order:
-      - Music and Aesthetics.md
       - ICT.md
