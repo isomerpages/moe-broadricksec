@@ -4,8 +4,6 @@ links:
     collection: about
   - title: Personal Learning Device
     collection: personal-learning-device
-  - title: Achievements
-    collection: achievements
   - title: CCA
     url: /cca/uniformed-groups
     sublinks:
