@@ -1,5 +1,4 @@
 collections:
   departments:
     output: true
-    order:
-      - ICT.md
+    order: []
