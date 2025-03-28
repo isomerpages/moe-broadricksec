@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Full Subject Based Banding (FSBB).md
       - GEAR UP @ Broadrick.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
