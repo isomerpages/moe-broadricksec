@@ -3,6 +3,7 @@ title: CCE
 permalink: /departments/cce/
 description: ""
 variant: tiptap
+third_nav_title: Departments
 ---
 <h3><strong>Our Objectives</strong></h3>
 <p>To inculcate in students a sense of Gratitude, Respect and Compassion

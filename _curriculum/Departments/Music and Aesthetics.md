@@ -3,6 +3,7 @@ title: Music and Aesthetics
 permalink: /music-and-aesthetics/
 variant: tiptap
 description: ""
+third_nav_title: Departments
 ---
 <h3><strong>Our Objectives</strong></h3>
 <ul>

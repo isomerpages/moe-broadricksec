@@ -3,6 +3,7 @@ title: Humanities
 permalink: /departments/humanities/
 description: ""
 variant: tiptap
+third_nav_title: Departments
 ---
 <h3><strong>Our Objectives</strong></h3>
 <p>To provide authentic learning experiences to foster conceptual understanding

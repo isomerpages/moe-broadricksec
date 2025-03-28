@@ -2,10 +2,8 @@ logo: /images/2025/logo_2_0.png
 links:
   - title: About
     collection: about
-  - title: Departments
-    collection: departments
-  - title: Achievements
-    collection: achievements
+  - title: Personal Learning Device
+    collection: personal-learning-device
   - title: CCA
     url: /cca/uniformed-groups
     sublinks:
@@ -25,7 +23,5 @@ links:
     collection: distinctive-programmes
   - title: Partners
     collection: partners
-  - title: Personal Learning Device
-    collection: personal-learning-device
   - title: Links
     collection: links

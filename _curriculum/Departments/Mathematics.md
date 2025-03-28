@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 variant: tiptap
+third_nav_title: Departments
 ---
 <h3><strong>Our Objectives</strong></h3>
 <p>To develop students into creative thinkers and effective problem-solvers.</p>
