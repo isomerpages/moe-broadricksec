@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - ABC/.keep
       - About Us.md
       - Vision Mission Values.md
       - Broadrician Outcomes.md
