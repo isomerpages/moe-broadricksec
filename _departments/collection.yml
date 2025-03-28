@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Craft & Technology.md
       - PE & CCA.md
       - CCE.md
       - Music and Aesthetics.md
