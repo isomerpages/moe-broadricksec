@@ -2,6 +2,5 @@ collections:
   departments:
     output: true
     order:
-      - CCE.md
       - Music and Aesthetics.md
       - ICT.md
