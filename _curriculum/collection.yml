@@ -2,5 +2,5 @@ collections:
   curriculum:
     output: true
     order:
-      - Character and Citizenship Education (CCE).md
       - Departments/.keep
+      - Character and Citizenship Education (CCE).md
