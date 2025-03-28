@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/English and English Literature.md
       - Departments/.keep
       - Character and Citizenship Education (CCE).md
