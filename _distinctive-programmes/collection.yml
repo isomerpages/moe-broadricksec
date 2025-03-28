@@ -2,7 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - GEAR UP @ Broadrick.md
       - Direct School Admission.md
       - Full Subject Based Banding (FSBB).md
       - Sec 1 Outdoor Adventure Camp.md
