@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/CCE.md
       - Departments/PE & CCA.md
       - Departments/Craft & Technology.md
       - Departments/Humanities.md
