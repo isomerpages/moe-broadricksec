@@ -2,7 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Learning for Life Programme.md
       - GEAR UP @ Broadrick.md
       - Direct School Admission.md
       - Full Subject Based Banding (FSBB).md
