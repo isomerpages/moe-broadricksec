@@ -2,8 +2,6 @@ logo: /images/2025/logo_2_0.png
 links:
   - title: About
     collection: about
-  - title: Personal Learning Device
-    collection: personal-learning-device
   - title: CCA
     url: /cca/uniformed-groups
     sublinks:
