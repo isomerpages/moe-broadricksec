@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/ICT.md
       - Departments/Music and Aesthetics.md
       - Departments/CCE.md
       - Departments/PE & CCA.md
