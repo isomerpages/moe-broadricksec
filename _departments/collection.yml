@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Humanities.md
       - Craft & Technology.md
       - PE & CCA.md
       - CCE.md
