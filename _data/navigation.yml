@@ -4,7 +4,10 @@ links:
     collection: about
   - title: Admissions
     collection: admissions
-  - title: CCA
+  - title: Curriculum
+    url: /curriculum
+    sublinks: []
+  - title: Co-Curriculum
     url: /cca/uniformed-groups
     sublinks:
       - title: Uniformed Groups
