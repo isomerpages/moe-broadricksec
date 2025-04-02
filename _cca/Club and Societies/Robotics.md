@@ -9,8 +9,16 @@ variant: tiptap
 <p>Wednesday 3.00pm - 4.30pm
 <br>Friday 2.00pm - 5.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>[IC] Ms Hafizah
-<br>[IC] Mr Michael Foong</p>
+<br>
+</p>
+</li>
+<li>
+<p>Mr Michael Foong</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
