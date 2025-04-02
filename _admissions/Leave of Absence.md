@@ -4,7 +4,7 @@ permalink: /leave-of-absence/
 variant: tiptap
 description: ""
 ---
-<h4>Leave of Absence (LOA) scheme</h4>
+<h4><strong>Leave of Absence (LOA) </strong></h4>
 <p><strong>Information</strong>
 </p>
 <p>The LOA scheme allows re-admission of your child (Singaporean and Permanent
