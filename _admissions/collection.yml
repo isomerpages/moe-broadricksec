@@ -1,5 +1,5 @@
 collections:
-  distinctive-programmes:
+  admissions:
     output: true
     order:
       - Sec 1 Registration 2025.md
