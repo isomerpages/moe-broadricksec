@@ -3,8 +3,7 @@ links:
   - title: About
     collection: about
   - title: Admissions
-    url: /permalink
-    sublinks: []
+    collection: distinctive-programmes
   - title: CCA
     url: /cca/uniformed-groups
     sublinks:
@@ -20,8 +19,6 @@ links:
         url: /files/LEAPS.pdf
       - title: CCA Infokit
         url: /cca/cca-infokit-2022
-  - title: Distinctive Programmes
-    collection: distinctive-programmes
   - title: Partners
     collection: partners
   - title: Links
