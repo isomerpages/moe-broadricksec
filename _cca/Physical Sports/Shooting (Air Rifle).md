@@ -12,12 +12,26 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Ms Yeo Li Shan&nbsp;
-<br>[IC] Mrs Tan Meow Choon&nbsp;
-<br>Ms Elizabeth Chan
-<br>Mrs Jasmine Chua
+<ul data-tight="true" class="tight">
+<li>
+<p>[IC] Ms Elizabeth Chan&nbsp;
 <br>
 </p>
+</li>
+<li>
+<p>Ms Yeo Li Shan
+<br>
+</p>
+</li>
+<li>
+<p>Mrs Jasmine Chua</p>
+</li>
+<li>
+<p>Ms Maglina Ismail
+<br>
+</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
