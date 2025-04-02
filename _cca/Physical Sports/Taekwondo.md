@@ -11,10 +11,20 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Mr Yong Jui Jin
-<br>[IC] Mdm Rohani Mohamed Ismail
-<br>Mdm Ding Ni
-<br>Ms Nadira</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[IC] Mdm Rohani Mohamed Ismail</p>
+</li>
+<li>
+<p>Mr Yong Jui Jin</p>
+</li>
+<li>
+<p>Mdm Ding Ni</p>
+</li>
+<li>
+<p>Ms Nadira</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
