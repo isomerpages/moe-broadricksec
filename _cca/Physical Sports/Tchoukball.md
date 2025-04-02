@@ -10,9 +10,21 @@ variant: tiptap
 <br>Wednesday 3.15pm - 6.00pm
 <br>Friday 2.15pm - 6.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Mr Fadli
-<br>[IC] Ms Amanda de Souza
-<br>[IC] Mr Darren Chin</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[IC] Mr Mustafa Kamal
+<br>
+</p>
+</li>
+<li>
+<p>Ms Amanda de Souza
+<br>
+</p>
+</li>
+<li>
+<p>Mr Muhd Fadli</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
