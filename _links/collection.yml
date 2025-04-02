@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Student Handbook.md
+      - Students/2025 Student Handbook.md
       - Students/2025 Classroom Allocation.md
       - Students/2025 Class Timetable.md
       - Students/Assessment Schedule.md
