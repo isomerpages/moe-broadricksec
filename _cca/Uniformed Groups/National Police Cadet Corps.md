@@ -10,7 +10,8 @@ variant: tiptap
 <br>Friday 2.30pm - 5.30pm</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p>[IC] Ms Lee Yuan Ching
-<br>Ms Susana Tan
+<br>Ms Susana Tan</p>
+<p>Mr Mok Chan Thong
 <br>Mr Low Young Fei
 <br>
 </p>
