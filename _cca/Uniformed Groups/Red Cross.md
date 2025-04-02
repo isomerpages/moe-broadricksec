@@ -11,12 +11,11 @@ variant: tiptap
 <br>
 </p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Mr Chua Pheck Leng Jude Thadeus
-<br>[IC] Mr Mong Yu Siang
-<br>Ms Leng Yi Ling
-<br>Ms Lynn Wu Jieru
-<br>Mr Mok Chan Thong</p>
-<p></p>
+<p>[IC] Ms Lynn Wu Jieru
+<br>[IC] Ms Leng Yi Ling
+<br>Mr Chua Pheck Leng Jude Thadeus
+<br>
+</p>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
