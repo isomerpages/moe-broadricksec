@@ -9,9 +9,21 @@ variant: tiptap
 <p>Wednesday 3.15pm - 6.15pm
 <br>Friday 1.30pm - 4.30pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>[IC] Ms Loo Puay Ling
-<br>[IC] Ms Seri Hannah Binte Aminuddin
-<br>Mdm Rasina Hanif</p>
+<br>
+</p>
+</li>
+<li>
+<p>Ms Seri Hannah Binte Aminuddin
+<br>
+</p>
+</li>
+<li>
+<p>Ms Gou Xiaojuan</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
