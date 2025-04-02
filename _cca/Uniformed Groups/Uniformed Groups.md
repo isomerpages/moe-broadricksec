@@ -19,10 +19,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/NPCC%20logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/uniformed-groups/national-police-cadet-corps/"><img style="width: 50%;" height="auto" width="100%" src="/images/NPCC%20logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
