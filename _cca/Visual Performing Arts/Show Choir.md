@@ -9,10 +9,26 @@ variant: tiptap
 <p>Monday 3.15pm - 5.15pm
 <br>Friday 2.00pm - 4.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>[IC] Ms Liu Siew Lee&nbsp;
-<br>[IC] Ms Chantel Tan&nbsp;
-<br>Mdm Wang Huali
-<br>Ms Chloe Phua</p>
+<br>
+</p>
+</li>
+<li>
+<p>Ms Chantel Tan&nbsp;
+<br>
+</p>
+</li>
+<li>
+<p>Mdm Wang Huali
+<br>
+</p>
+</li>
+<li>
+<p>Ms Chloe Phua</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
