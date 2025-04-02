@@ -5,8 +5,7 @@ links:
   - title: Admissions
     collection: admissions
   - title: Curriculum
-    url: /curriculum
-    sublinks: []
+    collection: curriculum
   - title: Co-Curriculum
     url: /cca/uniformed-groups
     sublinks:
