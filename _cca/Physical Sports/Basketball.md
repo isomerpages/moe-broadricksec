@@ -11,8 +11,8 @@ variant: tiptap
 <br>Friday 2.30pm - 5.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
 <p>[IC] Mr See Woon Loon&nbsp;
-<br>Ms Najla Banu
-<br>Mr Nicholas Teo
+<br>Ms Chen Huiyi
+<br>Mr Darren Chin
 <br>Mr Seow Yong Zhi</p>
 <h3><strong>Objectives</strong></h3>
 <ul>
