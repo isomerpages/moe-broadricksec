@@ -10,10 +10,26 @@ variant: tiptap
 <br>Wednesday 3.15pm - 5.45pm
 <br>Friday 2.30pm - 5.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>[IC] Mr See Woon Loon&nbsp;
-<br>Ms Chen Huiyi
-<br>Mr Darren Chin
-<br>Mr Seow Yong Zhi</p>
+<br>
+</p>
+</li>
+<li>
+<p>Ms Chen Huiyi
+<br>
+</p>
+</li>
+<li>
+<p>Mr Darren Chin
+<br>
+</p>
+</li>
+<li>
+<p>Mr Seow Yongzhi</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
