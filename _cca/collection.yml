@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Infokit.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
@@ -24,5 +25,3 @@ collections:
       - Club and Societies/Club and Societies.md
       - Club and Societies/Media Club.md
       - Club and Societies/Robotics.md
-      - Leaps 2.md
-      - CCA Infokit.md

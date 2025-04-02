@@ -1,5 +1,5 @@
 ---
-title: Direct School Admission
+title: Direct School Admission (DSA)
 permalink: /distinctive-programmes/direct-school-admission/
 description: ""
 variant: markdown

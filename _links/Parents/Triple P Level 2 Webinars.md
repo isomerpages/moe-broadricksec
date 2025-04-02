@@ -1,8 +1,9 @@
 ---
-title: Tripple P Level 2 Webinars
+title: Triple P Level 2 Webinars
 permalink: /distinctive-programmes/tripple-p/
 variant: tiptap
 description: ""
+third_nav_title: Parents
 ---
 <p>Dear Parents,</p>
 <p>We are pleased to inform you that the first run of Triple P Level 2 Webinars

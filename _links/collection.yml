@@ -3,10 +3,9 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Student Handbook.md
+      - Students/2025 Student Handbook.md
       - Students/2025 Classroom Allocation.md
       - Students/2025 Class Timetable.md
-      - Students/Sec 1 Registration 2025.md
       - Students/Assessment Schedule.md
       - Students/Holiday Academic Programme (HAP) Timetable.md
       - Students/Sec 1 SBB and Sec 3 Bridging Programme.md
@@ -16,18 +15,16 @@ collections:
       - Students/Financial Assistance.md
       - Students/NEU PC plus Programme.md
       - Students/Others.md
-      - Parents/Leave of Absence.md
       - Parents/.keep
       - Parents/Letters to Parents.md
       - Parents/Assessment Schedule.md
       - Parents/Sexuality Education.md
+      - Parents/Triple P Level 2 Webinars.md
       - Parents/Parents Gateway.md
       - Parents/Book Lists.md
-      - Parents/LEAPS 2.md
       - Parents/Registration links for Parents' Forum on Early Admission
         Exercise.md
       - Teachers/.keep
       - Teachers/Others.md
-      - Open House.md
       - School Canteen Advertisement.md
       - Aliv App Info.md

@@ -2,12 +2,12 @@ collections:
   about:
     output: true
     order:
-      - About Us.md
-      - Vision Mission Values.md
-      - Broadrician Outcomes.md
       - Principal’s Message.md
       - Our Heritage.md
+      - About Us.md
+      - Vision Mission Values.md
       - Staff Information.md
+      - Broadrician Outcomes.md
       - Student iCON Information.md
       - Personal Learning Device Information.md
       - Contact Us.md

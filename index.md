@@ -28,17 +28,19 @@ sections:
       id: announcements
       announcement_items:
         - title: 2025 e-Student Handbook
-          date: 13 February 2025
+          date: 02 January 2025
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
             the school has created its second e-student handbook.     Students
             can download a copy by clicking the link below.
           link_text: CLICK HERE
           link_url: https://online.flippingbook.com/view/1063509589/
         - title: 2025 School Calendar
-          date: 13 February 2025
-          announcement: The School Calendar of Events will keep you updated
+          date: 01 January 2025
+          announcement: The School Calendar of Events will keep all parents and guardians
+            updated on upcoming activities and key dates. Find out how to access
+            it through Parents’ Gateway (PG) by clicking the link below.
           link_text: CLICK HERE
-          link_url: /school-calendar/
+          link_url: https://drive.google.com/file/d/18IEe3wxdTz-f2_QJ2quC7YLZLHqLf1lZ/view?usp=drive_link
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our School Activities on Instagram!
