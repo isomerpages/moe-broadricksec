@@ -2,17 +2,17 @@ collections:
   curriculum:
     output: true
     order:
-      - Departments/.keep
-      - Departments/ICT.md
-      - Departments/Music and Aesthetics.md
-      - Departments/CCE.md
-      - Departments/PE & CCA.md
-      - Departments/Craft & Technology.md
-      - Departments/Humanities.md
-      - Departments/Science.md
-      - Departments/Mathematics.md
-      - Departments/Mother Tongue.md
-      - Departments/English and English Literature.md
+      - Academic Departments/.keep
+      - Academic Departments/ICT.md
+      - Academic Departments/Music and Aesthetics.md
+      - Academic Departments/CCE.md
+      - Academic Departments/PE & CCA.md
+      - Academic Departments/Craft & Technology.md
+      - Academic Departments/Humanities.md
+      - Academic Departments/Science.md
+      - Academic Departments/Mathematics.md
+      - Academic Departments/Mother Tongue.md
+      - Academic Departments/English and English Literature.md
       - Full Subject Based Banding (FSBB).md
       - GEAR UP @ Broadrick.md
       - Learning for Life Programme.md
