@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Music and Aesthetics.md
       - CCE.md
       - Academic Departments/.keep
       - Academic Departments/Craft and Technology.md
