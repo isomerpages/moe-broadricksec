@@ -2,7 +2,6 @@
 title: Sexuality Education
 permalink: /links/parents/sexuality-education/
 description: ""
-third_nav_title: Parents
 variant: tiptap
 ---
 <h1><strong>MOE Sexuality Education (SEd) in Schools</strong></h1>
