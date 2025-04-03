@@ -2,8 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Music and Aesthetics.md
-      - Character and Citizenship Education (CCE).md
       - Academic Departments/.keep
       - Academic Departments/Craft and Technology.md
       - Academic Departments/English and English Literature.md
@@ -12,7 +10,9 @@ collections:
       - Academic Departments/Mother Tongue.md
       - Academic Departments/Physical Education.md
       - Academic Departments/Science.md
-      - Learning for Life Programme.md
       - Applied Learning Programme.md
+      - Character and Citizenship Education (CCE).md
       - Full Subject Based Banding (FSBB).md
+      - Learning for Life Programme.md
       - GEAR UP @ Broadrick.md
+      - Music and Aesthetics.md
