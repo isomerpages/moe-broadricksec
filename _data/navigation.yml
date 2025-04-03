@@ -7,20 +7,7 @@ links:
   - title: Curriculum
     collection: curriculum
   - title: Co-Curriculum
-    url: /cca/uniformed-groups
-    sublinks:
-      - title: Uniformed Groups
-        url: /cca/uniformed-groups
-      - title: Physical Sports
-        url: /cca/physical-sports
-      - title: Visual Performing Arts
-        url: /cca/visual-performing-arts
-      - title: Club and Societies
-        url: /cca/club-and-societies
-      - title: Leaps 2.0
-        url: /files/LEAPS.pdf
-      - title: CCA Infokit
-        url: /cca/cca-infokit-2022
+    collection: cca
   - title: Partners
     collection: partners
   - title: Links
