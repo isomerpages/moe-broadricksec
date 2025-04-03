@@ -9,10 +9,12 @@ variant: tiptap
 <p>Wednesday 3.00pm - 4.30pm [Cadet Leaders Planning]
 <br>Friday 2.30pm - 5.30pm</p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>[IC] Mr Mustafa Kamal
-<br>[IC] Ms Susana Tan
-<br>Ms Gou Xiaojuan
-<br>Ms Lee Yuan Ching</p>
+<p>[IC] Ms Lee Yuan Ching
+<br>Ms Susana Tan</p>
+<p>Mr Mok Chan Thong
+<br>Mr Low Young Fei
+<br>
+</p>
 <h4><strong>Objectives</strong></h4>
 <ul>
 <li>

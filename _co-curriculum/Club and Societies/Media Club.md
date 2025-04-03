@@ -9,9 +9,21 @@ variant: tiptap
 <p>Wednesday, 3.15pm - 4.30pm (Selected groups)
 <br>Friday, 2pm - 4pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>[IC] Ms Tengku Suhaila
-<br>Mdm Meng Xin
-<br>Ms Chrystal Ngerng</p>
+<br>
+</p>
+</li>
+<li>
+<p>Mdm Meng Xin
+<br>
+</p>
+</li>
+<li>
+<p>Mdm Rasina Hanif</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>

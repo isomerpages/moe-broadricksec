@@ -1,9 +1,9 @@
 ---
-title: Craft & Technology
+title: Craft and Technology
 permalink: /departments/craft-n-technology/
 description: ""
 variant: tiptap
-third_nav_title: Departments
+third_nav_title: Academic Departments
 ---
 <h2><strong>Design &amp; Technology Unit (D&amp;T)</strong></h2>
 <h3><strong>Our Objectives</strong></h3>

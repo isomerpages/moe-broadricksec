@@ -2,7 +2,6 @@
 title: ICT
 permalink: /departments/ict/
 description: ""
-third_nav_title: Departments
 ---
 ### Department Vision
 Nurturing Future-Ready &amp; Responsible Digital learners

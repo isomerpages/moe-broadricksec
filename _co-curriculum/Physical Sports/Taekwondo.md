@@ -1,34 +1,42 @@
 ---
-title: Red Cross
-permalink: /cca/uniformed-groups/red-cross/
+title: Taekwondo
+permalink: /cca/physical-sports/taekwondo/
 description: ""
-third_nav_title: Uniformed Groups
+third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Wednesday 3.00pm - 4.30pm [Cadet Leaders Planning]
-<br>Friday 2.30pm - 5.30pm
+<p>Wednesday 3.15 pm - 6.15 pm
+<br>Friday 2.00 pm - 5.00 pm
 <br>
 </p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Mr Chua Pheck Leng Jude Thadeus
-<br>[IC] Mr Mong Yu Siang
-<br>Ms Leng Yi Ling
-<br>Ms Lynn Wu Jieru
-<br>Mr Mok Chan Thong</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[IC] Mdm Rohani Mohamed Ismail</p>
+</li>
+<li>
+<p>Mr Yong Jui Jin</p>
+</li>
+<li>
+<p>Mdm Ding Ni</p>
+</li>
+<li>
+<p>Ms Nadira</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>To instil the Red Cross Youth spirit and strengthen core values such as
-compassion, passion and professionalism in all members.&nbsp;</p>
+<p>To develop physical fitness, mental discipline, and strong moral character
+in our members.</p>
 </li>
 <li>
-<p>To become good citizens with a strong sense of civic responsibility.&nbsp;</p>
+<p>To cultivate resilience in both training and everyday life.</p>
 </li>
 <li>
-<p>To be adaptable, resilient and confident team players.</p>
-<p></p>
+<p>To boost self-confidence and self-esteem through achievement and progress
+in the sport.</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
@@ -41,10 +49,12 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2024</p>
+<p><strong>2024</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2023</p>
+<p><strong>2023</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -54,35 +64,17 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>World Red Cross Day&nbsp;</p>
-</li>
-<li>
-<p>Smoke Free Ambassador Programme&nbsp;</p>
-</li>
-<li>
-<p>Combined UG Camp</p>
-</li>
-<li>
-<p>Sustainable Kids Market&nbsp;</p>
-</li>
-<li>
-<p>Basic First Aid Workshop</p>
-</li>
-<li>
-<p>Drone Workshop</p>
+<p>VIA at NTU Taekwondo Open Competition</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>World Red Cross Day&nbsp;</p>
+<p>National Poomsae</p>
 </li>
 <li>
-<p>Smoke Free Ambassador Programme&nbsp;</p>
-</li>
-<li>
-<p>Basic First Aid Workshop</p>
+<p>Whampoa Invitational 2023</p>
 </li>
 </ul>
 </td>
@@ -117,18 +109,19 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First Aid Competition (Junior)</p>
+<p><strong>NSG 2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze</p>
+<p>6 gold, 7 silver, 13 bronze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First Aid Competition (Senior)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver</p>
+<p>‘B’ Div&nbsp; Boys 4th&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -139,10 +132,20 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RCY Excellent Unit Award</p>
+<p><strong>NSG 2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p>1 gold, 1 silver,13 bronze,</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Daedo 2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 gold, 2 silver, 2 bronze</p>
 </td>
 </tr>
 </tbody>
@@ -152,43 +155,40 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/RCY1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TKD1.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Gratitude</div>
-<div class="isomer-card-description">At the Chinese New Year Broadrick Alumni reunion where RCY cadets demonstrate
-gratitude as they serve food to the alumni</div>
+<div class="isomer-card-description">Our B Div Girls Team grateful to coach Amanda for her invaluable help</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/RCY2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TKD2.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Respect</div>
-<div class="isomer-card-description">During the first aid competition, RCY cadets put their first aid skills
-to the test and demonstrated respect for the casualty by treating them
-with empathy</div>
+<div class="isomer-card-description">Though only one can win the gold, respect is give to all who dares to
+compete</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/RCY3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TKD3.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Compassion</div>
-<div class="isomer-card-description">RCY Cadets Empower Underprivileged Children and showing them compassion
-at the Leading Workshop and Donating Art for Charity Auction Fundraiser</div>
+<div class="isomer-card-description">Our B Girls Captain, Tania, volunteering to help with NTU’s TKD Open.
+Much compassion displayed by the NTU student organisers - they work many
+hours just to ensure a smooth running of the competition</div>
 </div>
 </div>
 </div>
 <p>
 <br>
 </p>
-<p></p>
-<p></p>

@@ -1,25 +1,38 @@
 ---
-title: Robotics
-permalink: /cca/club-and-societies/robotics/
+title: Tchoukball
+permalink: /cca/physical-sports/tchoukball/
 description: ""
-third_nav_title: Club and Societies
+third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Wednesday 3.00pm - 4.30pm
-<br>Friday 2.00pm - 5.00pm</p>
+<p>Monday 3.15pm - 6.00pm (for selected students)
+<br>Wednesday 3.15pm - 6.00pm
+<br>Friday 2.15pm - 6.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Ms Hafizah
-<br>[IC] Mr Michael Foong</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[IC] Mr Mustafa Kamal
+<br>
+</p>
+</li>
+<li>
+<p>Ms Amanda de Souza
+<br>
+</p>
+</li>
+<li>
+<p>Mr Muhd Fadli</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
-<p>To foster analytical thinking and creativity, with opportunities to explore
-educational robotics through collaborative challenge-based exercises.</p>
+<p>To allow students to discover their strengths, interests and talents especially
+in the area of Tchoukball.</p>
 </li>
 <li>
-<p>To enable students to learn sportsmanship and instil discipline through
-teamwork.&nbsp;</p>
+<p>To demonstrate discipline, resilience, sound decision making and teamwork.</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
@@ -43,12 +56,10 @@ teamwork.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone Robotics Challenge
-<br>VEX Robotics Challenge&nbsp;</p>
+<p>Active SG-TBAS Interschool B &amp; C Division Tchoukball Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>East Zone Robotics Challenge
-<br>VEX Robotics Challenge</p>
+<p>Active SG-TBAS Interschool B &amp; C Division Tchoukball Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -56,7 +67,7 @@ teamwork.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h3>&nbsp;<strong>Achievements</strong></h3>
+<h3><strong>Achievements</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -81,18 +92,18 @@ teamwork.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone Robotics Challenge&nbsp;</p>
+<p>B Division&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Place</p>
+<p>Champions / 1st Place</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VEX Robotics Challenge</p>
+<p>C Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fourth place and Judges Award</p>
+<p>Champions / 1st Place</p>
 </td>
 </tr>
 <tr>
@@ -103,18 +114,18 @@ teamwork.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone Robotics Challenge&nbsp;</p>
+<p>B Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Second Place</p>
+<p>Second Runner-up / 3rd Place</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VEX Robotics Challenge</p>
+<p>C Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Judges Award</p>
+<p>Runner-up / 2nd Place</p>
 </td>
 </tr>
 </tbody>
@@ -124,35 +135,36 @@ teamwork.&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/robotics_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Tball1.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Gratitude</div>
-<div class="isomer-card-description">Grateful for the opportunities to compete with other schools and grateful
-to our trainer, teachers and teammates for supporting one another</div>
+<div class="isomer-card-description">We are grateful to train with our teammates and like-minded sportswomen
+from other schools</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/robotics_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/tball_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Respect</div>
-<div class="isomer-card-description">We respect and listen to our trainer, teachers as well as our teammates</div>
+<div class="isomer-card-description">We respect the sport and strive to do our best on the court</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ROBOTICS_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/tball3.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Compassion</div>
-<div class="isomer-card-description">We show compassion by teaching and mentoring each other</div>
+<div class="isomer-card-description">With compassion for our school, we raise the Broadrick flag high! BROADRICK,
+FLY!</div>
 </div>
 </div>
 </div>
@@ -160,7 +172,4 @@ to our trainer, teachers and teammates for supporting one another</div>
 <br>
 <br>
 </p>
-<p>
-<br>
-<br>
-</p>
+<p></p>

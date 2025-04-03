@@ -1,9 +1,9 @@
 ---
-title: PE & CCA
+title: Physical Education
 permalink: /departments/pe-cca/
 description: ""
 variant: tiptap
-third_nav_title: Departments
+third_nav_title: Academic Departments
 ---
 <h3><strong>Our Objectives</strong></h3>
 <p>To enable students to demonstrate physical skills, practices, and values

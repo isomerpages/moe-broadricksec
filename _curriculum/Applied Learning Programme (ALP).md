@@ -1,5 +1,5 @@
 ---
-title: Applied Learning Programme
+title: Applied Learning Programme (ALP)
 permalink: /distinctive-programmes/applied-learning-programme/
 description: ""
 variant: markdown

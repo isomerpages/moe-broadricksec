@@ -9,9 +9,17 @@ variant: tiptap
 <p>Wednesday 3.15pm - 5.15pm
 <br>Friday 1.00pm - 5.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Mdm Seerin Jaffer&nbsp;
-<br>[IC] Ms Joanne Ler&nbsp;
-<br>Ms Chervonne Ang</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[IC] Ms Joanne Ler&nbsp;</p>
+</li>
+<li>
+<p>Ms Chervonne Ang</p>
+</li>
+<li>
+<p>Mdm Seerin Jaffer&nbsp;</p>
+</li>
+</ul>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>

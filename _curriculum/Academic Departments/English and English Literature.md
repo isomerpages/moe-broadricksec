@@ -3,7 +3,7 @@ title: English and English Literature
 permalink: /departments/englishandenglishliterature/
 description: ""
 variant: tiptap
-third_nav_title: Departments
+third_nav_title: Academic Departments
 ---
 <h3><strong>Our Objectives</strong></h3>
 <p><strong>ExC<sup>3</sup>ITe</strong>: To encourage Broadricians to become <strong>e</strong>ffective, <strong>c</strong>onfident, <strong>c</strong>ompetent <strong>c</strong>ommunicators;

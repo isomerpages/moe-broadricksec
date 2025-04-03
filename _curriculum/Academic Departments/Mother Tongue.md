@@ -3,7 +3,7 @@ title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
 variant: tiptap
-third_nav_title: Departments
+third_nav_title: Academic Departments
 ---
 <h3><strong>Our Objectives</strong></h3>
 <ul>

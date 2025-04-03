@@ -1,43 +1,44 @@
 ---
-title: CCE
-permalink: /departments/cce/
+title: Learning for Life Programme (LLP)
+permalink: /distinctive-programmes/learning-for-life-programme/
 description: ""
 variant: tiptap
-third_nav_title: Departments
 ---
-<h3><strong>Our Objectives</strong></h3>
-<p>To inculcate in students a sense of Gratitude, Respect and Compassion
-(GRC) who make responsible decisions for the betterment of self, school,
-community and the nation</p>
-<h3><strong>Our Programmes</strong></h3>
-<p><strong>Learning for Life Programme (LLP)</strong>
-</p>
+<h4><strong>Learning for Life: Our Objectives</strong></h4>
+<p>At Broadrick Secondary School, we aim to instill a sense of <strong>Gratitude, Respect, and Compassion (GRC)</strong> in
+our students, empowering them to make responsible decisions that contribute
+to the betterment of themselves, the school, the community, and the nation.</p>
+<h4><strong>Learning for Life: Our Programmes</strong></h4>
+<p></p>
+<p>Our Learning for Life Programme focuses on developing GRC leaders through
+meaningful service in the community. The programme is structured across
+different levels to provide diverse opportunities for students to grow
+and serve.</p>
 <ul>
 <li>
-<p>Develop GRC leaders through service in the community</p>
+<p><strong>Secondary 1 - “Adopt A Hood” Project</strong>: In collaboration
+with Dunman High School, our Secondary 1 students participate in the "Adopt
+A Hood" project, where they engage in activities to clean the neighbourhood,
+fostering a sense of responsibility and giving back to the community. The
+project begins with an ice-breaker session conducted by BRD &amp; DHS class
+leaders, encouraging students to show respect by listening to each other's
+views. The students consolidate their learning through a group reflection
+session, reinforcing the values of gratitude and compassion.</p>
 </li>
 <li>
-<p>Sec 1 - “Adopt A Hood” Project in collaboration with Dunman High School
-to clean the neighbourhood.&nbsp;</p>
+<p><strong>Secondary 2 - Hosting Young Counterparts from Kong Hwa School</strong>:
+Our Secondary 2 students take on the role of hosts for younger students
+from Kong Hwa School. They plan and execute activities tailored to the
+needs of their young guests, demonstrating empathy and compassion in their
+interactions.</p>
 </li>
 <li>
-<p>Sec 2 - Students host young counterparts from Kong Hwa School.&nbsp;</p>
-</li>
-<li>
-<p>Sec 3 - Hearty Bites Programme, where students engage the elderly in various
-activities and serve them meals.&nbsp;</p>
-</li>
-</ul>
-<p><strong>Education and Career Guidance (ECG) Programme</strong>
-</p>
-<ul>
-<li>
-<p>To promote career exploration through learning journeys, industrial visits
-and talks by relevant speakers.&nbsp;</p>
-</li>
-<li>
-<p>To empower students to make well-informed and optimal post-secondary decisions
-independently.&nbsp;</p>
+<p><strong>Secondary 3 - Hearty Bites Programme</strong>: The Hearty Bites
+Programme involves our Secondary 3 students engaging with elderly residents
+through various activities, including serving meals and preparing school-grown
+vegetables for cooking together. This initiative helps students to build
+connections with the elderly and demonstrates the values of gratitude,
+respect, and compassion in practice.</p>
 </li>
 </ul>
 <p></p>
@@ -153,9 +154,7 @@ mind (<strong>compassion</strong>)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Elderly enjoying their meals served by the students</p>
-<p>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students preparing the school-grown vegetables for cooking with the elderly
