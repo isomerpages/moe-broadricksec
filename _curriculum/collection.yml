@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Sexuality Education.md
       - Academic Departments/.keep
       - Academic Departments/Craft and Technology.md
       - Academic Departments/English and English Literature.md
@@ -17,3 +16,4 @@ collections:
       - Learning for Life Programme (LLP).md
       - GEAR UP @ Broadrick.md
       - Music and Aesthetics.md
+      - Sexuality Education.md
