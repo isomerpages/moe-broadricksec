@@ -6,27 +6,41 @@ description: A Choice School Providing Holistic Education || Nurturing
   Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: ""
+notification: Keep up with our School Activities - Follow us on IG ||
+  @broadricksec_official & broadricksec_goodvibesonly
 sections:
   - hero:
       background: /images/Copy_of_My_Project__2_.gif
       variant: floating
       backgroundColor: gray
       title: Broadrick Secondary School
-      size: sm
+      size: md
       alignment: left
       key_highlights:
+        - title: 2025 Direct School Admission (DSA)
+          description: CLICK HERE
+          url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
         - title: A Day in a life of a broadrician
-          description: FOLLOW US ON INSTAGRAM HERE!
+          description: FOLLOW US ON INSTAGRAM HERE
           url: https://www.instagram.com/broadricksec_official
         - title: 2025 E-Student Handbook
           description: CLICK HERE
           url: https://online.flippingbook.com/view/116838550/
-      subtitle: "Our Vision: A Choice School Providing Holistic Education"
+      subtitle: "Vision: A Choice School Providing Holistic Education   Mission:
+        Nurturing Broadricians to be Future-Ready Learners with Strength of
+        Character"
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 Direct School Admission (DSA)
+          date: 07 May 2025
+          announcement: Find out more about our talent areas and selection criteria for
+            CCAs and ALP STEM.  All applicants will apply for DSA-Sec through a
+            centralised DSA-Sec Portal. The application is free-of-charge and
+            will be open from 7 May 2025, 11:00 am to 3 June 2025, 3:00 pm.
+          link_text: CLICK HERE
+          link_url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
         - title: 2025 e-Student Handbook
           date: 02 January 2025
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
