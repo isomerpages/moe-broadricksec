@@ -24,7 +24,7 @@ areas:</p>
 </p>
 </li>
 <li>
-<p><strong>Physical Sports  – Tchoukball (Girls)</strong>
+<p><strong>Physical Sports – Tchoukball (Girls)</strong>
 </p>
 </li>
 </ul>
@@ -199,7 +199,7 @@ students).
 August 2025)</p>
 </li>
 </ul>
-<p><strong><u>Key Dates</u></strong><u> </u>
+<p><strong><u>Key Dates</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
