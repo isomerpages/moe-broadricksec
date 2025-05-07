@@ -258,4 +258,5 @@ August and 4 September 2025<strong>.</strong>
 </ul>
 <p><strong><u>For Enquiries</u></strong>
 </p>
-<p></p>
+<p>You can email your enquiries to <a href="broadrick_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">broadrick_ss@moe.edu.sg</a>
+</p>
