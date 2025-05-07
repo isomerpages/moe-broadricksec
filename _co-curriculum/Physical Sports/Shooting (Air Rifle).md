@@ -6,28 +6,33 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Monday 3.15pm - 5.45pm
-<br>Wednesday 3.15pm - 5.45pm
-<br>Friday 2.00pm - 5.00pm
-<br>
-</p>
-<h3><strong>Teachers-in-charge</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>[IC] Ms Elizabeth Chan&nbsp;
+<p>Monday 3.15pm - 5.45pm
 <br>
 </p>
 </li>
 <li>
-<p>Ms Yeo Li Shan
+<p>Wednesday 3.15pm - 5.45pm
 <br>
 </p>
+</li>
+<li>
+<p>Friday 2.00pm - 5.00pm
+<br>
+</p>
+</li>
+</ul>
+<h3><strong>Teachers-in-charge</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>[IC] Ms Elizabeth Chan&nbsp;</p>
 </li>
 <li>
 <p>Mrs Jasmine Chua</p>
 </li>
 <li>
-<p>Ms Maglina Ismail
+<p>Mdm Maglina Ismail
 <br>
 </p>
 </li>
@@ -47,14 +52,14 @@ shooting.</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<p><strong>2024</strong>
+<p><strong>2024 &amp; 2025</strong>
 </p>
 <p><strong>Sec 1 - 2:</strong> NSG ‘C’
 <br><strong>Sec 2 - 4: </strong>NTU-NIS Shoot
 <br><strong>Sec 3 - 4: </strong>NSG ‘B’
 <br><strong>All levels: </strong>Life Skills Day, Day Camps, Bonding, Intra
 CCA Competitions</p>
-<h3><br><strong>Achievements</strong></h3>
+<h3><strong>Achievements</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -69,6 +74,34 @@ CCA Competitions</p>
 <td rowspan="1" colspan="1">
 <p><strong>Position</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NSG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division Air Rifle Women Individual 7th &amp; 12th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NTU NIS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division Air Rifle Women (Team &amp; Individual 1st)</p>
+<p>
+<br>East Zonal:</p>
+<p>‘B’ Division Air Rifle Women (Team 1st &amp; 3rd)</p>
+<p>‘B’ Division Air Pistol Men (Team 3rd)</p>
 </td>
 </tr>
 <tr>
