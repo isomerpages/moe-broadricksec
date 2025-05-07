@@ -17,8 +17,11 @@ sections:
       size: md
       alignment: left
       key_highlights:
+        - title: 2025 Direct School Admission (DSA)
+          description: CLICK HERE
+          url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
         - title: A Day in a life of a broadrician
-          description: FOLLOW US ON INSTAGRAM HERE!
+          description: FOLLOW US ON INSTAGRAM HERE
           url: https://www.instagram.com/broadricksec_official
         - title: 2025 E-Student Handbook
           description: CLICK HERE
