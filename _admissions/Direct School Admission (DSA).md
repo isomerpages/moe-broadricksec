@@ -258,9 +258,5 @@ August and 4 September 2025<strong>.</strong>
 </ul>
 <p><strong><u>For Enquiries</u></strong>
 </p>
-<p>You can email your enquiries to <a href="mailto:bendemeer_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>broadrick_ss@moe</u></a><strong><a href="mailto:bendemeer_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>.</u></a></strong>
-<a href="mailto:bendemeer_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>edu</u>
-</a><strong><a href="mailto:bendemeer_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>.</u></a></strong>
-<a href="mailto:bendemeer_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sg</u>
-</a>
+<p>You can email your enquiries to <a href="broadrick_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">broadrick_ss@moe.edu.sg</a>
 </p>
