@@ -6,14 +6,15 @@ description: A Choice School Providing Holistic Education || Nurturing
   Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: ""
+notification: Keep up with our School Activities - Follow us on IG ||
+  @broadricksec_official & broadricksec_goodvibesonly
 sections:
   - hero:
       background: /images/Copy_of_My_Project__2_.gif
       variant: floating
       backgroundColor: gray
       title: Broadrick Secondary School
-      size: sm
+      size: md
       alignment: left
       key_highlights:
         - title: A Day in a life of a broadrician
@@ -22,7 +23,9 @@ sections:
         - title: 2025 E-Student Handbook
           description: CLICK HERE
           url: https://online.flippingbook.com/view/116838550/
-      subtitle: "Our Vision: A Choice School Providing Holistic Education"
+      subtitle: "Vision: A Choice School Providing Holistic Education   Mission:
+        Nurturing Broadricians to be Future-Ready Learners with Strength of
+        Character"
   - announcements:
       title: Announcements
       id: announcements
