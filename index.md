@@ -27,6 +27,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 Direct School Admission (DSA)
+          date: 07 May 2025
+          announcement: Find out more about our talent areas and selection criteria for
+            CCAs and ALP STEM.  All applicants will apply for DSA-Sec through a
+            centralised DSA-Sec Portal. The application is free-of-charge and
+            will be open from 7 May 2025, 11:00 am to 3 June 2025, 3:00 pm.
+          link_text: CLICK HERE
+          link_url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
         - title: 2025 e-Student Handbook
           date: 02 January 2025
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
