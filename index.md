@@ -26,7 +26,7 @@ sections:
         - title: 2025 E-Student Handbook
           description: CLICK HERE
           url: https://online.flippingbook.com/view/116838550/
-      subtitle: "Vision: A Choice School Providing Holistic Education   Mission:
+      subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
   - announcements:
