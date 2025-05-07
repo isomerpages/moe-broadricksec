@@ -6,23 +6,27 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Monday 3.15pm - 6.00pm (for selected students)
-<br>Wednesday 3.15pm - 6.00pm
-<br>Friday 2.15pm - 6.00pm</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday 3.15pm - 6.00pm (for selected students)</p>
+</li>
+<li>
+<p>Wednesday 3.15pm - 6.00pm</p>
+</li>
+<li>
+<p>Friday 2.15pm - 6.00pm</p>
+</li>
+</ul>
 <h3><strong>Teachers-in-charge</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>[IC] Mr Mustafa Kamal
-<br>
-</p>
+<p>[IC] Mr Mustafa Kamal</p>
 </li>
 <li>
-<p>Ms Amanda de Souza
-<br>
-</p>
+<p>[IC] Mr Muhd Fadli</p>
 </li>
 <li>
-<p>Mr Muhd Fadli</p>
+<p>Ms Amanda de Souza</p>
 </li>
 </ul>
 <h3><strong>Objectives</strong></h3>
@@ -45,13 +49,13 @@ in the area of Tchoukball.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>2024</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>2023</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -62,7 +66,7 @@ in the area of Tchoukball.</p>
 <p>Active SG-TBAS Interschool B &amp; C Division Tchoukball Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Active SG-TBAS Interschool B &amp; C Division Tchoukball Competition</p>
 </td>
 </tr>
 </tbody>
@@ -82,6 +86,42 @@ in the area of Tchoukball.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Position</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions / 1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Runner-up / 3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Runner-up / 3rd Place</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +165,7 @@ in the area of Tchoukball.</p>
 <p>C Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Runner-up / 2nd Place</p>
+<p>First Runner-up / 2nd Place</p>
 </td>
 </tr>
 </tbody>
