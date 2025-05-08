@@ -75,7 +75,6 @@ talents and develop their appreciation for music.&nbsp;</p>
 </tbody>
 </table>
 <h3><strong>Achievements</strong></h3>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
