@@ -30,25 +30,34 @@ talents and develop their appreciation for music.&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2023</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Band Exchange with Pasir Ris Secondary&nbsp;</p>
+</li>
+<li>
+<p>Band Exchange with Pasir Ris Crest Secondary School</p>
+</li>
+<li>
+<p>2025 SYF (Concert Band)</p>
+</li>
+</ul>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -61,22 +70,6 @@ talents and develop their appreciation for music.&nbsp;</p>
 <p>Performances during School Events / Celebrations</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>SAF Band Master Class</p>
-</li>
-<li>
-<p>June Cohesion Band Camp</p>
-</li>
-<li>
-<p>Performances during School Events / Celebrations</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -97,6 +90,23 @@ talents and develop their appreciation for music.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Position</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
