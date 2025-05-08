@@ -4,11 +4,15 @@ permalink: /distinctive-programmes/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Direct School Admission – Secondary (DSA-Sec) Exercise 2025</strong><br><strong>(For Secondary 1 Admission in 2026) - CCA &amp; ALP STEM</strong></h4>
+<h4><strong>Direct School Admission – Secondary (DSA-Sec) Exercise 2025</strong><br><strong>(For Secondary 1 Admission in 2026) - CCA, ALP STEM &amp; LLP</strong></h4>
 <hr>
-<p></p>
 <blockquote>
-<p>Co-Curricular Activities (CCA)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Co-Curricular Activities (CCA)</strong>
+</p>
+</li>
+</ol>
 </blockquote>
 <p>As a part of the Direct School Admission – Secondary (DSA-Sec) Exercise
 2025, we are pleased to share that we will be admitting current Primary
@@ -149,10 +153,13 @@ recognised competitions</p>
 </ul>
 <hr>
 <hr>
-<p></p>
 <blockquote>
-<p>Applied Learning Programme (ALP) in Science, Technology, Engineering,
-and Mathematics (STEM)</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM)</strong>
+</p>
+</li>
+</ol>
 </blockquote>
 <p>Our Applied Learning Programme (ALP) nurtures scientific inquiry and innovative
 thinking through our comprehensive STEM initiative. The programme develops
@@ -211,9 +218,68 @@ August 2025)</p>
 <li>
 <p>All applicants will be informed of the results of their application (Confirmed
 / Waiting List / Rejected) by 04 September 2025.</p>
-<p></p>
 </li>
 </ul>
+<blockquote>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Learning For Life Programme (LLP)</strong>
+</p>
+</li>
+</ol>
+</blockquote>
+<p>Broadrick Secondary School's LLP aims to nurture Grateful, Respectful,
+and Compassionate (GRC) Leaders through service in the community. It takes
+reference from our school’s GRC Values and is aligned to the school’s mission
+of nurturing Broadricians to be future-ready learners with strength of
+character.</p>
+<p><strong>&nbsp;</strong>We have themes for the different levels to expose
+students to the different areas of service.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>In Secondary 1, the theme is on environment, and students learn about
+community needs through information shared by the Municipal Services Office
+(MSO). They then take action to address these needs. Collaborating with
+our partner school Dunman High, the Sec 1 students are rostered by class
+to maintain the cleanliness of our neighbourhood. In the process, they
+learn to be respectful towards the cleaners and grateful for the clean
+environment they live in.</p>
+</li>
+<li>
+<p>In the Secondary 2 Values In Action (VIA) experience, the theme is on
+youth, and our students design, plan, and host students from Kong Hwa School
+for a day of enriching and fun activities.</p>
+</li>
+<li>
+<p>For the Sec 3 VIA whereby the theme is on elderly, the school partners
+ActiveSG for the students to conduct modified sports activities for the
+elderly. All these level-based VIA experiences avail opportunities for
+students to develop their identity, character and leadership qualities.&nbsp;
+We want our students to learn to understand the needs of the elderly living
+in the vicinity and to develop compassion and emotional connection with
+those whom they serve, which include the younger peers in kindergarten
+and primary schools.&nbsp; As they develop their social emotional competencies,
+they also have a greater sense of purpose and in control of their own learning,
+thereby strengthening their personal and interpersonal leadership qualities.</p>
+</li>
+</ul>
+<p><strong>&nbsp;<u>Selection Process</u></strong><u> </u>
+<br>Factors considered by school:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Are actively involved in community service</p>
+</li>
+<li>
+<p>Demonstrate initiative and passion in contributing to their community</p>
+</li>
+<li>
+<p>Lead Values In Action (VIA) projects in primary schools</p>
+</li>
+</ul>
+<p>Shortlisted candidates will be invited for an interview where they can
+share with us their experiences in community service and portfolio if any.</p>
+<hr>
+<p></p>
 <blockquote>
 <p><strong>Centralised DSA-Sec Application Process</strong> 
 <br><em>All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11:00 am to 3 June 2025, 3:00 pm.</em>
