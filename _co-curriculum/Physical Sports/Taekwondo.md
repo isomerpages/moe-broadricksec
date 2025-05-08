@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Wednesday 3.15 pm - 6.15 pm
+<p>Wednesday 3.15 pm - 5.45 pm
 <br>Friday 2.00 pm - 5.00 pm
 <br>
 </p>
@@ -16,7 +16,7 @@ variant: tiptap
 <p>[IC] Mdm Rohani Mohamed Ismail</p>
 </li>
 <li>
-<p>Mr Yong Jui Jin</p>
+<p>[IC] Mr Yong Jui Jin</p>
 </li>
 <li>
 <p>Mdm Ding Ni</p>

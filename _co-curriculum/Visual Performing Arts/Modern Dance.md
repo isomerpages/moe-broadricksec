@@ -6,8 +6,16 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Wednesday 3.15pm - 6.15pm
-<br>Friday 1.30pm - 4.30pm</p>
+<br>
+</p>
+</li>
+<li>
+<p>Friday 1.30pm - 4.30pm</p>
+</li>
+</ul>
 <h3><strong>Teachers-in-charge</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -16,12 +24,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Ms Seri Hannah Binte Aminuddin
+<p>[IC] Ms Seri Hannah Binte Aminuddin
 <br>
 </p>
 </li>
 <li>
-<p>Ms Gou Xiaojuan</p>
+<p>Mrs Zheng Xiaojuan</p>
+</li>
+<li>
+<p>Ms Ma Funing</p>
 </li>
 </ul>
 <h3><strong>Objectives</strong></h3>
@@ -40,50 +51,38 @@ shared goals.</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2023</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Serve to Lead Programme - Active X Playdate!</p>
+<p>SYF Arts Presentation for Dance</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>2023 SYF Dance Exchange Programme</p>
+<p>Tampines Central: Open Stage Dance&nbsp;Competition 2024 ‘Harmony in Motion’
+- 2nd Position</p>
 </li>
 <li>
-<p>National Day Celebrations at Kembangan Community Club</p>
-</li>
-<li>
-<p>Partners’ Appreciation Night</p>
-</li>
-<li>
-<p>Bonding Activities</p>
+<p>Serve to Lead Programme - Active X Playdate!</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -152,7 +151,7 @@ throughout the academic year</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/dance_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2025/Dance_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -164,7 +163,7 @@ and vital to the performance, showcasing a sense of unity</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/dance_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2025/Dance.png">
 </div>
 </div>
 <div class="isomer-card-body">

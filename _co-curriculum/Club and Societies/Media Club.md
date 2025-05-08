@@ -6,8 +6,14 @@ third_nav_title: Club and Societies
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Wednesday, 3.15pm - 4.30pm (Selected groups)
-<br>Friday, 2pm - 4pm</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday, 3:15pm - 5pm (Only for leaders)</p>
+</li>
+<li>
+<p>Wednesday, 3.15pm - 5.30pm (For all members)</p>
+</li>
+</ul>
 <h3><strong>Teachers-in-charge</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -21,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Mdm Rasina Hanif</p>
+<p>Mdm Mohamed Hanif Rasina Nilofar</p>
 </li>
 </ul>
 <h3><strong>Objectives</strong></h3>
@@ -42,22 +48,14 @@ to express themselves through photography and videography.</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2024 - 2023</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<p>2024 - 2025</p>
 </th>
 </tr>
 <tr>
@@ -84,12 +82,6 @@ and Videography, AV support&nbsp;</p>
 and Videography, AV support&nbsp;</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
