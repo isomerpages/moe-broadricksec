@@ -96,12 +96,24 @@ Duty, .22 Shooting Competition, St. Patrick’s School Football 7s</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Area 8 Games Day</p>
-<p>Pentathlon</p>
-<p>Speedrun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pentathlon</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speedrun</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2nd Place</p>
 </td>
 </tr>
