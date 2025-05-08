@@ -6,8 +6,19 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday 3.15pm - 5.15pm</p>
+</li>
+<li>
 <p>Wednesday 3.15pm - 5.15pm
-<br>Friday 1.00pm - 5.00pm</p>
+<br>
+</p>
+</li>
+<li>
+<p>Friday 1.00pm - 5.00pm</p>
+</li>
+</ul>
 <h3><strong>Teachers-in-charge</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,25 +46,43 @@ develop empathy and critical thinking skills.&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2023</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Lunar New Year Performance</p>
+</li>
+<li>
+<p>Hari Raya Aidilfitri Performance</p>
+</li>
+<li>
+<p>SYF 2025</p>
+</li>
+<li>
+<p>National Day Performance</p>
+</li>
+<li>
+<p>VIA @ OTH Library</p>
+</li>
+<li>
+<p>55th Anniversary GRC Banquet</p>
+</li>
+</ul>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -78,19 +107,6 @@ develop empathy and critical thinking skills.&nbsp;</p>
 <p>Movie screening [Wizard of Oz]</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Stage make up workshop</p>
-</li>
-<li>
-<p>VIA - Chinese Wayang for Hearty Breakfast</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -133,7 +149,7 @@ develop empathy and critical thinking skills.&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DRAMA_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2025/Drama1.png">
 </div>
 </div>
 <div class="isomer-card-body">
