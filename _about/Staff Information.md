@@ -852,7 +852,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi SEN Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Izyana Iskandar</p>
