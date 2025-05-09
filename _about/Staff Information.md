@@ -846,13 +846,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Faisal B Osman&nbsp;
-<br><a href="https://broadricksec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">mohamed_faisal_osman@moe.edu.sg</a>
+<br><a href="https://broadricksec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">mohamed_faisal_b_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flexi SEN Officer</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Izyana Iskandar</p>
