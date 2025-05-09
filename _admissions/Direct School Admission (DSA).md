@@ -183,7 +183,7 @@ them to become change-makers in the fields of science, technology, engineering,
 and mathematics.</p>
 <p><strong>We have vacancies for up to 20% of our Secondary 1 cohort in 2026 to apply to join our school through the Direct School Admission (DSA) process through the talent area of STEM</strong>
 </p>
-<p><u>Criteria</u>
+<p><strong><u>Criteria</u></strong>
 </p>
 <p>Applicants <strong><u>must be involved</u></strong> in STEM related projects
 or programmes in or outside their primary school.
