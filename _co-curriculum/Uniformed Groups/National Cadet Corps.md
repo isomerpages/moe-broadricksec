@@ -6,8 +6,16 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h4><strong>Training sessions</strong></h4>
-<p>Wednesday 3.00pm - 4.30pm [PDS]
-<br>Friday 2.30pm - 5.30pm</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesday 3.00pm - 4.30pm [PDS - Student-Initiated Learning]
+<br>
+</p>
+</li>
+<li>
+<p>Friday 2.30pm - 5.30pm</p>
+</li>
+</ul>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p>[IC] Mr Simon Yap
 <br>[IC] Mr Shahul Hameed
@@ -22,12 +30,65 @@ variant: tiptap
 </li>
 </ul>
 <h4><strong>Activities</strong></h4>
-<p><strong>2024</strong>
-<br><strong>Sec 1: </strong>Camp FORGE
-<br><strong>Sec 2: </strong>Camp STEEL, Air Rifle Shooting
-<br><strong>Sec 3:</strong> Specialist Assessment, Live Range
-<br><strong>All Levels:</strong> NCC Day, 2D1N Unit Bonding Camp, NCC Sports
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sec 1:</strong> Camp FORGE</p>
+</li>
+<li>
+<p><strong>Sec 2:</strong> Camp STEEL, Air Rifle Shooting</p>
+</li>
+<li>
+<p><strong>Sec 3:</strong> Specialist Assessment, Live Range</p>
+</li>
+<li>
+<p><strong>All Levels: </strong>NCC Day, 2D1N Unit Bonding Camp, NCC Sports
+Championship, Laser run</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sec 1: </strong>Camp FORGE
+<br>
+</p>
+</li>
+<li>
+<p><strong>Sec 2: </strong>Camp STEEL, Air Rifle Shooting
+<br>
+</p>
+</li>
+<li>
+<p><strong>Sec 3:</strong> Specialist Assessment, Live Range
+<br>
+</p>
+</li>
+<li>
+<p><strong>All Levels:</strong> NCC Day, 2D1N Unit Bonding Camp, NCC Sports
 Championship</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -43,6 +104,23 @@ Championship</p>
 <td rowspan="1" colspan="1">
 <p><strong>Position</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
 </td>
 </tr>
 <tr>
