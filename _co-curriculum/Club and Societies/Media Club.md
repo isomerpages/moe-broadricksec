@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>Training sessions</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday, 3:15pm - 5pm (Only for leaders)</p>
+<p>Tuesday, 3:15pm - 5.00pm (Only for CCA leaders)</p>
 </li>
 <li>
 <p>Wednesday, 3.15pm - 5.30pm (For all members)</p>
@@ -33,15 +33,12 @@ variant: tiptap
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
-<p>To hone students’ photography and videography skills and equip them with
-life skills and ICT skills.</p>
+<p>To hone students’ skills in photography and videography, create content
+for social media and equip them with skills in audio visual management.</p>
 </li>
 <li>
-<p>To equip students with audio-visual skills.&nbsp;</p>
-</li>
-<li>
-<p>To provide the platform for students to engage in photojournalism and
-to express themselves through photography and videography.</p>
+<p>To give students the opportunity to learn life skills like communication
+and teamwork.&nbsp;</p>
 </li>
 <li>
 <p>To instill leadership skills and a passion to learn, lead and serve.</p>
@@ -60,26 +57,21 @@ to express themselves through photography and videography.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Values-in-Action with Hearty Bites</p>
 </li>
 <li>
-<p>Social Media &amp; Photography Workshops</p>
+<p>Videography and Photography Workshops</p>
 </li>
 <li>
-<p>Supporting of school events - Mobile DJ, Media Coverage through Photography
-and Videography, AV support&nbsp;</p>
+<p>Support school events through Photography and Videography, AV support</p>
 </li>
 <li>
-<p>Broadrick Photography Conference</p>
+<p>Conduct media training sessions for MediaChamps</p>
 </li>
 <li>
-<p>Media and Photography Workshops</p>
-</li>
-<li>
-<p>Supporting of school events - Mobile DJ, Media Coverage through Photography
-and Videography, AV support&nbsp;</p>
+<p>Participate in competitions: Our School Our Stories (OSOS)</p>
 </li>
 </ul>
 </td>
@@ -101,6 +93,23 @@ and Videography, AV support&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Position</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Schools, Our Stories photography contest&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
 </td>
 </tr>
 <tr>
