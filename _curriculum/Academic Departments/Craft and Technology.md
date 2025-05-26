@@ -196,7 +196,7 @@ with the Mountbatten Citizens' Consultative Committee (CCC)</p>
 <h3><strong>Our Objectives</strong></h3>
 <p>To empower students to make informed decisions as discerning consumers</p>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>    Lower Secondary – Supermarket Tour</strong> 
+<p><strong>Lower Secondary – Supermarket Tour</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -206,7 +206,7 @@ with the Mountbatten Citizens' Consultative Committee (CCC)</p>
 <p>Learn tips for making economical and healthy food choices</p>
 </li>
 </ul>
-<p><strong>    Lower Secondary – In-Vend My Meal!</strong> 
+<p><strong>Lower Secondary – In-Vend My Meal!</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -220,7 +220,7 @@ of Food Innovation and Technology</p>
 <p>As part of alternative assessment, FCE students design and create healthy
 fusion dishes suitable for vending machines</p>
 <p></p>
-<p><strong>Lower Secondary – Ice-cream making workshop</strong> 
+<p><strong>Lower Secondary – Ice-cream making workshop</strong>
 </p>
 </li>
 <li>
@@ -234,7 +234,7 @@ of their enrichment programme</p>
 <p>Students learn the ice cream-making process and understand the effects
 of impurities during freezing</p>
 <p></p>
-<p><strong>Upper Secondary – Food Science and Sensory Evaluation workshop</strong> 
+<p><strong>Upper Secondary – Food Science and Sensory Evaluation workshop</strong>
 </p>
 </li>
 <li>
@@ -254,7 +254,7 @@ evaluation room</p>
 <img style="width:70%" height="auto" width="100%" src="/images/fce4.jpg">
 </div>
 <p></p>
-<p><strong>Upper Secondary – Molecular Gastronomy workshop</strong> 
+<p><strong>Upper Secondary – Molecular Gastronomy workshop</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -272,7 +272,7 @@ and powderisation using new technologies and natural texturing agents</p>
 <img style="width:60%" height="auto" width="100%" src="/images/fce5.jpg">
 </div>
 <p></p>
-<p><strong>Upper Secondary – Elective Module: Culinary and Pastry &amp; Baking by SHATEC</strong> 
+<p><strong>Upper Secondary – Elective Module: Culinary and Pastry &amp; Baking by SHATEC</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
