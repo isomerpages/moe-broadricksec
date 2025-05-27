@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Academic Departments
 ---
-<h2><strong>Design &amp; Technology (D&amp;T) Unit </strong></h2>
+<h2><strong>Design &amp; Technology (D&amp;T) Unit</strong></h2>
 <h3><strong>Our Objectives</strong></h3>
 <ul>
 <li>
