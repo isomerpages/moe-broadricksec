@@ -191,8 +191,20 @@ with the Mountbatten Citizens' Consultative Committee (CCC)</p>
 <p>
 <br>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gratitude</div><div class="isomer-card-description">This is body text for your Grateful for the opportunity to explore creativity beyond the classroom walls.card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gratitude</div>
+<div class="isomer-card-description">Grateful for the opportunity to explore creativity beyond the classroom
+walls.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art2.png">
@@ -201,9 +213,19 @@ with the Mountbatten Citizens' Consultative Committee (CCC)</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Respect</div>
 <div class="isomer-card-description">Art that uplifts, respects, and connects the community.</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Compassion</div><div class="isomer-card-description">Stairs of kindness, built with brushstrokes of compassion.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art11.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Compassion</div>
+<div class="isomer-card-description">Stairs of kindness, built with brushstrokes of compassion.</div>
+</div>
+</div>
 </div>
 <p>================================================================</p>
 <h2><strong>Nutrition and Food Science Unit (NFS)</strong></h2>
