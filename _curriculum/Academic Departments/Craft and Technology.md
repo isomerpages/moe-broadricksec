@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Academic Departments
 ---
-<h2><strong>Design &amp; Technology Unit (D&amp;T)</strong></h2>
+<h2><strong>Design &amp; Technology (D&amp;T) Unit </strong></h2>
 <h3><strong>Our Objectives</strong></h3>
 <ul>
 <li>
@@ -61,13 +61,13 @@ and solve challenges in their environment.&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/Dnta.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/c_t__gratitude.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Students engage in joyful learning as they explore ideas and passionately
-design to tackle opportunities identified through the Design Thinking Process,
-demonstrating compassion for users.</div>
+<div class="isomer-card-title">Gratitude</div>
+<div class="isomer-card-description">Students use CAD to bring their solutions to life, a tribute to their
+parents by addressing challenges they face with heartfelt gratitude.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -77,19 +77,22 @@ demonstrating compassion for users.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Driven by empathy and compassion, students create mockups to address real-world
-challenges</div>
+<div class="isomer-card-title">Respect</div>
+<div class="isomer-card-description">Guided by empathy and respect for real-world challenges, students design
+thoughtful mockups to cater to diverse needs.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024/dntc.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/c_t_compassion.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Students use CAD to bring their solutions to life, a tribute to their
-parents by addressing challenges they face with heartfelt gratitude.</div>
+<div class="isomer-card-title">Compassion</div>
+<div class="isomer-card-description">Students engage in joyful learning as they explore ideas and passionately
+design to tackle opportunities identified through the Design Thinking Process,
+demonstrating compassion for users.</div>
 </div>
 </div>
 </div>
@@ -184,13 +187,9 @@ with the Mountbatten Citizens' Consultative Committee (CCC)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/art2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2024/art11.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -289,7 +288,6 @@ evaluation room</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/fce4.jpg">
 </div>
-<p></p>
 <p><strong>Upper Secondary – Molecular Gastronomy workshop</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -307,7 +305,6 @@ and powderisation using new technologies and natural texturing agents</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/fce5.jpg">
 </div>
-<p></p>
 <p><strong>Upper Secondary – Elective Module: Culinary and Pastry &amp; Baking by SHATEC</strong>
 </p>
 <ul data-tight="true" class="tight">
