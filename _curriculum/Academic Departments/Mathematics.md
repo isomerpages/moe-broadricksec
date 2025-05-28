@@ -12,11 +12,11 @@ third_nav_title: Academic Departments
 </p>
 <ul>
 <li>
-<p>It aims to foster logical thinking and problem-solving skills engagingly.&nbsp;</p>
+<p>Fosters logical thinking and problem-solving skills through engaging activities.</p>
 </li>
 <li>
-<p>Equip students with essential spreadsheet skills, preparing them for future
-academic and personal tasks.</p>
+<p>Equips students with essential spreadsheet skills to support future academic
+and personal tasks.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -28,11 +28,12 @@ academic and personal tasks.</p>
 <p><strong>Secondary Two: Mathletics Learning Journey</strong>&nbsp;</p>
 <ul>
 <li>
-<p>Students connect mathematical concepts within mathematics and other subjects
-in real-world contexts.&nbsp;</p>
+<p>Encourages students to connect mathematical concepts within and across
+subjects in real-world contexts.</p>
 </li>
 <li>
-<p>Students will complete various tasks in teams.</p>
+<p>Students work in teams to complete a series of hands-on, collaborative
+tasks.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -45,12 +46,12 @@ in real-world contexts.&nbsp;</p>
 </p>
 <ul>
 <li>
-<p>Students delve into the discipline of mathematics, exploring its real-world
-applications at a deeper level.&nbsp;</p>
+<p>Provides students with deeper insight into the real-world applications
+of mathematics.</p>
 </li>
 <li>
-<p>This fosters a greater appreciation for the relevance and importance of
-mathematics in everyday life.</p>
+<p>Enhances appreciation for the relevance and importance of mathematics
+in everyday life.</p>
 </li>
 </ul>
 <p>
@@ -58,60 +59,185 @@ mathematics in everyday life.</p>
 </p>
 <ul>
 <li>
-<p>Students inclined to study mathematics are invited to attend the Math
-Talent Programme.</p>
+<p>Designed for students with strong interest and aptitude in mathematics.</p>
 </li>
 <li>
-<p>Gain more exposure and learn concepts and strategies to solve more complex
-questions beyond the standard school curriculum.</p>
+<p>Offers exposure to advanced concepts and strategies beyond the standard
+curriculum.</p>
 </li>
 <li>
-<p>They will also be able to participate in competitions such as the Singapore
-Mathematical Olympiad or the Singapore and Asian Schools Math Olympiad.</p>
+<p>Participants may take part in competitions such as the Singapore Mathematical
+Olympiad (SMO) and the Singapore and Asian Schools Math Olympiad (SASMO).</p>
 </li>
 </ul>
 <h3><strong>Our Achievements</strong></h3>
-<p><strong>2023 Singapore &amp; Asian Schools Math Olympiad (SASMO)</strong>
+<p><strong>2024 Singapore &amp; Asian Schools Math Olympiad (SASMO)</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Silver Award - Rao Chuqi (3A7)</p>
-</li>
-<li>
-<p>Bronze Award - Enrico Javier Wijaya (3A8)</p>
-</li>
-<li>
-<p>Honorable Mention - Felicia Clarabelle (3A7), Shi Bicheng (4R5), Kynan
-Lin Junzhe (4R7), Lim Yuxuan (4R7)</p>
-</li>
-</ul>
-<p><strong>2023 Singapore Mathematical Olympiad (SMO)&nbsp;</strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gold Award - Wang Zhihan (2H7)</p>
-</li>
-<li>
-<p>Honorable Mention - Fu Xichang (3A8), You Ran (3A8), Lee Ken Ren, Conan
-(3A7), Hua Shengyan (4R7)</p>
-</li>
-</ul>
-<p><strong>2023 All Singapore Secondary Mathematics Competition for Normal Course Students (ASMC)</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name / Class&nbsp;</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1st in Lower Sec (NT) - Du Minyang (2H5)</p>
-</li>
-<li>
-<p>9th in Lower Sec (NA) - Dantasha Tan Si Yu (2H5)&nbsp;</p>
-</li>
-<li>
-<p>4th in Lower Sec (NT) Team Category - Tan Shan Yuan Rebecca (2H3), Du
-Mingyang (2H5) and Aseela Parveen (2H5)</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jin Beirui 3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yang Yihan 3C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rao Chuqi 4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fu Xichang 4H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Su Jixin 4H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gong Yiduo 3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wu Jinze 3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhou Xinchen 3D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>You Ran 4H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Forte Augustinus Riyadi 2C&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2024 Singapore Mathematical Olympiad (SMO)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name / Class&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bao Rong Cheng, Robin 3D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zed Lim Jun Je 4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Zhu Zetong 4H</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Zhihan 3F</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="180px;" width="172px;" src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUeeuw_Pk1wkv9xqQr68F8LWuotm4e-kiTboLIxM9ecXxNfoXMFCt2NdwiLNAtf7HPe9HkkwFaAIcCCHidKAWzHFqNcV4AE6p22irIdIO1GLmrAZQQuVYXbPyUZ4znSt64nVKwRSrj86mEgLNLn-IHYKtrOxgr28=s2048?key=zsTXGgVDWAc4aZ25hKfEgg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/math__gratitude.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gratitude</div>
+<div class="isomer-card-description">Expressing gratitude to our students who have excelled in their tasks
+is not only a gesture of appreciation but also a recognition of their hard
+work and dedication.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/math__respect.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Respect</div>
+<div class="isomer-card-description">Sec 1 student immersed in the Sudoku &amp; Digital Literacy enrichment
+programme — developing critical thinking while learning to respect diverse
+approaches in collaborative problem-solving</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/math___compassion.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Compassion</div>
+<div class="isomer-card-description">Students collaborating during Math Trail — solving problems together while
+showing compassion through encouragement and support for one another’s
+learning.</div>
+</div>
+</div>
 </div>
 <p></p>
