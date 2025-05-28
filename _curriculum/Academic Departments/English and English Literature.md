@@ -19,34 +19,59 @@ skills through an array of engaging activities</p>
 <li>
 <p>Tier 2 (Sec 2): Broadricians to be effective, confident, competent communicators
 of the English Language, who are able to create, connect and contribute</p>
-<hr>
 </li>
 <li>
-<p>Meet the author session (Adeline Foo, author of Monkeying In Malaysia)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="253px;" width="232px;" src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUfcGqS-9qZSDEaH-twVYK35jO757Ua8AAzuuJUh7zEoIvLTgMb3pzVMUqm3mCZPap5hnnuzojF1CxRIv_38l6hmfTIMUDxe-K3t-9yxwmvmzvc5crHDC0RDn89F1p8_JEW4REh3fgj4MuOt4pBstS1fwhL2d-YP=s2048?key=zsTXGgVDWAc4aZ25hKfEgg">
-</div>
-<p><em>Secondary 1 students with </em><strong><em>respectable </em></strong><em>Adeline Foo, author of Monkeying in Malaysia</em>
-<br>
-</p>
+<p>Book Journaling - Monkeying in Malaysia (G2/G3 students) &amp; Lieutenant
+Adnan and The Last Regiment (G1 students)</p>
 </li>
 <li>
-<p>Meet the content creator (Ian Jeevan)&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="331px;" width="483px;" src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUdb4NDFKhTaG4XZ2pvdlq2jtiQPHWh5Dx5f2PPYoGmG-ZJc_OBbX299ZAZAmjME62ziZ4C3SM6_gEE4w2lcZ7WjSkbg5fV_LKDuSV3l0bv_TCE1Bvd2G7p7bPxUL1YzXTq4YZNudNxuZoaCaFcCl_De4NpK38PH=s2048?key=zsTXGgVDWAc4aZ25hKfEgg">
-</div>
-<p><em>Students </em><strong><em>compassionately</em></strong><em> responding to content creator, Ian Jeevan’s, questions&nbsp;&nbsp;</em>
-</p>
-<p></p>
+<p>Meet-the-Author session (Adeline Foo, Author of Monkeying In Malaysia)</p>
 </li>
 <li>
-<p>Nurturing public speakers for the digital world workshop</p>
+<p>Meet-the-Content Creator (Ian Jeevan)&nbsp;</p>
+</li>
+<li>
+<p>Meet-the-Voice Actress (Caitanya)</p>
+</li>
+<li>
+<p>Ted Talk Workshop</p>
 </li>
 </ul>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="244px;" width="316px;" src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUf2w1ofyM4AGzm9t-IVouCoy4Qw7q1eapswzOvY-cUHe5rHpFubaqIMfyo2-SDJtqRwsVNbXX7mvptUF8Oto9GS0R_QmJ_q-e3tHuSkpbEhnnUAvfAGvqsjddo0pEk1qXfcDvNndNZji9EnHBG7k3JilDOZ9KkT=s2048?key=zsTXGgVDWAc4aZ25hKfEgg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/el_grateful1.png">
 </div>
-<p><em>Feed Your Imagination - interactive theatre session. Students showing earnest </em><strong><em>respect</em></strong><em> in the post production dialogue with producer</em>
-</p>
-<h3></h3>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gratitude</div>
+<div class="isomer-card-description">Grateful for the rich conversations with Adeline.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/english_respect.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Respect</div>
+<div class="isomer-card-description">Feed Your Imagination - interactive theatre session. Students showing
+earnest respect in the post-production dialogue with producer.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/english___compassion.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Compassion</div>
+<div class="isomer-card-description">Students compassionately responding to content creator, Ian Jeevan’s,
+questions.</div>
+</div>
+</div>
+</div>
 <p></p>
