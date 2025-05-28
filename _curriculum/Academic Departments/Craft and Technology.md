@@ -18,7 +18,7 @@ practical needs</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>ALP Integration in Design and Technology with Design Thinking</strong>
+<p><strong>    ALP Integration in Design and Technology with Design Thinking</strong>
 </p>
 <ul>
 <li>
@@ -115,7 +115,7 @@ meaningful engagement with art</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>Enrichment Programme on Digital Arts</strong>
+<p><strong>     Enrichment Programme on Digital Arts</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -139,10 +139,7 @@ curriculum</p>
 <p>Includes a museum trip to NAFA and the National Gallery</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/art3.png">
-</div>
-<p><strong>Lower Sec:&nbsp; Collaboration Art x Humanities @ The Straits Gallery</strong>
+<p><strong>    Lower Sec:&nbsp; Collaboration Art x Humanities @ The Straits Gallery</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -157,10 +154,7 @@ connections between artistic expression and scholarly study</p>
 <p>Reflects the school’s commitment to holistic education</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/art1.png">
-</div>
-<p><strong>Singapore Youth Festival 2024</strong>
+<p><strong>    Singapore Youth Festival 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -184,12 +178,6 @@ with the Mountbatten Citizens' Consultative Committee (CCC)</p>
 (POB) across Old Airport Road</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/art2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2024/art11.png">
-</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -229,9 +217,13 @@ walls.</div>
 <p>================================================================</p>
 <h2><strong>Nutrition and Food Science Unit (NFS)</strong></h2>
 <h3><strong>Our Objectives</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>To empower students to make informed decisions as discerning consumers</p>
+</li>
+</ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>Lower Secondary – Supermarket Tour</strong>
+<p><strong>    Lower Secondary – Supermarket Tour</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -241,7 +233,7 @@ walls.</div>
 <p>Learn tips for making economical and healthy food choices</p>
 </li>
 </ul>
-<p><strong>Lower Secondary – In-Vend My Meal!</strong>
+<p><strong>    Lower Secondary – In-Vend My Meal!</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -285,9 +277,6 @@ properties under various conditions</p>
 evaluation room</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/fce4.jpg">
-</div>
 <p><strong>Upper Secondary – Molecular Gastronomy workshop</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -302,9 +291,6 @@ and powderisation using new technologies and natural texturing agents</p>
 <p>Combine knowledge of food science and culinary arts</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/fce5.jpg">
-</div>
 <p><strong>Upper Secondary – Elective Module: Culinary and Pastry &amp; Baking by SHATEC</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -320,7 +306,39 @@ programme</p>
 from renowned establishments</p>
 </li>
 </ul>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/fce6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/fce6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gratitude</div>
+<div class="isomer-card-description">Baking memories and gratitude into every layer.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/fce4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Respect</div>
+<div class="isomer-card-description">Respecting every step of the process, from preparation to presentation.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/fce5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Compassion</div>
+<div class="isomer-card-description">Blending ideas and kindness in every dish.</div>
+</div>
+</div>
 </div>
 <p></p>
