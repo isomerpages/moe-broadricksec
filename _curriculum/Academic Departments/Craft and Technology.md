@@ -18,7 +18,7 @@ practical needs</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>    ALP Integration in Design and Technology with Design Thinking</strong>
+<p><strong>ALP Integration in Design and Technology with Design Thinking</strong>
 </p>
 <ul>
 <li>
@@ -115,7 +115,7 @@ meaningful engagement with art</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>     Enrichment Programme on Digital Arts</strong>
+<p><strong>Enrichment Programme on Digital Arts</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -139,7 +139,7 @@ curriculum</p>
 <p>Includes a museum trip to NAFA and the National Gallery</p>
 </li>
 </ul>
-<p><strong>    Lower Sec:&nbsp; Collaboration Art x Humanities @ The Straits Gallery</strong>
+<p><strong>Lower Sec:&nbsp; Collaboration Art x Humanities @ The Straits Gallery</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -154,7 +154,7 @@ connections between artistic expression and scholarly study</p>
 <p>Reflects the school’s commitment to holistic education</p>
 </li>
 </ul>
-<p><strong>    Singapore Youth Festival 2024</strong>
+<p><strong>Singapore Youth Festival 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -223,7 +223,7 @@ walls.</div>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>    Lower Secondary – Supermarket Tour</strong>
+<p><strong>Lower Secondary – Supermarket Tour</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -233,7 +233,7 @@ walls.</div>
 <p>Learn tips for making economical and healthy food choices</p>
 </li>
 </ul>
-<p><strong>    Lower Secondary – In-Vend My Meal!</strong>
+<p><strong>Lower Secondary – In-Vend My Meal!</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
