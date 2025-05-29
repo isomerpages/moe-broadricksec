@@ -16,9 +16,9 @@ to enjoy a lifetime of active living.&nbsp;</p>
 <img style="width: 100%" height="89px;" width="647px;" src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUci07TclT4wuB4EgSZ8NMmhEPg0QS-xBxMazl0Ai0DXdrq6ptar3Ok-I0KlIbaE93dQhH3smfy7M3mwc6LGYzAIPowzCgsbXkqAS--NQMZ1i1OlP_xIuXcKIeTfKomJFIqXinKdbinV596nA7Fn-gWO-X3FBiQ6=s2048?key=zsTXGgVDWAc4aZ25hKfEgg">
 </div>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>    Health Run&nbsp;</strong>
+<p><strong>Health Run&nbsp;</strong>
 </p>
-<p><strong>    Outdoor Education&nbsp;</strong>
+<p><strong>Outdoor Education&nbsp;</strong>
 </p>
 <ul>
 <li>
