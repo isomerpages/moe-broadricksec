@@ -39,7 +39,6 @@ to enjoy a lifetime of active living.&nbsp;</p>
 </p>
 </li>
 </ul>
-<h3><strong>Our Achievements</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
