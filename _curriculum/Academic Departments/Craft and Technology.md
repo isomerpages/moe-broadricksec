@@ -10,7 +10,7 @@ third_nav_title: Academic Departments
 <ul>
 <li>
 <p>To investigate real-life issues by empathising with users, identifying
-design needs, and exploring opportunities through thorough research.&nbsp;</p>
+design needs, and exploring opportunities through thorough research</p>
 </li>
 <li>
 <p>To create and test prototypes to ensure their designs effectively address
@@ -18,18 +18,18 @@ practical needs</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>ALP Integration in Design and Technology with Design Thinking</strong>
+<p><strong>    ALP Integration in Design and Technology with Design          Thinking</strong>
 </p>
 <ul>
 <li>
-<p>Engage in hands-on learning beyond theoretical studies.&nbsp;</p>
+<p>Engage in hands-on learning beyond theoretical studies</p>
 </li>
 <li>
 <p>Apply the Design Thinking Process (DTP) Model, integrated within the school's
-Applied Learning Programme (ALP).&nbsp;&nbsp;</p>
+Applied Learning Programme (ALP)</p>
 </li>
 <li>
-<p>Generate and refine solutions, using mock-ups to perfect their designs.</p>
+<p>Generate and refine solutions, using mock-ups to perfect their designs</p>
 <p></p>
 <p><strong>Collaborative Learning Event: Exploring D&amp;T at East Zone Excellence</strong>
 </p>
@@ -38,7 +38,7 @@ Applied Learning Programme (ALP).&nbsp;&nbsp;</p>
 <ul>
 <li>
 <p>Exchange ideas and deepen understanding of the Design and Technology programme
-through exhibition showcases with various schools.</p>
+through exhibition showcases with various schools</p>
 <p></p>
 <p><strong>Empowering Primary School Partners through Design Thinking</strong>
 </p>
@@ -47,14 +47,14 @@ through exhibition showcases with various schools.</p>
 <ul>
 <li>
 <p>Upper Secondary students mentor Primary 5 students from Haig Girls Primary
-School&nbsp;</p>
+School</p>
 </li>
 <li>
 <p>Aims to help them apply the Design Thinking Process (DTP) model to identify
-and solve challenges in their environment.&nbsp;</p>
+and solve challenges in their environment</p>
 </li>
 <li>
-<p>Encourage collaborative group work.</p>
+<p>Encourage collaborative group work</p>
 </li>
 </ul>
 <div class="isomer-card-grid">
@@ -159,7 +159,7 @@ connections between artistic expression and scholarly study</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students create and submit quality artworks for national competitions
-using their knowledge of different art mediums.</p>
+using their knowledge of different art mediums</p>
 <p></p>
 <p><strong>Art Decal on Overhead Bridge at Old Airport Road</strong>
 </p>
