@@ -18,7 +18,7 @@ practical needs</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>    ALP Integration in Design and Technology with Design          Thinking</strong>
+<p><strong>ALP Integration in Design and Technology with Design Thinking</strong>
 </p>
 <ul>
 <li>
