@@ -43,7 +43,6 @@ growth and interest in the Humanities.&nbsp;</p>
 <p>NUS Geography Challenge&nbsp; - Certificate of Participation&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
