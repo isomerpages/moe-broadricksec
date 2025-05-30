@@ -6,9 +6,13 @@ variant: tiptap
 third_nav_title: Academic Departments
 ---
 <h3><strong>Our Objectives</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>ExC<sup>3</sup>ITe</strong>: To encourage Broadricians to become <strong>e</strong>ffective, <strong>c</strong>onfident, <strong>c</strong>ompetent <strong>c</strong>ommunicators;
 and <strong>i</strong>nnovative, <strong>t</strong>echnologically-savvy critical
 thinkers of the <strong>E</strong>nglish Language</p>
+</li>
+</ul>
 <h3><strong>Our Programmes</strong></h3>
 <h4><strong>ENG-fluencers&nbsp;</strong></h4>
 <ul>
