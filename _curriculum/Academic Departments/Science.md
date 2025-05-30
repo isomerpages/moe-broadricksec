@@ -17,7 +17,7 @@ scientific literacy through reflective and innovative teaching.</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>Secondary 1 and 2: Code for Fun Programme</strong>
+<p><strong>    Secondary 1 and 2: Code for Fun Programme</strong>
 </p>
 <ul>
 <li>
@@ -32,7 +32,7 @@ and digital making.</p>
 a sustainable future.</p>
 </li>
 </ul>
-<p><strong>Secondary 3: Young Sustainability Champion Mentoring Programme</strong>
+<p><strong>    Secondary 3: Young Sustainability Champion Mentoring      Programme</strong>
 </p>
 <ul>
 <li>
@@ -46,7 +46,7 @@ a sustainable future.</p>
 innovation.</p>
 </li>
 </ul>
-<p><strong>Knowledge Building Design Studio</strong>
+<p><strong>    Knowledge Building Design Studio</strong>
 </p>
 <ul>
 <li>
