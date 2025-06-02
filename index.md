@@ -33,6 +33,15 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 N-Level Preliminary Examination Timetable
+          date: 02 June 2025
+          announcement: Dear Parents/Guardians, the N-Level Preliminary Examination
+            Timetable for Sec 4/5 students is now available on the school
+            website and has been sent via Parents Gateway. We encourage you to
+            review it with your child and support them in using the June
+            holidays for revision.
+          link_text: CLICK HERE
+          link_url: https://drive.google.com/file/d/1pNwzhkBd2HiaXR0lfpB_u3-6yn0fltK0/view?usp=sharing
         - title: 2025 Direct School Admission (DSA)
           date: 07 May 2025
           announcement: Find out more about our talent areas and selection criteria for
