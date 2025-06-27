@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Students/.keep
+      - Students/2025 Class Timetable.md
       - Students/2025 Student Handbook.md
       - Students/2025 Classroom Allocation.md
-      - Students/2025 Class Timetable.md
       - Students/Assessment Schedule.md
       - Students/Holiday Academic Programme (HAP) Timetable.md
       - Students/Sec 1 SBB and Sec 3 Bridging Programme.md
