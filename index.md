@@ -33,6 +33,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 Semester 2 Timetable
+          date: 27 June 2025
+          announcement: Please be informed that the 2025 Semester 2 Timetable is now
+            available.  You may access the timetable using the link below. We
+            encourage all students to check their timetable carefully and be
+            prepared for the new semester starting.
+          link_text: CLICK HERE
+          link_url: https://www.broadricksec.moe.edu.sg/links/students/2025-class-time-table/
         - title: 2025 N-Level Preliminary Examination Timetable
           date: 02 June 2025
           announcement: Dear Parents/Guardians, the N-Level Preliminary Examination
