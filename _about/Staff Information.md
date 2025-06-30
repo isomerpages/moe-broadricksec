@@ -265,6 +265,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <h4><strong>Our Teacher Leaders</strong></h4>
 </th>
@@ -313,7 +321,7 @@ variant: tiptap
 <p><strong>ST Mathematics</strong> 
 <br>
 <br>Mdm Ang Sock Kiang
-<br><a href="mailto:ang_sock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sock_kiang@moe.edu.sg</a> 
+<br><a href="mailto:ang_sock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sock_kiang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -715,8 +723,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br><strong>5A</strong>
+<p><strong>5A</strong>
 </p>
 <p></p>
 <p>Mrs Candy Chua</p>
@@ -818,7 +825,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liu Siew Lee</p>
+<p><a href="mailto:liu_siew_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_siew_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yosef Effendy</p>
+<p><a href="mailto:yosef_effendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yosef_effendy@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Siva</p>
 </td>
 </tr>
 </tbody>
