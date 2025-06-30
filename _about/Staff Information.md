@@ -282,11 +282,29 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>ST Additional Mathematics</strong>
+</p>
+<p>
+<br>Mr Mohd Akram B Hj Abdul Latiff
+<br><a href="mailto:akram_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">akram_latiff@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ST Biology</strong>
 </p>
 <p>
 <br>Mdm Lalitha Jothinathan</p>
 <p><a href="mailto:lalitha_jothinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lalitha_jothinathan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Educational Support</strong>
+</p>
+<p></p>
+<p>Mr Mok Chan Thong</p>
+<p><a href="mailto:mok_chan_thong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mok_chan_thong@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -296,9 +314,6 @@ variant: tiptap
 <br>
 <br>Mdm Ang Sock Kiang
 <br><a href="mailto:ang_sock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sock_kiang@moe.edu.sg</a> 
-<br>
-<br>Mr Mohd Akram B Hj Abdul Latiff
-<br><a href="mailto:akram_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">akram_latiff@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
