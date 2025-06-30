@@ -313,7 +313,7 @@ variant: tiptap
 <p><strong>ST Mathematics</strong> 
 <br>
 <br>Mdm Ang Sock Kiang
-<br><a href="mailto:ang_sock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sock_kiang@moe.edu.sg</a> 
+<br><a href="mailto:ang_sock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sock_kiang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -818,7 +818,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liu Siew Lee</p>
+<p><a href="mailto:liu_siew_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_siew_lee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
