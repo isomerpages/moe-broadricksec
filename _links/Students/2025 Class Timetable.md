@@ -6,8 +6,7 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3><strong>2025 Semester 2 Timetable</strong></h3>
-<p><a href="/files/2025_SEM2_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Sem</a>
-<a href="/files/Time Table/2025_SEM2_Sec_1.pdf" rel="noopener nofollow" target="_blank"></a><a href="/files/2025_SEM2_Sec_1.pdf" rel="noopener nofollow" target="_blank">2 2025</a>
+<p><a href="/files/2025_SEM2_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Sem2 2025</a>
 </p>
 <p><a href="/files/Time Table/2025_SEM2_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Sem 2 2025</a>
 </p>
