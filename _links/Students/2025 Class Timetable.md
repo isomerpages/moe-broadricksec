@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_SEM2__Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Sem 2 2025</a>
 </p>
-<p><a href="/files/2025_SEM2_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Sem 2 2025</a>
+<p><a href="/files/Time Table/2025_SEM2_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Sem 2 2025</a>
 </p>
 <p><a href="/files/2025_SEM2_FINAL_MASTER_6days_Classes.pdf" rel="noopener nofollow" target="_blank">Special Timetable Sem 2 2025 (Special Class Timetable due to National Orals Exam)</a>
 </p>
