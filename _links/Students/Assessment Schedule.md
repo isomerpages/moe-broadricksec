@@ -17,5 +17,5 @@ variant: tiptap
 <p></p>
 <p><a href="/files/Assessment/Sec_4N_Prelim_Exam_TT_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4N Prelims (N-level)</a>
 </p>
-<p><a href="/files/Assessment/Sec_4E5N_Prelim_Exam_TT_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E5N Prelims (O-level)</a>
+<p><a href="/files/Broadrick_Sec_4___5_O_Prelim_Exam_TT_2025_version_4_dd_18_Jul.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 Prelims (O Levels)</a>
 </p>
