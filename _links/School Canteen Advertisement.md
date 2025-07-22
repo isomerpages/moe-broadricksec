@@ -8,9 +8,8 @@ variant: markdown
 | -------- | -------- | -------- |
 | Halal Cuisine (Noodle/Rice)    | 31 Oct 2025    | Nasi Padang, Noodles, etc    |
 | Halal Cuisine (Noodle/Rice)    | 31 Oct 2025    | Nasi Padang, Noodles, etc    |
-| Vegetarian Food (Halal/Non-Halal    | 31 Oct 2025    | Vegetarian Food    |
-| Others (Halal, Open to Proposal    | 31 Oct 2025    | Indian Cuisine, including Vegetarian Food    |
-| Others (Non-Halal, Open to Proposal    | 31 Oct 2025    | Korean / Thai (Halal / Non-Halal    |
+| Others (Halal, Open to Proposal)    | 31 Oct 2025    | Indian Cuisine, including Vegetarian Food    |
+
 
 #### Application Procedure
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>[Application Form](/files/formbf7_application_for_canteen_stall.pdf)
