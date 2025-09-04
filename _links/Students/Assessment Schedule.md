@@ -19,5 +19,5 @@ variant: tiptap
 </p>
 <p><a href="/files/Assessment/2025_Broadrick_Sec_2_EOY_Exam_dd_26_Aug.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY</a>
 </p>
-<p><a href="/files/Assessment/2025_Broadrick_Sec_3_EOY_Exam_dd_26_Aug.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY</a>
+<p><a href="/files/Assessment/2025_Broadrick_Sec_3_EOY_Exam_Ver_2_dd_28_Aug.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY</a>
 </p>
