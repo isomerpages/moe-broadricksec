@@ -494,6 +494,9 @@ variant: tiptap
 <p><a href="mailto:jseow_yongzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_yongzhi@moe.edu.sg</a>
 <br>
 </p>
+<p>Mdm Dewi Juriah Bte Sudirman</p>
+<p>Dewi Juriah Bte Sudirman <a href="mailto:dewi_juriah_sudirman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dewi_juriah_sudirman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -532,10 +535,6 @@ variant: tiptap
 <br>Mr Darren Chin Jia Wei
 <br><a href="mailto:darren_chin_jia_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">darren_chin_jia_wei@moe.edu.sg</a>
 </p>
-<p></p>
-<p>Ms Yeo Li Shan</p>
-<p><a href="mailto:yeo_li_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_shan@moe.edu.sg</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2F</strong> 
@@ -547,6 +546,10 @@ variant: tiptap
 <p></p>
 <p>Ms Joanne Ler Shu Ting</p>
 <p><a href="mailto:joanne_ler_shu_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_ler_shu_ting@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Tang Lit Ting</p>
+<p>Tang Lit ting <a href="mailto:tang_lit_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_lit_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -590,6 +593,10 @@ variant: tiptap
 </p>
 <p>Mdm Gou Xiaojuan</p>
 <p><a href="mailto:gou_xiaojuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gou_xiaojuan@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Yeo Li Shan</p>
+<p><a href="mailto:yeo_li_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
