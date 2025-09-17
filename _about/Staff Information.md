@@ -549,7 +549,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Ms Tang Lit Ting</p>
-<p>Tang Lit ting <a href="mailto:tang_lit_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_lit_ting@moe.edu.sg</a>
+<p><a href="mailto:tang_lit_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_lit_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
