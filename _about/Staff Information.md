@@ -495,7 +495,7 @@ variant: tiptap
 <br>
 </p>
 <p>Mdm Dewi Juriah Bte Sudirman</p>
-<p>Dewi Juriah Bte Sudirman <a href="mailto:dewi_juriah_sudirman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dewi_juriah_sudirman@moe.edu.sg</a>
+<p><a href="mailto:dewi_juriah_sudirman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dewi_juriah_sudirman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
