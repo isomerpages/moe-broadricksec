@@ -21,3 +21,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Assessment/2025_Broadrick_Sec_3_EOY_Exam_Ver_2_dd_28_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EOY</a>
 </p>
+<hr>
+<h3>EOY Script Check</h3>
+<p></p>
+<p></p>
