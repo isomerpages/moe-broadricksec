@@ -23,5 +23,9 @@ variant: tiptap
 </p>
 <hr>
 <h3>EOY Script Check</h3>
-<p></p>
-<p></p>
+<p><a href="/files/Assessment/2025_SCRIPTCHECK_Classes__Sec_1_.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Script Check timetable</a>
+</p>
+<p><a href="/files/Assessment/2025_SCRIPTCHECK_Classes__Sec_2_.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Script Check timetable</a>
+</p>
+<p><a href="/files/Assessment/2025_SCRIPTCHECK_Classes__Sec_3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Script Check timetable</a>
+</p>
