@@ -10,7 +10,7 @@ third_nav_title: Students
 </p>
 <p><a href="/files/Time Table/2025/2025_SEM_2_ELE_WEEK_Sec2.pdf" rel="noopener nofollow" target="_blank">Sec 2 GRC Celebration Week Timetable</a>
 </p>
-<p><a href="/files/Time Table/2025/2025_SEM_2_ELE_WEEK_Sec3.pdf" rel="noopener nofollow" target="_blank">Sec 1 GRC Celebration Week Timetable</a>
+<p><a href="/files/Time Table/2025/2025_SEM_2_ELE_WEEK_Sec3.pdf" rel="noopener nofollow" target="_blank">Sec 3 GRC Celebration Week Timetable</a>
 </p>
 <hr>
 <p></p>
