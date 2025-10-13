@@ -14,7 +14,8 @@ b)	For students who want to switch subject combination, please click on this lin
 
 Term 4 Week 8 3 Nov: Confirmation of Subject Combination Results
 a)	The final subject allocation will be sent to your icon email on 3 Nov 2025. 
-b)	More information on the various subjects and the subject criteria can be found in the following link: https://for.edu.sg/2026subjcombination 
+b)	More information on the various subjects and the subject criteria can be found in the following link: <br>
+[https://for.edu.sg/2026subjcombination ](https://for.edu.sg/2026subjcombination )
 
 For enquiries, please contact:
 HOD Science / Mr Foo Siang Keng (foo_siang_keng@moe.edu.sg) 
