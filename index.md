@@ -20,12 +20,12 @@ sections:
         - title: 2025 Direct School Admission (DSA)
           description: CLICK HERE
           url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
-        - title: A Day in a life of a broadrician
-          description: FOLLOW US ON INSTAGRAM HERE
-          url: https://www.instagram.com/broadricksec_official
         - title: 2025 E-Student Handbook
           description: CLICK HERE
           url: https://online.flippingbook.com/view/116838550/
+        - title: 2025 Outreach Brochure
+          description: Click Here
+          url: https://online.flippingbook.com/view/250177530/2/
       subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
