@@ -60,7 +60,7 @@ experiences.</p>
 </tbody>
 </table>
 <h3><strong>Our Achievements</strong></h3>
-<p><strong>Chinese Language Unit </strong>
+<p><strong>Chinese Language Unit</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -82,18 +82,59 @@ experiences.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Awe-Inspiring Virtue and Ocean of Wisdom” National Pen Calligraphy competition 威德智硬笔书法比赛</strong>
 </p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Merit Award (Individual) – 1 recipient</p>
+</li>
+</ul>
 <p></p>
 <p><strong>National Chinese Challenge&nbsp; 全国华文大比拼</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>团体 （全国六强）4 recipients&nbsp; &nbsp;</p>
+<p>团体 （全国六强）4 recipients (Top 6 Nationally)&nbsp; &nbsp;</p>
 </li>
 <li>
-<p>个人优异奖（全国前30）3 recipients</p>
+<p>个人优异奖（全国前30）3 recipients (Top 30 Nationally)</p>
 </li>
 </ul>
+<p></p>
+<p><strong>National Chinese Riddle Competition 年全国中学生灯谜比赛</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4th Position / Merit Award (Group) – 3 recipients</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Xin Lei Jiang” – 23rd National Secondary School Chinese Creative Writing Competition</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2nd Prize (Essay Writing Category) – 1 recipient</p>
+</li>
+</ul>
+<p></p>
+<p><strong>8th National Chinese Text Recital Competition</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Champion – 1 recipient</p>
+</li>
+<li>
+<p>1st Runner-up – 1 recipient</p>
+</li>
+<li>
+<p>Gold Award – 2 recipients</p>
+</li>
+<li>
+<p>Silver Award – 3 recipients</p>
+</li>
+<li>
+<p>Bronze Award – 1 recipient</p>
+</li>
+</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Awe-Inspiring Virtue and Ocean of Wisdom” National Pen Calligraphy competition 威德智硬笔书法比赛</strong>
@@ -111,7 +152,6 @@ experiences.</p>
 <p>Merit Award: 4 recipients</p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <p></p>
 <p><strong>National Chinese Riddle Competition 年全国中学生灯谜比赛</strong>
@@ -150,7 +190,7 @@ experiences.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Malay Language Unit </strong>
+<p><strong>Malay Language Unit</strong>
 </p>
 <p><strong>Quiz Competition organized by Malay Language Units from E5 Cluster Secondary Schools</strong>
 </p>
@@ -159,7 +199,7 @@ experiences.</p>
 <p>1st Place: 2 recipients</p>
 </li>
 </ul>
-<p>&nbsp;<strong>Tamil Language Unit </strong>
+<p>&nbsp;<strong>Tamil Language Unit</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
