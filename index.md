@@ -23,8 +23,8 @@ sections:
         - title: 2025 E-Student Handbook
           description: CLICK HERE
           url: https://online.flippingbook.com/view/116838550/
-        - title: 2025 Outreach Brochure
-          description: Click Here
+        - title: 2025 OPEN HOUSE BROCHURE
+          description: CLICK HERE
           url: https://online.flippingbook.com/view/250177530/2/
       subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
