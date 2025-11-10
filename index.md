@@ -6,12 +6,11 @@ description: A Choice School Providing Holistic Education || Nurturing
   Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: Keep up with our School Activities - Follow us on IG ||
-  @broadricksec_official & broadricksec_goodvibesonly
+notification: ""
 sections:
   - hero:
-      background: /images/Copy_of_My_Project__2_.gif
-      variant: floating
+      background: /images/2025_Open_House.jpg
+      variant: image
       backgroundColor: gray
       title: Broadrick Secondary School
       size: md
@@ -23,8 +22,8 @@ sections:
         - title: 2025 E-Student Handbook
           description: CLICK HERE
           url: https://online.flippingbook.com/view/116838550/
-        - title: 2025 Outreach Brochure
-          description: Click Here
+        - title: 2025 OPEN HOUSE BROCHURE
+          description: CLICK HERE
           url: https://online.flippingbook.com/view/250177530/2/
       subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
