@@ -10,21 +10,24 @@ notification: ""
 sections:
   - hero:
       background: /images/2025_Open_House.jpg
-      variant: image
+      variant: floating
       backgroundColor: gray
       title: Broadrick Secondary School
       size: md
       alignment: left
       key_highlights:
-        - title: 2025 Direct School Admission (DSA)
+        - title: 2025 OPEN HOUSE PAMPHLET
           description: CLICK HERE
-          url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
+          url: https://online.flippingbook.com/view/250177530/2/
+        - title: OUR SOCIAL MEDIA
+          description: CLICK HERE
+          url: https://www.instagram.com/broadricksec_official
         - title: 2025 E-Student Handbook
           description: CLICK HERE
           url: https://online.flippingbook.com/view/116838550/
-        - title: 2025 OPEN HOUSE BROCHURE
+        - title: 2025 Direct School Admission (DSA)
           description: CLICK HERE
-          url: https://online.flippingbook.com/view/250177530/2/
+          url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
       subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
@@ -32,6 +35,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 Open House (22 November)
+          date: 10 November 2025
+          announcement: At Broadrick, we grow character, confidence, and curiosity. Come
+            see how we learn and lead with GRC. Open House — 22 Nov 2025 (9:00
+            am - 12:00 pm)
+          link_text: CLICK HERE (TO VIEW OUR OPEN HOUSE PAMPHLET)
+          link_url: https://online.flippingbook.com/view/250177530/
         - title: 2025 Semester 2 Timetable
           date: 27 June 2025
           announcement: Please be informed that the 2025 Semester 2 Timetable is now
@@ -40,15 +50,6 @@ sections:
             prepared for the new semester starting.
           link_text: CLICK HERE
           link_url: https://www.broadricksec.moe.edu.sg/links/students/2025-class-time-table/
-        - title: 2025 N-Level Preliminary Examination Timetable
-          date: 02 June 2025
-          announcement: Dear Parents/Guardians, the N-Level Preliminary Examination
-            Timetable for Sec 4/5 students is now available on the school
-            website and has been sent via Parents Gateway. We encourage you to
-            review it with your child and support them in using the June
-            holidays for revision.
-          link_text: CLICK HERE
-          link_url: https://drive.google.com/file/d/1pNwzhkBd2HiaXR0lfpB_u3-6yn0fltK0/view?usp=sharing
         - title: 2025 Direct School Admission (DSA)
           date: 07 May 2025
           announcement: Find out more about our talent areas and selection criteria for
