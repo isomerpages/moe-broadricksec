@@ -6,12 +6,11 @@ description: A Choice School Providing Holistic Education || Nurturing
   Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: Keep up with our School Activities - Follow us on IG ||
-  @broadricksec_official & broadricksec_goodvibesonly
+notification: ""
 sections:
   - hero:
-      background: /images/Copy_of_My_Project__2_.gif
-      variant: floating
+      background: /images/2025_Open_House.jpg
+      variant: image
       backgroundColor: gray
       title: Broadrick Secondary School
       size: md
