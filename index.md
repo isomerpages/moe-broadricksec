@@ -6,7 +6,8 @@ description: A Choice School Providing Holistic Education || Nurturing
   Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: ""
+notification: "Be Future-Ready. Be Values-Driven. Be a Broadrician. Visit us at
+  our Open House on 22 Nov 2025. 🌱 #GRCeducation #havefunwhiledoinggood #2:168"
 sections:
   - hero:
       background: /images/2025_Open_House.jpg
