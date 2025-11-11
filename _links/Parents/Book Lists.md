@@ -78,5 +78,5 @@ variant: tiptap
 <p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_5_purple.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 5 Booklist</a>
 </p>
 <p></p>
-<h4>FAS Collection : To be Adviced</h4>
+<h4>FAS Collection : To be informed at a later date.</h4>
 <p></p>
