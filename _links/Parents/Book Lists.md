@@ -69,16 +69,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 School Booklist 2025</a>
+<p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_2_rose_revised.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Booklist</a>
 </p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 School Booklist 2025</a>
+<p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_3_peach.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Booklist</a>
 </p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 School Booklist 2025</a>
+<p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_4_green_REVISED.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 Booklist</a>
 </p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_4.pdf" rel="noopener nofollow" target="_blank">Sec 4 School Booklist 2025</a>
-</p>
-<p><a href="/files/Booklist/2025/Broadrick_Secondary_2025_Sec_5.pdf" rel="noopener nofollow" target="_blank">Sec 5 School Booklist 2025</a>
+<p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_5_purple.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 5 Booklist</a>
 </p>
 <p></p>
-<h4>FAS Collection : 2-6 December 2024</h4>
+<h4>FAS Collection : To be Adviced</h4>
 <p></p>
