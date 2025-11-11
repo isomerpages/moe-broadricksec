@@ -80,3 +80,5 @@ variant: tiptap
 <p></p>
 <p><strong><em>To download, right-click on the file and choose Save Target As or Save Link As (updated 11 November 2025)</em></strong>
 </p>
+<h4>FAS Collection : To be informed at a later date.</h4>
+<p></p>
