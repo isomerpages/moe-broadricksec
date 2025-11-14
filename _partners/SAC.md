@@ -2,7 +2,8 @@
 title: SAC
 permalink: /partners/sac/
 description: ""
+variant: markdown
 ---
 **School Advisory Committee**
 
-![](/images/SlideSAC.jpeg)
+![](/images/SAC/Slide2.jpg)
