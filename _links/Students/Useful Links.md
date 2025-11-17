@@ -103,6 +103,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PFP Application</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DPP Application</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
