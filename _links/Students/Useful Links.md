@@ -6,15 +6,67 @@ third_nav_title: Students
 variant: tiptap
 ---
 <p></p>
-<h3><strong>Useful links</strong></h3>
-<ol>
-<li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+<h3><strong>Useful Links</strong></h3>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Site</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Google Calendar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://calendar.google.com/" rel="noopener noreferrer nofollow" target="_blank">https://calendar.google.com/</a>
 </p>
-</li>
-<li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">My Skillsfuture - Secondary</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Google Classroom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://classroom.google.com/" rel="noopener noreferrer nofollow" target="_blank">https://classroom.google.com/</a>
 </p>
-</li>
-</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MySkillsFuture</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.sg/secondary</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student iCON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
