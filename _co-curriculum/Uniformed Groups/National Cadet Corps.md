@@ -123,34 +123,6 @@ Championship</p>
 <p>Accomplishment</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unit Recognition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2022</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unit Recognition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
