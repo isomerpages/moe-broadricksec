@@ -4,9 +4,8 @@ permalink: /distinctive-programmes/applied-learning-programme/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Sustainability in Broadrick</strong></h4>
-<p><strong>Objective:</strong>
-</p>
+<h3><strong>Sustainability in Broadrick</strong></h3>
+<h3><strong>Our Objectives:</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Equip students with essential skills and mindset to become innovative
@@ -44,13 +43,18 @@ schools).</p>
 <p>Selected to represent the school in <strong>external programmes and competitions</strong>,
 including:
 <br>
-<br><strong>Young Scientists Sustainability Championship<br><br></strong>
 </p>
+</li>
+<li>
+<p><strong>Young Scientists Sustainability Championship</strong>
+</p>
+</li>
+<li>
 <p><strong>NIE/NTU Knowledge Building Design Studio Programme</strong>
 </p>
 </li>
 </ul>
-<h5>Programme Design</h5>
+<h3>Programme Design</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/ALP.png">
 </div>
