@@ -9,16 +9,8 @@ variant: tiptap
 <p>Wednesday 3.00pm - 4.30pm
 <br>Friday 2.00pm - 5.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>[IC] Ms Hafizah
-<br>
-</p>
-</li>
-<li>
-<p>Mr Michael Foong</p>
-</li>
-</ul>
+<br>Mr Michael Foong</p>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
@@ -31,9 +23,8 @@ teamwork.&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -43,9 +34,6 @@ teamwork.&nbsp;</p>
 <p>2024</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2023</p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
 </th>
 </tr>
@@ -53,10 +41,6 @@ teamwork.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>East Zone Robotics Challenge
 <br>VEX Robotics Challenge&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>East Zone Robotics Challenge
-<br>VEX Robotics Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -103,31 +87,8 @@ teamwork.&nbsp;</p>
 <p>Fourth place and Judges Award</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2022</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>East Zone Robotics Challenge&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VEX Robotics Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Judges Award</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
