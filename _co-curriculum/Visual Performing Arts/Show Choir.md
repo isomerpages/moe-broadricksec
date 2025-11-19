@@ -6,40 +6,14 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday 3.15pm - 5.15pm</p>
-</li>
-<li>
-<p>Wednesday 3.15pm - 4.15pm (on specific Wednesdays)
-<br>
-</p>
-</li>
-<li>
-<p>Friday 2.00pm - 4.00pm</p>
-</li>
-</ul>
+<p>Monday 3.15pm - 5.15pm
+<br>Wednesday 3.15pm - 4.15pm (on specific Wednesdays)
+<br>Friday 2.00pm - 4.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>[IC] Ms Liu Siew Lee&nbsp;
-<br>
-</p>
-</li>
-<li>
-<p>[IC] Ms Chantel Tan&nbsp;
-<br>
-</p>
-</li>
-<li>
-<p>Mdm Wang Huali
-<br>
-</p>
-</li>
-<li>
-<p>Ms Chloe Phua</p>
-</li>
-</ul>
+<br>[IC] Ms Chantel Tan&nbsp;
+<br>Mdm Wang Huali
+<br>Ms Chloe Phua</p>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
@@ -124,6 +98,23 @@ and experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B-dazzled Music &amp; Dance Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diamond Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
 </td>
@@ -139,37 +130,8 @@ and experiences.&nbsp;</p>
 <p>Platinum Award</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-dazzled Music &amp; Dance Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Platinum Award, Best Vocals Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2022</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-dazzled Music &amp; Dance Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Platinum Award</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
