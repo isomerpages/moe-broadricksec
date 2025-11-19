@@ -108,37 +108,8 @@ talents and develop their appreciation for music.&nbsp;</p>
 <p>Distinction</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2022</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore International Band Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
