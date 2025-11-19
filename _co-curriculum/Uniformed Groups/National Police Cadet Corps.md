@@ -68,6 +68,7 @@ Duty, .22 Shooting Competition, St. Patrick’s School Football 7s</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -140,40 +141,6 @@ Duty, .22 Shooting Competition, St. Patrick’s School Football 7s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7th Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 </tbody>

@@ -161,16 +161,15 @@ skills, leadership and citizenship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 Puan Noor Aishah Award</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p></p>
 </td>
 </tr>
 </tbody>
