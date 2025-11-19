@@ -7,15 +7,12 @@ variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
 <p>Wednesday 3.00pm - 4.30pm [Cadet Leaders Planning]
-<br>Friday 2.30pm - 5.30pm
-<br>
-</p>
+<br>Friday 2.30pm - 5.30pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Ms Lynn Wu Jieru
-<br>[IC] Ms Leng Yi Ling
+<p>[IC] Ms Leng Yi Ling
+<br>[IC] Ms Lynn Wu Jieru
 <br>Mr Chua Pheck Leng Jude Thadeus
-<br>
-</p>
+<br>Ms Caitlyn Szeto</p>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
@@ -27,66 +24,63 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 </li>
 <li>
 <p>To be adaptable, resilient and confident team players.</p>
-<p></p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2023</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>World Red Cross Day&nbsp;</p>
-</li>
-<li>
-<p>Smoke Free Ambassador Programme&nbsp;</p>
-</li>
-<li>
-<p>Combined UG Camp</p>
-</li>
-<li>
-<p>Sustainable Kids Market&nbsp;</p>
-</li>
-<li>
 <p>Basic First Aid Workshop</p>
 </li>
 <li>
-<p>Drone Workshop</p>
+<p>Combined UG Camp 2025</p>
+</li>
+<li>
+<p>UG Social Media Competition</p>
+</li>
+<li>
+<p>World Red Cross Day</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>World Red Cross Day&nbsp;</p>
-</li>
-<li>
-<p>Smoke Free Ambassador Programme&nbsp;</p>
-</li>
-<li>
 <p>Basic First Aid Workshop</p>
 </li>
+<li>
+<p>Combined UG Camp 2024</p>
+</li>
+<li>
+<p>Drone Workshop</p>
+</li>
+<li>
+<p>Smoke Free Ambassador Programme</p>
+</li>
+<li>
+<p>Sustainable Kids Market</p>
+</li>
+<li>
+<p>World Red Cross Day</p>
+</li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -106,6 +100,31 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Position</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Competition (Junior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Competition (Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -131,12 +150,6 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>RCY Excellent Unit Award</p>
 </td>
@@ -146,7 +159,6 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
