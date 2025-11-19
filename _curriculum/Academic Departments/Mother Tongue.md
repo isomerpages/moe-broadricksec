@@ -74,22 +74,26 @@ experiences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Awe-Inspiring Virtue and Ocean of Wisdom” National Pen Calligraphy competition 威德智硬笔书法比赛</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+<p>Awe-Inspiring Virtue and Ocean of Wisdom National Pen Calligraphy competition
+威德智硬笔书法比赛</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Merit Award (Individual) – 1 recipient</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Challenge&nbsp; 全国华文大比拼</p>
 <p></p>
-<p><strong>National Chinese Challenge&nbsp; 全国华文大比拼</strong>
-</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>团体 （全国六强）4 recipients (Top 6 Nationally)&nbsp; &nbsp;</p>
@@ -98,25 +102,32 @@ experiences.</p>
 <p>个人优异奖（全国前30）3 recipients (Top 30 Nationally)</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Riddle Competition 年全国中学生灯谜比赛</p>
 <p></p>
-<p><strong>National Chinese Riddle Competition 年全国中学生灯谜比赛</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+<td rowspan="1" colspan="1">
 <p>4th Position / Merit Award (Group) – 3 recipients</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Xin Lei Jiang” – 23rd National Secondary School Chinese Creative Writing Competition</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xin Lei Jiang – 23rd National Secondary School Chinese Creative Writing
+Competition</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2nd Prize (Essay Writing Category) – 1 recipient</p>
-</li>
-</ul>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>8th National Chinese Text Recital Competition</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>National Champion – 1 recipient</p>
@@ -134,36 +145,47 @@ experiences.</p>
 <p>Bronze Award – 1 recipient</p>
 </li>
 </ul>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Awe-Inspiring Virtue and Ocean of Wisdom” National Pen Calligraphy competition 威德智硬笔书法比赛</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Merit Award: 2 recipients</p>
-</li>
-</ul>
 <p></p>
-<p><strong>National Chinese Challenge 全国华文大比拼</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Awe-Inspiring Virtue and Ocean of Wisdom National Pen Calligraphy competition
+威德智硬笔书法比赛</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Merit Award: 4 recipients</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p><strong>National Chinese Riddle Competition 年全国中学生灯谜比赛</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Riddle Competition 年全国中学生灯谜比赛</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3rd Placing</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Seventh National Secondary Schools Chinese Mini Fiction Creative Writing
+Competition</p>
 <p></p>
-<p><strong>The Seventh National Secondary Schools Chinese Mini Fiction Creative Writing Competition</strong>
-</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
 <p>Gold Award：1 recipients&nbsp;&nbsp;</p>
@@ -176,11 +198,15 @@ experiences.</p>
 </li>
 <li>
 <p>Excellence Award：4 recipients</p>
-<p></p>
 </li>
 </ul>
-<p><strong>Ngee Ann National Students’ Calligraphy Competition 義安全国学生书法现场比赛</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann National Students’ Calligraphy Competition 義安全国学生书法现场比赛</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Rising Star Award</p>
@@ -192,7 +218,7 @@ experiences.</p>
 </table>
 <p><strong>Malay Language Unit</strong>
 </p>
-<p><strong>Quiz Competition organized by Malay Language Units from E5 Cluster Secondary Schools</strong>
+<p><strong>2024 - Quiz Competition organized by Malay Language Units from E5 Cluster Secondary Schools</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -213,67 +239,102 @@ experiences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tamil Saaral - E2 &amp; E5 Cluster - Tamil Language Competition&nbsp;</strong>
-</p>
-<ul>
-<li>
+<p>Tamil Saaral - E2 &amp; E5 Cluster - Tamil Language Competition&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Quiz competition - 2nd Prize - 2 recipients&nbsp;</p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Oratorical Competition
-<br>- US - 1st Prize - 1 recipient, 4th Prize - 1 recipient
-<br>- LS -&nbsp; 4th Prize - 1 recipient&nbsp;</p>
-</li>
-<li>
-<p>Story Writing Competition
-<br>- US - 3rd Prize - 1 recipient
-<br>- LS - 5th Prize - 1 recipient&nbsp;</p>
-</li>
-</ul>
-<p>
 <br>
 </p>
-<p><strong>Tharakai Ilakkiya Vattam -&nbsp; International Women’s Day Celebration&nbsp;</strong>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>US - 1st Prize - 1 recipient, 4th Prize - 1 recipient</p>
+</li>
+<li>
+<p>LS -&nbsp; 4th Prize - 1 recipient&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Story Writing Competition
+<br>
 </p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>US - 3rd Prize - 1 recipient</p>
+</li>
+<li>
+<p>LS - 5th Prize - 1 recipient&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tharakai Ilakkiya Vattam -International Women’s Day Celebration&nbsp;Letter
+writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Prize - 1 recipient&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tamil Saaral - E2 &amp; E5 Cluster - Tamil Language Competition&nbsp;- </strong>
+<br>ICT competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Prize - 5 recipients&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Letter writing Competition - 1st Prize - 1 recipient&nbsp;</p>
+<p>Oratorical Competition</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tamil Saaral - E2 &amp; E5 Cluster - Tamil Language Competition&nbsp;</strong>
-</p>
-<ul>
-<li>
-<p>ICT competition - 2nd Prize - 5 recipients&nbsp;</p>
-</li>
-<li>
-<p>Oratorical Competition - 1st Prize - 3 recipients</p>
-</li>
-</ul>
-<p>
-<br>
-</p>
-<p><strong>S5 Drama Festival 2024 by St Andrews Secondary School</strong>
-</p>
-<ul>
-<li>
+<p>1st Prize - 3 recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S5 Drama Festival 2024 by St Andrews Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3rd Prize - 12 recipients&nbsp;</p>
-</li>
-</ul>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
