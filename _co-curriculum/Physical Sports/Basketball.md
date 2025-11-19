@@ -108,53 +108,8 @@ Day Camp</p>
 <p>East Zone Third</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG ‘B’ Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>East Zone Quarterfinal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG ‘C’ Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>East Zone Third</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2022</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG ‘B’ Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>East Zone Quarterfinal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG ‘C’ Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>East Zone Quarterfinal</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
