@@ -43,14 +43,6 @@ sections:
             am - 12:00 pm)
           link_text: CLICK HERE (TO VIEW OUR OPEN HOUSE PAMPHLET)
           link_url: https://online.flippingbook.com/view/250177530/
-        - title: 2025 Semester 2 Timetable
-          date: 27 June 2025
-          announcement: Please be informed that the 2025 Semester 2 Timetable is now
-            available.  You may access the timetable using the link below. We
-            encourage all students to check their timetable carefully and be
-            prepared for the new semester starting.
-          link_text: CLICK HERE
-          link_url: https://www.broadricksec.moe.edu.sg/links/students/2025-class-time-table/
         - title: 2025 Direct School Admission (DSA)
           date: 07 May 2025
           announcement: Find out more about our talent areas and selection criteria for
