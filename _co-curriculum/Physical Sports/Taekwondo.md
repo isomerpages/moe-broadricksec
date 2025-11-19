@@ -110,7 +110,7 @@ in the sport.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 - NSG </strong>
+<p><strong>2024 - NSG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
