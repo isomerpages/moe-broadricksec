@@ -6,29 +6,14 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday 3.15pm - 6.00pm (for selected students)</p>
-</li>
-<li>
-<p>Wednesday 3.15pm - 6.00pm</p>
-</li>
-<li>
-<p>Friday 2.15pm - 6.00pm</p>
-</li>
-</ul>
+<p>Monday 3.15pm - 6.00pm (for selected students)
+<br>Wednesday 3.15pm - 6.00pm
+<br>Friday 2.15pm - 6.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>[IC] Mr Mustafa Kamal</p>
-</li>
-<li>
-<p>[IC] Mr Muhd Fadli</p>
-</li>
-<li>
-<p>Ms Amanda de Souza</p>
-</li>
-</ul>
+<p>[IC] Ms Amanda de Souza
+<br>[IC] Mr Mustafa
+<br>[Head Coach] Mr Fadli
+<br>[Coach] Mr Rezal</p>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
@@ -40,9 +25,8 @@ in the area of Tchoukball.</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -54,14 +38,8 @@ in the area of Tchoukball.</p>
 <th rowspan="1" colspan="1">
 <p>2024</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>2023</p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Active SG-TBAS Interschool B &amp; C Division Tchoukball Competition</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Active SG-TBAS Interschool B &amp; C Division Tchoukball Competition</p>
 </td>
@@ -122,50 +100,6 @@ in the area of Tchoukball.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Second Runner-up / 3rd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B Division&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champions / 1st Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champions / 1st Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2022</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Runner-up / 3rd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Runner-up / 2nd Place</p>
 </td>
 </tr>
 </tbody>
