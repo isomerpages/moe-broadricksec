@@ -6,19 +6,9 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday 3.15pm - 5.15pm</p>
-</li>
-<li>
-<p>Wednesday 3.15pm - 5.15pm
-<br>
-</p>
-</li>
-<li>
-<p>Friday 1.00pm - 5.00pm</p>
-</li>
-</ul>
+<p>Monday 3.15pm - 5.15pm
+<br>Wednesday 3.15pm - 5.15pm
+<br>Friday 1.00pm - 5.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -130,7 +120,7 @@ develop empathy and critical thinking skills.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2023</strong>
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -139,12 +129,11 @@ develop empathy and critical thinking skills.&nbsp;</p>
 <p>Singapore Youth Festival (SYF)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction (Double)&nbsp;</p>
+<p>Distinction</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
