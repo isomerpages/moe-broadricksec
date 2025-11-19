@@ -50,12 +50,6 @@ Student Leadership comm)</p>
 </li>
 </ul>
 <h3><strong>Our Achievements</strong></h3>
-<ul>
-<li>
-<p>SYF Youth Station Project 2021 - 2023: Certificate of Participation</p>
-</li>
-</ul>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

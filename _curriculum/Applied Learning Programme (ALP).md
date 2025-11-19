@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Sustainability in Broadrick</strong></h3>
-<h3><strong>Our Objectives:</strong></h3>
+<h3><strong>Our Objectives</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Equip students with essential skills and mindset to become innovative
@@ -54,7 +54,7 @@ including:
 </p>
 </li>
 </ul>
-<h3>Programme Design</h3>
+<h3><strong>Programme Design</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/ALP.png">
 </div>
@@ -63,6 +63,6 @@ including:
 </div>
 <p>Below is a snapshot of what our students can expect from our ALP experience:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/ALP1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1.png">
 </div>
 <p></p>
