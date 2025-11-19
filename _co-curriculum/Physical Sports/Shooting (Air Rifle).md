@@ -14,9 +14,7 @@ variant: tiptap
 <p>Wednesday 3.15pm - 5.45pm</p>
 </li>
 <li>
-<p>Friday 2.00pm - 5.00pm
-<br>
-</p>
+<p>Friday 2.00pm - 5.00pm</p>
 </li>
 </ul>
 <h3><strong>Teachers-in-charge</strong></h3>
@@ -85,6 +83,8 @@ CCA Competitions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>‘B’ Division Air Rifle Women Individual 7th &amp; 12th</p>
+<p>‘C’ Division Air Pistol Women Individual 2nd
+<br>‘C’ Division Women Team 5th</p>
 </td>
 </tr>
 <tr>
