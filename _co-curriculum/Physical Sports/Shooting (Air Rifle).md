@@ -60,6 +60,7 @@ shooting.</p>
 <br><strong>All levels: </strong>Life Skills Day, Day Camps, Bonding, Intra
 CCA Competitions</p>
 <h3><strong>Achievements</strong></h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -128,35 +129,8 @@ CCA Competitions</p>
 <p>‘B’ Division Girls (1st &amp; 3rd)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NSG&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>‘B’ Division Girls (4th)</p>
-<p>‘C’ Division Girls (3rd)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NTU NIS (East Zonal)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Girls (2nd)</p>
-<p>Boys (2nd)</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
