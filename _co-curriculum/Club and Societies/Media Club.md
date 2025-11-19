@@ -6,30 +6,12 @@ third_nav_title: Club and Societies
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesday, 3:15pm - 5.00pm (Only for CCA leaders)</p>
-</li>
-<li>
-<p>Wednesday, 3.15pm - 5.30pm (For all members)</p>
-</li>
-</ul>
+<p>Tuesday 3.15pm - 5.00pm (CCA leaders)
+<br>Wednesday 3.15pm - 5.30pm (All members)</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>[IC] Ms Tengku Suhaila
-<br>
-</p>
-</li>
-<li>
-<p>Mdm Meng Xin
-<br>
-</p>
-</li>
-<li>
-<p>Mdm Mohamed Hanif Rasina Nilofar</p>
-</li>
-</ul>
+<br>Mdm Meng Xin
+<br>Mdm Mohamed Hanif Rasina Nilofar</p>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
@@ -52,7 +34,7 @@ and teamwork.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2024 - 2025</p>
+<p>2025 - 2024</p>
 </th>
 </tr>
 <tr>
@@ -112,31 +94,8 @@ and teamwork.&nbsp;</p>
 <p>Certificate of Participation</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Our Schools, Our Stories photography contest&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wiki Loves Living Heritage Photography contest&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
