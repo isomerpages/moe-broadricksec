@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Sustainability in Broadrick</strong></h3>
-<h3><strong>Our Objectives:</strong></h3>
+<h3><strong>Our Objectives</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Equip students with essential skills and mindset to become innovative
