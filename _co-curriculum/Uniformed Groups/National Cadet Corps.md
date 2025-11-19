@@ -6,16 +6,8 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h4><strong>Training sessions</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
 <p>Wednesday 3.00pm - 4.30pm [PDS - Student-Initiated Learning]
-<br>
-</p>
-</li>
-<li>
-<p>Friday 2.30pm - 5.30pm</p>
-</li>
-</ul>
+<br>Friday 2.30pm - 5.30pm</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p>[IC] Mr Simon Yap
 <br>[IC] Mr Shahul Hameed
@@ -108,6 +100,28 @@ Championship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition</p>
+<p>Laser Run</p>
+<p>Cluster sports competition (captains ball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+<p>5th placing</p>
+<p>Joint 3rd</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
 </td>
@@ -125,7 +139,6 @@ Championship</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
