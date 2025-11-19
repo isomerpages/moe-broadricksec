@@ -40,24 +40,20 @@ in the sport.</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>2023</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -66,20 +62,22 @@ in the sport.</p>
 <li>
 <p>VIA at NTU Taekwondo Open Competition</p>
 </li>
+<li>
+<p>VIA at HAN Foundation Youth Championships</p>
+<p>National School Games 2025</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>National Poomsae</p>
-</li>
-<li>
-<p>Whampoa Invitational 2023</p>
+<p>Champions for Whampoa Invitational</p>
+<p>National School Games 2024</p>
+<p>
+<br>
+</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -102,14 +100,17 @@ in the sport.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>2024</strong>
+<td rowspan="1" colspan="1">
+<p><strong>2025 - NSG</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 gold, 2 silver, 13 bronze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NSG 2024</strong>
+<p><strong>2024 - NSG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,36 +122,11 @@ in the sport.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>‘B’ Div&nbsp; Boys 4th&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NSG 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 gold, 1 silver,13 bronze,</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Daedo 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 gold, 2 silver, 2 bronze</p>
+<p>‘B’ Div&nbsp;Boys 4th&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">

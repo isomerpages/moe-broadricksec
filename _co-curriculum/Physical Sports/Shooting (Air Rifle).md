@@ -8,19 +8,13 @@ variant: tiptap
 <h3><strong>Training sessions</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday 3.15pm - 5.45pm
-<br>
-</p>
+<p>Monday 3.15pm - 5.45pm</p>
 </li>
 <li>
-<p>Wednesday 3.15pm - 5.45pm
-<br>
-</p>
+<p>Wednesday 3.15pm - 5.45pm</p>
 </li>
 <li>
-<p>Friday 2.00pm - 5.00pm
-<br>
-</p>
+<p>Friday 2.00pm - 5.00pm</p>
 </li>
 </ul>
 <h3><strong>Teachers-in-charge</strong></h3>
@@ -52,7 +46,7 @@ shooting.</p>
 </li>
 </ul>
 <h3><strong>Activities</strong></h3>
-<p><strong>2024 &amp; 2025</strong>
+<p><strong>2025 &amp; 2024</strong>
 </p>
 <p><strong>Sec 1 - 2:</strong> NSG ‘C’
 <br><strong>Sec 2 - 4: </strong>NTU-NIS Shoot
@@ -60,7 +54,6 @@ shooting.</p>
 <br><strong>All levels: </strong>Life Skills Day, Day Camps, Bonding, Intra
 CCA Competitions</p>
 <h3><strong>Achievements</strong></h3>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -90,6 +83,8 @@ CCA Competitions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>‘B’ Division Air Rifle Women Individual 7th &amp; 12th</p>
+<p>‘C’ Division Air Pistol Women Individual 2nd
+<br>‘C’ Division Women Team 5th</p>
 </td>
 </tr>
 <tr>

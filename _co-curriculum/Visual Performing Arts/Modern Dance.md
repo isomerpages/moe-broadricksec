@@ -6,35 +6,13 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>Wednesday 3.15pm - 6.15pm
-<br>
-</p>
-</li>
-<li>
-<p>Friday 1.30pm - 4.30pm</p>
-</li>
-</ul>
+<br>Friday 1.30pm - 4.30pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>[IC] Ms Loo Puay Ling
-<br>
-</p>
-</li>
-<li>
-<p>[IC] Ms Seri Hannah Binte Aminuddin
-<br>
-</p>
-</li>
-<li>
-<p>Mrs Zheng Xiaojuan</p>
-</li>
-<li>
-<p>Ms Ma Funing</p>
-</li>
-</ul>
+<br>[IC] Ms Seri Hannah Binte Aminuddin
+<br>Mrs Zheng Xiaojuan
+<br>Ms Ma Funing</p>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
@@ -133,20 +111,6 @@ shared goals.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation for Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
