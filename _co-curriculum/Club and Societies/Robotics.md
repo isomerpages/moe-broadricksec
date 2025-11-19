@@ -31,19 +31,20 @@ teamwork.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2024</p>
+<p>2025</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>2024</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone Robotics Challenge
-<br>VEX Robotics Challenge&nbsp;</p>
+<p>RoboClash @SUTD</p>
+<p>East Zone Robotics Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>East Zone Robotics Challenge
+<br>VEX Robotics Challenge&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -67,7 +68,29 @@ teamwork.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2023</strong>
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboClash @SUTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>East Zone Robotics Challenge&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2024</strong>
 </p>
 </td>
 </tr>
@@ -76,7 +99,9 @@ teamwork.&nbsp;</p>
 <p>East Zone Robotics Challenge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Place</p>
+<p>First Place (Heavy Team)</p>
+<p>Second Place (Autonomous Team)&nbsp;</p>
+<p>Second Place (Light Team)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +109,7 @@ teamwork.&nbsp;</p>
 <p>VEX Robotics Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fourth place and Judges Award</p>
+<p>Judges Award</p>
 </td>
 </tr>
 </tbody>
