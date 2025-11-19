@@ -163,19 +163,20 @@ compassion, passion and professionalism in all members.&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/RCY1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2025/red_cross.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Gratitude</div>
-<div class="isomer-card-description">At the Chinese New Year Broadrick Alumni reunion where RCY cadets demonstrate
-gratitude as they serve food to the alumni</div>
+<div class="isomer-card-description">With deep gratitude to our seniors, the ceremonial badge pinning marks
+the transfer of spirit—empowering the next generation to lead with empathy,
+strength, and a dedication to humanity.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/RCY2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2025/red_cross_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
