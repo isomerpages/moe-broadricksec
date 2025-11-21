@@ -41,29 +41,35 @@ sections:
           announcement: At Broadrick, we grow character, confidence, and curiosity. Come
             see how we learn and lead with GRC. Open House — 22 Nov 2025 (9:00
             am - 12:00 pm)
-          link_text: CLICK HERE (TO VIEW OUR OPEN HOUSE PAMPHLET)
+          link_text: Click to view our Open House Pamphlet
           link_url: https://online.flippingbook.com/view/250177530/
+        - title: "2025: BRD55"
+          date: 14 November 2025
+          announcement: A celebration of Broadrick's journey for the past 55 years. We
+            commemorate a heritage of values-driven education.
+          link_text: Click to view our BRD55 Coffee Table Book
+          link_url: https://issuu.com/avantgardemediaarts/docs/broadrick_secondary_school_85th_anniversary_coffee
         - title: 2025 Direct School Admission (DSA)
           date: 07 May 2025
           announcement: Find out more about our talent areas and selection criteria for
             CCAs and ALP STEM.  All applicants will apply for DSA-Sec through a
             centralised DSA-Sec Portal. The application is free-of-charge and
             will be open from 7 May 2025, 11:00 am to 3 June 2025, 3:00 pm.
-          link_text: CLICK HERE
+          link_text: Click to view our DSA Application
           link_url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
         - title: 2025 e-Student Handbook
           date: 02 January 2025
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
             the school has created its second e-student handbook.     Students
             can download a copy by clicking the link below.
-          link_text: CLICK HERE
+          link_text: Click to view our e-Student Handbook
           link_url: https://online.flippingbook.com/view/1063509589/
         - title: 2025 School Calendar
           date: 01 January 2025
           announcement: The School Calendar of Events will keep all parents and guardians
             updated on upcoming activities and key dates. Find out how to access
             it through Parents’ Gateway (PG) by clicking the link below.
-          link_text: CLICK HERE
+          link_text: Click to access our School Calendar
           link_url: https://drive.google.com/file/d/18IEe3wxdTz-f2_QJ2quC7YLZLHqLf1lZ/view?usp=drive_link
       subtitle: STAY UPDATED WITH
   - infopic:
