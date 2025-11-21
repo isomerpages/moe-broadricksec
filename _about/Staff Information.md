@@ -57,11 +57,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Our SSD, HODs, SHs &amp; LHs</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<h4><strong>Our Key Personnel</strong></h4>
 </th>
 </tr>
 <tr>
@@ -265,19 +262,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <h4><strong>Our Teacher Leaders</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -350,12 +336,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Our Character Coaches (2025)</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<th rowspan="1" colspan="2">
+<h4><strong>Our Character Coaches</strong></h4>
 </th>
 </tr>
 <tr>
@@ -747,11 +729,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <h4><strong>Our Teachers</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -856,11 +835,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <h4><strong>Our Multi-Skilled Team</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -884,33 +860,21 @@ variant: tiptap
 <br>Ms Stella Kae
 <br><a href="mailto:stella_kae@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stella_kae@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AED Teaching &amp; Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Fadli Abdul Lathee
-<br><a href="mailto:muhamad_fadli_abdul_lathee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_fadli_abdul_lathee@moe.edu.sg</a>
+<p></p>
+<p>Mr Donavan Teo</p>
+<p><a href="mailto:teo_zi_rong_donavan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zi_rong_donavan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead SEN Officer</p>
+<p>SEN Officers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Faisal B Osman&nbsp;
 <br><a href="https://broadricksec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">mohamed_faisal_b_osman@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>Ms Izyana Iskandar</p>
 <p><a href="mailto:izyana_iskandar@moe.edu.sg" rel="noopener nofollow" target="_blank">izyana_iskandar@moe.edu.sg</a>
 </p>
@@ -934,7 +898,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor
 <br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -952,11 +915,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <h4><strong>Our Executive and Administrative Staff</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
