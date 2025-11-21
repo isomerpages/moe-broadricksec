@@ -32,7 +32,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vd0CB7RvY4U?start=1"></iframe>
-</div>
 <p></p>
