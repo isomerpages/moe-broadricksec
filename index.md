@@ -10,7 +10,7 @@ notification: "Be Future-Ready. Be Values-Driven. Be a Broadrician. Visit us at
   our Open House on 22 Nov 2025. 🌱 #GRCeducation #havefunwhiledoinggood #2:168"
 sections:
   - hero:
-      background: /images/2025_Open_House.jpg
+      background: /images/School Media/2025_Open_House.jpg
       variant: floating
       backgroundColor: gray
       title: Broadrick Secondary School
