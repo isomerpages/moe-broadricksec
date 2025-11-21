@@ -17,18 +17,18 @@ sections:
       size: md
       alignment: left
       key_highlights:
+        - title: 2025 OPEN HOUSE PROGRAMME
+          description: CLICK HERE
+          url: https://drive.google.com/file/d/1n-mwgaYC1qydIyYWGSgozw9bxKmD_pak/view?usp=sharing
         - title: 2025 OPEN HOUSE PAMPHLET
           description: CLICK HERE
           url: https://online.flippingbook.com/view/250177530/2/
-        - title: OUR SOCIAL MEDIA
-          description: CLICK HERE
-          url: https://www.instagram.com/broadricksec_official
         - title: 2025 E-Student Handbook
           description: CLICK HERE
           url: https://online.flippingbook.com/view/116838550/
-        - title: 2025 Direct School Admission (DSA)
+        - title: OUR SOCIAL MEDIA
           description: CLICK HERE
-          url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
+          url: https://www.instagram.com/broadricksec_official
       subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
@@ -36,8 +36,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 Open House Programme
+          date: 21 November 2025
+          announcement: Learn more about our Guided School Tours and Principal’s Talk
+            timings for Open House 2025.
+          link_text: Click Here
+          link_url: https://drive.google.com/file/d/1n-mwgaYC1qydIyYWGSgozw9bxKmD_pak/view?usp=sharing
         - title: 2025 Open House (22 November)
-          date: 10 November 2025
+          date: 15 November 2025
           announcement: At Broadrick, we grow character, confidence, and curiosity. Come
             see how we learn and lead with GRC. Open House — 22 Nov 2025 (9:00
             am - 12:00 pm)
@@ -49,14 +55,6 @@ sections:
             commemorate a heritage of values-driven education.
           link_text: Click to view our BRD55 Coffee Table Book
           link_url: https://issuu.com/avantgardemediaarts/docs/broadrick_secondary_school_85th_anniversary_coffee
-        - title: 2025 Direct School Admission (DSA)
-          date: 07 May 2025
-          announcement: Find out more about our talent areas and selection criteria for
-            CCAs and ALP STEM.  All applicants will apply for DSA-Sec through a
-            centralised DSA-Sec Portal. The application is free-of-charge and
-            will be open from 7 May 2025, 11:00 am to 3 June 2025, 3:00 pm.
-          link_text: Click to view our DSA Application
-          link_url: https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission/
         - title: 2025 e-Student Handbook
           date: 02 January 2025
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
