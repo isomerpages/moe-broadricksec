@@ -42,6 +42,7 @@ sections:
       button: Click here to Sign up!
       url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
       image: /images/2025/Special_Talk_for_All_P6_Parents_by_P___updated_17_Nov_2025_pdf.png
+      alt: Sign up now!
   - announcements:
       title: Announcements
       id: announcements
