@@ -6,20 +6,22 @@ description: A Choice School Providing Holistic Education || Nurturing
   Education
 image: /images/2024/2024_mission_vision.png
 permalink: /
-notification: "Be Future-Ready. Be Values-Driven. Be a Broadrician. Visit us at
-  our Open House on 22 Nov 2025. 🌱 #GRCeducation #havefunwhiledoinggood #2:168"
+notification: "✨ Be Future-Ready. Be Values-Driven. Be a Broadrician. ✨ Thank
+  you for joining our Open House on 22 Nov 2025! 🌱 📣 Don’t miss the
+  Principal’s Post–Open House Talk on 26 Nov 2025! #GRCeducation
+  #havefunwhiledoinggood"
 sections:
   - hero:
-      background: /images/School Media/2025_Open_House.jpg
+      background: /images/BRD_2023_Zoom_Background__5_.png
       variant: floating
       backgroundColor: gray
       title: Broadrick Secondary School
       size: md
       alignment: left
       key_highlights:
-        - title: 2025 OPEN HOUSE PROGRAMME
-          description: CLICK HERE
-          url: https://drive.google.com/file/d/1n-mwgaYC1qydIyYWGSgozw9bxKmD_pak/view?usp=sharing
+        - title: Principal’s Post–Open House Talk
+          description: CLICK HERE TO SIGN UP
+          url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
         - title: 2025 OPEN HOUSE PAMPHLET
           description: CLICK HERE
           url: https://online.flippingbook.com/view/250177530/2/
@@ -32,16 +34,24 @@ sections:
       subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
+  - infopic:
+      title: SPECIAL TALK FOR ALL P6 PARENTS!
+      id: infopic
+      description: Join our Principal’s Post–Open House Talk on 26 Nov 2025 — discover
+        how to choose the right secondary school for your child.
+      button: Click here  to reserve your seat
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
+      image: /images/2025/Special_Talk_for_All_P6_Parents_by_P___updated_17_Nov_2025_pdf.png
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 Open House Programme
-          date: 21 November 2025
-          announcement: Learn more about our Guided School Tours and Principal’s Talk
-            timings for Open House 2025.
-          link_text: Click Here
-          link_url: https://drive.google.com/file/d/1n-mwgaYC1qydIyYWGSgozw9bxKmD_pak/view?usp=sharing
+        - title: Principal’s Post–Open House Talk (26 November)
+          date: 23 November 2025
+          announcement: Join our Principal’s Post–Open House Talk on 26 Nov 2025 —
+            discover how to choose the right secondary school for your child.
+          link_text: Click Here to Reserve your Seat
+          link_url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
         - title: 2025 Open House (22 November)
           date: 15 November 2025
           announcement: At Broadrick, we grow character, confidence, and curiosity. Come
