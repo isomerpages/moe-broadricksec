@@ -8,8 +8,8 @@ image: /images/2024/2024_mission_vision.png
 permalink: /
 notification: "✨ Be Future-Ready. Be Values-Driven. Be a Broadrician. ✨ Thank
   you for joining our Open House on 22 Nov 2025! 🌱 📣 Don’t miss the
-  Principal’s Post–Open House Talk on 26 Nov 2025! #GRCeducation
-  #havefunwhiledoinggood"
+  Principal’s Post–Open House Talk on 26 Nov 2025 @ 7:00 pm. Details are
+  available below! #GRCeducation #havefunwhiledoinggood"
 sections:
   - hero:
       background: /images/BRD_2023_Zoom_Background__5_.png
@@ -19,7 +19,7 @@ sections:
       size: md
       alignment: left
       key_highlights:
-        - title: Principal’s Post–Open House Talk
+        - title: Principal’s Post–Open House Talk (26 Nov @ 7:00 pm)
           description: CLICK HERE TO SIGN UP
           url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
         - title: 2025 OPEN HOUSE PAMPHLET
@@ -35,11 +35,11 @@ sections:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
   - infopic:
-      title: SPECIAL TALK FOR ALL P6 PARENTS!
+      title: Principal’s Post–Open House Talk
       id: infopic
-      description: Join our Principal’s Post–Open House Talk on 26 Nov 2025 — discover
-        how to choose the right secondary school for your child.
-      button: Click here  to reserve your seat
+      description: Join our Principal’s Post–Open House Talk on 26 Nov 2025 @ 7:00 pm
+        — discover how to choose the right secondary school for your child.
+      button: Click here to Sign up!
       url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
       image: /images/2025/Special_Talk_for_All_P6_Parents_by_P___updated_17_Nov_2025_pdf.png
   - announcements:
