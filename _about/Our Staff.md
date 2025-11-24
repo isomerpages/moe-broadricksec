@@ -40,7 +40,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,9 +52,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Foong Meng</p>
 </td>
@@ -177,7 +174,7 @@ variant: tiptap
 <p>HOD PE / CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Darren Chin Wei Ming</p>
+<p>Mr Chin Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wei_ming@moe.edu.sg</a>
@@ -332,18 +329,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammed Riffaii Maidin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohammed_riffaii_maidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_riffaii_maidin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -351,6 +336,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ngerng_xiulin_chrystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngerng_xiulin_chrystal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Riffaii Maidin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohammed_riffaii_maidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_riffaii_maidin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -492,7 +489,7 @@ variant: tiptap
 <p>AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Darren Chin Wei Ming</p>
+<p>Mr Chin Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wei_ming@moe.edu.sg</a>
