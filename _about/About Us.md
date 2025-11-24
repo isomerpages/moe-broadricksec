@@ -4,10 +4,43 @@ permalink: /school/about-us/
 description: ""
 variant: tiptap
 ---
-<h3>Vision, Mission, Values</h3>
+<h3>School Vision, Mission, Values</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BRD_2023_Zoom_Background__5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="VMV" src="/images/2024/2024_mission_vision.png">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Vision</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>A Choice School Providing Holistic Education</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mission</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Nurturing Broadricians to be Future-Ready Learners with Strength of Character</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Values</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Gratitude, Respect, Compassion</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>School Crest</h3>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/school%20flag1.jpg">
