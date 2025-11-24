@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Vision, Mission, Values</h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BRD_2023_Zoom_Background__5_.png">
+</div>
 <h3>School Crest</h3>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/school%20flag1.jpg">
@@ -30,4 +32,5 @@ of the community and beyond.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/school%20flag.jpg">
 </div>
+<p></p>
 <p></p>
