@@ -1,6 +1,6 @@
 ---
-title: Broadrician Outcomes
-permalink: /school/broadrician-outcomes/
+title: Our Broadricians
+permalink: /school/our-broadricians/
 description: ""
 variant: tiptap
 ---
