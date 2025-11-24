@@ -86,20 +86,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Shi Hao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shi_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_hao@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD CCE</p>
 <p></p>
 </td>
@@ -115,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Craft &amp; Technology</p>
+<p>HOD Craft &amp; Tech</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +162,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Language</p>
+<p>HOD MTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khaw Heng Sean</p>
@@ -232,6 +218,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_cheng_keong_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_cheng_keong_andy@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Shi Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_shi_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_hao@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
