@@ -4,201 +4,6 @@ permalink: /school/staff-information/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>Our Multi-Skilled Team</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student&nbsp;Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zulkifli Bin Mohd Saat
-<br><a href="mailto:zulkifli_mohamed_saat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkifli_mohamed_saat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Koh Swee Leong
-<br><a href="mailto:koh_swee_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_swee_leong@moe.edu.sg</a>&nbsp;
-<br>
-<br>Ms Stella Kae
-<br><a href="mailto:stella_kae@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stella_kae@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Mr Donavan Teo</p>
-<p><a href="mailto:teo_zi_rong_donavan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zi_rong_donavan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN Officers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Faisal B Osman&nbsp;
-<br><a href="https://broadricksec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">mohamed_faisal_b_osman@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Izyana Iskandar</p>
-<p><a href="mailto:izyana_iskandar@moe.edu.sg" rel="noopener nofollow" target="_blank">izyana_iskandar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sheikh Farid B Abdul Karim
-<br><a href="mailto:sheikh_farid_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheikh_farid_abdul_karim@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Chu Jin Ing</p>
-<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ECG Counsellor
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Sherry Long Ai Sin
-<br><a href="mailto:long_ai_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>Our Executive and Administrative Staff</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Manager&nbsp;
-<br>
-<br>Mdm Thun Siew Lin
-<br><a href="mailto:THUN_Siew_Lin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thun_Siew_Lin@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mr Mah Kian Lye</p>
-<p><a href="mailto:mah_kian_lye@schools.gov.sg" rel="noopener nofollow" target="_blank">mah_kian_lye@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager &nbsp;
-<br>
-<br>Mr Arrivalaganu Suppiah&nbsp;
-<br><a href="mailto:arrivalaganu_suppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arrivalaganu_suppiah@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Mr Muhammad Khairul Muhd Kemal</p>
-<p><a href="mailto:muhammad_khairul_muhd_kemal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_khairul_muhd_kemal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Executive
-<br>
-<br>Sri Amirah Binte Suhairi&nbsp;
-<br><a href="mailto:sri_amirah_suhairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_amirah_suhairi@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CSO
-<br>
-<br>Mrs Tay Suan Eng
-<br><a href="mailto:tay_suan_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_suan_eng@moe.edu.sg</a> 
-<br>
-<br>Ms Joann Wong Yau Chene
-<br><a href="mailto:wong_yau_chene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yau_chene@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Mdm Tan Kah Seok Jeslin
-<br><a href="mailto:tan_kah_seok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kah_seok@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TSO&nbsp;
-<br>
-<br>Mr Mogandas Kanapathy
-<br><a href="mailto:mogandass_kanapathy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mogandass_kanapathy@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Ngiam Chay Koon
-<br><a href="mailto:ngiam_chay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_chay_koon@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO&nbsp;
-<br>
-<br>Mdm Habsah Md Hussain&nbsp;
-<br><a href="mailto:habsah_md_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">habsah_md_hussain@moe.edu.sg</a> 
-<br>
-<br>Mdm Palayee Narayanasamy&nbsp;
-<br><a href="mailto:palayee_narayanasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">palayee_narayanasamy@moe.edu.sg</a> 
-<br>
-<br>Mdm Teo Jong Moy&nbsp;
-<br><a href="mailto:teo_jong_moy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jong_moy@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Mdm Hamidah Haniffa&nbsp;
-<br><a href="mailto:hamidah_haniffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamidah_haniffa@moe.edu.sg</a> 
-<br>
-<br>Mdm Kannamah d/o Karuppan&nbsp;
-<br><a href="mailto:kannamah_karuppan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kannamah_karuppan@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Mr Mazlan Mohd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager
-<br>
-<br>Mr&nbsp;Omar Mikail Himbal
-<br><a href="mailto:omar_mikail_himbal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">omar_mikail_himbal@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-<p></p>
-<p>Ms Abdul Malik Abrin Nisha
-<br><a href="mailto:abrinnisha.abdulmalik@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">abrinnisha.abdulmalik@ncs.com.sg</a>
-</p>
-<p></p>
-<p>Mr Kenneth Lim
-<br><a href="mailto:lim.hk@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">lim.hk@ncs.com.sg</a>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h2>School Executive Committee</h2>
 <h3>Our School Leaders</h3>
 <div class="isomer-image-wrapper">
@@ -1762,7 +1567,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Admin Manager</p>
+<p><strong>Admin Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Thun Siew Lin</p>
@@ -1781,39 +1587,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Omar Mikail Himbal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:omar_mikail_himbal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">omar_mikail_himbal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Arrivalaganu Suppiah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:arrivalaganu_suppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arrivalaganu_suppiah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairul Muhd Kemal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_khairul_muhd_kemal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_khairul_muhd_kemal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1822,25 +1595,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sri_amirah_suhairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_amirah_suhairi@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Desktop Engineers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1875,7 +1629,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>TSO</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1888,9 +1642,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Ngiam Chay Koon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1900,35 +1651,106 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>ICT Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Omar Mikail Himbal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:omar_mikail_himbal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">omar_mikail_himbal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Desktop Engineers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kenneth Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim.hk@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">lim.hk@ncs.com.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Abdul Malik Abrin Nisha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:abrinnisha.abdulmalik@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">abrinnisha.abdulmalik@ncs.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Arrivalaganu Suppiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:arrivalaganu_suppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arrivalaganu_suppiah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Khairul Muhd Kemal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_khairul_muhd_kemal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_khairul_muhd_kemal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Habsah Md Hussain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:habsah_md_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">habsah_md_hussain@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Palayee Narayanasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:palayee_narayanasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">palayee_narayanasamy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Jong Moy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_jong_moy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jong_moy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hamidah Haniffa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hamidah_haniffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamidah_haniffa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kannamah d/o Karuppan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kannamah_karuppan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kannamah_karuppan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
