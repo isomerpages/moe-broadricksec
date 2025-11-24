@@ -54,6 +54,9 @@ community as it grows, learns and develop together as one united community.
 The concept of the school as a family is reinforced by the four inter-twinning
 rings.</p>
 <h3>School Flag</h3>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/school%20flag.jpg">
+</div>
 <p>The school flag comprises two main colours – white and dark blue. The
 dark blue panels in the background represent our teachers and staff who
 are always ready to nurture and support our students in their pursuit to
@@ -62,8 +65,5 @@ signifies the youth and receptivity of our students. The richness of the
 colour white points to the numerous possibilities opened to our students
 as they take their positions as adult citizens and contributing members
 of the community and beyond.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/school%20flag.jpg">
-</div>
 <p></p>
 <p></p>
