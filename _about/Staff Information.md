@@ -1506,7 +1506,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>AYH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Darren Chin Wei Ming</p>
@@ -1728,7 +1728,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>AYH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Abelyn Quek</p>
@@ -1926,7 +1926,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>AYH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Keng Teck</p>
@@ -2095,7 +2095,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>AYH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Riffaii Maidin
@@ -2269,7 +2269,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3>Teachers</h3>
+<h3>Our Teachers</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -2482,7 +2482,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Multi-Skilled Team</h3>
+<h3>Our Multi-Skilled Team</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -2500,6 +2500,18 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sherry Long Ai Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2555,10 +2567,11 @@ variant: tiptap
 <p>Lead SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mohamed Faisal B Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:mohamed_faisal_b_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_faisal_b_osman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2566,6 +2579,103 @@ variant: tiptap
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Izyana Iskandar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:izyana_iskandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">izyana_iskandar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Our Executive &amp; Administrative Staff</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Thun Siew Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>thun_siew_lin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mah Kian Lye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mah_kian_lye@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Omar Mikail Himbal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:omar_mikail_himbal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">omar_mikail_himbal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Arrivalaganu Suppiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:arrivalaganu_suppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arrivalaganu_suppiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Khairul Muhd Kemal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_khairul_muhd_kemal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_khairul_muhd_kemal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sri Amirah Binte Suhairi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sri_amirah_suhairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_amirah_suhairi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Desktop Engineers</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2574,7 +2684,70 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Mathematics</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tay Suan Eng</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_suan_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_suan_eng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Kah Seok Jeslin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kah_seok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kah_seok@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Joann Wong Yau Chene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_yau_chene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yau_chene@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mogandas Kanapathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mogandass_kanapathy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mogandass_kanapathy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ngiam Chay Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ngiam_chay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_chay_koon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2585,7 +2758,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Physical Education</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
