@@ -4,6 +4,8 @@ permalink: /school/about-us/
 description: ""
 variant: tiptap
 ---
+<h3>Vision, Mission, Values</h3>
+<p></p>
 <h3>School Crest</h3>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/school%20flag1.jpg">
