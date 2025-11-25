@@ -43,8 +43,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_4_green_REVISED.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 Booklist</a>
-</p>
-<p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_5_purple.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 5 Booklist</a>
+<br><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_5_purple.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 5 Booklist</a>
 </p>
 </td>
 </tr>
