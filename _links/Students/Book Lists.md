@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Booklists</p>
+<p>2026 Booklists</p>
 </th>
 </tr>
 <tr>
