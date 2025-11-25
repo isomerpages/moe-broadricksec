@@ -6,7 +6,6 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>School Bookshop Operating Hours</h3>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
