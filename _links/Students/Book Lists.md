@@ -80,7 +80,6 @@ variant: tiptap
 </p>
 <p>120 Hillview Avenue #05-01 Kewalram Hillview S(669594)
 <br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,9 +97,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="www.asenciobookshop.sg" rel="noopener nofollow" target="_blank">Asencio Pte Ltd</a>
 </p>
-<p>120 Hillview Avenue #05-01 Kewalram Hillview S(669594)
-<br>
-</p>
+<p>120 Hillview Avenue #05-01 Kewalram Hillview S(669594)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tel</strong>: 6734 3102 (HQ)
