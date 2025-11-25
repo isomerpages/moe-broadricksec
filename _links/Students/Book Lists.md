@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <h3>School Bookshop Operating Hours</h3>
 <p><strong>Weekdays, 9am-2:30pm</strong> (closes 3pm), at School Canteen.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Booklists</p>
+<p>2026 Booklists</p>
 </th>
 </tr>
 <tr>
