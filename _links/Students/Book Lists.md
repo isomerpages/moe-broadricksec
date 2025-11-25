@@ -6,7 +6,7 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>School Bookshop Operating Hours</h3>
-<p><strong>Weekdays, 9am-2:30pm</strong> (closes 3pm), at School Canteen.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,30 +20,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2</p>
+<p><strong>Level</strong>
+</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Opening Hours</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_2_rose_revised.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Booklist</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>24 to 28 November 2025 (9am-3pm)
+<br>08 to 12 December 2025 (9am-3pm)</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_3_peach.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Booklist</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>01 to 05 December 2025 (9am-3pm)
+<br>08 to 12 December 2025 (9am-3pm)</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_4_green_REVISED.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 Booklist</a>
 <br><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_5_purple.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 5 Booklist</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 to 05 December 2025 (9am-3pm)
+<br>08 to 12 December 2025 (9am-3pm)</p>
 </td>
 </tr>
 </tbody>
