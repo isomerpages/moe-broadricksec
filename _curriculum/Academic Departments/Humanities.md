@@ -36,6 +36,86 @@ growth and interest in the Humanities.&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Our Achievements</strong></h3>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Students involved</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Historical Scene Investigation (HSI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Top 10 &amp; Gold Award</strong>
+<br>2C Anica Sameera Alexchandar
+<br>2D Chay Ching Yu Athena
+<br>2E Ee Zhao Yang
+<br>2E Fisher Hannah Violent Chen</p>
+<p></p>
+<p><strong>Silver Award</strong>
+<br>2A Joofiq Faheem Bin Fahizal
+<br>2A Quesea, Simon Gian Santos
+<br>2D Ng Alexys
+<br>2E Twiline Ng Yong Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023 Historical Scene Investigation (HSI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze Award</strong>
+<br>Devon Tham</p>
+<p>Joshua Chan</p>
+<p>Ong Wai Ching</p>
+<p>Tanusha Rajagopal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022 MOE History Challenge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selected for History Talent Development Programme (HTDP)</strong>
+</p>
+<p>3A7 Darren Harrison</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021 MOE History Challenge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selected for History Talent Development Programme (HTDP)</strong>
+</p>
+<p>3A6 Richard Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2024</strong>
 </p>
 <ul>
@@ -43,6 +123,23 @@ growth and interest in the Humanities.&nbsp;</p>
 <p>NUS Geography Challenge&nbsp; - Certificate of Participation&nbsp;</p>
 </li>
 </ul>
+<p><strong>2022</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE History Challenge - 1 student selected for History Talent Development
+Programme (HTDP)</p>
+</li>
+</ul>
+<p><strong>2021</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE History Challenge - 1 student selected for History Talent Development
+Programme (HTDP)</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
