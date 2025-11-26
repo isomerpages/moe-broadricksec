@@ -131,29 +131,6 @@ growth and interest in the Humanities.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>2024</strong>
-</p>
-<ul>
-<li>
-<p>NUS Geography Challenge&nbsp; - Certificate of Participation&nbsp;</p>
-</li>
-</ul>
-<p><strong>2022</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MOE History Challenge - 1 student selected for History Talent Development
-Programme (HTDP)</p>
-</li>
-</ul>
-<p><strong>2021</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MOE History Challenge - 1 student selected for History Talent Development
-Programme (HTDP)</p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
