@@ -2,13 +2,13 @@ collections:
   about:
     output: true
     order:
+      - Principal’s Message.md
+      - Our Heritage.md
+      - Our School.md
       - Our Staff/.keep
       - Our Staff/Key Personnel.md
       - Our Staff/Character Coaches.md
       - Our Staff/Administrative and Support.md
-      - Principal’s Message.md
-      - Our Heritage.md
-      - Our School.md
       - Our Broadricians.md
       - Contact Us.md
       - FAQ.md
