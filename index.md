@@ -4,7 +4,7 @@ title: Broadrick Secondary School
 description: A Choice School Providing Holistic Education || Nurturing
   Broadricians To Be Future-Ready Learners Gratitude. Respect. Compassion (GRC)
   Education
-image: /images/2024/2024_mission_vision.png
+image: /images/BRD_2023_Zoom_Background__5_.png
 permalink: /
 notification: "✨ Be Future-Ready. Be Values-Driven. Be a Broadrician. ✨ Thank
   you for joining our Open House on 22 Nov 2025! 🌱 📣 Don’t miss the
