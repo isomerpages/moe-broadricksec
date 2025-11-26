@@ -63,8 +63,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/PSG/Slide15.jpg">
 </div>
-<p><strong><u>Get in Touch with us</u></strong>
+<p><strong><u>Get in Touch with us!</u></strong>
 </p>
-<p>Do follow us on Facebook to keep up to date on the latest PSG news and
-updates and our upcoming talks.</p>
+<p>Do follow us on <a href="https://www.facebook.com/groups/1366093990814371" rel="noopener nofollow" target="_blank">Broadrick PSG Facebook page </a>to
+keep up to date on the latest PSG news and updates and our upcoming talks.</p>
 <p></p>
