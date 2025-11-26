@@ -77,10 +77,16 @@ growth and interest in the Humanities.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Bronze Award</strong>
-<br>Devon Tham</p>
-<p>Joshua Chan</p>
-<p>Ong Wai Ching</p>
-<p>Tanusha Rajagopal</p>
+<br>2H3 Ong Wai Ching
+<br>2H4 Tanusha Rajagopal
+<br>2H4 Tham Soeng Wing, Devon
+<br>2H5 Chan Jian Hao, Joshua</p>
+<p></p>
+<p><strong>Bronze Award</strong>
+<br>2H2 Quek Kento
+<br>2H7 Daney Iryan Yap
+<br>2H7 Jenessa Wee
+<br>2H7 Sim Jing You</p>
 </td>
 </tr>
 <tr>
