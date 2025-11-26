@@ -4,7 +4,7 @@ permalink: /student-initiated-learning-sil/
 variant: tiptap
 description: ""
 ---
-<h3>Student Initiated Learning (SIL) </h3>
+<h3>Student Initiated Learning (SIL)</h3>
 <p></p>
 <p>SIL aims to empower students to take ownership of their well-being by
 exploring and engaging in a variety of activities that align with their
@@ -66,7 +66,7 @@ and maintain good CCA attendance and academic standing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football</p>
+<p>Football / Soccer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
