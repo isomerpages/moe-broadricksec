@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3s7dng0vx9djs.amplifyapp.com/
 prod: https://master.d3s7dng0vx9djs.amplifyapp.com/
-shareicon: /images/2024/2024_mission_vision.png
+shareicon: /images/BRD_2023_Zoom_Background__5_.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
