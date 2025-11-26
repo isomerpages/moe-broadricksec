@@ -2,11 +2,11 @@ collections:
   links:
     output: true
     order:
-      - Students/Student iCON.md
       - Students/.keep
       - Students/2025 Class Timetable.md
-      - Students/Student Resources.md
       - Students/Assessment Schedule.md
+      - Students/Student Resources.md
+      - Students/Student iCON.md
       - Students/Post Exam (ELE, HAP, Bridging).md
       - Students/Sec 3 Subject Combination Excercise.md
       - Students/Book Lists.md
