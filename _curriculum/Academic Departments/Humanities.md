@@ -115,8 +115,7 @@ growth and interest in the Humanities.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Selected for History Talent Development Programme (HTDP)</strong>
-</p>
-<p>3A7 Darren Harrison</p>
+<br>3A7 Darren Harrison</p>
 </td>
 </tr>
 <tr>
@@ -126,16 +125,7 @@ growth and interest in the Humanities.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Selected for History Talent Development Programme (HTDP)</strong>
-</p>
-<p>3A6 Richard Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br>3A6 Richard Goh</p>
 </td>
 </tr>
 </tbody>
