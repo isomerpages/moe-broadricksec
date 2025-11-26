@@ -23,9 +23,9 @@ learning outside of the classroom. Through CCAs, we allow students to:</p>
 </li>
 <li>
 <p>Form friendships and deepen sense of belonging to the school and community</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <h4>Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,10 +39,15 @@ learning outside of the classroom. Through CCAs, we allow students to:</p>
 </li>
 </ul>
 <p>CCA teachers will inform your child of the CCA schedule.</p>
+<p></p>
 <h4>Requirements</h4>
 <p>Students must achieve the minimum 75% attendance requirement.</p>
 <p></p>
-<p>You can refer to the following links for more information:</p>
+<h4>Contact Persons</h4>
+<p>For any queries, you may contact<strong> HOD/PE &amp; CCA</strong>, Mr
+Chin Wei Ming.</p>
+<p></p>
+<p>You may refer to the following links for more information:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
