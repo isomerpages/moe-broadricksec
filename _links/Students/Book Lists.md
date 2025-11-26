@@ -61,12 +61,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>For editing purposes</p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong><em>To download, right-click on the file and choose Save Target As or Save Link As (updated 11 November 2025)</em></strong>
-</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
