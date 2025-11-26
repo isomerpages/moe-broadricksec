@@ -817,7 +817,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 <p></p>
-<h3>Our Teachers</h3>
+<h3>Teachers</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
