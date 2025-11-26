@@ -72,6 +72,25 @@ growth and interest in the Humanities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024 Historical Scene Investigation (HSI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award</strong>
+<br>2A Lim Yi Xuan
+<br>2C Forte Agustinus Riyadi
+<br>2C Lee Jen Ee
+<br>2C Zahra Arif Khambaty</p>
+<p></p>
+<p><strong>Silver Award</strong>
+<br>2D Jacob Manuel Concha Tarcena
+<br>2D Nazeefa Nadeem
+<br>2D Yeoh Qiao Ling
+<br>2E Muhamed Danish Rezky Bin Muhammed Nizam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023 Historical Scene Investigation (HSI)</strong>
 </p>
 </td>
