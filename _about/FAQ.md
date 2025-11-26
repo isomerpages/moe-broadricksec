@@ -58,7 +58,15 @@ General Office.</p>
 <li>
 <p><strong>Where can I find out more about Direct School Admission (DSA) to Broadrick Secondary School? </strong>
 <br><a href="/distinctive-programmes/direct-school-admission" rel="noopener noreferrer nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission</a>
+<br>
+<br>
 </p>
+</li>
+<li>
+<p><strong>What talent domains are offered for DSA to Broadrick Secondary</strong>?
+<br>Co-Curricular Activities (CCA), Applied Learning Programme (ALP) in STEM,
+and Learning For Life Programme (LLP). Please refer to the above link for
+more information.</p>
 <hr>
 </li>
 </ol>
