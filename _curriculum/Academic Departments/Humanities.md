@@ -45,7 +45,7 @@ growth and interest in the Humanities.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Achievement</p>
+<p>Competition</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Students involved</p>
