@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA Infokit.md
+      - Co Curricular Activities (CCA).md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
