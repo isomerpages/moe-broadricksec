@@ -4,13 +4,13 @@ permalink: /student-initiated-learning-sil/
 variant: tiptap
 description: ""
 ---
-<h3>Student Initiated Learning (SIL)</h3>
+<h3><strong>Student Initiated Learning (SIL)</strong></h3>
 <p>Broadrick's Student Initiated Learning (SIL) for Active Lifestyle aims
 to <strong>empower students to take ownership of their well-being by exploring</strong> and
-engaging in a variety of activities that align with their interest. Structured
-training will be conducted with equipment and certified coaches. Students
-who perform well may be sent for national competitions, including the National
-School Games (NSG).</p>
+engaging in a variety of activities that align with their interest.</p>
+<p>Structured training will be conducted with equipment and certified coaches.
+Students who perform well may be sent for national competitions, including
+the National School Games (NSG).</p>
 <p>Students who opt for SIL are expected to commit to weekly training sessions,
 and maintain good CCA attendance and academic standing.</p>
 <p>
@@ -47,13 +47,13 @@ Education)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cricket</p>
+<p>Touch Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Field / Quadrangle</p>
+<p>Indoor Sports Hall (ISH)</p>
 </td>
 </tr>
 <tr>
@@ -76,50 +76,6 @@ Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Field</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Robotics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C03-01/02</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sepak Takraw</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Touch Rugby</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall (ISH)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall (ISH)</p>
 </td>
 </tr>
 </tbody>
