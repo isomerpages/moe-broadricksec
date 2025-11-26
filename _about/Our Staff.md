@@ -221,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Wellbeing</p>
+<p>HOD Student Well-being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andy Ng</p>
@@ -264,6 +264,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_keng_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_teck@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda De Souza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amanda_rachael_de_souza@moe.edu.sg" rel="noopener nofollow" target="_blank">amanda_rachael_de_souza@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -312,18 +324,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_jamie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jamie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amanda De Souza</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:amanda_rachael_de_souza@moe.edu.sg" rel="noopener nofollow" target="_blank">amanda_rachael_de_souza@moe.edu.sg</a>
 </p>
 </td>
 </tr>
