@@ -92,6 +92,7 @@ coaches. Students who opt for SIL are expected to commit to weekly sessions.</p>
 training will be conducted with equipment and certified coaches. These
 include: <strong>Badminton, Cricket, Floorball, Football, Robotics, Touch Rugby, Sepak Takraw, Volleyball</strong>.
 <br>
+<br>
 </p>
 </li>
 <li>
