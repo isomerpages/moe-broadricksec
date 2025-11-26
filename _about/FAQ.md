@@ -74,7 +74,7 @@ more information.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Where can I find out more about CCAs and related CCA matters in Broadrick Secondary School? </strong>
-<br><a href="https://www.broadricksec.moe.edu.sg/cca/cca-infokit-2022/" rel="noopener nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/cca/cca-infokit-2022/</a>
+<br><a href="https://www.broadricksec.moe.edu.sg/cca/co-curricular-activities/" rel="noopener nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/cca/co-curricular-activities/</a>
 </p>
 <p></p>
 </li>
