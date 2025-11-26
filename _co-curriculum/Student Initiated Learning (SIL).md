@@ -5,14 +5,17 @@ variant: tiptap
 description: ""
 ---
 <h3>Student Initiated Learning (SIL)</h3>
-<p></p>
-<p>SIL aims to empower students to take ownership of their well-being by
-exploring and engaging in a variety of activities that align with their
-interest. Structured training will be conducted with equipment and certified
-coaches. Students who perform well may be sent for national competitions,
-including the National School Games (NSG).</p>
+<p>Broadrick's Student Initiated Learning (SIL) for Active Lifestyle aims
+to <strong>empower students to take ownership of their well-being by exploring</strong> and
+engaging in a variety of activities that align with their interest. Structured
+training will be conducted with equipment and certified coaches. Students
+who perform well may be sent for national competitions, including the National
+School Games (NSG).</p>
 <p>Students who opt for SIL are expected to commit to weekly training sessions,
 and maintain good CCA attendance and academic standing.</p>
+<p>
+<br><strong>Teacher-in-charge</strong>: Mr Loh Shunheng Gideon (ST/ Physical
+Education)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
