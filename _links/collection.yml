@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Students/Book List.md
       - Students/.keep
       - Students/2025 Class Timetable.md
       - Students/Student Resources.md
