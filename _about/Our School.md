@@ -11,7 +11,7 @@ variant: tiptap
 <p>MRT:&nbsp;Dakota Station (1 min walk to side gate)</p>
 </li>
 <li>
-<p>Bus Services:&nbsp;10,16,30,31,32,33</p>
+<p>Bus Services:&nbsp;10, 16, 30, 31, 32, 33</p>
 </li>
 </ul>
 <p><strong>Contact Details</strong>
