@@ -45,10 +45,10 @@ growth and interest in the Humanities.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Achievement</p>
+<p>Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Students involved</p>
+<p>Award</p>
 </th>
 </tr>
 <tr>
@@ -72,15 +72,40 @@ growth and interest in the Humanities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024 Historical Scene Investigation (HSI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award</strong>
+<br>2A Lim Yi Xuan
+<br>2C Forte Agustinus Riyadi
+<br>2C Lee Jen Ee
+<br>2C Zahra Arif Khambaty</p>
+<p></p>
+<p><strong>Silver Award</strong>
+<br>2D Jacob Manuel Concha Tarcena
+<br>2D Nazeefa Nadeem
+<br>2D Yeoh Qiao Ling
+<br>2E Muhamed Danish Rezky Bin Muhammed Nizam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023 Historical Scene Investigation (HSI)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Bronze Award</strong>
-<br>Devon Tham</p>
-<p>Joshua Chan</p>
-<p>Ong Wai Ching</p>
-<p>Tanusha Rajagopal</p>
+<br>2H3 Ong Wai Ching
+<br>2H4 Tanusha Rajagopal
+<br>2H4 Tham Soeng Wing, Devon
+<br>2H5 Chan Jian Hao, Joshua</p>
+<p></p>
+<p><strong>Bronze Award</strong>
+<br>2H2 Quek Kento
+<br>2H7 Daney Iryan Yap
+<br>2H7 Jenessa Wee
+<br>2H7 Sim Jing You</p>
 </td>
 </tr>
 <tr>
@@ -90,8 +115,7 @@ growth and interest in the Humanities.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Selected for History Talent Development Programme (HTDP)</strong>
-</p>
-<p>3A7 Darren Harrison</p>
+<br>3A7 Darren Harrison</p>
 </td>
 </tr>
 <tr>
@@ -101,44 +125,12 @@ growth and interest in the Humanities.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Selected for History Talent Development Programme (HTDP)</strong>
-</p>
-<p>3A6 Richard Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br>3A6 Richard Goh</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>2024</strong>
-</p>
-<ul>
-<li>
-<p>NUS Geography Challenge&nbsp; - Certificate of Participation&nbsp;</p>
-</li>
-</ul>
-<p><strong>2022</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MOE History Challenge - 1 student selected for History Talent Development
-Programme (HTDP)</p>
-</li>
-</ul>
-<p><strong>2021</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MOE History Challenge - 1 student selected for History Talent Development
-Programme (HTDP)</p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">

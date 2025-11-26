@@ -90,14 +90,16 @@ coaches. Students who opt for SIL are expected to commit to weekly sessions.</p>
 <p><strong>What SIL programmes are offered?</strong>
 <br>We offer a wide variety of SILs for selected students, for which structured
 training will be conducted with equipment and certified coaches. These
-include: <strong>Badminton, Cricket, Floorball, Football, Robotics, Touch Rugby, Sepak Takraw, Volleyball</strong>.
+include: <strong>Badminton, Floorball, Football and Touch Rugby</strong>.
+Click <a href="https://www.broadricksec.moe.edu.sg/student-initiated-learning-sil/" rel="noopener nofollow" target="_blank">here</a> to
+find out more.
 <br>
 <br>
 </p>
 </li>
 <li>
 <p><strong>Can my child join a CCA and a SIL?</strong>
-<br>Yes, students may join both a CCA and a SIL, provided there are no clashes
+<br>Yes, students may join both a CCA and a SIL, provided there are <strong><u>no</u> </strong>clashes
 in the schedules</p>
 <p></p>
 </li>

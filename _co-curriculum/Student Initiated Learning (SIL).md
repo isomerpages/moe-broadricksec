@@ -13,6 +13,33 @@ Students who perform well may be sent for national competitions, including
 the National School Games (NSG).</p>
 <p>Students who opt for SIL are expected to commit to weekly training sessions,
 and maintain good CCA attendance and academic standing.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Football_04.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>Teacher-in-charge</strong>: Mr Loh Shunheng Gideon (ST/ Physical
 Education)</p>

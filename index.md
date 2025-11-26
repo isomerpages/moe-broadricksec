@@ -1,9 +1,9 @@
 ---
 layout: homepage
 title: Broadrick Secondary School
-description: A Choice School Providing Holistic Education || Nurturing
-  Broadricians To Be Future-Ready Learners Gratitude. Respect. Compassion (GRC)
-  Education
+description: "A Choice School Providing Holistic Education || Nurturing
+  Broadricians To Be Future-Ready Learners || #grceducation
+  #havefunwhiledoinggood #2:168"
 image: /images/BRD_2023_Zoom_Background__5_.png
 permalink: /
 notification: "✨ Be Future-Ready. Be Values-Driven. Be a Broadrician. ✨ Thank
