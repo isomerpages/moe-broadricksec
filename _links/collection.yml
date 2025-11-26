@@ -4,18 +4,19 @@ collections:
     order:
       - Students/.keep
       - Students/2025 Class Timetable.md
-      - Students/Student Resources.md
       - Students/Assessment Schedule.md
+      - Students/Student Resources.md
+      - Students/Student iCON.md
       - Students/Post Exam (ELE, HAP, Bridging).md
       - Students/Sec 3 Subject Combination Excercise.md
       - Students/Book Lists.md
-      - Students/Financial Assistance.md
       - Students/Useful Links.md
-      - Parents/Financial Support Scheme (FAS).md
       - Parents/.keep
+      - Parents/Book Lists.md
+      - Parents/Financial Support Scheme (FAS).md
       - Parents/Letters to Parents.md
       - Parents/Parents Gateway (PG).md
-      - Parents/Book Lists.md
+      - Parents/Personal Learning Devices (PLD).md
       - Parents/Polytechnic Early Admission Exercise.md
       - Teachers/.keep
       - Teachers/Others.md

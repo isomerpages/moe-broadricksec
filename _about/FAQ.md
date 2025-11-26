@@ -4,23 +4,27 @@ permalink: /faq/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Frequently Asked Questions:</strong></h4>
+<h4><strong>Broadrick Secondary School:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>How do I get to Broadrick Secondary School? <br></strong><a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/contact-us/</a>
+<p><strong>How do I get to Broadrick Secondary School? <br></strong><a href="https://www.broadricksec.moe.edu.sg/school/our-school/" rel="noopener nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/school/our-school/</a>
+<br>
 </p>
 </li>
 <li>
-<p><strong>How do I contact Broadrick Secondary School? <br><a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/contact-us/</a></strong>
+<p><strong>How do I contact Broadrick Secondary School? <br></strong><a href="https://www.broadricksec.moe.edu.sg/school/our-school/" rel="noopener nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/school/our-school/</a>
+<br>
 </p>
 </li>
 <li>
-<p><strong>How can I contact my child’s teacher? <br></strong><a href="/school/staff-information" rel="noopener noreferrer nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/school/staff-information/</a>
+<p><strong>How can I contact my child’s teacher? <br></strong><a href="https://www.broadricksec.moe.edu.sg/school/our-staff/" rel="noopener nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/school/our-staff/</a>
+<br>
 </p>
 </li>
 <li>
 <p><strong>How can I get info on my child’s examination schedule? </strong>
-<br><a href="/links/general/examination-timetable" rel="noopener noreferrer nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/links/general/examination-timetable/</a>
+<br><a href="https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/" rel="noopener nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/links/students/assessment-schedule/</a>
+<br>
 </p>
 </li>
 <li>
@@ -54,21 +58,48 @@ General Office.</p>
 <li>
 <p><strong>Where can I find out more about Direct School Admission (DSA) to Broadrick Secondary School? </strong>
 <br><a href="/distinctive-programmes/direct-school-admission" rel="noopener noreferrer nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/distinctive-programmes/direct-school-admission</a>
+<br>
+<br>
 </p>
+</li>
+<li>
+<p><strong>What talent domains are offered for DSA to Broadrick Secondary</strong>?
+<br>Co-Curricular Activities (CCA), Applied Learning Programme (ALP) in STEM,
+and Learning For Life Programme (LLP). Please refer to the above link for
+more information.</p>
 <hr>
 </li>
 </ol>
-<h4><strong>Co-Curricular Activities (CCA):</strong></h4>
+<h4><strong>Co-Curricular Activities (CCA) and Student-Initiated Learning (SIL):</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Where can I find out more about CCAs and related CCA matters in Broadrick Secondary School? </strong>
-<br><a href="/cca/uniformed-groups" rel="noopener noreferrer nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/cca/uniformed-groups</a>
+<br><a href="https://www.broadricksec.moe.edu.sg/cca/co-curricular-activities/" rel="noopener nofollow" target="_blank">https://www.broadricksec.moe.edu.sg/cca/co-curricular-activities/</a>
 </p>
 <p></p>
 </li>
 <li>
-<p><strong>Can my child join more than one CCA? <br></strong>Students may
-join more than one CCA provided there are no clashes in the schedules</p>
+<p><strong>What is Student-Initiated Learning (SIL) at Broadrick about?</strong>
+<br>SIL aims to empower students to take ownership of their well-being by
+exploring and engaging in a variety of activities that align with their
+interest. Structured training will be conducted with equipment and certified
+coaches. Students who opt for SIL are expected to commit to weekly sessions.</p>
+<p></p>
+</li>
+<li>
+<p><strong>What SIL programmes are offered?</strong>
+<br>We offer a wide variety of SILs for selected students, for which structured
+training will be conducted with equipment and certified coaches. These
+include: <strong>Badminton, Cricket, Floorball, Football, Robotics, Touch Rugby, Sepak Takraw, Volleyball</strong>.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>Can my child join a CCA and a SIL?</strong>
+<br>Yes, students may join both a CCA and a SIL, provided there are no clashes
+in the schedules</p>
+<p></p>
 </li>
 </ol>
 <hr>
@@ -76,6 +107,9 @@ join more than one CCA provided there are no clashes in the schedules</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Are students allowed to bring mobile phones to school?</strong> 
+<br>Students will lock up their mobile phones in personal lockers, and will <u>not</u> be
+permitted to use their mobile devices during school hours.
+<br>
 <br>Please refer to the <em>Student Handbook (pg. 25 - School Rules and Regulations)</em> on
 the use of electronic devices in school.</p>
 </li>

@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA Infokit.md
+      - Co Curricular Activities (CCA).md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
@@ -25,3 +25,4 @@ collections:
       - Club and Societies/Club and Societies.md
       - Club and Societies/Media Club.md
       - Club and Societies/Robotics.md
+      - Student Initiated Learning (SIL).md

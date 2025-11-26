@@ -4,6 +4,32 @@ permalink: /school/our-school/
 description: ""
 variant: tiptap
 ---
+<h3>School Information</h3>
+<p><strong>Address</strong>: 61 Dakota Crescent, Singapore 399935</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MRT:&nbsp;Dakota Station (1 min walk to side gate)</p>
+</li>
+<li>
+<p>Bus Services:&nbsp;10, 16, 30, 31, 32, 33</p>
+</li>
+</ul>
+<p><strong>Contact Details</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tel: 63445025</p>
+</li>
+<li>
+<p>Fax: 64471427</p>
+</li>
+<li>
+<p>Email: <a href="mailto:broadrick_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>broadrick_ss@moe.edu.sg</u></a>
+</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <h3>School Vision, Mission, Values</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VMV" src="/images/2024/2024_mission_vision.png">

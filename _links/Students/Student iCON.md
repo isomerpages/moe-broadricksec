@@ -1,19 +1,17 @@
 ---
-title: Student iCON Information
-permalink: /pdlp-info/student-icon/
-description: ""
+title: Student iCON
+permalink: /student-icon/
 variant: tiptap
+description: ""
+third_nav_title: Students
 ---
-<blockquote>
-<p>In the context of Singapore’s Ministry of Education (MOE), <strong>iCON</strong> stands
-for <strong>"Individualised CONnectivity"</strong>. It represents the government’s
-initiative to provide students and staff with a unified email and collaboration
-platform, enabling seamless communication, collaboration, and access to
-digital tools in the educational ecosystem.</p>
-</blockquote>
+<h3><strong>What is iCON?</strong></h3>
+<p><strong>iCON </strong>stands for "Individualised CONnectivity". It represents
+the government’s initiative to provide students and staff with a unified
+email and collaboration platform, enabling seamless communication, collaboration,
+and access to digital tools in the educational ecosystem.</p>
 <h3><strong>Frequently Asked Questions (FAQ)</strong></h3>
-<p><strong>Q1. What is the naming convention for the Student iCON email address?</strong> 
-<br>
+<p><strong>Q1. What is the naming convention for the Student iCON email address? </strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,9 +26,10 @@ digital tools in the educational ecosystem.</p>
 <li>
 <p>For students with identical full names, a numerical identifier is added
 (e.g., Jon_Tan_1, Jon_Tan_2) to differentiate email addresses.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Q2. How can my child log in to Student iCON?</strong>
+<p><strong>Q2. How can I log in to Student iCON?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

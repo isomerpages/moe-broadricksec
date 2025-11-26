@@ -1,19 +1,15 @@
 ---
-title: Personal Learning Device Information
-permalink: /pld-info/
-description: ""
+title: Personal Learning Devices (PLD)
+permalink: /personal-learning-devices-pld/
 variant: tiptap
+description: ""
+third_nav_title: Parents
 ---
-<h2><strong>MOE's Personal Learning Device (PLD) Initiative</strong></h2>
+<h3><strong>MOE's Personal Learning Device (PLD) Initiative</strong></h3>
 <h4><strong>(A) Resource for Parents</strong></h4>
-<blockquote>
 <p><strong>Parents' guide to PLDs for their child/ward</strong>
 </p>
-</blockquote>
 <ul data-tight="true" class="tight">
-<li>
-<p>2025 coming soon</p>
-</li>
 <li>
 <p><a href="/files/PDLP Info/2024/2024_PDLP_Student_Device_Information_Kit__Lenovo_.pdf" rel="noopener noreferrer nofollow" target="_blank">[LENOVO] PDLP - Student Device Information Kit (2024)</a>
 </p>
@@ -23,56 +19,54 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<blockquote>
-<p><strong>MOE Parent Handbook I (updated 2025)</strong>
+<p><strong>MOE Parent Handbooks</strong>
 </p>
-</blockquote>
-<p>A quick guide to the National Digital Literacy Programme (NDLP), and parenting
-tips for helping your child learn with their personal learning device (PLD).
-<br><a href="/files/PDLP Info/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook I</a>
-</p>
-<blockquote>
-<p><strong>MOE Parent Handbook II (updated 2025)</strong>
-</p>
-</blockquote>
-<p>Overview of DMA, and more parenting tips on how to help your child learn
-with PLD.
-<br><a href="/files/PDLP Info/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook II</a>
-</p>
-<h5><strong>(B) Device Management Application (DMA)</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/PDLP Info/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook I</a> :
+A quick guide to the National Digital Literacy Programme (NDLP), and parenting
+tips for helping your child learn with their personal learning device (PLD).</p>
+</li>
+<li>
+<p><a href="/files/PDLP Info/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook II</a> :
+Overview of DMA, and more parenting tips on how to help your child learn
+with PLD.</p>
+</li>
+</ol>
+<p></p>
+<h4><strong>(B) Device Management Application (DMA)</strong></h4>
 <p>In rolling out Personal Learning Devices (PLDs) for students, MOE is acutely
 aware of concerns regarding students’ cyber wellness.</p>
-</li>
-<li>
-<p>A <strong>DMA</strong> will come pre-installed on all PLDs purchased through
-the school and will be installed on any student-owned devices parents/guardians
-opt for the student to use in lieu of the PLD, subject to parental/guardian
+<p>A DMA will come pre-installed on all PLDs purchased through the school
+and will be installed on any student-owned devices parents/guardians opt
+for the student to use in lieu of the PLD, subject to parental/guardian
 consent.</p>
-</li>
-<li>
 <p>The Device Management Application (DMA) solution for Chromebook PLDs is
 LightSpeed Systems®.&nbsp;&nbsp;During school hours, the Default Setting
 will apply.&nbsp;&nbsp;</p>
-</li>
-<li>
 <p>The DMA has 3 main components which will support the use of the PLD in
 the classroom and safeguard students’ cyber wellness:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>(a)&nbsp;&nbsp; Classroom Management Service</strong>. To help
+teachers manage students’ use of the PLD during lesson time to improve
+classroom management and support effective teaching and learning by collecting
+data on usage by the student, such as the websites accessed on the PLD.</p>
 </li>
-</ol>
-<p>(a)&nbsp;&nbsp; <u>Classroom Management Service</u>. To help teachers manage
-students’ use of the PLD during lesson time to improve classroom management
-and support effective teaching and learning by collecting data on usage
-by the student, such as the websites accessed on the PLD.</p>
-<p>(b)&nbsp;&nbsp; <u>Mobile Device Management Service</u>. To help update
-and manage the PLD, protect the PLD from malicious software, and protects
-students from objectionable internet content by monitoring, filtering,
-and limiting the type of websites accessible to the student.</p>
-<p>(c)&nbsp;&nbsp; <u>Usage Management Service</u>. To enable school and/or
-parents/guardians to better supervise and set helpful limits for students’
-use of PLD after school by placing restrictions on students’ screen time
-to prevent cyber addiction.</p>
+<li>
+<p><strong>(b)&nbsp;&nbsp; Mobile Device Management Service</strong>. To
+help update and manage the PLD, protect the PLD from malicious software,
+and protects students from objectionable internet content by monitoring,
+filtering, and limiting the type of websites accessible to the student.</p>
+</li>
+<li>
+<p><strong>(c)&nbsp;&nbsp; Usage Management Service</strong>. To enable school
+and/or parents/guardians to better supervise and set helpful limits for
+students’ use of PLD after school by placing restrictions on students’
+screen time to prevent cyber addiction.</p>
+<p></p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -135,7 +129,8 @@ device after school hours to be regulated by the DMA at all.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>(C) Change of After-School Device Management Application (DMA) Option (Default / Option A / Option B)</strong></h5>
+<h4><strong>(C) Change of After-School Device Management Application (DMA) Option (Default / Option A / Option B)</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For parents who would like to amend your after-school DMA option, you
