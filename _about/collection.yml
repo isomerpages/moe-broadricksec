@@ -2,10 +2,10 @@ collections:
   about:
     output: true
     order:
-      - Our Staff/Administrative and Support.md
+      - Our Staff/.keep
       - Our Staff/Key Personnel.md
       - Our Staff/Character Coaches.md
-      - Our Staff/.keep
+      - Our Staff/Administrative and Support.md
       - Principal’s Message.md
       - Our Heritage.md
       - Our School.md
