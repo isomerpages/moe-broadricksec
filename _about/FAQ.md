@@ -107,6 +107,9 @@ in the schedules</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Are students allowed to bring mobile phones to school?</strong> 
+<br>Students will lock up their mobile phones in personal lockers, and will <u>not</u> be
+permitted to use their mobile devices during school hours.
+<br>
 <br>Please refer to the <em>Student Handbook (pg. 25 - School Rules and Regulations)</em> on
 the use of electronic devices in school.</p>
 </li>
