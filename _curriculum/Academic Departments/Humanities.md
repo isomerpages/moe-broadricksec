@@ -19,16 +19,17 @@ and reasoning skills</p>
 knowledge.</p>
 </li>
 <li>
-<p><strong>Active use of technology</strong> - engage students&nbsp;</p>
+<p><strong>Active use of technology</strong> - engage students&nbsp;meaningfully
+in digital environments to facilitate diverse learning experiences</p>
 </li>
 <li>
-<p><strong>Investigations</strong> - to engage in the real-world application
-of the knowledge and skills learnt in these subjects</p>
+<p><strong>Humanities Investigations</strong> - introduce students to authentic,
+real-world application of the knowledge and skills learnt in these subjects</p>
 </li>
 <li>
-<p><strong>Speaker series</strong> -academics and distinguished industry representatives
-are invited to share a range of topics related to the humanities with our
-students.&nbsp;&nbsp;</p>
+<p><strong>Speaker series</strong> - academics and distinguished industry
+representatives are invited to share a range of topics related to the humanities
+with our students.&nbsp;&nbsp;</p>
 </li>
 <li>
 <p><strong>Humanities Talent Development Programme</strong> - deepen students’
@@ -53,6 +54,16 @@ growth and interest in the Humanities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025 NUS Geography Challenge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze Award (Individual)</strong>
+<br>4F Pang Rui Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2025 Historical Scene Investigation (HSI)</strong>
 </p>
 </td>
@@ -61,7 +72,7 @@ growth and interest in the Humanities.&nbsp;</p>
 <br>2C Anica Sameera Alexchandar
 <br>2D Chay Ching Yu Athena
 <br>2E Ee Zhao Yang
-<br>2E Fisher Hannah Violent Chen</p>
+<br>2E Fisher Hannah Violet Chen</p>
 <p></p>
 <p><strong>Silver Award</strong>
 <br>2A Joofiq Faheem Bin Fahizal
