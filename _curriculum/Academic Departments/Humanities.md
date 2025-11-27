@@ -27,9 +27,9 @@ in digital environments to facilitate diverse learning experiences</p>
 real-world application of the knowledge and skills learnt in these subjects</p>
 </li>
 <li>
-<p><strong>Speaker series</strong> -academics and distinguished industry representatives
-are invited to share a range of topics related to the humanities with our
-students.&nbsp;&nbsp;</p>
+<p><strong>Speaker series</strong> - academics and distinguished industry
+representatives are invited to share a range of topics related to the humanities
+with our students.&nbsp;&nbsp;</p>
 </li>
 <li>
 <p><strong>Humanities Talent Development Programme</strong> - deepen students’
