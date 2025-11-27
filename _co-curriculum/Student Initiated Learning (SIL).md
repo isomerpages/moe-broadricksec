@@ -73,6 +73,7 @@ Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football / Soccer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
