@@ -19,11 +19,12 @@ and reasoning skills</p>
 knowledge.</p>
 </li>
 <li>
-<p><strong>Active use of technology</strong> - engage students&nbsp;</p>
+<p><strong>Active use of technology</strong> - engage students&nbsp;meaningfully
+in digital environments to facilitate diverse learning experiences</p>
 </li>
 <li>
-<p><strong>Investigations</strong> - to engage in the real-world application
-of the knowledge and skills learnt in these subjects</p>
+<p><strong>Humanities Investigations</strong> - introduce students to authentic,
+real-world application of the knowledge and skills learnt in these subjects</p>
 </li>
 <li>
 <p><strong>Speaker series</strong> -academics and distinguished industry representatives
