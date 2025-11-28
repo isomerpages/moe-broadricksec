@@ -72,6 +72,10 @@ side gate via sheltered walkway)</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC_Mural.jpg">
+</div>
 <h3>School Crest</h3>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/school%20flag1.jpg">
