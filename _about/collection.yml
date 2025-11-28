@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
-      - Our Broadricians/Broadrick in the Spotlight.md
-      - Our Broadricians/Broadrician Outcomes.md
       - Our Broadricians/.keep
+      - Our Broadricians/Broadrician Outcomes.md
+      - Our Broadricians/Broadrick in the Spotlight.md
       - Principal’s Message.md
       - Our Heritage.md
       - Our School.md
