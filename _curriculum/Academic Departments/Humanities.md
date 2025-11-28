@@ -113,8 +113,8 @@ growth and interest in the Humanities.&nbsp;</p>
 <br>2H5 Chan Jian Hao, Joshua</p>
 <p></p>
 <p><strong>Bronze Award</strong>
-<br>2H2 Sim Jing You
 <br>2H2 Quek Kento
+<br>2H2 Sim Jing You
 <br>2H7 Daney Iryan Yap
 <br>2H7 Jenessa Wee</p>
 </td>
