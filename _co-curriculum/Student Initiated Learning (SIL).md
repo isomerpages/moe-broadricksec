@@ -19,9 +19,8 @@ and maintain good CCA attendance and academic standing.</p>
 <p>
 <br><strong>Teacher-in-charge</strong>: Mr Loh Shunheng Gideon (ST/ Physical
 Education)</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -31,15 +30,13 @@ Education)</p>
 <p>SIL Activity</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Training Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
+<p>Training Day &amp; Venue</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p><strong>Badminton</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Badminton_04.jpg">
@@ -47,14 +44,13 @@ Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>School Hall</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Touch Rugby</p>
+<p><strong>Touch Rugby</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Touch_13.jpg">
@@ -62,14 +58,13 @@ Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Floorball</p>
+<p><strong>Floorball</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Floorball_01.jpg">
@@ -77,14 +72,13 @@ Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football / Soccer</p>
+<p><strong>Football / Soccer</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Football_05.jpg">
@@ -92,8 +86,6 @@ Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>School Field</p>
 </td>
 </tr>
