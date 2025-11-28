@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Football_09.jpg">
 </div>
