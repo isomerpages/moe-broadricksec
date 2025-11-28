@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: Our Staff
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Staff_bonding.jpg">
+</div>
 <h3>Sec 1 Character Coaches</h3>
 <table style="minWidth: 75px">
 <colgroup>
