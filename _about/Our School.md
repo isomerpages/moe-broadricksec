@@ -4,6 +4,10 @@ permalink: /school/our-school/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_School_facade.jpg">
+</div>
 <h3>School Information</h3>
 <p><strong>Address</strong>: 61 Dakota Crescent, Singapore 399935</p>
 <ul data-tight="true" class="tight">
