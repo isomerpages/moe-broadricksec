@@ -88,26 +88,17 @@ and experiences.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of competition</strong>
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position</strong>
+<p><strong>Achievement</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-dazzled Music &amp; Dance Festival</p>
+<p>2025 B-dazzled Music &amp; Dance Festival</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diamond Award</p>
@@ -115,16 +106,7 @@ and experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-dazzled Music &amp; Dance Festival</p>
+<p>2024 B-dazzled Music &amp; Dance Festival</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Platinum Award</p>
