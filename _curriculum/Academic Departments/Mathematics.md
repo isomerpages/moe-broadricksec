@@ -78,6 +78,44 @@ Olympiad (SMO) and the Singapore and Asian Schools Math Olympiad (SASMO).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025 Singapore Mathematical Olympiad (SMO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze Award</strong>
+<br>3A Wu Ruoyu
+<br>3C Chotiwattapan Kittisak (Mark)
+<br>4F Eisma Kieron Anilae Buenaventura
+<br>4F Wang Zhihan</p>
+<p></p>
+<p><strong>Honourable Mention</strong>
+<br>4F Hatim bin Muhammad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Singapore &amp; Asian Schools Math Olympiad (SASMO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+<br>4F Wu Jinze</p>
+<p></p>
+<p><strong>Silver Award</strong>
+<br>2B Sahil Sahoo
+<br>3B Luo Manjia
+<br>4D Zhou Xinchen
+<br>4D Gong Yiduo</p>
+<p></p>
+<p><strong>Bronze Award</strong>
+<br>2F Huang Yu Chen
+<br>3E Jiang Keren
+<br>4D Dantasha Tan Si Yu
+<br>4F Wang Yiting (Daisy)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2024 Singapore Mathematical Olympiad (SMO)</strong>
 </p>
 </td>
@@ -88,7 +126,7 @@ Olympiad (SMO) and the Singapore and Asian Schools Math Olympiad (SASMO).</p>
 <p><strong>Honourable Mention</strong>
 <br>3D Bao Rongcheng
 <br>4G Zed Lim Jun Je
-<br>4H Zhu Zetong</p>
+<br>4H Zhu Zetong (Jacky)</p>
 </td>
 </tr>
 <tr>
