@@ -6,10 +6,7 @@ description: ""
 third_nav_title: Our Broadricians
 ---
 <h2>2025</h2>
-<h4>How these community champions are building a caring S’pore (Straits Times, Jul 2025)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/Media Feature/2025_VIA.png">
-</div>
+<h4>How these community champions are building a caring S’pore (Straits Times, Jul 2025)</h4><a class="isomer-image-wrapper" href="https://www.straitstimes.com/singapore/from-fitness-buddies-to-student-mentors-community-champions-building-a-caring-spore-pa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/Media Feature/2025_VIA.png"></a>
 <h4>"A short story in my screenwriting" competition that filmed the stories of Singaporean writers (Tamil Murasu, Apr 2025)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/Media Feature/2025_TamilMurasu_02.jpg">
