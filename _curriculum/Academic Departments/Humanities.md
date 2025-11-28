@@ -113,10 +113,10 @@ growth and interest in the Humanities.&nbsp;</p>
 <br>2H5 Chan Jian Hao, Joshua</p>
 <p></p>
 <p><strong>Bronze Award</strong>
+<br>2H2 Sim Jing You
 <br>2H2 Quek Kento
 <br>2H7 Daney Iryan Yap
-<br>2H7 Jenessa Wee
-<br>2H7 Sim Jing You</p>
+<br>2H7 Jenessa Wee</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ growth and interest in the Humanities.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selected for History Talent Development Programme (HTDP)</strong>
+<p><strong>History Talent Development Programme (HTDP)</strong>
 <br>3A7 Darren Harrison</p>
 </td>
 </tr>
@@ -135,7 +135,7 @@ growth and interest in the Humanities.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selected for History Talent Development Programme (HTDP)</strong>
+<p><strong>History Talent Development Programme (HTDP)</strong>
 <br>3A6 Richard Goh</p>
 </td>
 </tr>
