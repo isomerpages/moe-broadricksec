@@ -8,8 +8,8 @@ variant: tiptap
 <p><strong>Address</strong>: 61 Dakota Crescent, Singapore 399935</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>MRT</strong>:&nbsp;CC8 Dakota Station (1 min walk to side gate
-via sheltered walkway)</p>
+<p><strong>MRT</strong>:&nbsp;CC8 Dakota Station (<strong>1 min walk</strong> to
+side gate via sheltered walkway)</p>
 </li>
 <li>
 <p><strong>Bus </strong>Services:&nbsp;10, 16, 30, 31, 32, 33</p>
