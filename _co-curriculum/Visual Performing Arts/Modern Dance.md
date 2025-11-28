@@ -74,40 +74,25 @@ shared goals.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of competition</strong>
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position</strong>
+<p><strong>Award</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation for Dance</p>
+<p>2025 SYF Arts Presentation for Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>2024</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Tampines Central: Open Stage Dance Competition 2024 ‘Harmony in Motion’&nbsp;</p>
+<p>2024 Tampines Central: Open Stage Dance Competition ]‘Harmony in Motion’&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Position</p>
