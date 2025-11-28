@@ -1,8 +1,9 @@
 ---
-title: Our Broadricians
-permalink: /school/our-broadricians/
+title: Broadrician Outcomes
+permalink: /school/our-broadricians/broadrician-outcomes/
 description: ""
 variant: tiptap
+third_nav_title: Our Broadricians
 ---
 <p></p>
 <div class="isomer-image-wrapper">

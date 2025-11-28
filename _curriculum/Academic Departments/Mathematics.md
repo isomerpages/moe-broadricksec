@@ -12,7 +12,7 @@ third_nav_title: Academic Departments
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>    Secondary One: Sudoku Enrichment and Digital Literacy</strong>
+<p><strong>Secondary One: Sudoku Enrichment and Digital Literacy</strong>
 </p>
 <ul>
 <li>
@@ -23,7 +23,7 @@ third_nav_title: Academic Departments
 and personal tasks.</p>
 </li>
 </ul>
-<p><strong>     Secondary Two: Mathletics Learning Journey</strong>&nbsp;</p>
+<p><strong>Secondary Two: Mathletics Learning Journey</strong>&nbsp;</p>
 <ul>
 <li>
 <p>Encourages students to connect mathematical concepts within and across
@@ -34,7 +34,7 @@ subjects in real-world contexts.</p>
 tasks.</p>
 </li>
 </ul>
-<p><strong>     Secondary Three: Math Discovery Day&nbsp;</strong>
+<p><strong>Secondary Three: Math Discovery Day&nbsp;</strong>
 </p>
 <ul>
 <li>
@@ -61,8 +61,7 @@ Olympiad (SMO) and the Singapore and Asian Schools Math Olympiad (SASMO).</p>
 </li>
 </ul>
 <h3><strong>Our Achievements</strong></h3>
-<p><strong>2024 Singapore &amp; Asian Schools Math Olympiad (SASMO)</strong>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,124 +69,92 @@ Olympiad (SMO) and the Singapore and Asian Schools Math Olympiad (SASMO).</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Award</strong>
+<p><strong>2025 Singapore Mathematical Olympiad (SMO)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name / Class&nbsp;</strong>
+<p><strong>Bronze Award</strong>
+<br>3A Wu Ruoyu
+<br>3C Chotiwattapan Kittisak (Mark)
+<br>4F Eisma Kieron Anilae Buenaventura
+<br>4F Wang Zhihan</p>
+<p></p>
+<p><strong>Honourable Mention</strong>
+<br>4F Hatim bin Muhammad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Singapore &amp; Asian Schools Math Olympiad (SASMO)</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p>Bronze</p>
-</td>
 <td rowspan="1" colspan="1">
-<p>Jin Beirui 3F</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yang Yihan 3C</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rao Chuqi 4G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fu Xichang 4H</p>
+<p><strong>Gold Award</strong>
+<br>4F Wu Jinze</p>
+<p></p>
+<p><strong>Silver Award</strong>
+<br>2B Sahil Sahoo
+<br>3B Luo Manjia
+<br>4D Zhou Xinchen
+<br>4D Gong Yiduo</p>
+<p></p>
+<p><strong>Bronze Award</strong>
+<br>2F Huang Yu Chen
+<br>3E Jiang Keren
+<br>4D Dantasha Tan Si Yu
+<br>4F Wang Yiting (Daisy)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Su Jixin 4H</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p>Silver&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gong Yiduo 3F</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wu Jinze 3F</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zhou Xinchen 3D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>You Ran 4H</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Forte Augustinus Riyadi 2C&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>2024 Singapore Mathematical Olympiad (SMO)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award </strong>
+<br>3F Wang Zhihan</p>
+<p></p>
+<p><strong>Honourable Mention</strong>
+<br>3D Bao Rongcheng
+<br>4G Zed Lim Jun Je
+<br>4H Zhu Zetong (Jacky)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Award</strong>
+<p><strong>2024 Singapore &amp; Asian Schools Math Olympiad (SASMO)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name / Class&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p>Honourable Mention</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bao Rong Cheng, Robin 3D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zed Lim Jun Je 4G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Zhu Zetong 4H</p>
-</td>
-</tr>
-<tr></tr>
-<tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Silver Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wang Zhihan 3F</p>
+<p><strong>Gold Award</strong>
+<br>2C Forte Augustinus Riyadi</p>
+<p></p>
+<p><strong>Silver Award</strong>
+<br>3D Zhou Xinchen
+<br>3F Gong Yiduo
+<br>3F Wu Jinze
+<br>4H You Ran</p>
+<p></p>
+<p><strong>Bronze Award</strong>
+<br>3C Yang Yihan
+<br>3F Jin Beirui
+<br>4G Rao Chuqi
+<br>4H Fu Xichang</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
