@@ -8,7 +8,7 @@ description: Sec 1 registration
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024/SchoolLogo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sec_1.jpg">
 </div>
 <p><strong>Dear Sec 1 Students,</strong>
 </p>
