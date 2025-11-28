@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Our Broadricians
 ---
-<p></p>
 <h2>2025</h2>
 <p></p>
 <h4>"A short story in my screenwriting" competition that filmed the stories of Singaporean writers (Tamil Murasu, Apr 2025)</h4>
