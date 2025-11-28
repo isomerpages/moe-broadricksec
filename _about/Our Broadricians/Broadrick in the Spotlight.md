@@ -24,3 +24,9 @@ third_nav_title: Our Broadricians
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/scyJ61G6yPE?si=V5XaUbWZPw3d7Hmm"></iframe>
 </div>
 <p></p>
+<h4>Singaporeans exploring various Formula 1 career paths (Straits Times, 2023 Sep)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/Media Feature/2023_Cricket_01.png">
+</div>
+<p></p>
