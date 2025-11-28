@@ -40,6 +40,10 @@ Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Badminton</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Badminton_04.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
@@ -51,6 +55,10 @@ Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Touch Rugby</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Touch_13.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
@@ -62,6 +70,10 @@ Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Floorball</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Floorball_01.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
@@ -74,6 +86,9 @@ Education)</p>
 <td rowspan="1" colspan="1">
 <p>Football / Soccer</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Photos_update/SIL_Football_05.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
