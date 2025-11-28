@@ -83,11 +83,11 @@ talents and develop their appreciation for music.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of competition</strong>
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position</strong>
+<p><strong>Achievement</strong>
 </p>
 </td>
 </tr>
