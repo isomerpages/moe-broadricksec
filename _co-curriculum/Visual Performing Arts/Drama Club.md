@@ -110,11 +110,11 @@ develop empathy and critical thinking skills.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of competition</strong>
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position</strong>
+<p><strong>Award</strong>
 </p>
 </td>
 </tr>
