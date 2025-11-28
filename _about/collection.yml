@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - Our Broadricians/Our Broadricians.md
+      - Our Broadricians/Broadrician Outcomes.md
       - Our Broadricians/.keep
       - Principal’s Message.md
       - Our Heritage.md
