@@ -87,7 +87,6 @@ period, and feedback from teachers.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Key Events</h4>
 <table style="minWidth: 50px">
 <colgroup>
