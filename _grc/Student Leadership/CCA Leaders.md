@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Student Leadership
 ---
 <h3>CCA Leadership</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/StudentLeader_02.jpg">
 </div>
@@ -14,7 +13,6 @@ third_nav_title: Student Leadership
 CCA groups. CCA Leaders set a clear direction for the group, foster camaraderie
 between their members, and lead their teams in competitions to do the school
 proud.</p>
-<p></p>
 <h4>Uniformed Groups</h4>
 <table style="minWidth: 75px">
 <colgroup>

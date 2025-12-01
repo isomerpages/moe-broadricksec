@@ -28,10 +28,46 @@ the Way</p>
 Citizens</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/Orientation_03.jpg">
 </div>
+<p></p>
+<p></p>
+<h4>2:168 model for Values-In-Action</h4>
+<p>Have you thought about contributing back to the community? Can you invest
+2 out of the 168 hours in a week to work for the good of society? At Broadrick,
+we empower our staff and our students to have fun while doing good, by
+being ready to serve and living out our school's GRC values in action.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/VIA/VIA_05.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/VIA/VIA_03.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/VIA/VIA_01.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>GRC Connection Day</h4>
 <p>GRC Connection Day at Broadrick Secondary School is a vibrant celebration
 of our core values—Gratitude, Respect and Compassion. Held on the last

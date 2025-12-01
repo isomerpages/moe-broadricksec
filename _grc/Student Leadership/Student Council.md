@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Student Leadership
 ---
 <h3>Student Council</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/StudentLeader_08.jpg">
 </div>
@@ -88,7 +87,6 @@ period, and feedback from teachers.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Key Events</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -182,7 +180,7 @@ period, and feedback from teachers.</p>
 <p>26th Student Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4G Linda Lee Gia Linh</p>
+<p>Linda Lee Gia Linh</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +188,7 @@ period, and feedback from teachers.</p>
 <p>25th Student Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4E Dewa Tan Shu Hui</p>
+<p>Dewa Tan Shu Hui</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +196,7 @@ period, and feedback from teachers.</p>
 <p>24th Student Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4R7 Charis Lim Wenting</p>
+<p>Charis Lim Wenting</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +204,7 @@ period, and feedback from teachers.</p>
 <p>23rd Student Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4R6 Chew Yi Ming</p>
+<p>Chew Yi Ming</p>
 </td>
 </tr>
 </tbody>

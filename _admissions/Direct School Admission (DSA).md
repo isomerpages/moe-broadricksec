@@ -4,7 +4,8 @@ permalink: /distinctive-programmes/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Direct School Admission – Secondary (DSA-Sec) Exercise 2025</strong><br><strong>(For Secondary 1 Admission in 2026) - CCA, ALP STEM &amp; LLP</strong></h4>
+<h3><strong>Direct School Admission – Secondary (DSA-Sec) Exercise</strong></h3>
+<h4><strong>For Secondary 1 Admission in 2026: CCA, ALP STEM &amp; LLP</strong></h4>
 <hr>
 <blockquote>
 <ol data-tight="true" class="tight">

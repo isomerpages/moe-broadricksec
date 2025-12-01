@@ -8,9 +8,9 @@ third_nav_title: Our Broadricians
 <h3>Broadrician of the Year</h3>
 <p>The Broadrician of the Year Award is presented to a student who excels
 in various aspects of their school life, demonstrating outstanding achievements
-and qualities. This award is not only based on academic excellence, but
-also encompasses the GRC values, leadership and positive contributions
-to the school community and beyond.</p>
+and commendable character qualities. This award is based on academic excellence
+and clear demonstration of the school's GRC values, student leadership,
+and positive contributions to the school community and beyond.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
