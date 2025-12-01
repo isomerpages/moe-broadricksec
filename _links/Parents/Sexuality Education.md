@@ -45,14 +45,14 @@ responsible decisions for yourself, your family and society; and</p>
 <p>(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click&nbsp;<a href="https://web.archive.org/web/20240703085744/https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-educatio" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
 <h3>Overview of Broadrick Secondary School's Sexuality Education Programme for 2024</h3>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum.&nbsp;The
 content for Sexuality Education is grouped into five main themes: Human
 Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour,
-and, Culture, Society and Law. You may click&nbsp;<a href="https://web.archive.org/web/20240703085744/https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;&nbsp;for
+and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:
@@ -129,7 +129,7 @@ and&nbsp;understand how to build healthy and supportive relationships,
 both online and offline.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br></em> recognise
+<p><em>recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br></em> recognise
 that there are different forms of love (e.g. familial, platonic, romantic
 love)
 <br>* recognise the importance and understand what builds healthy and supportive
@@ -261,7 +261,7 @@ identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br></em> develop
+<p><em>know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br></em> develop
 an appreciation of one’s own unique qualities and characteristics as a
 male or female
 <br>
@@ -319,7 +319,7 @@ aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br></em> recognise
+<p><em>recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br></em> recognise
 one’s vulnerability to risky situations and the importance of exercising
 discretion to reduce risks and avoid negative consequences, both offline
 and online</p>
@@ -378,7 +378,7 @@ Students will also learn that maturity and readiness are important when
 entering into a dating relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline<br><br></em> understand
+<p><em>know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline<br><br></em> understand
 that expectations of oneself and others may differ and can affect one’s
 emotions, thoughts and behaviours
 <br>
@@ -408,7 +408,7 @@ that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges<br><br></em> know
+<p><em>know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges<br><br></em> know
 that a decision to end a relationship will have consequences on oneself
 and others
 <br>
@@ -443,7 +443,7 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them<br><br></em> understand
+<p><em>recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them<br><br></em> understand
 that we strengthen our character when we commit to sound values-based viewpoints
 (e.g. respect for life) and decisions, and speak and act in alignment with
 our beliefs</p>
@@ -503,7 +503,7 @@ to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br><br></em> understand
+<p><em>understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br><br></em> understand
 what gender stereotypes comprise, e.g. notions of masculinity and femininity
 vary over time and space, and are shaped by societal expectations
 <br>
@@ -536,7 +536,7 @@ school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support<br><br></em> recognise
+<p><em>know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support<br><br></em> recognise
 emotions caused by traumatic situations, e.g. bullying, abuse and dating
 violence, and understand the physiological and psychological, social impact
 on victims
@@ -573,7 +573,7 @@ to marriage is understanding the other person’s perspective and effectively
 communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions<br><br></em> know
+<p><em>know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions<br><br></em> know
 that marriage entails a union between a man and a woman based on love,
 trust, commitment, and requires mutual effort
 <br>
