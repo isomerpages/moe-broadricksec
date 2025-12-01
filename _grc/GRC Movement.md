@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/GRC_Mural.jpg">
 </div>
 <p></p>
-<h4>Vision: Students Who Sparkle. Leaders Who Inspire.</h4>
+<h4><strong>Vision</strong>: Students Who Sparkle. Leaders Who Inspire.</h4>
 <p>We seek to nurture a generation of Broadricians who embody Gratitude,
 Respect and Compassion — not just as personal values, but as catalysts
 for building stronger, kinder communities.</p>
