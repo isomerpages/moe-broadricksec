@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mathematics.md
       - Humanities.md
       - English and English Literature.md
       - Craft and Technology.md
