@@ -2,7 +2,7 @@ collections:
   grc:
     output: true
     order:
+      - GRC Movement.md
+      - Character and Citizenship Education (CCE).md
       - GEAR Up.md
       - Learning for Life (LLP).md
-      - Character and Citizenship Education (CCE).md
-      - GRC Movement.md
