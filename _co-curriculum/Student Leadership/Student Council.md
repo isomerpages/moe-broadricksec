@@ -135,14 +135,31 @@ period, and feedback from teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/Orientation_01.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Youth Day Celebrations</p>
+<p>Student Leaders' Investiture</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/StudentLeader_01.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Minister's Visit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/Minister_01.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -151,6 +168,9 @@ period, and feedback from teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/TchrDay_01.jpg">
+</div>
 </td>
 </tr>
 <tr>
