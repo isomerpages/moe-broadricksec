@@ -1,0 +1,4 @@
+collections:
+  grc:
+    output: true
+    order: []
