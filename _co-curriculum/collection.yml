@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Learning for Life (LLP).md
       - Co Curricular Activities (CCA).md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
@@ -27,4 +26,5 @@ collections:
       - Club and Societies/Media Club.md
       - Club and Societies/Robotics.md
       - Student Initiated Learning (SIL).md
+      - Learning for Life (LLP).md
       - GEAR UP.md
