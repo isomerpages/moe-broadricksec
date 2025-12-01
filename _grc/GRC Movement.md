@@ -7,9 +7,8 @@ description: ""
 <h3>GRC Movement</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC_Mural.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/GRC_Mural.jpg">
 </div>
-<p></p>
 <p>At Broadrick, we guide our students to demonstrate Gratitude, Respect,
 and Compassion at home, in school, and throughout the community.</p>
 <p></p>
