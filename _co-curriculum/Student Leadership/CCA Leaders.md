@@ -43,7 +43,7 @@ proud.</p>
 <p>Unit Sergeant Major of National Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D ASHTON ONG KANG JUN</p>
+<p>3D Ashton Ong Kang Jun</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ proud.</p>
 <p>Assistant Unit Sergeant Major of National Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F LAKSARI KAYS</p>
+<p>3F Laksari Kays</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ proud.</p>
 <p>President of National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B MUHAMMED HAMDAN</p>
+<p>3B Muhammed Hamdan</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ proud.</p>
 <p>Vice-President of National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B SAMY PRAVIN</p>
+<p>3B Samy Pravin</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ proud.</p>
 <p>Chairperson of Red Cross Youth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F HARVARD TAN PANG KIAT (CHEN BANGJIE)</p>
+<p>3F Harvard Tan Pang Kiat (Chen Bangjie)</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ proud.</p>
 <p>Vice-Chairperson of Red Cross Youth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D RAMASAMY YUVANAKRISHNA</p>
+<p>3D Ramasamy Yuvanakrishna</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ proud.</p>
 <p>Assistant Company Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A AMALYNA 'AYUNIE BINTI MOHAMED ANWAR</p>
+<p>3A Amalyna 'Ayunie binti Mohamed Anwar</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ proud.</p>
 <p>Assistant Company Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C BREANNA CHENNISA TAN</p>
+<p>3C Breanna Chennisa Tan</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ proud.</p>
 <p>Assistant Company Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2D LATHOUD HELOISE LE SHAN</p>
+<p>2D Lathoud Heloise Le Shan</p>
 </td>
 </tr>
 </tbody>
