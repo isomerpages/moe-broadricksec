@@ -179,6 +179,9 @@ period, and feedback from teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/Batam_01.jpg">
+</div>
 </td>
 </tr>
 </tbody>
