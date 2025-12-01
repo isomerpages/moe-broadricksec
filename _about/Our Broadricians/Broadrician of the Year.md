@@ -10,8 +10,8 @@ third_nav_title: Our Broadricians
 in various aspects of their school life, demonstrating outstanding achievements
 and commendable character qualities.</p>
 <p>This award is based on academic excellence and clear demonstration of
-the school's GRC values, leadership and positive contributions to the school
-community and beyond.</p>
+the school's GRC values, leadership, and positive contributions to the
+school community and beyond.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
