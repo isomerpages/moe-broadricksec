@@ -15,20 +15,47 @@ families, amongst friends, in the school, and within the wider Dakota community.
 <p></p>
 <h4>Leadership Opportunities</h4>
 <p>Students can serve as leaders in the following capacities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Student Council (SC)</p>
-</li>
-<li>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Student Council</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>CCA Leaders</p>
-</li>
-<li>
-<p>Peer Support Leaders (PSL)</p>
-</li>
-<li>
+</th>
+<th rowspan="1" colspan="1">
 <p>Class Leaders</p>
-</li>
-</ul>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/StudentLeader_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/StudentLeader_14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/Orientation_03.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Students who serve as leaders gain invaluable experience to hone their
 confidence, communication, and collaborative skills. They also live out
 our school's motto to have fun while doing good!</p>
