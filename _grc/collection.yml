@@ -2,6 +2,7 @@ collections:
   grc:
     output: true
     order:
+      - Student Leadership/Student Council.md
       - Student Leadership/Leaders at Broadrick.md
       - Student Leadership/.keep
       - GRC Movement.md
