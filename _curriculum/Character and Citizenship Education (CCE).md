@@ -9,8 +9,7 @@ variant: tiptap
 (GRC) who make responsible decisions for the betterment of self, school,
 community and the nation</p>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>Education and Career Guidance (ECG) Programme</strong>
-</p>
+<h4>Education and Career Guidance (ECG)</h4>
 <ul>
 <li>
 <p>To promote career exploration through learning journeys, industrial visits
@@ -63,8 +62,7 @@ curiosity and compassion for the innovations that impact our daily lives.</div>
 </div>
 </div>
 </div>
-<p><strong>National Education (NE)</strong>
-</p>
+<h4>National Education (NE)</h4>
 <ul>
 <li>
 <p>To provide our students with the knowledge, skills and values to understand
@@ -82,7 +80,4 @@ Day, Racial Harmony Day and National Day</p>
 </div>
 <p>Commemorating Total Defence Day — a meaningful moment to reflect with <strong>compassion</strong> and
 respect for those who protect and strengthen our nation.</p>
-<p>
-<br>
-</p>
 <p></p>
