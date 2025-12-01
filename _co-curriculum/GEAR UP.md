@@ -1,8 +1,8 @@
 ---
-title: GEAR UP @ Broadrick
-permalink: /distinctive-programmes/gear-up-at-broadrick/
-description: ""
+title: GEAR UP
+permalink: /gear-up/
 variant: tiptap
+description: ""
 ---
 <p>The GEAR-UP (<strong>G</strong>uiding &amp;&nbsp;<strong>E</strong>mpowering&nbsp;<strong>S</strong>tudents
 for&nbsp;<strong>A</strong>ffiliation &amp;&nbsp;<strong>R</strong>esilience

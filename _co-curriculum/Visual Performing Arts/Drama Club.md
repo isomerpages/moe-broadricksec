@@ -110,26 +110,20 @@ develop empathy and critical thinking skills.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of competition</strong>
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2025</strong>
+<p><strong>Award</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (SYF)&nbsp;</p>
+<p>2025 Singapore Youth Festival (SYF)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>

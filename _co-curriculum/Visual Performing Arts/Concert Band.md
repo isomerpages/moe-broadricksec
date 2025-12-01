@@ -83,29 +83,36 @@ talents and develop their appreciation for music.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of competition</strong>
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Position</strong>
+<p><strong>Award</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025</strong>
-</p>
+<p><strong>2025 </strong>Singapore Youth Festival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival</p>
+<p><strong>2023 </strong>Singapore Youth Festival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021 </strong>Singapore Youth Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>

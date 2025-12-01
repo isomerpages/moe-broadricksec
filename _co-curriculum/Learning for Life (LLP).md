@@ -1,10 +1,10 @@
 ---
-title: Learning for Life Programme (LLP)
-permalink: /distinctive-programmes/learning-for-life-programme/
-description: ""
+title: Learning for Life (LLP)
+permalink: /learning-for-life-llp/
 variant: tiptap
+description: ""
 ---
-<h4><strong>Learning for Life</strong></h4>
+<h3><strong>Learning for Life</strong></h3>
 <h4><strong>Our Objectives</strong></h4>
 <ul>
 <li>
