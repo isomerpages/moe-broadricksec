@@ -2,7 +2,6 @@ collections:
   grc:
     output: true
     order:
-      - Values In Action (VIA).md
       - GRC Movement.md
       - Character and Citizenship Education (CCE).md
       - GEAR UP.md
