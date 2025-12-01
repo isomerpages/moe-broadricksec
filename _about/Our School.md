@@ -34,7 +34,6 @@ side gate via sheltered walkway)</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <h3>School Vision, Mission, Values</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VMV" src="/images/2024/2024_mission_vision.png">
@@ -74,8 +73,9 @@ side gate via sheltered walkway)</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC_Mural.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/GRC_Mural.jpg">
 </div>
+<p></p>
 <h3>School Crest</h3>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/school%20flag1.jpg">
@@ -100,5 +100,3 @@ signifies the youth and receptivity of our students. The richness of the
 colour white points to the numerous possibilities opened to our students
 as they take their positions as adult citizens and contributing members
 of the community and beyond.</p>
-<p></p>
-<p></p>

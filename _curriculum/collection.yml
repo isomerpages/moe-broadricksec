@@ -2,14 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - Academic Departments/.keep
-      - Academic Departments/Craft and Technology.md
-      - Academic Departments/English and English Literature.md
-      - Academic Departments/Humanities.md
-      - Academic Departments/Mathematics.md
-      - Academic Departments/Mother Tongue.md
-      - Academic Departments/Music and Aesthetics.md
-      - Academic Departments/Physical Education.md
-      - Academic Departments/Science.md
       - Applied Learning Programme (ALP).md
-      - Character and Citizenship Education (CCE).md
+      - Craft and Technology.md
+      - English and English Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Music and Aesthetics.md
+      - Physical Education.md
+      - Science.md

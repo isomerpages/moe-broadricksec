@@ -7,9 +7,8 @@ description: "A Choice School Providing Holistic Education || Nurturing
 image: /images/BRD_2023_Zoom_Background__5_.png
 permalink: /
 notification: "✨ Be Future-Ready. Be Values-Driven. Be a Broadrician. ✨ Thank
-  you for joining our Open House on 22 Nov 2025! 🌱 📣 Don’t miss the
-  Principal’s Post–Open House Talk on 26 Nov 2025 @ 7:00 pm. Details are
-  available below! #GRCeducation #havefunwhiledoinggood"
+  you for joining our Open House on 22 Nov 2025! 🌱 📣 #GRCeducation
+  #havefunwhiledoinggood"
 sections:
   - hero:
       background: /images/BRD_2023_Zoom_Background__5_.png
@@ -31,9 +30,6 @@ sections:
         - title: OUR SOCIAL MEDIA
           description: CLICK HERE
           url: https://www.instagram.com/broadricksec_official
-      subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
-        Nurturing Broadricians to be Future-Ready Learners with Strength of
-        Character"
   - infopic:
       title: Principal’s Post–Open House Talk
       id: infopic
