@@ -81,3 +81,6 @@ Day, Racial Harmony Day and National Day</p>
 <p>Commemorating Total Defence Day — a meaningful moment to reflect with <strong>compassion</strong> and
 respect for those who protect and strengthen our nation.</p>
 <p></p>
+<h4>Sexuality Education</h4>
+<p></p>
+<p></p>
