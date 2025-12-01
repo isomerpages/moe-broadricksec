@@ -145,7 +145,7 @@ proud.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
@@ -153,7 +153,7 @@ proud.</p>
 <p>Captain of Basketball ('B' Div Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D LOA CHEE LOK</p>
+<p>3D Loa Chee Lok</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,15 @@ proud.</p>
 <p>Vice-Captain of Basketball ('B' Div Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E CHONG YU HAO</p>
+<p>3E Chong Yu Hao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain 2 of Basketball ('B' Div Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C Justin Low Jie Lun</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +177,7 @@ proud.</p>
 <p>Captain of Basketball ('C' Div Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2F PANG KAI JIE</p>
+<p>2F Pang Kai Jie</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +185,15 @@ proud.</p>
 <p>Vice-Captain of Basketball ('C' Div Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2F TAY EN QUAN, EZEKIEL</p>
+<p>2F Tay En Quan, Ezekiel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain 2 of Basketball ('C' Div Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1D Ma Yunkun</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +205,7 @@ proud.</p>
 <p>Captain of Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E ANGELINE NGAN</p>
+<p>3E Angeline Ngan</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +213,7 @@ proud.</p>
 <p>Vice-Captain of Shooting ('B' Div Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B FU BOXIAN</p>
+<p>3B Fu Boxian</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +221,7 @@ proud.</p>
 <p>Vice-Captain of Shooting ('B' Div Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A LIM YI XUAN</p>
+<p>3A Lim Yi Xuan</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +229,7 @@ proud.</p>
 <p>Vice-Captain of Shooting ('C' Div)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2G TAN YU YA, CHLOE</p>
+<p>2G Tan Yu Ya, Chloe</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +237,7 @@ proud.</p>
 <p>Captain of Taekwondo ('B' Div Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F JOSH ZEDRICK FUENTES ROBLES</p>
+<p>3F Josh Zedrick Fuentes Robles</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +249,7 @@ proud.</p>
 <p>Captain of Taekwondo ('B' Div Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C JADELYN OH SHIN NIE</p>
+<p>3C Jadelyn Oh Shin Nie</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +257,7 @@ proud.</p>
 <p>Captain of Taekwondo ('C' Div Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2F KAEAN CHNG MING XIANG</p>
+<p>2F Kaean Chng Ming Xiang</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +265,7 @@ proud.</p>
 <p>Captain of Taekwondo ('C' Div Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2C TANUSHRI D/O S KUMAR</p>
+<p>2C Tanushri D/O S Kumar</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +277,7 @@ proud.</p>
 <p>Captain of Tchoukball ('B' Div Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B FAE HARTINI</p>
+<p>3B Fae Hartini</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +285,7 @@ proud.</p>
 <p>Vice-Captain of Tchoukball ('B' Div Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2E WU FRANCESCA SINYEE QUINTO</p>
+<p>2E Wu Francesca Sinyee Quinto</p>
 </td>
 </tr>
 <tr>
@@ -277,7 +293,7 @@ proud.</p>
 <p>Captain of Tchoukball ('C' Div Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2E NG YI LIN KYLIE</p>
+<p>2E Ng Yi Lin Kylie</p>
 </td>
 </tr>
 <tr>
@@ -285,7 +301,7 @@ proud.</p>
 <p>Vice-Captain 1 of Tchoukball ('C' Div Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2E EMILY ER QIAN YING</p>
+<p>2E Emily Er Qian Ying</p>
 </td>
 </tr>
 <tr>
@@ -293,7 +309,7 @@ proud.</p>
 <p>Vice-Captain 2 of Tchoukball ('C' Div Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2B KOH YU EN, JEAN</p>
+<p>2B Koh Yu En, Jean</p>
 </td>
 </tr>
 </tbody>
@@ -325,7 +341,7 @@ proud.</p>
 <p>Drum Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F ELIZABETH TAN XIN YING</p>
+<p>3F Elizabeth Tan Xing Ying</p>
 </td>
 </tr>
 <tr>
@@ -336,7 +352,7 @@ proud.</p>
 <p>Band Major (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E MUHAMED DANISH REZKY BIN MUHAMED NIZAM</p>
+<p>3E Muhamed Danish Rezky bin Muhamed Nizam</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +363,7 @@ proud.</p>
 <p>Band Major (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F WANG JIAQUAN</p>
+<p>3F Wang Jiaquan</p>
 </td>
 </tr>
 <tr>
@@ -358,7 +374,7 @@ proud.</p>
 <p>President of Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C SOH WEI LE, AARON</p>
+<p>3C Soh Wei Le, Aaron</p>
 </td>
 </tr>
 <tr>
@@ -369,7 +385,7 @@ proud.</p>
 <p>Vice-President of Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F CHANG YI ZENN</p>
+<p>3F Chang Yi Zenn</p>
 </td>
 </tr>
 <tr>
