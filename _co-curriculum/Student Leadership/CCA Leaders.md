@@ -396,7 +396,7 @@ proud.</p>
 <p>Vice-President of Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C LIU FANG ZE</p>
+<p>3C Liu Fang Ze (Iris)</p>
 </td>
 </tr>
 <tr>
@@ -407,7 +407,7 @@ proud.</p>
 <p>President of Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F CHAN PING SHU</p>
+<p>3F Chan Ping Shu</p>
 </td>
 </tr>
 <tr>
@@ -418,7 +418,7 @@ proud.</p>
 <p>Vice-President of Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F GUR CANO MAYSHA</p>
+<p>3F Gur Cano Maysha</p>
 </td>
 </tr>
 <tr>
@@ -429,7 +429,7 @@ proud.</p>
 <p>Dance Captain of Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D HO HAO MING</p>
+<p>3D Ho Hao Ming</p>
 </td>
 </tr>
 <tr>
@@ -440,7 +440,7 @@ proud.</p>
 <p>President of Show Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B LUO MANJIA</p>
+<p>3B Luo Manjia</p>
 </td>
 </tr>
 <tr>
@@ -451,7 +451,7 @@ proud.</p>
 <p>Vice-President of Show Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A SHAHEENA SULTANA D/O MUHAMMED HAFEEZ</p>
+<p>3A Shaheena Sultana d/o Muhammed Hafeez</p>
 </td>
 </tr>
 <tr>
@@ -462,7 +462,7 @@ proud.</p>
 <p>Vice-President of Show Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D TAN KAILI COMAROFF</p>
+<p>3D Tan Kaili Comaroff</p>
 </td>
 </tr>
 </tbody>
@@ -495,7 +495,7 @@ proud.</p>
 <p>Chairperson of Media Club (AV)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHANG HOONG KIT, JOSHUA</p>
+<p>2E Chan Hoong Kit, Joshua</p>
 </td>
 </tr>
 <tr>
@@ -503,7 +503,7 @@ proud.</p>
 <p>Chairperson of Media Club (Photography)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAZEEFA NADEEM</p>
+<p>3D Nazeefa Nadeem</p>
 </td>
 </tr>
 <tr>
@@ -511,7 +511,7 @@ proud.</p>
 <p>Vice Chairperson of Media Club (AV)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MIHEL WONG SIEW PENG</p>
+<p>2F Mihel Wong Siew Peng</p>
 </td>
 </tr>
 <tr>
@@ -519,7 +519,7 @@ proud.</p>
 <p>Vice Chairperson of Media Club (Photography)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YANG BINGKAI</p>
+<p>3A Yang Bingkai (Hank)</p>
 </td>
 </tr>
 <tr>
@@ -527,7 +527,7 @@ proud.</p>
 <p>Chairperson of Media Club (Social Media)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAIA NG</p>
+<p>3E Naia Ng</p>
 </td>
 </tr>
 <tr>
@@ -535,7 +535,7 @@ proud.</p>
 <p>Vice Chairperson of Media Club (Social Media)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOSEPH AROCKIYA SNOWPHIA</p>
+<p>3D Joseph Arockiya Snowphia</p>
 </td>
 </tr>
 <tr>
