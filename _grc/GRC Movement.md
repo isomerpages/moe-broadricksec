@@ -29,6 +29,9 @@ Citizens</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/Orientation_03.jpg">
+</div>
 <h4>GRC Connection Day</h4>
 <p>GRC Connection Day at Broadrick Secondary School is a vibrant celebration
 of our core values—Gratitude, Respect and Compassion. Held on the last
