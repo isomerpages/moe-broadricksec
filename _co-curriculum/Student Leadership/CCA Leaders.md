@@ -334,8 +334,9 @@ proud.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band</p>
+<td rowspan="3" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drum Major</p>
@@ -346,19 +347,13 @@ proud.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Band Major (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E Muhamed Danish Rezky bin Muhamed Nizam</p>
+<p>3C Forte Agustinus Riyadi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Band Major (Music)</p>
 </td>
@@ -367,8 +362,9 @@ proud.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Drama Club</p>
+<td rowspan="3" colspan="1">
+<p><strong>Drama Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President of Drama Club</p>
@@ -379,9 +375,6 @@ proud.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Vice-President of Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -390,9 +383,6 @@ proud.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Vice-President of Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,8 +390,9 @@ proud.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<td rowspan="3" colspan="1">
+<p><strong>Modern Dance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President of Modern Dance</p>
@@ -412,9 +403,6 @@ proud.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Vice-President of Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,9 +411,6 @@ proud.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dance Captain of Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -433,8 +418,9 @@ proud.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Show Choir</p>
+<td rowspan="3" colspan="1">
+<p><strong>Show Choir</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President of Show Choir</p>
@@ -445,9 +431,6 @@ proud.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Vice-President of Show Choir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -455,9 +438,6 @@ proud.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Vice-President of Show Choir</p>
 </td>
