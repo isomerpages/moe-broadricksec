@@ -34,7 +34,6 @@ side gate via sheltered walkway)</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <h3>School Vision, Mission, Values</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VMV" src="/images/2024/2024_mission_vision.png">
@@ -101,5 +100,3 @@ signifies the youth and receptivity of our students. The richness of the
 colour white points to the numerous possibilities opened to our students
 as they take their positions as adult citizens and contributing members
 of the community and beyond.</p>
-<p></p>
-<p></p>
