@@ -5,13 +5,33 @@ variant: tiptap
 description: ""
 ---
 <h3>GRC Movement</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/GRC_Mural.jpg">
 </div>
-<p>At Broadrick, we guide our students to demonstrate Gratitude, Respect,
-and Compassion at home, in school, and throughout the community.</p>
 <p></p>
+<h4><strong>Vision</strong>: Students Who Sparkle. Leaders Who Inspire.</h4>
+<p>We seek to nurture a generation of Broadricians who embody Gratitude,
+Respect and Compassion — not just as personal values, but as catalysts
+for building stronger, kinder communities.</p>
+<p>We will develop every Broadrician as a GRC Ambassador:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>G</strong>: Building Resilience by Practising <strong>Gratitude</strong>
+</p>
+</li>
+<li>
+<p><strong>R</strong>: Nurturing <strong>Respectful</strong> Leaders who Model
+the Way</p>
+</li>
+<li>
+<p><strong>C</strong>: Nurturing <strong>Compassionate</strong> and Responsible
+Citizens</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curriculum/Student Leadership/Orientation_03.jpg">
+</div>
 <h4>GRC Connection Day</h4>
 <p>GRC Connection Day at Broadrick Secondary School is a vibrant celebration
 of our core values—Gratitude, Respect and Compassion. Held on the last
