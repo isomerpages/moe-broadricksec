@@ -2,6 +2,7 @@ collections:
   grc:
     output: true
     order:
+      - Student Leadership/.keep
       - GRC Movement.md
       - Character and Citizenship Education (CCE).md
       - GEAR UP.md
