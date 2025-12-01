@@ -708,7 +708,7 @@ will be implemented as follows in 2024:</p>
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em> Awareness of the different STIs and HIV/AIDS<br></em> Modes of transmission
+<p><em>Awareness of the different STIs and HIV/AIDS<br></em> Modes of transmission
 <br>* Modes of protection, specifically on how the condom is used
 <br>* Consequences and impact of STIs/HIV</p>
 </td>
@@ -737,12 +737,12 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;Sexuality Education lessons&nbsp;need to complete an opt-out
 form. This form will be distributed to parents at the start of the year
-via PG and is also downloadable <a href="https://web.archive.org/web/20240703085744/https://form.gov.sg/65b740fe25d088fcc5042020" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+via PG and is also downloadable <a href="https://form.gov.sg/65b740fe25d088fcc5042020" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 <br>The completed form is to be submitted by 15/02/2024.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;<em>eTeens</em>&nbsp;programme&nbsp;need to complete an
 opt-out form. This form will be distributed to parents at the start of
-the year via PG and is also downloadable&nbsp;<a href="https://web.archive.org/web/20240703085744/https://form.gov.sg/65b7684eec82b22e0b2a31a6" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
+the year via PG and is also downloadable&nbsp;<a href="https://form.gov.sg/65b7684eec82b22e0b2a31a6" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
 The completed form is to be submitted by 15/02/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;63445025
 or email us at&nbsp;<a href="https://web.archive.org/web/20240703085744/https://form.gov.sg/65b740fe25d088fcc5042020" rel="noopener noreferrer nofollow" target="_blank"><u>broadrick_ss@moe.edu.sg</u></a>&nbsp;for
