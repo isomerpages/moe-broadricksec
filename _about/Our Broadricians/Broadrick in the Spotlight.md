@@ -32,8 +32,5 @@ third_nav_title: Our Broadricians
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/scyJ61G6yPE?si=V5XaUbWZPw3d7Hmm"></iframe>
 </div>
 <h2>2023</h2>
-<h4>Broadrick Secondary School cricket team upbeat despite finishing bottom in first NSG season (Straits Times, Sep 2023)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/Media Feature/2023_Cricket_01.png">
-</div>
+<h4>Broadrick Secondary School cricket team upbeat despite finishing bottom in first NSG season (Straits Times, Sep 2023)</h4><a class="isomer-image-wrapper" href="https://www.straitstimes.com/sport/schools/broadrick-secondary-school-cricket-team-upbeat-despite-finishing-bottom-in-first-nsg-season"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/Media Feature/2023_Cricket_01.png"></a>
 <p></p>
