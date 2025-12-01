@@ -654,15 +654,98 @@ and act in alignment with our beliefs</p>
 <p>In this lesson, students will understand that different individuals have
 different emotional and physical boundaries. This lesson highlights the
 need to respect the boundaries of others and reinforces the importance
-of sho</p>
+of showing respect to the opposite sex by using appropriate words and actions.
+Students will examine personal boundaries from different perspectives and
+learn the importance of making sound values-based decisions and acting
+in consideration of the well-being of themselves and others.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>* understand that we strengthen our character when we commit to sound
+values-based viewpoints (e.g. respect for life) and decisions, and speak
+and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h5>eTeens Programme:</h5>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em>&nbsp;is
+a programme developed by Health Promotion Board, in collaboration with
+the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is
+conducted in two segments – a mass talk segment and a classroom-based programme.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
+skills such as decision-making, assertiveness and negotiation to say “no”
+to sex and negative peer pressure. They also learn that the impact of STIs/HIV
+extends beyond themselves and involves their family. Abstinence and upholding
+family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme
+is that students are empowered to make wise, informed and sensible decisions.</p>
+<p>At Broadrick Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme
+will be implemented as follows in 2024:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Topics/Lessons</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Learning Objectives</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time Period
+<br>(e.g. Term 3 Week 9)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk by HPB appointed vendor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em> Awareness of the different STIs and HIV/AIDS<br></em> Modes of transmission
+<br>* Modes of protection, specifically on how the condom is used
+<br>* Consequences and impact of STIs/HIV</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>* Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Information for Parents</h4>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
+the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary
+sexuality education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the&nbsp;Sexuality Education lessons&nbsp;need to complete an opt-out
+form. This form will be distributed to parents at the start of the year
+via PG and is also downloadable <a href="https://web.archive.org/web/20240703085744/https://form.gov.sg/65b740fe25d088fcc5042020" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+<br>The completed form is to be submitted by 15/02/2024.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the&nbsp;<em>eTeens</em>&nbsp;programme&nbsp;need to complete an
+opt-out form. This form will be distributed to parents at the start of
+the year via PG and is also downloadable&nbsp;<a href="https://web.archive.org/web/20240703085744/https://form.gov.sg/65b7684eec82b22e0b2a31a6" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
+The completed form is to be submitted by 15/02/2024.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;63445025
+or email us at&nbsp;<a href="https://web.archive.org/web/20240703085744/https://form.gov.sg/65b740fe25d088fcc5042020" rel="noopener noreferrer nofollow" target="_blank"><u>broadrick_ss@moe.edu.sg</u></a>&nbsp;for
+discussion or to seek clarification about the school’s sexuality education
+programme.</p>
 <p></p>
