@@ -2,4 +2,5 @@ collections:
   grc:
     output: true
     order:
+      - Character and Citizenship Education (CCE).md
       - GRC Movement.md
