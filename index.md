@@ -30,9 +30,6 @@ sections:
         - title: OUR SOCIAL MEDIA
           description: CLICK HERE
           url: https://www.instagram.com/broadricksec_official
-      subtitle: "Vision: A Choice School Providing Holistic Education  ||  Mission:
-        Nurturing Broadricians to be Future-Ready Learners with Strength of
-        Character"
   - infopic:
       title: Principal’s Post–Open House Talk
       id: infopic
