@@ -1,4 +1,5 @@
 collections:
   grc:
     output: true
-    order: []
+    order:
+      - GRC Movement.md
