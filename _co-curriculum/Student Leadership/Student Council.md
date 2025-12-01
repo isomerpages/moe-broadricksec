@@ -16,9 +16,8 @@ performance, character development, and service to the community. Councillors
 are selected in a rigorous process including interviews, a probationary
 period, and feedback from teachers.</p>
 <h4>27th Student Council</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -30,9 +29,6 @@ period, and feedback from teachers.</p>
 <th rowspan="1" colspan="1">
 <p>Student</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Photo</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -40,9 +36,6 @@ period, and feedback from teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3B Evan Jader</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -52,9 +45,6 @@ period, and feedback from teachers.</p>
 <td rowspan="1" colspan="1">
 <p>3C Lee Jen Ee</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,9 +52,6 @@ period, and feedback from teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F Angeline Peh Jia Ern</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -74,9 +61,6 @@ period, and feedback from teachers.</p>
 <td rowspan="1" colspan="1">
 <p>3B Debbie Chan Yunxuan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -84,9 +68,6 @@ period, and feedback from teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3E Colin Tan Yi Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -96,9 +77,6 @@ period, and feedback from teachers.</p>
 <td rowspan="1" colspan="1">
 <p>3F Emelia Lau Xin</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -106,9 +84,6 @@ period, and feedback from teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3D Mohammad Rishan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
