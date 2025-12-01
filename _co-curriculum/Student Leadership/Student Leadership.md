@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Student Leadership
 ---
 <h3></h3>
-<h3>Student Leadership at Broadrick</h3>
+<h3>Leaders at Broadrick</h3>
 <p>Student Leaders at Broadrick are expected to be role-models, serving out
 the school values of Gratitude, Respect, and Compassion (GRC) in their
 families, amongst friends, in the school, and within the wider Dakota community.</p>
@@ -27,6 +27,9 @@ families, amongst friends, in the school, and within the wider Dakota community.
 <p>Class Leaders</p>
 </li>
 </ul>
+<p>Students who serve as leaders gain invaluable experience to hone their
+confidence, communication, and collaborative skills. They also live out
+our school's motto to have fun while doing good!</p>
 <h4>Key Events</h4>
 <ul data-tight="true" class="tight">
 <li>
