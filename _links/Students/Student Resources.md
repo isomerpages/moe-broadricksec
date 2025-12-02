@@ -10,8 +10,9 @@ third_nav_title: Students
 </p>
 <p></p>
 <h3><strong>Classroom Allocation (for 2026)</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation_2026_hi_res__sem1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation_2026_sem1.png">
 </div>
 <h3><strong>Financial Assistance</strong></h3>
 <p><strong>Financial Assistance Scheme</strong>
