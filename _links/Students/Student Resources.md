@@ -5,25 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p></p>
-<h3>Student Handbook</h3>
+<h3><strong>Student Handbook</strong></h3>
 <p><a href="https://online.flippingbook.com/view/116838550/" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2025</a>
 </p>
 <p></p>
-<h3>Classroom Allocation</h3>
-<p></p>
+<h3><strong>Classroom Allocation (for 2026)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/2026_Classroom_Allocation.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation_2026_hi_res__sem1.png">
 </div>
-<p></p>
-<h3>Financial Assistance</h3>
-<p></p>
-<p><strong><em>Financial Assistance Scheme</em></strong> 
+<h3><strong>Financial Assistance</strong></h3>
+<p><strong>Financial Assistance Scheme</strong>
 </p>
 <p><a href="/files/MOE FAS_Transport Subsidy and Meal Coupon 2016.pdf" rel="noopener nofollow" target="_blank">MOE FAS Transport Subsidy and Meal Coupon</a>
 </p>
 <p></p>
-<p><strong><em>NEU-PC Plus Programme</em></strong> 
+<p><strong>NEU-PC Plus Programme</strong>
 </p>
 <p>Students can visit the <a href="https://www.imda.gov.sg/community/consumer-education/digital-inclusion/neu-pc-plus-programme)&nbsp;website" rel="noopener nofollow" target="_blank">IMDA Website</a> for
 more information and details of the personal computers/notebooks.</p>
