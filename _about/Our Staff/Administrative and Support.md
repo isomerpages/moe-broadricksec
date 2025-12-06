@@ -69,7 +69,8 @@ third_nav_title: Our Staff
 <p>Ms Stella Kae</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>stella_kae@moe.edu.sg</p>
+<p><a href="mailto:stella_kae@moe.edu.sg" rel="noopener nofollow" target="_blank">stella_kae@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

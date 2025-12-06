@@ -188,7 +188,7 @@ period, and feedback from teachers.</p>
 <p>25th Student Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dewa Tan Shu Hui</p>
+<p>Dewa Richard Tan Shu Hui</p>
 </td>
 </tr>
 <tr>

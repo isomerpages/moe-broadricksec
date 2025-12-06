@@ -1,6 +1,6 @@
 ---
 title: Character Coaches
-permalink: /school/character-coaches/
+permalink: /school/our-staff/
 description: ""
 variant: tiptap
 third_nav_title: Our Staff
