@@ -6,21 +6,21 @@ description: "A Choice School Providing Holistic Education || Nurturing
   #havefunwhiledoinggood #2:168"
 image: /images/BRD_2023_Zoom_Background__5_.png
 permalink: /
-notification: "✨ Be Future-Ready. Be Values-Driven. Be a Broadrician. ✨ Thank
-  you for joining our Open House on 22 Nov 2025! 🌱 📣 #GRCeducation
-  #havefunwhiledoinggood"
+notification: "✨ Be Future-Ready. Be Values-Driven. Be a Broadrician✨ Follow our
+  IG and FB to keep up with our School Activities!   #GRCeducation
+  #havefunwhiledoinggood #2:168"
 sections:
   - hero:
-      background: /images/BRD_2023_Zoom_Background__5_.png
+      background: /images/2025_School_facade.jpg
       variant: floating
       backgroundColor: gray
-      title: Broadrick Secondary School
+      title: Welcome to Broadrick Secondary School
       size: md
       alignment: left
       key_highlights:
-        - title: Principal’s Post–Open House Talk (26 Nov @ 7:00 pm)
-          description: CLICK HERE TO SIGN UP
-          url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
+        - title: BRD55 ANNIVERSARY COFFEE TABLE BOOK
+          description: CLICK HERE TO VIEW
+          url: https://issuu.com/avantgardemediaarts/docs/broadrick_secondary_school_85th_anniversary_coffee
         - title: 2025 OPEN HOUSE PAMPHLET
           description: CLICK HERE
           url: https://online.flippingbook.com/view/250177530/2/
@@ -30,15 +30,9 @@ sections:
         - title: OUR SOCIAL MEDIA
           description: CLICK HERE
           url: https://www.instagram.com/broadricksec_official
-  - infopic:
-      title: Principal’s Post–Open House Talk
-      id: infopic
-      description: Join our Principal’s Post–Open House Talk on 26 Nov 2025 @ 7:00 pm
-        — discover how to choose the right secondary school for your child.
-      button: Click here to Sign up!
-      url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
-      image: /images/2025/Special_Talk_for_All_P6_Parents_by_P___updated_17_Nov_2025_pdf.png
-      alt: Sign up now!
+      subtitle: "Vision: A Choice School Providing Holistic Education  || Mission:
+        Nurturing Broadricians to be Future-Ready Learners with Strength of
+        Character"
   - announcements:
       title: Announcements
       id: announcements
