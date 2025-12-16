@@ -54,7 +54,7 @@ sections:
         orientation, and next steps as your child begins their Broadrick journey
         in 2026.
       button: CLICK HERE
-      url: www.broadricksec.moe.edu.sg
+      url: https://www.broadricksec.moe.edu.sg/secondary-1-registration-2026/
       image: /images/2025/smiling.jpg
       alt: Image alt text
   - announcements:
