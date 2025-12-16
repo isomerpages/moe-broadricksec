@@ -96,7 +96,7 @@ Online orders and payments can be made via the suppliers’ websites.</p>
 not need to purchase their school textbooks and uniforms online. Details
 on the collection dates for textbooks and uniforms will be shared at a
 later time.</p>
-<h4><strong>6. Personal Learning Devices (PLD)</strong></h4>
+<h4><strong>6. Personal Learning Device (PLD)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The National Digital Literacy Programme (<a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills" rel="noopener nofollow" target="_blank">NDLP</a>),
@@ -105,8 +105,11 @@ students to be future-ready.</p>
 </li>
 <li>
 <p>Under the NDLP, every secondary school student will own a school-prescribed
-Personal Learning Device (PLD). Students may use funds from their Edusave
-Account to pay for the PLD.</p>
+Personal Learning Device (PLD).</p>
+</li>
+<li>
+<p><strong>Only Singapore Citizen students</strong> may use funds from their <strong>Edusave Account</strong> to
+pay for the Personal Learning Device (PLD).</p>
 </li>
 <li>
 <p>The school-prescribed PLD is the <strong>Lenovo 500e Gen 4s Chromebook (N250, 8GB RAM, 64GB storage)</strong>.
@@ -114,9 +117,34 @@ More details on procurement and costing will be shared with parents/guardians
 via <strong>Parents Gateway (PG)</strong> at a later date.</p>
 </li>
 </ul>
-<p>
+<h4><strong>7. Subjects at More/Less Demanding Levels</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full Subject-Based Banding (Full SBB) is part of MOE’s efforts to nurture
+the joy of learning by providing multiple pathways that cater to students’
+strengths and interests.</p>
+</li>
+<li>
+<p>Click here for more information on Full SBB and the offering of subjects
+at more or less demanding levels at the start of Secondary 1 and beyond.</p>
+</li>
+<li>
+<p>If your child/ward is eligible to take a subject at a more demanding level,
+an acceptance form will be sent via <strong>Parents Gateway (PG)</strong> at
+a later date.
 <br>
 </p>
-<p></p>
+</li>
+</ul>
+<h4><strong>8. Student Smart Card (SSC) for Concessionary Travel</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>All students entering Secondary 1 in January 2026 will be issued a new <strong>Secondary-level School Smart Card (SSC)</strong>.</p>
+</li>
+<li>
+<p>While waiting for the new SSC, students may continue using their <strong>Primary-level SSC</strong> for
+concessionary travel until <strong>end-April 2026</strong>.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
