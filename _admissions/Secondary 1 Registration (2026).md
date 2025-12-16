@@ -14,7 +14,7 @@ to Broadrick Secondary School.</p>
 <p>Please check back on <strong>19 December 2025</strong> for the latest updates
 on this page.</p>
 <hr>
-<h4><strong>1. Secondary 1 Posting Results </strong></h4>
+<h4><strong>1. Secondary 1 Posting Results</strong></h4>
 <p>The Secondary 1 (S1) Posting results will be released on <strong>Friday, 19 December 2025, at 9.00 am</strong>.</p>
 <p><strong>You may access the posting results via:</strong>
 </p>
@@ -30,20 +30,84 @@ using parents’ Singpass</p>
 <p>The student’s primary school</p>
 </li>
 </ul>
-<p><strong>Important:</strong> Students do <strong>not</strong> need to report
-to their posted secondary schools upon receiving their posting results.
-Do check the posted school’s website for reporting details, booklists,
-and uniform/book purchase information. Parents on Parents Gateway (PG)
-will receive instructions from the posted schools from the afternoon of <strong>19 December 2025</strong>.</p>
-<p>If your child is unable to report on the first day of school in January
-2026 due to valid reasons, please inform the posted secondary school directly
-after receiving the posting results so that the place can be reserved.</p>
-<p>For more information, please refer to MOE’s S1 Posting website: <a href="http://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>.
-For enquiries: <a href="http://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/contact</a>.</p>
+<p><strong>Important:</strong> Secondary 1 Posting results will be released
+on <strong>Friday, 19 December 2025, at 9.00 am</strong>. Results can be
+accessed via the <strong>S1 Portal (Singpass)</strong>, <strong>SMS</strong>,
+or the student’s primary school.</p>
+<p>Students are <strong>not required</strong> to report to Broadrick upon receiving
+their posting results. Parents on <strong>Parents Gateway (PG)</strong> will
+receive Broadrick’s instructions from the afternoon of <strong>19 December 2025</strong>.
+If your child is unable to report on the first day of school in January
+2026, please inform the school directly so that the place can be reserved.</p>
 <h4><strong>2. e-Registration Form</strong></h4>
 <p>All incoming Secondary 1 students are to complete online registration
 via <strong>Parents Gateway (PG)</strong>. A welcome letter and registration
 details will be sent via PG.</p>
+<h4><strong>3. Secondary 1 Orientation &amp; Parents' Meet and Greet </strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Secondary 1 Orientation Programme will be held on <strong>5 and 6 January 2026</strong>.
+More details will be published on this page from <strong>31 December 2025</strong>.</p>
+</li>
+<li>
+<p>A <strong>Parents Meet-and-Greet</strong> is scheduled for <strong>Friday, 16 January 2026</strong>.</p>
+</li>
+</ul>
+<h4><strong>4. Class Allocation</strong></h4>
+<p>By <strong>31 December 2025</strong>, parents/guardians may check <strong>Parents Gateway (PG)</strong> for
+their child’s class allocation. Class information will also be displayed
+in the school foyer at the start of the school year.</p>
+<h4><strong>5. School Textbooks and School Uniform</strong></h4>
+<p>School textbooks and uniforms may be purchased <strong>online or in school</strong>.
+Online orders and payments can be made via the suppliers’ websites.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Textbooks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More information will be provided at a later date.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Uniforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More information will be provided at a later date.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date of sales and venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More information will be provided at a later date.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>For Approved MOE-FAS students: </strong>Students approved under <strong>MOE-FAS</strong> do
+not need to purchase their school textbooks and uniforms online. Details
+on the collection dates for textbooks and uniforms will be shared at a
+later time.</p>
+<h4><strong>6. Personal Learning Devices (PLD)</strong></h4>
+<p>The National Digital Literacy Programme (NDLP), launched in March 2020,
+aims to make digital learning inclusive and prepare students to be future-ready.</p>
+<p>Under the NDLP, every secondary school student will own a school-prescribed
+Personal Learning Device (PLD). Students may use funds from their Edusave
+Account to pay for the PLD.</p>
+<p>The school-prescribed PLD is the <strong>Lenovo 500e Gen 4s Chromebook (N250, 8GB RAM, 64GB storage)</strong>.
+More details on procurement and costing will be shared with parents/guardians
+via <strong>Parents Gateway (PG)</strong> at a later date.</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
