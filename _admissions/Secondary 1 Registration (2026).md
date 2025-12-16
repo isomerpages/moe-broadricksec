@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Welcome to the Broadrick Family</strong></h3>
-<p></p>
+<p>last updated 17/12/2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/smiling.jpg">
 </div>
@@ -146,5 +146,45 @@ a later date.
 concessionary travel until <strong>end-April 2026</strong>.</p>
 </li>
 </ul>
-<p></p>
+<h4><strong>9. Financial Assistance Scheme</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Citizen students who require financial assistance may apply
+for support from MOE to cover school fees and other expenses via <strong>e-FAS</strong> (click
+here). All information provided will be treated with strict confidentiality.</p>
+</li>
+<li>
+<p>For enquiries, please contact <strong><a href="mailto:broadrick_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">broadrick_ss@moe.edu.sg</a></strong>.</p>
+</li>
+</ul>
+<h4><strong>10. Parents’ Support Group (PSG)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The <strong>Broadrick Parents’ Support Group (PSG)</strong> is a vibrant
+community of parents who support our students and school activities. By
+joining the PSG, parents can contribute meaningfully to their child’s educational
+experience, connect with fellow parents, and participate actively in school
+events. More information on how to join the PSG will be shared later.</p>
+</li>
+<li>
+<p>We look forward to welcoming you to the PSG community.</p>
+</li>
+</ul>
+<h4><strong>11. Appeals and School Transfer Procedures</strong><br><em>Appeal for Transfer to Another School (Medical Reasons)</em></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents seeking a transfer for their child due to serious medical conditions
+or severe physical impairments must submit an appeal in person at the school’s
+General Office during the <strong>Medical Appeal Exercise (MAE)</strong>.
+Details and deadlines will be updated later.</p>
+</li>
+<li>
+<p>All appeals must be accompanied by relevant supporting documents (e.g.
+medical reports or doctor’s letters). Applications that are incomplete,
+lack supporting documents, or are submitted late will not be processed.</p>
+</li>
+<li>
+<p>For enquiries, please contact the school’s General Office at <strong>6344 5025</strong>.</p>
+</li>
+</ul>
 <p></p>
