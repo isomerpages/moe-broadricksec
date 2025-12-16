@@ -24,9 +24,6 @@ sections:
         - title: 2025 OPEN HOUSE PAMPHLET
           description: CLICK HERE
           url: https://online.flippingbook.com/view/250177530/2/
-        - title: 2025 E-Student Handbook
-          description: CLICK HERE
-          url: https://online.flippingbook.com/view/116838550/
         - title: OUR SOCIAL MEDIA
           description: CLICK HERE
           url: https://www.instagram.com/broadricksec_official
