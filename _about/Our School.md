@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_School_facade.jpg">
 </div>
-<h3>School Information</h3>
+<h3>Our School Information</h3>
 <p><strong>Address</strong>: 61 Dakota Crescent, Singapore 399935</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,9 +34,18 @@ side gate via sheltered walkway)</p>
 </li>
 </ul>
 <p></p>
-<h3>School Vision, Mission, Values</h3>
+<h3>Our School Vision, Mission &amp; Values</h3>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VMV" src="/images/2024/2024_mission_vision.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/GRC_Mural.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/BRD_2023_Zoom_Background__7_.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -65,38 +74,69 @@ side gate via sheltered walkway)</p>
 <p>Values</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Gratitude, Respect, Compassion</p>
+<p><strong>G</strong>ratitude, <strong>R</strong>espect, <strong>C</strong>ompassion</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<h3>Our School Crest</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025/BroadrickSchoolBadge_2026.png">
+</div>
+<ol data-tight="true" class="tight">
+<li>
+<p>The School Crest reflects the school colours.</p>
+</li>
+<li>
+<p>The central cogwheel symbolises the school’s continuous pursuit of progress
+and development in fulfilling its educational mission, while the open book
+represents its fundamental aim of learning.</p>
+</li>
+<li>
+<p>The torch signifies students’ commitment to lifelong learning.</p>
+</li>
+<li>
+<p>The four interlocking rings represent the school’s multi-racial community,
+growing and learning together as one united family.</p>
+</li>
+</ol>
+<h3>Our School Flag</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/ChatGPT_Image_Dec_16__2025__10_49_04_PM.png">
+</div>
+<ol data-tight="true" class="tight">
+<li>
+<p>The school flag features two main colours: white and dark blue.</p>
+</li>
+<li>
+<p>The dark blue background symbolises teachers and staff who nurture and
+support students in achieving academic and non-academic excellence.</p>
+</li>
+<li>
+<p>The central white signifies the youth and openness of our students, representing
+the many possibilities available to them as they grow into responsible
+citizens and contributing members of the wider community.</p>
+</li>
+</ol>
 <p></p>
+<h3>Our Family Logo</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GRC/GRC_Mural.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025/GRCeagle_Logo.png">
 </div>
+<ol data-tight="true" class="tight">
+<li>
+<p>The Broadrick Family logo features a soaring eagle, symbolising strength,
+aspiration, and growth.</p>
+</li>
+<li>
+<p>The rising sun reflects hope and new possibilities, while the circular
+form represents unity as one Broadrick family.</p>
+</li>
+<li>
+<p>Encircled by <strong>Gratitude, Respect, and Compassion</strong>, the logo
+reflects our commitment to nurturing confident, caring, and future-ready
+learners.</p>
+</li>
+</ol>
 <p></p>
-<h3>School Crest</h3>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/school%20flag1.jpg">
-</div>
-<p>The School Crest reflects the school colours. The cogwheel in the centre
-symbolises the school’s continuous strive for progress and development
-as it undertakes its mission to educate; the basic aim is represented by
-the open book. The torch represents our students’ commitment to life-long
-learning. The four rings reflect the multi-racial composition of the school
-community as it grows, learns and develop together as one united community.
-The concept of the school as a family is reinforced by the four inter-twinning
-rings.</p>
-<h3>School Flag</h3>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/school%20flag.jpg">
-</div>
-<p>The school flag comprises two main colours – white and dark blue. The
-dark blue panels in the background represent our teachers and staff who
-are always ready to nurture and support our students in their pursuit to
-achieve academic and non-academic excellence. The white colour in the centre
-signifies the youth and receptivity of our students. The richness of the
-colour white points to the numerous possibilities opened to our students
-as they take their positions as adult citizens and contributing members
-of the community and beyond.</p>
