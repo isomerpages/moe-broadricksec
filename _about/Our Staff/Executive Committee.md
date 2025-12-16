@@ -6,8 +6,14 @@ description: ""
 third_nav_title: Our Staff
 ---
 <h3>Our School Leaders</h3>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025/3SLs.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025/school_leaders.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>

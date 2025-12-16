@@ -24,15 +24,28 @@ sections:
         - title: 2025 OPEN HOUSE PAMPHLET
           description: CLICK HERE
           url: https://online.flippingbook.com/view/250177530/2/
-        - title: 2025 E-Student Handbook
-          description: CLICK HERE
-          url: https://online.flippingbook.com/view/116838550/
         - title: OUR SOCIAL MEDIA
           description: CLICK HERE
           url: https://www.instagram.com/broadricksec_official
       subtitle: "Vision: A Choice School Providing Holistic Education  || Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
+  - infocols:
+      title: Release of 2025 GCE N Level Examination Results
+      subtitle: 18 December 2025
+      id: infocols
+      linktext: Learn more
+      url: https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025
+      infoboxes:
+        - title: Release of Examination Results
+          description: The 2025 Singapore-Cambridge GCE N(A) and N(T) Level Examination
+            results will be released from 2.00 pm.
+        - title: Collection of Results
+          description: Unwell candidates should seek medical attention and not return to
+            school.
+        - title: Proxy Collection
+          description: Candidates unable to collect results in person may appoint a proxy.
+            Proxies must present documents for verification.
   - announcements:
       title: Announcements
       id: announcements
