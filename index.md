@@ -46,6 +46,17 @@ sections:
         - title: Proxy Collection
           description: Candidates unable to collect results in person may appoint a proxy.
             Proxies must present documents for verification.
+  - infopic:
+      title: Secondary 1 Registration Matters
+      subtitle: 19 December 2025
+      id: infopic
+      description: Find key information on Secondary 1 registration, posting updates,
+        orientation, and next steps as your child begins their Broadrick journey
+        in 2026.
+      button: CLICK HERE
+      url: www.broadricksec.moe.edu.sg
+      image: /images/2025/smiling.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
