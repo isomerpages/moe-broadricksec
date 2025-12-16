@@ -43,7 +43,7 @@ If your child is unable to report on the first day of school in January
 <p>All incoming Secondary 1 students are to complete online registration
 via <strong>Parents Gateway (PG)</strong>. A welcome letter and registration
 details will be sent via PG.</p>
-<h4><strong>3. Secondary 1 Orientation &amp; Parents' Meet and Greet </strong></h4>
+<h4><strong>3. Secondary 1 Orientation &amp; Parents' Meet and Greet</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Secondary 1 Orientation Programme will be held on <strong>5 and 6 January 2026</strong>.
@@ -97,14 +97,23 @@ not need to purchase their school textbooks and uniforms online. Details
 on the collection dates for textbooks and uniforms will be shared at a
 later time.</p>
 <h4><strong>6. Personal Learning Devices (PLD)</strong></h4>
-<p>The National Digital Literacy Programme (NDLP), launched in March 2020,
-aims to make digital learning inclusive and prepare students to be future-ready.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The National Digital Literacy Programme (<a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills" rel="noopener nofollow" target="_blank">NDLP</a>),
+launched in March 2020, aims to make digital learning inclusive and prepare
+students to be future-ready.</p>
+</li>
+<li>
 <p>Under the NDLP, every secondary school student will own a school-prescribed
 Personal Learning Device (PLD). Students may use funds from their Edusave
 Account to pay for the PLD.</p>
+</li>
+<li>
 <p>The school-prescribed PLD is the <strong>Lenovo 500e Gen 4s Chromebook (N250, 8GB RAM, 64GB storage)</strong>.
 More details on procurement and costing will be shared with parents/guardians
 via <strong>Parents Gateway (PG)</strong> at a later date.</p>
+</li>
+</ul>
 <p>
 <br>
 </p>
