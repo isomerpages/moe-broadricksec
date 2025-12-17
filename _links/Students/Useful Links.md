@@ -79,48 +79,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Post-Secondary Options</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Site</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Link</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Overview</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/overview/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PFP Application</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DPP Application</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3></h3>
 <p></p>
