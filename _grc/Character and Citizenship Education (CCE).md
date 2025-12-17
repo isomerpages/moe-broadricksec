@@ -24,16 +24,13 @@ and career pathways.</p>
 independently.</p>
 </li>
 </ul>
-<p>Students can explore our ECG Resource Hub (click here) for curated resources
-on post-secondary pathways, entry requirements, the world of work, and
-self-discovery.</p>
+<p>Students can explore our <a href="https://go.gov.sg/brd-ecg-resource-hub" rel="noopener nofollow" target="_blank">ECG Resource Hub</a> (
+<a href="https://go.gov.sg/brd-ecg-resource-hub" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brd-ecg-resource-hub</a>) for curated resources on post-secondary
+pathways, entry requirements, the world of work, and self-discovery.</p>
 <p>Students seeking further exploration of post-secondary pathways or personalised
 guidance regarding career interests, strengths, and passions are invited
-to schedule a consultation with the school’s MOE-ECG Counsellor, Ms Sherry
-Long @ <a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a>.</p>
-<p><a href="https://sites.google.com/d/1SkEyx5s8c4gEFA0R4px67oEVg_x528TE/p/1ltyhQ8UyGHndqR8IXounhblkS6_qaVgy/edit?pli=1 this is the site" rel="noopener nofollow" target="_blank">Click here</a> for
-more information.</p>
-<p></p>
+to schedule a consultation with the school’s <strong>MOE-ECG Counsellor</strong>,
+Ms Sherry Long @ <a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a>.</p>
 <p></p>
 <p></p>
 <h4>National Education (NE)</h4>
