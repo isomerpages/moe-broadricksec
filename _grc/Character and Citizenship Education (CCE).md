@@ -10,19 +10,27 @@ description: ""
 community and the nation</p>
 <h3><strong>Our Programmes</strong></h3>
 <h4>Education and Career Guidance (ECG)</h4>
-<p>Students can explore our ECG Resource Hub (click here) for curated resources
-on post-secondary pathways, entry requirements, the world of work, and
-self-discovery.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To promote career exploration through learning journeys, industrial visits
+and talks by relevant speakers.</p>
+</li>
+<li>
+<p>To encourage self-discovery and healthy respect for the diverse educational
+and career pathways.</p>
+</li>
+<li>
+<p>To empower students to make well-informed and optimal post-secondary decisions
+independently.</p>
+</li>
+</ul>
+<p>Students can explore our <a href="https://go.gov.sg/brd-ecg-resource-hub" rel="noopener nofollow" target="_blank">ECG Resource Hub</a> (
+<a href="https://go.gov.sg/brd-ecg-resource-hub" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/brd-ecg-resource-hub</a>) for curated resources on post-secondary
+pathways, entry requirements, the world of work, and self-discovery.</p>
 <p>Students seeking further exploration of post-secondary pathways or personalised
 guidance regarding career interests, strengths, and passions are invited
-to schedule a consultation with the school’s MOE-ECG Counsellor, Ms Sherry
-Long.</p>
-<p>Please contact her at <a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a> or scan
-the QR code provided.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_12_15_at_11_51_16.jpg">
-</div>
+to schedule a consultation with the school’s <strong>MOE-ECG Counsellor</strong>,
+Ms Sherry Long @ <a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a>.</p>
 <p></p>
 <p></p>
 <h4>National Education (NE)</h4>
