@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Students/Post Secondary Options.md
       - Students/.keep
       - Students/2025 Class Timetable.md
       - Students/Assessment Schedule.md
