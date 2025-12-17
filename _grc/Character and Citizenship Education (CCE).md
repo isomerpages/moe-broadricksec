@@ -10,19 +10,30 @@ description: ""
 community and the nation</p>
 <h3><strong>Our Programmes</strong></h3>
 <h4>Education and Career Guidance (ECG)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>To promote career exploration through learning journeys, industrial visits
+and talks by relevant speakers.</p>
+</li>
+<li>
+<p>To encourage self-discovery and healthy respect for the diverse educational
+and career pathways.</p>
+</li>
+<li>
+<p>To empower students to make well-informed and optimal post-secondary decisions
+independently.</p>
+</li>
+</ul>
 <p>Students can explore our ECG Resource Hub (click here) for curated resources
 on post-secondary pathways, entry requirements, the world of work, and
 self-discovery.</p>
 <p>Students seeking further exploration of post-secondary pathways or personalised
 guidance regarding career interests, strengths, and passions are invited
 to schedule a consultation with the school’s MOE-ECG Counsellor, Ms Sherry
-Long.</p>
-<p>Please contact her at <a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a> or scan
-the QR code provided.</p>
+Long @ <a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a>.</p>
+<p><a href="https://sites.google.com/d/1SkEyx5s8c4gEFA0R4px67oEVg_x528TE/p/1ltyhQ8UyGHndqR8IXounhblkS6_qaVgy/edit?pli=1 this is the site" rel="noopener nofollow" target="_blank">Click here</a> for
+more information.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_12_15_at_11_51_16.jpg">
-</div>
 <p></p>
 <p></p>
 <h4>National Education (NE)</h4>
