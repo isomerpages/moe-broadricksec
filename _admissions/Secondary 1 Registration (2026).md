@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Welcome to the Broadrick Family</strong></h3>
-<p>last updated 17/12/2025</p>
+<p>last updated 18/12/2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/smiling.jpg">
 </div>
