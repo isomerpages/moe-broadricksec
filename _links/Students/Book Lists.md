@@ -29,7 +29,8 @@ third_nav_title: Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026 Secondary 1 Booklist</p>
+<p><a href="/files/Booklist/2026/Broadrick_Secondary_2026___Sec_1_Booklist__yellow_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Booklist</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22, 23 and 26 December (9am-3pm)</p>
