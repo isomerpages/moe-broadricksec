@@ -49,7 +49,7 @@ details will be sent via PG.</p>
 Parents/Guardians are to submit the Secondary 1 online Registration form
 by&nbsp;<strong>23 Dec 2025, 12 noon</strong>. Click&nbsp;<a href="https://forms.moe.edu.sg/forms/Jm7D9R" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access and complete the Secondary 1 online form and other relevant information
-related to the 2026 Sec 1 posting matters.</p>
+related to the 2026 Sec 1 Posting matters.</p>
 <h4><strong>3. Secondary 1 Orientation &amp; Parents' Meet and Greet</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
