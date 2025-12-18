@@ -6,9 +6,29 @@ description: ""
 ---
 <h3><strong>Welcome to the Broadrick Family</strong></h3>
 <p>last updated 18/12/2025</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/smiling.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Reg.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Logo.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>We look forward to welcoming our incoming Secondary 1 students and parents/guardians
 to Broadrick Secondary School.</p>
 <p>Please visit this page on <strong>19 December 2025</strong> for the latest
