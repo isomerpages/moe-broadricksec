@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Welcome to the Broadrick Family</strong></h3>
-<p>last updated 17/12/2025</p>
+<p>last updated 18/12/2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/smiling.jpg">
 </div>
 <p>We look forward to welcoming our incoming Secondary 1 students and parents/guardians
 to Broadrick Secondary School.</p>
-<p>Please check back on <strong>19 December 2025</strong> for the latest updates
-on this page.</p>
+<p>Please visit this page on <strong>19 December 2025</strong> for the latest
+updates.</p>
 <hr>
 <h4><strong>1. Secondary 1 Posting Results</strong></h4>
 <p>The Secondary 1 (S1) Posting results will be released on <strong>Friday, 19 December 2025, at 9.00 am</strong>.</p>
@@ -38,11 +38,18 @@ or the student’s primary school.</p>
 their posting results. Parents on <strong>Parents Gateway (PG)</strong> will
 receive Broadrick’s instructions from the afternoon of <strong>19 December 2025</strong>.
 If your child is unable to report on the first day of school in January
-2026, please inform the school directly so that the place can be reserved.</p>
+2026, please inform the school directly so that the place can be reserved.
+Please note that PG will not be available from 12 noon to 5.00 pm on 19
+Dec 2025 due to system maintenance.</p>
 <h4><strong>2. e-Registration Form</strong></h4>
 <p>All incoming Secondary 1 students are to complete online registration
 via <strong>Parents Gateway (PG)</strong>. A welcome letter and registration
 details will be sent via PG.</p>
+<p>Please read through and follow the instructions for the online registration.
+Parents/Guardians are to submit the Secondary 1 online Registration form
+by&nbsp;<strong>23 Dec 2025, 12 noon</strong>. Click&nbsp;<a href="https://forms.moe.edu.sg/forms/Jm7D9R" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+access and complete the Secondary 1 online form and other relevant information
+related to the 2026 Sec 1 Posting matters.</p>
 <h4><strong>3. Secondary 1 Orientation &amp; Parents' Meet and Greet</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -68,34 +75,28 @@ Online orders and payments can be made via the suppliers’ websites.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Textbooks</p>
+<p>School Textbooks and Uniforms</p>
+<p></p>
+<p>Date and Timing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information will be provided at a later date.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Uniforms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More information will be provided at a later date.</p>
+<p>22, 23, and 26 December 2025</p>
+<p>0900 – 1500 hours</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date of sales and venue</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information will be provided at a later date.</p>
+<p>School Bookshop</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>For Approved MOE-FAS students: </strong>Students approved under <strong>MOE-FAS</strong> do
-not need to purchase their school textbooks and uniforms online. Details
-on the collection dates for textbooks and uniforms will be shared at a
-later time.</p>
+not need to purchase their school textbooks and uniforms online. The collection
+dates for textbooks and uniforms will be from 29 to 30 December 2025.</p>
 <h4><strong>6. Personal Learning Device (PLD)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -125,8 +126,9 @@ the joy of learning by providing multiple pathways that cater to students’
 strengths and interests.</p>
 </li>
 <li>
-<p>Click here for more information on Full SBB and the offering of subjects
-at more or less demanding levels at the start of Secondary 1 and beyond.</p>
+<p>Click <a href="https://www.broadricksec.moe.edu.sg/links/parents/full-subject-based-banding-fsbb/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on Full SBB and the offering of subjects at more or less
+demanding levels at the start of Secondary 1 and beyond.</p>
 </li>
 <li>
 <p>If your child/ward is eligible to take a subject at a more demanding level,
@@ -151,7 +153,7 @@ concessionary travel until <strong>end-April 2026</strong>.</p>
 <li>
 <p>Singapore Citizen students who require financial assistance may apply
 for support from MOE to cover school fees and other expenses via <strong>e-FAS</strong> (click
-here). All information provided will be treated with strict confidentiality.</p>
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">here</a>). All information provided will be treated with strict confidentiality.</p>
 </li>
 <li>
 <p>For enquiries, please contact <strong><a href="mailto:broadrick_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">broadrick_ss@moe.edu.sg</a></strong>.</p>
@@ -164,7 +166,8 @@ here). All information provided will be treated with strict confidentiality.</p>
 community of parents who support our students and school activities. By
 joining the PSG, parents can contribute meaningfully to their child’s educational
 experience, connect with fellow parents, and participate actively in school
-events. More information on how to join the PSG will be shared later.</p>
+events. More information on how to join the PSG is shared in the 2026 Sec
+1 Registration form.</p>
 </li>
 <li>
 <p>We look forward to welcoming you to the PSG community.</p>
@@ -176,7 +179,8 @@ events. More information on how to join the PSG will be shared later.</p>
 <p>Parents seeking a transfer for their child due to serious medical conditions
 or severe physical impairments must submit an appeal in person at the school’s
 General Office during the <strong>Medical Appeal Exercise (MAE)</strong>.
-Details and deadlines will be updated later.</p>
+Please visit the MOE page (click <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/" rel="noopener noreferrer nofollow" target="_blank">here</a>)
+for more details and deadlines for the exercise.</p>
 </li>
 <li>
 <p>All appeals must be accompanied by relevant supporting documents (e.g.
