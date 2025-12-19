@@ -208,7 +208,7 @@ lack supporting documents, or are submitted late will not be processed.</p>
 <li>
 <p>If you are appealing for school transfer due to non-medical reasons: Please
 fill in the online form at <a href="https://go.gov.sg/2026-sec1-transfer-in-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026-sec1-transfer-in-appeal</a> by
-Friday, 26 December 2025, 5.00 pm</p>
+Friday, 26 December 2025, 12.00 pm</p>
 </li>
 <li>
 <p>For enquiries, please contact the school’s General Office at <strong>6344 5025</strong>.</p>
