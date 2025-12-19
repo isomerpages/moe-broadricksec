@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Welcome to the Broadrick Family</strong></h3>
-<p>last updated 18/12/2025</p>
+<p>last updated 19/12/2025</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,8 +31,6 @@ description: ""
 <p></p>
 <p>We look forward to welcoming our incoming Secondary 1 students and parents/guardians
 to Broadrick Secondary School.</p>
-<p>Please visit this page on <strong>19 December 2025</strong> for the latest
-updates.</p>
 <hr>
 <h4><strong>1. Secondary 1 Posting Results</strong></h4>
 <p>The Secondary 1 (S1) Posting results will be released on <strong>Friday, 19 December 2025, at 9.00 am</strong>.</p>
@@ -206,6 +204,11 @@ for more details and deadlines for the exercise.</p>
 <p>All appeals must be accompanied by relevant supporting documents (e.g.
 medical reports or doctor’s letters). Applications that are incomplete,
 lack supporting documents, or are submitted late will not be processed.</p>
+</li>
+<li>
+<p>If you are appealing for school transfer due to non-medical reasons: Please
+fill in the online form at <a href="https://go.gov.sg/2026-sec1-transfer-in-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026-sec1-transfer-in-appeal</a> by
+Friday, 26 December 2025, 5.00 pm</p>
 </li>
 <li>
 <p>For enquiries, please contact the school’s General Office at <strong>6344 5025</strong>.</p>
