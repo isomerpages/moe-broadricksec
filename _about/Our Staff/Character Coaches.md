@@ -72,7 +72,8 @@ third_nav_title: Our Staff
 <p>Mrs Jasmine Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeow_boon_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_boon_gek@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -636,7 +637,7 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<h3>Sec 4 Character Coaches</h3>
+<h3>Sec 4/5 Character Coaches</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
