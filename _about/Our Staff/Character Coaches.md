@@ -973,11 +973,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmine Chua</p>
+<p>Ms Esther Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeow_boon_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_boon_gek@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
