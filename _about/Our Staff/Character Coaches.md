@@ -922,7 +922,8 @@ third_nav_title: Our Staff
 <p>Mr Wu Men Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wu_men_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_men_yen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
