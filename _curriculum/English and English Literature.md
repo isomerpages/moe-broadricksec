@@ -34,9 +34,6 @@ Adnan and The Last Regiment (G1 students)</p>
 <p>Meet-the-Content Creator (Ian Jeevan)&nbsp;</p>
 </li>
 <li>
-<p>Meet-the-Voice Actress (Caitanya)</p>
-</li>
-<li>
 <p>Ted Talk Workshop</p>
 </li>
 </ul>
