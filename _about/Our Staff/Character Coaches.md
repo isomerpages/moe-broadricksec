@@ -836,7 +836,6 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<h3></h3>
 <h3>Teachers</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -1039,6 +1038,27 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:johara_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johara_mohd_ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>GRC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sheikh Farid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sheikh_farid_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheikh_farid_abdul_karim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chu Jin Ing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
