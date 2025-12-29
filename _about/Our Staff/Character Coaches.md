@@ -1041,7 +1041,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1049,6 +1049,15 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:johara_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johara_mohd_ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fong Peng Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fong_peng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fong_peng_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
