@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Welcome to the Broadrick Family</strong></h3>
-<p>last updated 19/12/2025</p>
+<p>last updated 29/12/2025</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,6 +31,10 @@ description: ""
 <p></p>
 <p>We look forward to welcoming our incoming Secondary 1 students and parents/guardians
 to Broadrick Secondary School.</p>
+<p>For the <strong>First Day of School on 2 Jan 2026</strong>, please report
+by<strong> 7:30am sharp to the school quadrangle</strong>. Your Character
+Coaches and Orientation Group Leaders (OGLs) will receive you, and the
+school looks forward to welcoming you to the Broadrick Family.</p>
 <hr>
 <h4><strong>1. Secondary 1 Posting Results</strong></h4>
 <p>The Secondary 1 (S1) Posting results will be released on <strong>Friday, 19 December 2025, at 9.00 am</strong>.</p>
