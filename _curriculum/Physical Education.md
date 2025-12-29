@@ -95,7 +95,7 @@ learning with ActiveSG</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025 GRC Health Run</strong>
+<p><strong>2025 GRC Health Run (3.2km)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
