@@ -928,7 +928,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mathematics</p>
 <p></p>
 <p></p>
@@ -951,15 +951,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tok_yoo_kang@moe.edu.sg" rel="noopener nofollow" target="_blank">tok_yoo_kang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Rahmat Ghamaruddin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rahmat_ghamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmat_ghamaruddin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1062,7 +1053,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>GRC</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1079,6 +1070,15 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Rahmat Ghamaruddin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rahmat_ghamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmat_ghamaruddin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
