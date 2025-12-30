@@ -6,12 +6,7 @@ description: ""
 third_nav_title: Students
 ---
 <h3><strong>Student Handbook 2026</strong></h3>
-<p></p>
-<h3><strong>Classroom Allocation (2026 Semester 1)</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation.png">
-</div>
+<p>To be updated</p>
 <h3><strong>Financial Assistance</strong></h3>
 <p><strong>Financial Assistance Scheme (FAS)</strong>
 </p>
