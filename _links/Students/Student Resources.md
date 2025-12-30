@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<h3><strong>Student Handbook</strong></h3>
-<p><a href="https://online.flippingbook.com/view/116838550/" rel="noopener noreferrer nofollow" target="_blank"> </a>
-</p>
-<h3><strong>Classroom Allocation (for 2026 Semester 1)</strong></h3>
+<h3><strong>Student Handbook 2026</strong></h3>
+<p></p>
+<h3><strong>Classroom Allocation (2026 Semester 1)</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation.png">
