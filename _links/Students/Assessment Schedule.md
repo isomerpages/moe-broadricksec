@@ -5,27 +5,14 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h3>Weighted Assessments</h3>
-<p>Please refer to the school calendar on Google Calendar.</p>
+<h3><strong>Weighted Assessments</strong></h3>
+<p>Please refer to the school calendar on Parents Gateway (PG).</p>
 <hr>
-<h3>Prelims</h3>
-<p><a href="/files/Assessment/Sec_4N_Prelim_Exam_TT_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4N Prelims (N-level)</a>
-</p>
-<p><a href="/files/Broadrick_Sec_4___5_O_Prelim_Exam_TT_2025_version_4_dd_18_Jul.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 Prelims (O Levels)</a>
-</p>
+<h3><strong>Preliminary Examinations</strong></h3>
+<p></p>
 <hr>
-<h3>End-of-Year (EOY) Examinations</h3>
-<p><a href="/files/Assessment/2025_Broadrick_Sec_1_EOY_Exam_dd_26_Aug.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY</a>
-</p>
-<p><a href="/files/Assessment/2025_Broadrick_Sec_2_EOY_Exam_dd_26_Aug.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY</a>
-</p>
-<p><a href="/files/Assessment/2025_Broadrick_Sec_3_EOY_Exam_Ver_2_dd_28_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EOY</a>
-</p>
+<h3><strong>End-of-Year (EOY) Examinations</strong></h3>
+<p></p>
 <hr>
-<h3>EOY Script Check</h3>
-<p><a href="/files/Assessment/2025_SCRIPTCHECK_Classes__Sec_1_.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Script Check timetable</a>
-</p>
-<p><a href="/files/Assessment/2025_SCRIPTCHECK_Classes__Sec_2_.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Script Check timetable</a>
-</p>
-<p><a href="/files/Assessment/2025_SCRIPTCHECK_Classes__Sec_3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Script Check timetable</a>
-</p>
+<h3><strong>End-of-Year (EOY) Script Check</strong></h3>
+<p></p>
