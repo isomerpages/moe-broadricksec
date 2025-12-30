@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Students/.keep
+      - Students/Student Resources.md
       - Students/2026 Class Timetable.md
       - Students/2026 Assessment Schedule.md
-      - Students/Student Resources.md
       - Students/Student iCON.md
       - Students/Post Exam (ELE, HAP, Bridging).md
       - Students/Sec 3 Subject Combination Excercise.md
