@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/2026 Class Timetable.md
+      - Students/2026 Class Timetable & Classroom Allocation.md
       - Students/2026 Assessment Schedule.md
       - Students/Student Resources (Student Handbook, MOE FAS).md
       - Students/Student iCON.md

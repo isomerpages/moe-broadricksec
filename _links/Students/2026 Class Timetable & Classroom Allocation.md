@@ -1,5 +1,5 @@
 ---
-title: 2026 Class Timetable
+title: 2026 Class Timetable & Classroom Allocation
 permalink: /links/students/2026-class-time-table/
 description: ""
 third_nav_title: Students
