@@ -392,7 +392,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,6 +409,15 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ma_funing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ma_funing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Yoong Jin Ing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1066,7 +1075,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chu Jin Ing</p>
+<p>Mrs Yoong Jin Ing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
