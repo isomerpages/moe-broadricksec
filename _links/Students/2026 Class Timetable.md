@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
+<h3><strong>2026 Semester 1 Classroom Allocation</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation.png">
+</div>
 <h3><strong>2026 Semester 1 Timetable</strong></h3>
 <p><em>updated: 31/12/2025</em>
 </p>
