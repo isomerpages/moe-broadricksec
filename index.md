@@ -45,6 +45,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Class Timetable and Classroom Allocation
+          date: 31 December 2025
+          announcement: The 2026 Class Timetable and Classroom Allocation are now
+            available. Click below to view the details and prepare for the new
+            academic year.
+          link_text: Click Here
+          link_url: https://www.broadricksec.moe.edu.sg/links/students/2026-class-time-table/
         - title: Principal’s Post–Open House Talk (26 November)
           date: 23 November 2025
           announcement: Join our Principal’s Post–Open House Talk on 26 Nov 2025 —
@@ -71,13 +78,6 @@ sections:
             can download a copy by clicking the link below.
           link_text: Click to view our e-Student Handbook
           link_url: https://online.flippingbook.com/view/1063509589/
-        - title: 2025 School Calendar
-          date: 01 January 2025
-          announcement: The School Calendar of Events will keep all parents and guardians
-            updated on upcoming activities and key dates. Find out how to access
-            it through Parents’ Gateway (PG) by clicking the link below.
-          link_text: Click to access our School Calendar
-          link_url: https://drive.google.com/file/d/18IEe3wxdTz-f2_QJ2quC7YLZLHqLf1lZ/view?usp=drive_link
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our School Activities on Instagram!
