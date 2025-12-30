@@ -6,13 +6,12 @@ description: ""
 third_nav_title: Students
 ---
 <h3><strong>Student Handbook</strong></h3>
-<p><a href="https://online.flippingbook.com/view/116838550/" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2025</a>
+<p><a href="https://online.flippingbook.com/view/116838550/" rel="noopener noreferrer nofollow" target="_blank"> </a>
 </p>
-<p></p>
-<h3><strong>Classroom Allocation (for 2026)</strong></h3>
+<h3><strong>Classroom Allocation (for 2026 Semester 1)</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/2026_Classroom_Allocation_22_Dec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation.png">
 </div>
 <h3><strong>Financial Assistance</strong></h3>
 <p><strong>Financial Assistance Scheme</strong>
