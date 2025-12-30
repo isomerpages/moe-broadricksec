@@ -53,7 +53,7 @@ third_nav_title: Our Staff
 <p>Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chu Jin Ing</p>
+<p>Mrs Yoong Jin Ing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
@@ -107,6 +107,18 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:izyana_iskandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">izyana_iskandar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zulkifli Mohamed Saat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zulkifli_mohamed_saat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkifli_mohamed_saat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
