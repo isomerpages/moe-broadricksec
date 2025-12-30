@@ -5,27 +5,16 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h3><strong>2025 Semester 2 Timetable</strong></h3>
-<p><a href="/files/Time Table/2025_SEM2_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Sem 2 2025</a>
+<h3><strong>2026 Semester 1 Timetable</strong></h3>
+<p><em>updated: 31/12/2025</em>
 </p>
-<p><a href="/files/Time Table/2025_SEM2_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Sem 2 2025</a>
+<p><a href="/files/Time Table/2026_SEM1_FINAL_Classes_Sec_1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Sem 1</a>
 </p>
-<p><a href="/files/Time Table/2025_SEM2__Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Sem 2 2025</a>
+<p><a href="/files/Time Table/2026_SEM1_FINAL_Classes_Sec_2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Sem 1</a>
 </p>
-<p><a href="/files/Time Table/2025_SEM2_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Sem 2 2025</a>
+<p><a href="/files/Time Table/2025_SEM2__Sec_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Sem 1</a>
 </p>
-<p><a href="/files/Time Table/2025_SEM2_FINAL_MASTER_6days_Classes.pdf" rel="noopener nofollow" target="_blank">Special Timetable Sem 2 2025 (Special Class Timetable due to National Orals Exam)</a>
-</p>
-<h3><strong>2025 Semester 1 Timetable</strong></h3>
-<p><a href="/files/Time Table/2025/S1_SEM_1_2025_TT.pdf" rel="noopener nofollow" target="_blank">Sec 1 Sem 1 2025</a>
-</p>
-<p><a href="/files/Time Table/2025/S2_SEM_1_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Sem 1 2025</a>
-</p>
-<p><a href="/files/Time Table/2025/S3_SEM_1_2025_TT.pdf" rel="noopener nofollow" target="_blank">Sec 3 Sem 1 2025</a>
-</p>
-<p><a href="/files/Time Table/2025/S4_SEM_1_2025_TT.pdf" rel="noopener nofollow" target="_blank">Sec 4 Sem 1 2025</a>
-</p>
-<p><a href="/files/Time Table/2025/S5_SEM_1_2025_TT.pdf" rel="noopener nofollow" target="_blank">Sec 5 Sem 1 2025</a>
+<p><a href="/files/Time Table/2026_SEM1_FINAL_Classes_Sec_45.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 Sem 1</a>
 </p>
 <p></p>
 <p>The image below provides additional information to help students understand
