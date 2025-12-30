@@ -13,7 +13,7 @@ third_nav_title: Students
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation.png">
 </div>
 <h3><strong>Financial Assistance</strong></h3>
-<p><strong>Financial Assistance Scheme</strong>
+<p><strong>Financial Assistance Scheme (FAS)</strong>
 </p>
 <p><a href="/files/MOE FAS_Transport Subsidy and Meal Coupon 2016.pdf" rel="noopener nofollow" target="_blank">MOE FAS Transport Subsidy and Meal Coupon</a>
 </p>
