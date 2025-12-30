@@ -1,21 +1,14 @@
 ---
-title: Student Resources
+title: Student Resources (Student Handbook, MOE FAS)
 permalink: /links/students/resources/
 variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<h3><strong>Student Handbook</strong></h3>
-<p><a href="https://online.flippingbook.com/view/116838550/" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2025</a>
-</p>
-<p></p>
-<h3><strong>Classroom Allocation (for 2026)</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Media/2026_Classroom_Allocation_22_Dec.jpg">
-</div>
+<h3><strong>Student Handbook 2026</strong></h3>
+<p>To be updated</p>
 <h3><strong>Financial Assistance</strong></h3>
-<p><strong>Financial Assistance Scheme</strong>
+<p><strong>Financial Assistance Scheme (FAS)</strong>
 </p>
 <p><a href="/files/MOE FAS_Transport Subsidy and Meal Coupon 2016.pdf" rel="noopener nofollow" target="_blank">MOE FAS Transport Subsidy and Meal Coupon</a>
 </p>
