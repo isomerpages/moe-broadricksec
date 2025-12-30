@@ -1061,36 +1061,6 @@ third_nav_title: Our Staff
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>GRC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sheikh Farid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sheikh_farid_abdul_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheikh_farid_abdul_karim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Yoong Jin Ing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Rahmat Ghamaruddin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rahmat_ghamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmat_ghamaruddin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3></h3>
