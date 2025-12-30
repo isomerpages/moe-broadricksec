@@ -18,8 +18,11 @@ sections:
       size: md
       alignment: left
       key_highlights:
+        - title: 2026 Class Timetable and Classroom Allocation
+          description: CLICK HERE
+          url: https://www.broadricksec.moe.edu.sg/links/students/2026-class-time-table/
         - title: BRD55 ANNIVERSARY COFFEE TABLE BOOK
-          description: CLICK HERE TO VIEW
+          description: CLICK HERE
           url: https://issuu.com/avantgardemediaarts/docs/broadrick_secondary_school_85th_anniversary_coffee
         - title: 2025 OPEN HOUSE PAMPHLET
           description: CLICK HERE
