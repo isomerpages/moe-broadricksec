@@ -65,7 +65,7 @@ sections:
             am - 12:00 pm)
           link_text: Click to view our Open House Pamphlet
           link_url: https://online.flippingbook.com/view/250177530/
-        - title: "2025: BRD55"
+        - title: "2025: BRD55 Anniversary Coffee Table Book"
           date: 14 November 2025
           announcement: A celebration of Broadrick's journey for the past 55 years. We
             commemorate a heritage of values-driven education.
