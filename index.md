@@ -18,15 +18,15 @@ sections:
       size: md
       alignment: left
       key_highlights:
+        - title: 2026 STUDENT HANDBOOK
+          description: CLICK HERE
+          url: https://online.flippingbook.com/view/699914784/
         - title: 2026 Class Timetable and Classroom Allocation
           description: CLICK HERE
           url: https://www.broadricksec.moe.edu.sg/links/students/2026-class-time-table/
         - title: BRD55 ANNIVERSARY COFFEE TABLE BOOK
           description: CLICK HERE
           url: https://issuu.com/avantgardemediaarts/docs/broadrick_secondary_school_85th_anniversary_coffee
-        - title: 2025 OPEN HOUSE PAMPHLET
-          description: CLICK HERE
-          url: https://online.flippingbook.com/view/250177530/2/
         - title: OUR SOCIAL MEDIA
           description: CLICK HERE
           url: https://www.instagram.com/broadricksec_official
@@ -48,6 +48,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 e-Student Handbook
+          date: 01 January 2026
+          announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
+            the school has created its second e-student handbook.     Students
+            can download a copy by clicking the link below.
+          link_text: Click to view our e-Student Handbook
+          link_url: https://online.flippingbook.com/view/699914784/
         - title: 2026 Class Timetable and Classroom Allocation
           date: 31 December 2025
           announcement: The 2026 Class Timetable and Classroom Allocation are now
@@ -55,7 +62,7 @@ sections:
             academic year.
           link_text: Click Here
           link_url: https://www.broadricksec.moe.edu.sg/links/students/2026-class-time-table/
-        - title: Principal’s Post–Open House Talk (26 November)
+        - title: 2025 Principal’s Post–Open House Talk (26 November)
           date: 23 November 2025
           announcement: Join our Principal’s Post–Open House Talk on 26 Nov 2025 —
             discover how to choose the right secondary school for your child.
@@ -74,13 +81,6 @@ sections:
             commemorate a heritage of values-driven education.
           link_text: Click to view our BRD55 Coffee Table Book
           link_url: https://issuu.com/avantgardemediaarts/docs/broadrick_secondary_school_85th_anniversary_coffee
-        - title: 2025 e-Student Handbook
-          date: 02 January 2025
-          announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
-            the school has created its second e-student handbook.     Students
-            can download a copy by clicking the link below.
-          link_text: Click to view our e-Student Handbook
-          link_url: https://online.flippingbook.com/view/1063509589/
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our School Activities on Instagram!
