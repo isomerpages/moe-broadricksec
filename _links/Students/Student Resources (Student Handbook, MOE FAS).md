@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Students
 ---
 <h3><strong>Student Handbook 2026</strong></h3>
-<p>To be updated</p>
+<p><a href="https://online.flippingbook.com/view/699914784/" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
 <h3><strong>Financial Assistance</strong></h3>
 <p><strong>Financial Assistance Scheme (FAS)</strong>
 </p>
