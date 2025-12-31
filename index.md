@@ -51,7 +51,7 @@ sections:
         - title: 2026 e-Student Handbook
           date: 01 January 2026
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
-            the school has created its second e-student handbook.     Students
+            the school has created its third e-student handbook.     Students
             can download a copy by clicking the link below.
           link_text: Click to view our e-Student Handbook
           link_url: https://online.flippingbook.com/view/699914784/
