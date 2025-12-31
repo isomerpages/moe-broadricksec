@@ -112,7 +112,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Welfare Officer</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zulkifli Mohamed Saat</p>
