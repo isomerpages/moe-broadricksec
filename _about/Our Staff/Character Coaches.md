@@ -396,10 +396,10 @@ third_nav_title: Our Staff
 <p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Sock Kiang</p>
+<p>Ms Chen Zhizhi Ember</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_sock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sock_kiang@moe.edu.sg</a>
+<p><a href="mailto:ang_sock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhizhi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
