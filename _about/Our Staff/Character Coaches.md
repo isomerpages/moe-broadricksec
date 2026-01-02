@@ -81,7 +81,8 @@ third_nav_title: Our Staff
 <p>Ms Hannah Estelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hannah_estelle_lao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannah_estelle_lao@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +102,8 @@ third_nav_title: Our Staff
 <p>Mr Lau Chin Hang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lau_chin_hang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_chin_hang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +154,8 @@ third_nav_title: Our Staff
 <p>Mr Triston Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:triston_ng_jun_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">triston_ng_jun_kai_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +176,8 @@ third_nav_title: Our Staff
 <p>Mr Darryll Edmund</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:darryll_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">darryll_edmund@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -570,7 +574,8 @@ third_nav_title: Our Staff
 <p>Ms Shena Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shena_tan_qing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shena_tan_qing_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -753,7 +758,8 @@ third_nav_title: Our Staff
 <p>Ms Valerie Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_xin_ying_valerie_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_ying_valerie_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -968,7 +974,8 @@ third_nav_title: Our Staff
 <p>Ms Esther Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_lek_ong_esther_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lek_ong_esther_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
