@@ -125,8 +125,7 @@ facing rising heat in Singapore.</div>
 <br>4F Eisma Kieron Anilae Buenaventura</p>
 <p></p>
 <p><strong>Certificate of Merit</strong>
-</p>
-<p>4F Wang Zhihan</p>
+<br>4F Wang Zhihan</p>
 </td>
 </tr>
 <tr>
