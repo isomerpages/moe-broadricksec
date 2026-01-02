@@ -100,3 +100,55 @@ facing rising heat in Singapore.</div>
 </div>
 </div>
 <p></p>
+<h3><strong>Our Achievements</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Singapore Junior Chemistry Olympiad (</strong>SJChO<strong>)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award</strong>
+<br>4F Eisma Kieron Anilae Buenaventura</p>
+<p></p>
+<p><strong>Certificate of Merit</strong>
+</p>
+<p>4F Wang Zhihan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Singapore Junior Physics Olympiad</strong> (SJPO)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award</strong>
+<br>4F Eisma Kieron Anilae Buenaventura
+<br>4F Wang Zhihan</p>
+<p></p>
+<p><strong>Bronze Award</strong>
+<br>3C Zahra Arif Khambaty
+<br>4F Gong Yiduo
+<br>4F Wu Jinze</p>
+<p></p>
+<p><strong>Honourable Mention</strong>
+<br>4F Mohamad Arafat Jahir Hussain</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
