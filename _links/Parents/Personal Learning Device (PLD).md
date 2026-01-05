@@ -121,7 +121,7 @@ PLD after school hours to be regulated by the DMA at all.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>(C) Change of After-School Device Management Application (DMA) Option (Default / Option A / Option B)</strong></h4>
+<h4><strong>(C) Change of After-School Device Management Application (DMA) Option (Default / Option A / Option B) - FORM.SG</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -129,7 +129,11 @@ PLD after school hours to be regulated by the DMA at all.&nbsp;</p>
 can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg (CLICK HERE)</a>.</p>
 </li>
 <li>
-<p><strong>Please note that changes will only take effect at the end of the month. Should there be any earlier implementation, the ICT Department will inform you accordingly.</strong>
+<p><strong>Please note that changes will only take effect at the end of the month. </strong>
+</p>
+</li>
+<li>
+<p><strong>Should there be any updates or follow-up actions, the ICT department personnel will inform you via Parent Gateway (PG).</strong>
 </p>
 </li>
 </ul>
