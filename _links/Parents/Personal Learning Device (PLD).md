@@ -111,7 +111,7 @@ PLD after school hours to be regulated by the DMA at all.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: <br>Decided by parents/guardians</strong>
+<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: <br>Decided by parents/guardians (from 7:00 pm - 10:30 pm)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ PLD after school hours to be regulated by the DMA at all.&nbsp;</p>
 can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg (CLICK HERE)</a>.</p>
 </li>
 <li>
-<p><strong>Please note that changes will only take effect at the end of the month. </strong>
+<p><strong>Please note that changes will only take effect at the end of the month.</strong>
 </p>
 </li>
 <li>
