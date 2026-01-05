@@ -33,17 +33,6 @@ sections:
       subtitle: "Vision: A Choice School Providing Holistic Education  || Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
-  - infopic:
-      title: Secondary 1 Registration Matters
-      subtitle: 19 December 2025
-      id: infopic
-      description: Find key information on Secondary 1 registration, posting updates,
-        orientation, and next steps as your child begins their Broadrick journey
-        in 2026.
-      button: CLICK HERE
-      url: https://www.broadricksec.moe.edu.sg/secondary-1-registration-2026/
-      image: /images/2025/smiling.jpg
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
@@ -82,6 +71,17 @@ sections:
           link_text: Click to view our BRD55 Coffee Table Book
           link_url: https://issuu.com/avantgardemediaarts/docs/broadrick_secondary_school_85th_anniversary_coffee
       subtitle: STAY UPDATED WITH
+  - infopic:
+      title: Secondary 1 Registration Matters
+      subtitle: 19 December 2025
+      id: infopic
+      description: Find key information on Secondary 1 registration, posting updates,
+        orientation, and next steps as your child begins their Broadrick journey
+        in 2026.
+      button: CLICK HERE
+      url: https://www.broadricksec.moe.edu.sg/secondary-1-registration-2026/
+      image: /images/2025/smiling.jpg
+      alt: Image alt text
   - infopic:
       title: Keep up with our School Activities on Instagram!
       id: infopic
