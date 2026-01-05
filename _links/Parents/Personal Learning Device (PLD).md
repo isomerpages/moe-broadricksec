@@ -1,5 +1,5 @@
 ---
-title: Personal Learning Devices (PLD)
+title: Personal Learning Device (PLD)
 permalink: /personal-learning-devices-pld/
 variant: tiptap
 description: ""
@@ -11,7 +11,11 @@ third_nav_title: Parents
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PDLP Info/2024/2024_PDLP_Student_Device_Information_Kit__Lenovo_.pdf" rel="noopener noreferrer nofollow" target="_blank">[LENOVO] PDLP - Student Device Information Kit (2024)</a>
+<p><a href="/files/PDLP Info/LENOVO__PDLP___Student_Device_Information_Kit__2026_.pdf" rel="noopener nofollow" target="_blank">[LENOVO] PDLP - Student Device Information Kit (2026)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PDLP Info/2024/2024_PDLP_Student_Device_Information_Kit__Lenovo_.pdf" rel="noopener noreferrer nofollow" target="_blank">[LENOVO] PDLP - Student Device Information Kit (2024 - 2025)</a>
 </p>
 </li>
 <li>
@@ -23,12 +27,12 @@ third_nav_title: Parents
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/PDLP Info/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook I</a> :
+<p><a href="/files/PDLP Info/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) v2026</a> :
 A quick guide to the National Digital Literacy Programme (NDLP), and parenting
 tips for helping your child learn with their personal learning device (PLD).</p>
 </li>
 <li>
-<p><a href="/files/PDLP Info/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parents Handbook II</a> :
+<p><a href="/files/PDLP Info/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) v2026</a> :
 Overview of DMA, and more parenting tips on how to help your child learn
 with PLD.</p>
 </li>
@@ -42,8 +46,7 @@ and will be installed on any student-owned devices parents/guardians opt
 for the student to use in lieu of the PLD, subject to parental/guardian
 consent.</p>
 <p>The Device Management Application (DMA) solution for Chromebook PLDs is
-LightSpeed Systems®.&nbsp;&nbsp;During school hours, the Default Setting
-will apply.&nbsp;&nbsp;</p>
+LightSpeed Systems®.&nbsp;&nbsp;<strong>During school hours, the Default Setting will apply.</strong>&nbsp;&nbsp;</p>
 <p>The DMA has 3 main components which will support the use of the PLD in
 the classroom and safeguard students’ cyber wellness:</p>
 <ul data-tight="true" class="tight">
@@ -76,50 +79,39 @@ screen time to prevent cyber addiction.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Default</p>
+<p>Default Setting (Note: This will apply if no Alternative Setting is chosen)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Option A (Alternative Setting)</p>
+<p>Alternative Setting: Option A (DMA settings <u>can</u> be modified)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Option B (Alternative Setting)</p>
+<p>Alternative Setting: Option B (DMA will be inactive <u>only</u> after school
+hours)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Note: This will apply if no Alternative Setting is chosen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DMA settings can be modified</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DMA will be inactive <strong><u>only</u></strong> after school hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who want their child’s/ward’s use of the device
-to be restricted only to teaching and learning, and who prefer to follow
-the Default Setting as set by the school for both during and after school
-hours.&nbsp;</p>
+<p>For parents/guardians who want their child’s/ward’s use of the PLD to
+be restricted only to teaching and learning, and prefer to leave it to
+the school to decide on DMA settings after school hours.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For parents/guardians who prefer to take charge of the level of restrictions
-for their child’s/ward’s use of the device after school hours regulated
-by the DMA.&nbsp;</p>
+for their child’s/ward’s use of the PLD after school hours regulated by
+the DMA.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For parents/guardians who do not want their child’s/ward’s use of the
-device after school hours to be regulated by the DMA at all.&nbsp;</p>
+PLD after school hours to be regulated by the DMA at all.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: 4:00 pm - 11:00 pm</strong>
+<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: 4:00 pm - 10:30 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: <br>Decided by parents/guardians</strong>
+<p><strong>School Hours: 6:30 am - 4:00 pm<br>After School Hours: <br>Decided by parents/guardians (from 7:00 pm - 10:30 pm)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +121,7 @@ device after school hours to be regulated by the DMA at all.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>(C) Change of After-School Device Management Application (DMA) Option (Default / Option A / Option B)</strong></h4>
+<h4><strong>(C) Change of After-School Device Management Application (DMA) Option (Default / Option A / Option B) - FORM.SG</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -137,7 +129,12 @@ device after school hours to be regulated by the DMA at all.&nbsp;</p>
 can do so using this <a href="https://for.edu.sg/brdafterschooldma" rel="noopener noreferrer nofollow" target="_blank">Form.sg (CLICK HERE)</a>.</p>
 </li>
 <li>
-<p>Please note that changes will only take effect at the end of the month.</p>
+<p><strong>Please note that changes will only take effect at the end of the month.</strong>
+</p>
+</li>
+<li>
+<p><strong>Should there be any updates or follow-up actions, the ICT department personnel will inform you via Parent Gateway (PG).</strong>
+</p>
 </li>
 </ul>
 <p></p>

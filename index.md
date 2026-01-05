@@ -33,21 +33,17 @@ sections:
       subtitle: "Vision: A Choice School Providing Holistic Education  || Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
-  - infopic:
-      title: Secondary 1 Registration Matters
-      subtitle: 19 December 2025
-      id: infopic
-      description: Find key information on Secondary 1 registration, posting updates,
-        orientation, and next steps as your child begins their Broadrick journey
-        in 2026.
-      button: CLICK HERE
-      url: https://www.broadricksec.moe.edu.sg/secondary-1-registration-2026/
-      image: /images/2025/smiling.jpg
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Important Information on the Personal Learning Device (PLD)
+          date: 05 January 2026
+          announcement: Parents/guardians are encouraged to visit the PLD page
+            for  general information on the PLD Programme and related
+            arrangements.
+          link_text: Click Here
+          link_url: https://www.broadricksec.moe.edu.sg/personal-learning-devices-pld/
         - title: 2026 e-Student Handbook
           date: 01 January 2026
           announcement: As part of our PCK (Paperless, Cashless, and Keyless) philosophy,
@@ -75,13 +71,18 @@ sections:
             am - 12:00 pm)
           link_text: Click to view our Open House Pamphlet
           link_url: https://online.flippingbook.com/view/250177530/
-        - title: "2025: BRD55 Anniversary Coffee Table Book"
-          date: 14 November 2025
-          announcement: A celebration of Broadrick's journey for the past 55 years. We
-            commemorate a heritage of values-driven education.
-          link_text: Click to view our BRD55 Coffee Table Book
-          link_url: https://issuu.com/avantgardemediaarts/docs/broadrick_secondary_school_85th_anniversary_coffee
       subtitle: STAY UPDATED WITH
+  - infopic:
+      title: Secondary 1 Registration Matters
+      subtitle: 19 December 2025
+      id: infopic
+      description: Find key information on Secondary 1 registration, posting updates,
+        orientation, and next steps as your child begins their Broadrick journey
+        in 2026.
+      button: CLICK HERE
+      url: https://www.broadricksec.moe.edu.sg/secondary-1-registration-2026/
+      image: /images/2025/smiling.jpg
+      alt: Image alt text
   - infopic:
       title: Keep up with our School Activities on Instagram!
       id: infopic
