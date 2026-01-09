@@ -6,12 +6,80 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Friday 1.30pm - 4.30pm</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>HQ Activities and Events as required</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Low Chia Li, Candy
-<br>[IC] Ms Pearlyn Low Ling Hui
-<br>Ms Leong Wai Zin
-<br>Wardah Umar Siraj Sharbeeni</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Candy Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_chia_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low_chia_li@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pearlyn Low Ling Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pearlyn_low_ling_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pearlyn_low_ling_hui@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Objectives</strong></h3>
 <p>To give the girls dynamic, flexible and values-based training in life
 skills, leadership and citizenship.</p>
