@@ -6,17 +6,46 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday 3.15pm - 5.45pm</p>
-</li>
-<li>
-<p>Wednesday 3.15pm - 5.45pm</p>
-</li>
-<li>
-<p>Friday 2.00pm - 5.00pm</p>
-</li>
-</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mondays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As required</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Teachers-in-charge</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
