@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h3><strong>Training sessions</strong></h3>
+<h3><strong>Training schedule</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
