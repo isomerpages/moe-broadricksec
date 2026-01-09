@@ -44,8 +44,8 @@ learning outside of the classroom. Through CCAs, we allow students to:</p>
 <p>Students must achieve the minimum 75% attendance requirement.</p>
 <p></p>
 <h4>Contact Persons</h4>
-<p>For any queries, you may contact<strong> HOD/PE &amp; CCA</strong>, Mr
-Chin Wei Ming.</p>
+<p>For any queries, you may contact<strong> HOD/PE &amp; CCA</strong>,
+<a href="mailto:chin_wei_ming@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chin Wei Ming</a>.</p>
 <p></p>
 <p>You may refer to the following links for more information:</p>
 <table style="minWidth: 50px">
