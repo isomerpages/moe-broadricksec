@@ -9,9 +9,50 @@ variant: tiptap
 <p>Tuesday 3.15pm - 5.00pm (CCA leaders)
 <br>Wednesday 3.15pm - 5.30pm (All members)</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Ms Tengku Suhaila
-<br>Mdm Meng Xin
-<br>Mdm Mohamed Hanif Rasina Nilofar</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tengku Suhaila Tengku Abd R</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tengku_suhaila@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tengku_suhaila@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chervonne Ang Tong Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_tong_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_tong_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
