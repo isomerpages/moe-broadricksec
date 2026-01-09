@@ -10,10 +10,51 @@ variant: tiptap
 <br>Wednesday 3.15 pm - 6.00 pm
 <br>Friday 2.00 pm - 4.00 pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Ms Phyllis Loe
-<br>[IC] Mrs Vasughi Santhos
-<br>Ms Fadhilah
-<br>Mdm Rubina Pasha
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rubina Pasha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rubina_pasha_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rubina_pasha_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nooraini Bte Samat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nooraini_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nooraini_samat@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
 <h3><strong>Objectives</strong></h3>
