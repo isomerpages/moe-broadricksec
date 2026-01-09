@@ -6,8 +6,38 @@ third_nav_title: Club and Societies
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Tuesday 3.15pm - 5.00pm (CCA leaders)
-<br>Wednesday 3.15pm - 5.30pm (All members)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mondays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 5:30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 5:30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Teachers-in-charge</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
