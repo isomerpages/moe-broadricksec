@@ -5,13 +5,81 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h4><strong>Training sessions</strong></h4>
-<p>Wednesday 3.00pm - 4.30pm [PDS - Student-Initiated Learning]
-<br>Friday 2.30pm - 5.30pm</p>
+<h4><strong>Training schedule</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>HQ Activities and Events as required</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>[IC] Mr Simon Yap
-<br>[IC] Mr Shahul Hameed
-<br>Mr Stephen Lim</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yap Wee Yong Simon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_wee_yong_simon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_wee_yong_simon@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shahul Hameed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shahul_hameed@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>shahul_hameed@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Objectives</strong></h4>
 <ul>
 <li>

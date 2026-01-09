@@ -5,15 +5,92 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h3><strong>Training sessions</strong></h3>
-<p>Monday 3.15pm - 6.00pm (for selected students)
-<br>Wednesday 3.15pm - 6.00pm
-<br>Friday 2.15pm - 6.00pm</p>
+<h3><strong>Training schedule</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mondays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As required</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Ms Amanda de Souza
-<br>[IC] Mr Mustafa
-<br>[Head Coach] Mr Fadli
-<br>[Coach] Mr Rezal</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda De Souza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amanda_rachael_de_souza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amanda_rachael_de_souza@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mustafa Kamal B Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mustafa_kamal_b_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mustafa_kamal_b_abdullah@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
