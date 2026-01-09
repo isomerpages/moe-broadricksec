@@ -10,10 +10,51 @@ variant: tiptap
 <br>Wednesday 3.15pm - 4.15pm (on specific Wednesdays)
 <br>Friday 2.00pm - 4.00pm</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p>[IC] Ms Liu Siew Lee&nbsp;
-<br>[IC] Ms Chantel Tan&nbsp;
-<br>Mdm Wang Huali
-<br>Ms Chloe Phua</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohani Binte Mohamed Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rohani_mohamed_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rohani_mohamed_ismail@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fadhilah Ramli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fadhilah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fadhilah_ramli@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong>Objectives</strong></h3>
 <ul>
 <li>
