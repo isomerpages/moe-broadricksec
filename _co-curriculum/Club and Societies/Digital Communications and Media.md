@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Club and Societies
 variant: tiptap
 ---
-<h3><strong>Training sessions</strong></h3>
+<h3><strong>Training schedule</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
