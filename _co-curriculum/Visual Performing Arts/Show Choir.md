@@ -5,10 +5,47 @@ description: ""
 third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
-<h3><strong>Training sessions</strong></h3>
-<p>Monday 3.15pm - 5.15pm
-<br>Wednesday 3.15pm - 4.15pm (on specific Wednesdays)
-<br>Friday 2.00pm - 4.00pm</p>
+<h3><strong>Training schedule</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mondays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As required</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Teachers-in-charge</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
