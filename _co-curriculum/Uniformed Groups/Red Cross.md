@@ -6,8 +6,35 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3><strong>Training sessions</strong></h3>
-<p>Wednesday 3.00pm - 4.30pm [Cadet Leaders Planning]
-<br>Friday 2.30pm - 5.30pm</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm – 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>HQ Activities and Events as required</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Teachers-in-charge</strong></h3>
 <p>[IC] Ms Leng Yi Ling
 <br>[IC] Ms Lynn Wu Jieru
