@@ -218,7 +218,8 @@ third_nav_title: Our Staff
 <p>Ms Tan Yi Ler</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_yi_ler@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_ler@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -637,7 +638,8 @@ third_nav_title: Our Staff
 <p>Mdm Senthilnathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Senthilnathan_Sudhamathi_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">senthilnathan_sudhamathi_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -895,10 +897,11 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zainah</p>
+<p>Mdm Zainah Lajam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Zainah_Sh_Abdullah_Lajam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zainah_sh_abdullah_lajam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1023,10 +1026,11 @@ third_nav_title: Our Staff
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siva</p>
+<p>Mr Selvanayagam Sivalingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:selvanayagam_sivalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selvanayagam_sivalingam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
