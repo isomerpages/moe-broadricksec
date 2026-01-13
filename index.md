@@ -33,6 +33,13 @@ sections:
       subtitle: "Vision: A Choice School Providing Holistic Education  || Mission:
         Nurturing Broadricians to be Future-Ready Learners with Strength of
         Character"
+  - infobar:
+      title: Secondary One Blended Learning Day
+      subtitle: Important Update
+      id: infobar
+      description: As announced on Parents Gateway on 12 Jan, Sec 1 students are to
+        remain at home on BL Days. BL is on even-week Fridays in Term 1,
+        starting 16 Jan 2026.
   - announcements:
       title: Announcements
       id: announcements
@@ -72,17 +79,6 @@ sections:
           link_text: Click to view our Open House Pamphlet
           link_url: https://online.flippingbook.com/view/250177530/
       subtitle: STAY UPDATED WITH
-  - infopic:
-      title: Secondary 1 Registration Matters
-      subtitle: 19 December 2025
-      id: infopic
-      description: Find key information on Secondary 1 registration, posting updates,
-        orientation, and next steps as your child begins their Broadrick journey
-        in 2026.
-      button: CLICK HERE
-      url: https://www.broadricksec.moe.edu.sg/secondary-1-registration-2026/
-      image: /images/2025/smiling.jpg
-      alt: Image alt text
   - infopic:
       title: Keep up with our School Activities on Instagram!
       id: infopic
