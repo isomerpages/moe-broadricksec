@@ -11,7 +11,7 @@ notification: "✨ Be Future-Ready. Be Values-Driven. Be a Broadrician✨ Follow
   #havefunwhiledoinggood #2:168"
 sections:
   - hero:
-      background: /images/background2.jpg
+      background: /images/Untitled_design__2_.gif
       variant: floating
       backgroundColor: gray
       title: Welcome to Broadrick Secondary School
