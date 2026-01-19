@@ -20,7 +20,7 @@ sections:
       key_highlights:
         - title: 2026 STUDENT HANDBOOK
           description: CLICK HERE
-          url: https://online.flippingbook.com/view/699914784/
+          url: https://heyzine.com/flip-book/1d9d3ca78d.html
         - title: 2026 Class Timetable and Classroom Allocation
           description: CLICK HERE
           url: https://www.broadricksec.moe.edu.sg/links/students/2026-class-time-table/
