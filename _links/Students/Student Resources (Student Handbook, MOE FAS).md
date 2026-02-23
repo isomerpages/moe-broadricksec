@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Students
 ---
 <h3><strong>Student Handbook 2026</strong></h3>
-<p><a href="https://heyzine.com/flip-book/1d9d3ca78d.html" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="https://heyzine.com/flip-book/87100a7f45.html" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <h3><strong>Financial Assistance</strong></h3>
 <p><strong>Financial Assistance Scheme (FAS)</strong>
