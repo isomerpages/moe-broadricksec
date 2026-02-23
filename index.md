@@ -57,7 +57,7 @@ sections:
             the school has created its third e-student handbook.     Students
             can download a copy by clicking the link below.
           link_text: Click to view our e-Student Handbook
-          link_url: https://online.flippingbook.com/view/699914784/
+          link_url: https://heyzine.com/flip-book/87100a7f45.html
         - title: 2026 Class Timetable and Classroom Allocation
           date: 31 December 2025
           announcement: The 2026 Class Timetable and Classroom Allocation are now
