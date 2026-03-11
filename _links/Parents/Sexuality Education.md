@@ -76,7 +76,7 @@ a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p>At Broadrick Secondary School, the following Sexuality Education lessons
-will be taught in 2024:</p>
+will be taught in 2026:</p>
 <h5>Secondary 1</h5>
 <table style="minWidth: 125px">
 <colgroup>
