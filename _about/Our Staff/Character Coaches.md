@@ -128,7 +128,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,15 +146,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_siew_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_siew_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Triston Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:triston_ng_jun_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">triston_ng_jun_kai_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -550,7 +541,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -567,15 +558,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_wai_zin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wai_zin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shena Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shena_tan_qing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shena_tan_qing_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -734,7 +716,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -752,15 +734,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yuan_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_yuan_ching@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Valerie Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_xin_ying_valerie_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_ying_valerie_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
