@@ -401,10 +401,10 @@ third_nav_title: Our Staff
 <p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Zhizhi Ember</p>
+<p>Mr Seow Yongzhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_sock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhizhi@moe.edu.sg</a>
+<p><a href="mailto:seow_yongzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_yongzhi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
