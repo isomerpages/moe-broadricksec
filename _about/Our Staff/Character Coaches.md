@@ -47,10 +47,10 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seow Yongzhi</p>
+<p>Mr Mohammed Riffaii Maidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_yongzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_yongzhi@moe.edu.sg</a>
+<p><a href="mailto:mohammed_riffaii_maidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_riffaii_maidin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
