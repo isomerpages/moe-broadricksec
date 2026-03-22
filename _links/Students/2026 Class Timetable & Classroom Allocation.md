@@ -11,17 +11,17 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation.png">
 </div>
 <h3><strong>2026 Semester 1 Timetable</strong></h3>
-<p><em>updated: 31/12/2025</em>
+<p><em>updated: 23/03/2026 for Term 2</em>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Classes_Sec1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Sem 1</a>
+<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 - Term 2</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Classes_Sec2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Sem 1</a>
+<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 2 - Term 2</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Classes_Sec3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Sem 1</a>
+<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 3 - Term 2</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Classes_Sec4.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 Sem 1</a>
+<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 4 - Term 2</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Classes_Sec5.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 5 Sem 1</a>
+<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 5 - Term 2</a>
 </p>
 <p>The image below provides additional information to help students understand
 the timetable.</p>
