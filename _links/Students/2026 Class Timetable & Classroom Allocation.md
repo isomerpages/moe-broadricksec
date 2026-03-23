@@ -6,7 +6,6 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3><strong>2026 Semester 1 Classroom Allocation</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom_Allocation.png">
 </div>
@@ -15,9 +14,9 @@ variant: tiptap
 </p>
 <p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 - Term 2</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 2 - Term 2</a>
+<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2_Classes_24_Mar_1_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 2 - Term 2</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 3 - Term 2</a>
+<p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2_Classes_24_Mar_1_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 3 - Term 2</a>
 </p>
 <p><a href="/files/Time Table/2026/2026_SEM1_FINAL_Term_2__Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 4 - Term 2</a>
 </p>
