@@ -5,11 +5,10 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<p><strong><em>To download, right-click on the file and choose Save Target As or Save Link As</em></strong> 
-<br>
+<p><strong><em>To download, right-click on the file and choose Save Target As or Save Link As</em></strong>
 </p>
-<p><a href="/files/LETTER TO PARENTS/2026_Term_1_Letter_to_Parents__2_.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents</a>
-</p>
+<h3><a href="/files/LETTER TO PARENTS/Term_2_2026_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Term 2 Letter to Parents<br></a></h3>
+<h3><a href="/files/LETTER TO PARENTS/2026_Term_1_Letter_to_Parents__2_.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents</a></h3>
 <h4><strong>Addendum to Term 1 Letter To Parents - Students to Remain at Home</strong></h4>
 <blockquote>
 <p><strong><em>Dear Parents/Guardians of Secondary One Students</em></strong>
