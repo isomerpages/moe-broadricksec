@@ -44,6 +44,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Term 2 Letter to Parents
+          date: 25 March 2026
+          announcement: The Term 2 Letter to Parents/Guardians is now available for your
+            reference. It provides important information on key school
+            programmes, schedules, and updates for the term.
+          link_text: Click Here
+          link_url: https://www.broadricksec.moe.edu.sg/links/parents/letters-to-parents/
         - title: Important Information on the Personal Learning Device (PLD)
           date: 05 January 2026
           announcement: Parents/guardians are encouraged to visit the PLD page
@@ -71,13 +78,6 @@ sections:
             discover how to choose the right secondary school for your child.
           link_text: Click Here to Reserve your Seat
           link_url: https://docs.google.com/forms/d/e/1FAIpQLSdPYeQwx-UoAKccB1VcEZ8IfTCVloNY0X8ZPBaeRQ6r_1UxoQ/viewform
-        - title: 2025 Open House (22 November)
-          date: 15 November 2025
-          announcement: At Broadrick, we grow character, confidence, and curiosity. Come
-            see how we learn and lead with GRC. Open House — 22 Nov 2025 (9:00
-            am - 12:00 pm)
-          link_text: Click to view our Open House Pamphlet
-          link_url: https://online.flippingbook.com/view/250177530/
       subtitle: STAY UPDATED WITH
   - infopic:
       title: Keep up with our School Activities on Instagram!
