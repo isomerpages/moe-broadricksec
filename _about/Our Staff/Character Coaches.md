@@ -401,10 +401,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ma Funing</p>
+<p>Ms Ember Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ma_funing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ma_funing@moe.edu.sg</a>
+<p><a href="mailto:chen_zhizhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhizhi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
