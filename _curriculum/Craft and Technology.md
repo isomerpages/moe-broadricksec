@@ -114,6 +114,18 @@ meaningful engagement with art</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
+<p><strong>Learning Journeys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Trips to the National Gallery and National Museum</p>
+</li>
+<li>
+<p>Visit to exhibitions
+<br>
+</p>
+</li>
+</ul>
 <p><strong>Enrichment Programme on Digital Arts</strong>
 </p>
 <ul data-tight="true" class="tight">
