@@ -15,16 +15,19 @@ to enjoy a lifetime of active living.&nbsp;</p>
 <img style="width: 100%" height="89px;" width="647px;" src="https://lh7-us.googleusercontent.com/slidesz/AGV_vUci07TclT4wuB4EgSZ8NMmhEPg0QS-xBxMazl0Ai0DXdrq6ptar3Ok-I0KlIbaE93dQhH3smfy7M3mwc6LGYzAIPowzCgsbXkqAS--NQMZ1i1OlP_xIuXcKIeTfKomJFIqXinKdbinV596nA7Fn-gWO-X3FBiQ6=s2048?key=zsTXGgVDWAc4aZ25hKfEgg">
 </div>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>Health Run&nbsp;</strong>
+<p><strong>2026 GRC Health Run @The Kallang - 24 April 2026</strong>
 </p>
+<p></p>
 <p><strong>Outdoor Education&nbsp;</strong>
 </p>
 <ul>
 <li>
-<p>Sec 1 - 4D3N Adventure camp at OALC</p>
+<p>Sec 1 - 4D3N Residential Outdoor Adventure Learning Camp at Loyang CSC
+(18 - 21 May 2026)</p>
 </li>
 <li>
-<p>Sec 3 - 5D4N Outward Bound Singapore Programme&nbsp;</p>
+<p>Sec 3 - 4D3N Residential Outdoor Adventure Learning Camp at Changi CSC
+(18 - 21 May 2026)</p>
 <p></p>
 <p><strong>Student-Initiated Learning (SIL)&nbsp;</strong>
 </p>
@@ -32,7 +35,16 @@ to enjoy a lifetime of active living.&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>Students can play sports such as Cricket, Floorball and Touch Rugby.</p>
+<p>Students can participate in activities such as Football, Floorball, Badminton,
+Touch Rugby and Robotics (on non-CCA days or if it does not clash with
+their CCA activities)</p>
+<p></p>
+<p><strong>Schedule for SIL (from 3:15 pm to 5:15 pm ):</strong>
+</p>
+<p>Mondays - Robotics (only for students who do not have CCAs on Mondays)</p>
+<p>Tuesdays - Badminton, Football and Touch Rugby</p>
+<p>Thursdays - Badminton, Football and Floorball</p>
+<p></p>
 <p></p>
 <p><strong>Sports Carnival</strong>
 </p>
