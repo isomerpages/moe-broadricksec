@@ -18,7 +18,8 @@ the National School Games (NSG).</p>
 and maintain good CCA attendance and academic standing.</p>
 <p>
 <br><strong>Teacher-in-charge</strong>: Mr Loh Shunheng Gideon (ST/ Physical
-Education)</p>
+Education) and Mr Mohammed Riffaii Maidin (SH / Student Management)</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,8 +44,9 @@ Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
-<p>School Hall</p>
+<p><strong>Tuesdays and Thursdays</strong>
+</p>
+<p>Indoor Sports Hall Level 3 (ISH) and School Hall</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +59,9 @@ Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
-<p>Indoor Sports Hall (ISH)</p>
+<p><strong>Tuesdays</strong>
+</p>
+<p>Indoor Sports Hall Level 1 (ISH)</p>
 </td>
 </tr>
 <tr>
@@ -71,8 +74,9 @@ Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
-<p>Indoor Sports Hall (ISH)</p>
+<p><strong>Thursdays</strong>
+</p>
+<p>Indoor Sports Hall Lvl 3 (ISH)</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +89,8 @@ Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p><strong>Tuesdays and Thursdays</strong>
+</p>
 <p>School Field</p>
 </td>
 </tr>
