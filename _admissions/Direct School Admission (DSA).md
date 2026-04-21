@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Direct School Admission – Secondary (DSA-Sec) Exercise</strong></h3>
-<h4><strong>For Secondary 1 Admission in 2026: CCA, ALP STEM &amp; LLP</strong></h4>
+<h4><strong>For Secondary 1 Admission in 2026: CCA &amp; LLP</strong></h4>
 <hr>
 <blockquote>
 <ol data-tight="true" class="tight">
@@ -156,73 +156,6 @@ recognised competitions</p>
 <hr>
 <blockquote>
 <ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Applied Learning Programme (ALP) in Science, Technology, Engineering, and Mathematics (STEM)</strong>
-</p>
-</li>
-</ol>
-</blockquote>
-<p>Our Applied Learning Programme (ALP) nurtures scientific inquiry and innovative
-thinking through our comprehensive STEM initiative. The programme develops
-students into inquisitive leaders who apply critical and creative thinking
-to real-world challenges. Through hands-on experimentation and project-based
-learning, students explore complex concepts in Science, Technology, Engineering,
-and Mathematics (STEM) to develop innovative solutions for pressing global
-issues, particularly in energy and sustainability. This approach empowers
-students to become forward-thinking problem-solvers who can analyse, design,
-and implement practical STEM solutions while developing a deep understanding
-of scientific principles and technological applications.</p>
-<p>&nbsp;Our Applied Learning Programme (ALP) is closely aligned with the
-school's vision of nurturing future-ready learners with strength of character
-and scientific aptitude. Through authentic STEM-based learning experiences,
-students develop advanced analytical and problem-solving capabilities while
-engaging in scientific inquiry and coding projects Working collaboratively
-on real-world projects, students apply design thinking principles to address
-challenges in renewable energy and sustainable living. This hands-on approach
-cultivates their technical expertise and innovative mindset, preparing
-them to become change-makers in the fields of science, technology, engineering,
-and mathematics.</p>
-<p><strong>We have vacancies for up to 20% of our Secondary 1 cohort in 2026 to apply to join our school through the Direct School Admission (DSA) process through the talent area of STEM</strong>
-</p>
-<p><strong><u>Criteria</u></strong>
-</p>
-<p>Applicants <strong><u>must be involved</u></strong> in STEM related projects
-or programmes in or outside their primary school.
-<br>• Must show keen interest and commitment for areas related to science,
-technology and mathematics.
-<br>• Exhibit aptitude in creativity and STEM.
-<br>• Demonstrates initiative, leadership qualities and/ or sense of responsibility.
-<br>• Must be in Primary 6 at the point of application or equivalent (international
-students).
-<br>
-</p>
-<p><strong><u>Selection Process</u></strong><u> </u>
-<br>Factors considered by school:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Participation in areas of talent</p>
-</li>
-<li>
-<p>Performance in interview (Shortlisted candidates will be interviewed in
-August 2025)</p>
-</li>
-</ul>
-<p><strong><u>Key Dates</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Short-listed candidates will be informed by 11 July 2025.</p>
-</li>
-<li>
-<p>Short-listed candidates will be interviewed on 18 July 2025.</p>
-</li>
-<li>
-<p>All applicants will be informed of the results of their application (Confirmed
-/ Waiting List / Rejected) by 04 September 2025.</p>
-</li>
-</ul>
-<blockquote>
-<ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Learning For Life Programme (LLP)</strong>
 </p>
