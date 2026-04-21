@@ -185,7 +185,7 @@ the community.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DEPT/C&amp;T/Art_Gratitude.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -197,7 +197,7 @@ walls.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DEPT/C&amp;T/Art_Respect.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -208,7 +208,7 @@ walls.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art11.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DEPT/C&amp;T/Art_Compassion.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
