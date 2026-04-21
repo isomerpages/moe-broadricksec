@@ -42,8 +42,8 @@ their CCA activities)</p>
 <p><strong>Schedule for SIL (from 3:15 pm to 5:15 pm ):</strong>
 </p>
 <p>Mondays - Robotics (only for students who do not have CCAs on Mondays)</p>
-<p>Tuesdays - Badminton, Football and Touch Rugby</p>
-<p>Thursdays - Badminton, Football and Floorball</p>
+<p>Tuesdays - Badminton, Football, and Touch Rugby</p>
+<p>Thursdays - Badminton, Football, and Floorball</p>
 <p></p>
 <p></p>
 <p><strong>Sports Carnival</strong>
