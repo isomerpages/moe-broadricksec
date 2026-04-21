@@ -28,28 +28,31 @@ to enjoy a lifetime of active living.&nbsp;</p>
 <li>
 <p>Sec 3 - 4D3N Residential Outdoor Adventure Learning Camp at Changi CSC
 (18 - 21 May 2026)</p>
-<p></p>
-<p><strong>Student-Initiated Learning (SIL)&nbsp;</strong>
-</p>
 </li>
 </ul>
-<ul>
-<li>
-<p>Students can participate in activities such as Football, Floorball, Badminton,
+<p></p>
+<p><strong>Student-Initiated Learning (SIL)&nbsp;</strong>
+<br>Students can participate in activities such as Football, Floorball, Badminton,
 Touch Rugby and Robotics (on non-CCA days or if it does not clash with
 their CCA activities)</p>
 <p></p>
 <p><strong>Schedule for SIL (from 3:15 pm to 5:15 pm ):</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mondays - Robotics (only for students who do not have CCAs on Mondays)</p>
+</li>
+<li>
 <p>Tuesdays - Badminton, Football, and Touch Rugby</p>
+</li>
+<li>
 <p>Thursdays - Badminton, Football, and Floorball</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p><strong>Sports Carnival</strong>
 </p>
-</li>
-</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
