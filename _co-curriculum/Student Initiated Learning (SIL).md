@@ -94,6 +94,17 @@ Education) and Mr Mohammed Riffaii Maidin (SH / Student Management)</p>
 <p>School Field</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Robotics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mondays</strong>
+</p>
+<p>C03-01/02</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
