@@ -7,35 +7,27 @@ description: ""
 <h3><strong>Our Objectives</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>To develop students into creative thinkers and effective problem-solvers</p>
+<p>To develop in students the critical mathematical processes such as problem-solving,
+reasoning, communication and modelling to help develop 21st century competencies
+(CAIT).</p>
+</li>
+<li>
+<p>To infuse joy of learning and build confidence in students.</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>Secondary One: Sudoku Enrichment and Digital Literacy</strong>
+<p><strong>Secondary One: Digital Literacy</strong>
 </p>
 <ul>
 <li>
-<p>Fosters logical thinking and problem-solving skills through engaging activities.</p>
-</li>
-<li>
-<p>Equips students with essential spreadsheet skills to support future academic
-and personal tasks.</p>
-</li>
-</ul>
-<p><strong>Secondary Two: Mathletics Learning Journey</strong>&nbsp;</p>
-<ul>
-<li>
-<p>Encourages students to connect mathematical concepts within and across
-subjects in real-world contexts.</p>
-</li>
-<li>
-<p>Students work in teams to complete a series of hands-on, collaborative
-tasks.</p>
+<p>Equips students with essential digital literacy skills to support future
+academic and personal tasks.</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Secondary Three: Math Discovery Day&nbsp;</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Provides students with deeper insight into the real-world applications
 of mathematics.</p>
@@ -43,7 +35,20 @@ of mathematics.</p>
 <li>
 <p>Enhances appreciation for the relevance and importance of mathematics
 in everyday life.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Termly Math Quest&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Encourages students to connect mathematical concepts within and across
+subjects in real-world contexts.</p>
+</li>
+<li>
+<p>Students work to complete a series of interesting tasks and puzzles.</p>
 <p>
+<br>
 <br><strong>Math Talent Programme</strong>
 </p>
 </li>
@@ -57,6 +62,7 @@ curriculum.</p>
 <li>
 <p>Participants may take part in competitions such as the Singapore Mathematical
 Olympiad (SMO) and the Singapore and Asian Schools Math Olympiad (SASMO).</p>
+<p></p>
 </li>
 </ul>
 <h3><strong>Our Achievements</strong></h3>
