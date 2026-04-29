@@ -114,31 +114,19 @@ meaningful engagement with art</p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>Enrichment Programme on Digital Arts</strong>
+<p><strong>Learning Journeys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Foster creativity and technical proficiency through guided instruction
-and hands-on exploration</p>
+<p>Trips to the National Gallery and National Museum</p>
 </li>
 <li>
-<p>Develop a strong understanding of contemporary digital art tools via Broadrick
-Secondary School's enrichment program</p>
-<p></p>
-<p><strong>Sec 4: Learning Journey to NAFA &amp; National Gallery&nbsp;</strong>
+<p>Visit to exhibitions
+<br>
 </p>
 </li>
 </ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Part of the Upper Secondary art history and contemporary artistic practices
-curriculum</p>
-</li>
-<li>
-<p>Includes a museum trip to NAFA and the National Gallery</p>
-</li>
-</ul>
-<p><strong>Lower Sec:&nbsp; Collaboration Art x Humanities @ The Straits Gallery</strong>
+<p><strong>Lower Sec:&nbsp; Collaboration Art x Humanities @ Chinatown Heritage Centre</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -150,10 +138,12 @@ interdisciplinary inquiry combining art and academics</p>
 connections between artistic expression and scholarly study</p>
 </li>
 <li>
-<p>Reflects the school’s commitment to holistic education</p>
+<p>Reflects the school’s commitment to holistic education
+<br>
+</p>
 </li>
 </ul>
-<p><strong>Singapore Youth Festival 2024</strong>
+<p><strong>Singapore Youth Festival</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -176,12 +166,26 @@ with the Mountbatten Citizens' Consultative Committee (CCC)</p>
 <p>Selected artworks will be displayed at the Pedestrian Overhead Bridge
 (POB) across Old Airport Road</p>
 </li>
+<li>
+<p>To cultivate gratitude by encouraging students to use art to appreciate
+and honour the contributions, stories, and experiences of community members.</p>
+</li>
+<li>
+<p>To promote respect by guiding students to create artworks that are inclusive,
+culturally sensitive, and reflective of the diverse backgrounds within
+the community.</p>
+</li>
+<li>
+<p>To develop compassion by engaging students in art-making processes that
+respond thoughtfully to the needs of others and aim to uplift and support
+the community.</p>
+</li>
 </ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DEPT/C&amp;T/Art_Gratitude.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -193,7 +197,7 @@ walls.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DEPT/C&amp;T/Art_Respect.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -204,7 +208,7 @@ walls.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/art11.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DEPT/C&amp;T/Art_Compassion.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

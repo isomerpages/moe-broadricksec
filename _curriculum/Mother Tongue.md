@@ -9,13 +9,10 @@ description: ""
 <li>
 <p>Cultivate joyful and meaningful language learning to develop confident
 communicators.</p>
-</li>
-<li>
 <p>Deepen students' appreciation of their cultural heritage through engaging
 experiences.</p>
-</li>
-<li>
 <p>Build strong language foundations using a three-tiered developmental approach.</p>
+<p></p>
 </li>
 </ul>
 <h3><strong>Our Programmes</strong></h3>
@@ -90,7 +87,6 @@ experiences.</p>
 <p>National Chinese Challenge&nbsp; 全国华文大比拼</p>
 <p></p>
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -106,7 +102,6 @@ experiences.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National Chinese Riddle Competition 年全国中学生灯谜比赛</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4th Position / Merit Award (Group) – 3 recipients</p>
@@ -181,11 +176,9 @@ Competition</p>
 <p>The Seventh National Secondary Schools Chinese Mini Fiction Creative Writing
 Competition</p>
 <p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Gold Award：1 recipients&nbsp;&nbsp;</p>
 </li>
