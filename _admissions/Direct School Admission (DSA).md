@@ -216,7 +216,7 @@ share with us their experiences in community service and portfolio if any.</p>
 <p></p>
 <blockquote>
 <p><strong>Centralised DSA-Sec Application Process</strong> 
-<br><em>All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11:00 am to 3 June 2025, 3:00 pm.</em>
+<br><em>All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. The application is free-of-charge and will be open from 6 May 2026, 11:00 am to 2 June 2026, 4:30 pm.</em>
 </p>
 </blockquote>
 <p><strong><u>Application Procedure</u></strong>
