@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Direct School Admission – Secondary (DSA-Sec) Exercise</strong></h3>
-<h4><strong>For Secondary 1 Admission in 2026: CCA &amp; LLP</strong></h4>
+<h4><strong>For Secondary 1 Admission in 2027</strong></h4>
 <hr>
 <blockquote>
 <ol data-tight="true" class="tight">
@@ -245,12 +245,12 @@ more details.</p>
 <p>Application forms that are sent through fax or email will not be considered.</p>
 </li>
 <li>
-<p>All applicants will be informed of their application outcome between 25
-August and 4 September 2025<strong>.</strong>
+<p>All applicants will be informed of their application outcome between 17
+August and 28 September 2026<strong>.</strong>
 </p>
 </li>
 <li>
-<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>30 June 2025</strong>&nbsp;and&nbsp;<strong>4 September 2025</strong>.</p>
+<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>30 June 2026</strong>&nbsp;and&nbsp;<strong>4 September 2026</strong>.</p>
 </li>
 <li>
 <p>For more details, please refer to MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
