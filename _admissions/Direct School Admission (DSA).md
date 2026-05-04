@@ -224,7 +224,8 @@ share with us their experiences in community service and portfolio if any.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If students are from MOE mainstream primary schools, one parent may log
-in directly to DSA-Sec Portal. Only one parent’s Singpass is required.</p>
+in directly to <a href="https://go.gov.sg/dsa-sec-application" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
+Only one parent’s Singpass is required.</p>
 </li>
 <li>
 <p>Parents/guardians who are unable to apply online can approach their child’s
