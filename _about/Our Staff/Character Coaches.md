@@ -878,7 +878,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Humanities</p>
 <p></p>
 </td>
@@ -906,6 +906,15 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_men_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_men_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Susan Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_susan_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_susan_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
