@@ -16,7 +16,7 @@ variant: tiptap
 </ol>
 </blockquote>
 <p>As a part of the Direct School Admission – Secondary (DSA-Sec) Exercise
-2025, we are pleased to share that we will be admitting current Primary
+2026, we are pleased to share that we will be admitting current Primary
 6 students who possess exceptional interest and talent in the following
 areas:</p>
 <ul data-tight="true" class="tight">
