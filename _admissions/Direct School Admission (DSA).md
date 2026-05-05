@@ -247,11 +247,11 @@ more details.</p>
 </li>
 <li>
 <p>All applicants will be informed of their application outcome between 17
-August and 28 September 2026<strong>.</strong>
+August and 28 August 2026<strong>.</strong>
 </p>
 </li>
 <li>
-<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>30 June 2026</strong>&nbsp;and&nbsp;<strong>4 September 2026</strong>.</p>
+<p>Shortlisted applicants will be required to attend an <strong>in-person interview and trial/audition </strong>between&nbsp;<strong>30 June 2026</strong>&nbsp;and&nbsp;<strong>28 August 2026</strong>.</p>
 </li>
 <li>
 <p>For more details, please refer to MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
