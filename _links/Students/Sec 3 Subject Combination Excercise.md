@@ -25,7 +25,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 9/10</p>
-<p>18 May – 26 May</p>
+<p><strong>18 May – 26 May</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Offering Registration Exercise I</p>
@@ -34,7 +35,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
-<p>3 July</p>
+<p><strong>3 July</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of Subject Offering Results</p>
@@ -43,7 +45,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Term 4 Week 6</p>
-<p>19 Oct to 21 Oct</p>
+<p><strong>19 Oct to 21 Oct</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Offering Registration II
@@ -53,7 +56,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Term 4 Week 8</p>
-<p>5 Nov</p>
+<p><strong>5 Nov</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Confirmation of Subject Offering Results</p>
@@ -68,7 +72,7 @@ be sent to your icon email.</p>
 <p>You can view the information on subject offering and subject talks through
 this link <a href="https://for.edu.sg/2027sec3subjectoffering" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2027sec3subjectoffering</a>
 </p>
-<p><strong>For enquiries, please contact: </strong>
+<p><strong>For enquiries, please contact:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
