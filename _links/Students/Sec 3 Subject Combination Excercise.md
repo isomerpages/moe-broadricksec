@@ -6,6 +6,7 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h3>2027 Secondary 3 Subject Offering Registration Exercise</h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -85,4 +86,5 @@ this link <a href="https://for.edu.sg/2027sec3subjectoffering" rel="noopener nor
 <p>HOD Math / Ms. Jermaine Tan (<a href="mailto:tan_li_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_qin@moe.edu.sg</a>)</p>
 </li>
 </ul>
+<p></p>
 <p></p>
