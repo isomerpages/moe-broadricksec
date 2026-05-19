@@ -1,6 +1,6 @@
 ---
-title: Sec 3 Subject Combination Excercise
-permalink: /links/Students/permalink/
+title: Sec 3 Subject Combination Exercise
+permalink: /links/students/sec3subject/
 description: ""
 third_nav_title: Students
 variant: tiptap
