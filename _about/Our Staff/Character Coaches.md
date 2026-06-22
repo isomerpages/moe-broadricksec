@@ -55,7 +55,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,15 +73,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeow_boon_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_boon_gek@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hannah Estelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hannah_estelle_lao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannah_estelle_lao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -120,10 +111,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Si Hui</p>
+<p>Ms Hannah Estelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_sihui@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_sihui@moe.edu.sg</a>
+<p><a href="mailto:hannah_estelle_lao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannah_estelle_lao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -338,15 +329,16 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kang Yi Long</p>
+<p>Mrs Yoong Jin Ing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kang_yi_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang_yi_long@moe.edu.sg</a>
+<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -363,6 +355,15 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_nur_hafizah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_nur_hafizah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jayletchimi d/o Ramasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jayletchimi_ramasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayletchimi_ramasamy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -604,7 +605,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -612,6 +613,15 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia-fong_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-fong_hoong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Li Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_li_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -878,7 +888,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Humanities</p>
 <p></p>
 </td>
@@ -910,16 +920,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Susan Poh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_susan_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_susan_c@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mathematics</p>
 <p></p>
 <p></p>
@@ -951,15 +952,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_pheck_leng_jude@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pheck_leng_jude@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Esther Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_lek_ong_esther_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lek_ong_esther_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1004,9 +996,18 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Physical Education</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Min Thong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_min_thong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_min_thong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Selvanayagam Sivalingam</p>
 </td>
