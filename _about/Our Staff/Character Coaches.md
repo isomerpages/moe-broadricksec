@@ -42,9 +42,10 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>AYH</strong>
 </p>
+<p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Riffaii Maidin</p>
@@ -55,9 +56,6 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>1A</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Ngerng Xiulin Chrystal</p>
 </td>
@@ -73,6 +71,15 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeow_boon_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_boon_gek@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hannah Estelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hannah_estelle_lao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannah_estelle_lao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -111,11 +118,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hannah Estelle</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hannah_estelle_lao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannah_estelle_lao@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -329,11 +335,9 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yoong Jin Ing</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
@@ -605,7 +609,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -613,15 +617,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia-fong_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-fong_hoong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Li Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_li_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
