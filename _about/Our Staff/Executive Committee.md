@@ -287,6 +287,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loo Puay Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loo_puay_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_puay_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH CCE</p>
 </td>
 <td rowspan="1" colspan="1">
