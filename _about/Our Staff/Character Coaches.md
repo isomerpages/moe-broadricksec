@@ -327,10 +327,11 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Yoong Jin Ing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chu_jin_ing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_jin_ing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
