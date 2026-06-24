@@ -42,7 +42,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>AYH</strong>
 </p>
 <p>1A</p>
@@ -71,15 +71,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeow_boon_gek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_boon_gek@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hannah Estelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hannah_estelle_lao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannah_estelle_lao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -118,10 +109,11 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Hannah Estelle Lao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hannah_estelle_lao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannah_estelle_lao@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -364,11 +356,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jayletchimi d/o Ramasamy</p>
+<p>Ms Wang Yan Rou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jayletchimi_ramasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayletchimi_ramasamy@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
