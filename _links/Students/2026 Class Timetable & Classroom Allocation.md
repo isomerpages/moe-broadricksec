@@ -28,13 +28,13 @@ variant: tiptap
 </p>
 <p><a href="/files/Time Table/2026/2026_SEM2_S1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 - Term 3</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM2_S2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 - Term 3</a>
+<p><a href="/files/Time Table/2026/2026_SEM_2_S2_v2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 - Term 3</a>
 </p>
 <p><a href="/files/Time Table/2026/2026_SEM2_MASTER_Classes_v3__only_Sec_3_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 - Term 3</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM2_MASTER_S4.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 - Term 3</a>
+<p><a href="/files/Time Table/2026/2026_SEM_2_S4_v2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 - Term 3</a>
 </p>
-<p><a href="/files/Time Table/2026/2026_SEM2_S5.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 5 - Term 3</a>
+<p><a href="/files/Time Table/2026/2026_SEM_2_S5_v2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 5 - Term 3</a>
 </p>
 <p></p>
 <p>The image below provides additional information to help students understand
