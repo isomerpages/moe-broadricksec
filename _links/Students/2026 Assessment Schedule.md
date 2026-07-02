@@ -9,7 +9,9 @@ variant: tiptap
 <p>Please refer to the school calendar on Parents Gateway (PG).</p>
 <hr>
 <h3><strong>Preliminary Examinations</strong></h3>
-<p><a href="/files/Time Table/2026/2026_N_Level_Prelim_Exam_Timetable_V2.pdf" rel="noopener nofollow" target="_blank">2026 N Level Prelims Exam Timetable</a>
+<p><a href="/files/Assessment/2026_N_Level_Prelim_Exam_Timetable_V3.pdf" rel="noopener nofollow" target="_blank">2026 N Level Prelims Exam Timetable</a>
+</p>
+<p><a href="/files/Assessment/2026_O_Level_Prelim_Exam_Timetable_V2.pdf" rel="noopener nofollow" target="_blank">2026 O Level Prelims Exam Timetable</a>
 </p>
 <hr>
 <h3><strong>End-of-Year (EOY) Examinations</strong></h3>
