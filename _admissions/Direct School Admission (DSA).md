@@ -246,8 +246,10 @@ more details.</p>
 <p>Application forms that are sent through fax or email will not be considered.</p>
 </li>
 <li>
-<p>All applicants will be informed of their application outcome between 17
-August and 28 August 2026<strong>.</strong>
+<p>You will receive notification from the school by <strong>4th Aug 2026</strong>,
+if your child has been shortlisted to undergo Direct School Admission (DSA)
+selection.&nbsp;All applicants will be informed of their application outcome
+between 17 August and 28 August 2026<strong>.</strong>
 </p>
 </li>
 <li>
