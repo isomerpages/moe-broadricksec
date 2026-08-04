@@ -44,5 +44,9 @@ service, and growth—written together, guided always by <strong>gratitude, resp
 <p>May 2026 be a year where we continue to build, uplift, and inspire together.</p>
 <p>Mr Ng Tiong Nam</p>
 <p>Principal</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/08GwLS9xOQE?si=edn0HMjuQigezCO3"></iframe>
+</div>
 <hr>
 <p></p>
